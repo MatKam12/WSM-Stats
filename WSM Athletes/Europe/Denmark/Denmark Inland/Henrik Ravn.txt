@@ -1,0 +1,149 @@
+Henrik Ravn
+
+Height - 1,82m
+
+Weight - 123 kg
+
+Born - 1968
+
+
+- First A -  25 (1993)
+
+- Last A - 26 (1994)
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 7th in Finals
+
+- FA% - 50,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 26,00
+
+- CP% - 18,06
+
+- CGP - 3,00
+
+- CGP% - 18,75
+
+- CFP - 23,00
+
+- CFP% - 17,97
+
+
+
+- CHP - 23,00 (1993)
+
+- CHP% - 35,93 (1993)
+
+- CLP - 3,00 (1994)
+
+- CHFP - 23,00 (1993)
+
+- CHFP% - 35,93 (1993)
+
+- CLFP - 23,00 (1993)
+
+- CHGP - 3,00 (1994)
+
+- CHGP% - 18,75 (1994)
+
+- CLGP - 3,00 (1994)
+
+
+
+- EC - 10
+
+- GEC - 2
+
+- FEC - 8
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 2
+
+- WGE - 2
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 2,60
+
+- PPFE - 2,88
+
+- PPGE - 1,50
+
+- CHPPE - 2,88 (1993)
+
+- CLPPE - 1,50 (1994)
+
+- CHPPFE - 2,88 (1993)
+
+- CLPPFE - 2,88 (1993)
+
+- CHPPGE - 1,50 (1994)
+
+- CLPPGE - 1,50 (1994)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

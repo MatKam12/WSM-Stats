@@ -1,0 +1,153 @@
+Aap Uspenski
+
+Height - 1,88 m
+
+Weight - 111 kg
+
+Born - 1966-07-17
+
+
+- First A - 24 yrs, 1 m, & 1 d (1990)
+
+- First FA - 24 yrs, 1 m, & 1 d (1990)
+
+- Last A - 24 yrs, 1 m, & 1 d (1990)
+
+- Last FA - 24 yrs, 1 m, & 1 d (1990)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 8th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 25,50
+
+- CP% - 39,84
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 25,50
+
+- CFP% - 39,84
+
+
+
+- CHP - 25,50 (1990)
+
+- CHP% - 39,84 (1990)
+
+- CLP - 25,50 (1990)
+
+- CHFP - 25,50 (1990)
+
+- CHFP% - 39,84 (1990)
+
+- CLFP - 25,50 (1990)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 8
+
+- GEC - 0
+
+- FEC - 8
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,19
+
+- PPFE - 0,00
+
+- PPGE - 3,19
+
+- CHPPE - 3,19 (1990)
+
+- CLPPE - 3,19 (1990)
+
+- CHPPFE - 3,19 (1990)
+
+- CLPPFE - 3,19 (1990)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

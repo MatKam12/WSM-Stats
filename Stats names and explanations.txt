@@ -1,0 +1,145 @@
+Height - 
+
+Weight - 
+
+Born -
+
+
+- First A - format podawany wiek [lata] [miesiace] [dni] (rok wystąpienia)
+
+- First FA - 
+
+- Last A - 
+
+- Last FA - 
+
+
+
+- A - ilość wystąpień
+
+- CA - ilość wystąpień po sobie bez przerwy (example. 2009, 2010, 2011)
+
+- FA - ilość wystąpień w finałach
+
+- CFA - ilość wystąpień po sobie bez przerwy w finałach
+
+- BF - najlepsze zajete miejsce w karierze
+
+- FA% - procent kwalifikacji do finałów
+
+- GA - ilość wystąpień w grupach
+
+- GW - ilość wygranych grup
+
+- GW% - procent wygranych grup
+
+- W% - procent wygranych (procentowa ilość wygranych ze wszystkich wystąpień)
+
+- Adj. W% - skorygowany procent wygranych (procentowa ilość wygranych ze wszystkich wystąpień [uwzględnione są tylko wysąpienia w finałach] )
+
+
+
+- CP - ilośc zdobytych punkót w karierze
+
+- CP% - procent ilości zdobytych punktów (ile procent punktów z maksymalnej mozliwej (gdyby wygral wyszystkie konkurencje)) 
+
+- CGP - ilość zdobytych punktów w karierze (w grupach)
+
+- CGP% - procent ilości zdobytych punktów (ile procent punktów z maksymalnej mozliwej w grupach (gdyby wygral wyszystkie konkurencje)) 
+
+- CFP - ilośc zdobytych punktów w karierze (w finałach)
+
+- CFP% - procent ilości zdobytych punktów (ile procent punktów z maksymalnej mozliwej w finałach (gdyby wygral wyszystkie konkurencje))
+
+
+
+- CHP - najwieksza zdobyta ilość punktów podczas jednych zawodów
+
+- CHP% - najwyzszy procent zdobytych punktow w karierze podczas jednych zawodów (np, w zawodach max punktow z finalow i grup to 100 chlop mial 50 łącznie wiec CHP% w tym roku to 50%)
+
+- CLP - odwrotnosc CHP
+
+- CHFP - to samo co CHP tyle ze zawezone do finałow
+
+- CHFP% - to samo co CHP% zawezone do finałów
+
+- CLFP - to samo co CLP tyle ze zawezone do finałow
+
+- CHGP - chyba juz ogarniasz jak to idze co? XD
+
+- CHGP% -  
+
+- CLGP - 
+
+
+
+- EC - ilosc konkurecji w ktorzych brał udział
+
+- GEC - to samo co EC tylko ze same konkurencje w grupach
+
+- FEC - to samo tyle co EC tyle ze same finaly
+
+- EW - ilosc wygranych konkurencji
+
+- EW% - procent wygranych konkurencji
+
+- GEW - wygrane konkurencje w grupach
+
+- GEW% - procent wygranych konkurencji w grupach
+
+- FEW - wygrane konkurencje w finalach
+
+- FEW% - procent konkurecji w finalach 
+
+
+
+- WE - ilosc konkurencji opuszczonych z własnej woli bądż kontucji (withdrew nw jak na polski tlumaczyc)
+
+- WGE - to same ale same grupy
+
+- WFE - to samo ale same finaly
+
+
+
+- CHEW - najeiwsza ilosc wygranych konkurencji podczas jenych zawodow
+
+- CHGEW - to samo tyle ze do grup
+
+- CHFEW - to samo tyle ze do finalow 
+
+
+
+- CHEW% - najwiekszy procent wygranych konkurencji podczas jendnych zawodow
+
+- CHGEW% - no i you know the drill i tak dalej
+
+- CHFEW% - 
+
+
+
+- PPE - ilosc punktow na konkurencje (cala kariera)
+
+- PPFE - to samo ale tylko fo finalow
+
+- PPGE - to samo ale tylko do grup
+
+- CHPPE - najwieksza ilosc punktow na konkurencje w pojedynczych zawodach
+
+- CLPPE - odwrotnosc CHPPE
+
+- CHPPFE - to samo co CHPPE ale dla finalow
+
+- CLPPFE - odwrotnosc CHPPFE 
+
+- CHPPGE - to samo co CHPPE ale dra grup
+
+- CLPPGE - odwrotnosc CHPPGE
+
+
+
+- BTBEW - ilosc wygranych konkurencji (specjalny przypadek wygrania 2 pod rzad)
+
+- BTBTBEW - to samo ale w przypadku dla wygrania 3 od rzad
+
+* jezeli zawodnik ma jedno BTBTBEW to nie licze tego jako BTBEW 
+* jezeli BTBEW/BTBTBEW jest w liczbie wiekszej niz jedno i jedno jest np w grupie a drugie w finala liczymy je na tabeli pomniejszej jako osobne dwie staty a BTBW/BTBTBEW jako ich sume 

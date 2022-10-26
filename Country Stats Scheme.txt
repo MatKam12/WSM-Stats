@@ -1,0 +1,179 @@
+- Amount of Winners:
+
+- Amount of Titles: 
+
+- Amount of 2nd Places: 
+
+- Amount of 3rd Places: 
+
+- Amount of Finalists:
+
+- Amount of Athletes: 
+
+
+
+- A: 
+
+- FA: 
+
+- FA%:  
+
+- GA:
+
+- GW: 
+
+- GW%: 
+
+- BF: 
+
+
+
+- P: 
+
+- GP: 
+
+- FP: 
+
+- % of points are from groups
+ 
+- % of points are from finals
+
+
+
+- EC: 
+
+- GEC: 
+
+- FEC: 
+
+- EW: 
+
+- EW%: 
+
+- GEW: 
+
+- GEW%: 
+
+- FEW: 
+
+- FEW%: 
+
+- W%: 
+
+- Adj. W%: 
+
+
+
+- TWE: 
+
+- TWGE:  
+
+- TWFE: 
+
+
+
+- PPC: 
+
+- PPG: 
+
+- PPF: 
+
+- PPE: 
+
+- PPGE: 
+
+- PPFE: 
+
+
+
+- BTBEW: 
+
+- BTBFEW: 
+
+- BTBGEW: 
+
+
+
+- BTBTBEW: 
+
+- BTBTBFEW: 
+
+- BTBTBGEW: 
+
+
+
+- Longest Gap Between Appearances: 
+
+- The largest gap between finals appearance: 
+
+
+
+- WSM titles: 
+
+- Consecitive WSM titles: 
+
+- Longest gap between first and last championships: 
+
+
+
+- Consecitive groups won: 
+
+- Most groups won in a single year: 
+
+- The gap time between group win: 
+
+
+
+- WSM podium finishes: 
+
+- WSM runner-up finishes: 
+
+- WSM 3rd place finishes: 
+
+- WSM top 5 finishes: 
+
+
+
+- Consecutive podium finishes: 
+
+- Consecitive podium finishes without wining a title: 
+
+- The largest gap between a podium finish: 
+
+
+
+Physical Stats
+
+- Avg. Height of Athletes:
+
+- Avg. Weight of Athletes: 
+
+
+
+- Avg. Height of Athletes before 1994:
+
+- Avg. Weight of Athletes before 1994: 
+
+
+
+- Avg. Height of Finalists: 
+
+- Avg. Weight of Finalists: 
+
+
+
+- Avg. Height of Finalists before 1994: 
+
+- Avg. Weight of Finalists before 1994: 
+
+
+
+- Avg. Height of Winners: 
+
+- Avg. Weight of Winners:
+
+
+
+- Avg. Height of Winners before 1994: 
+
+- Avg. Weight of Winners before 1994: 

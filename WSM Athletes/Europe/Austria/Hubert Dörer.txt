@@ -1,0 +1,149 @@
+Hubert Dörer
+
+Height - 1,92 m
+
+Weight - 133 kg
+
+Born - 1966-09-09
+
+
+- First A - 32 yrs, 11 m, & 27 d (1999)
+
+- Last A - 32 yrs, 11 m, & 27 d (1999)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 5th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 12,00
+
+- CP% - 11,32
+
+- CGP - 12,00
+
+- CGP% - 33,33
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 12,00 (1999)
+
+- CHP% - 11,32 (1999)
+
+- CLP - 12,00 (1999)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 12,00 (1999)
+
+- CHGP% - 11,32 (1999)
+
+- CLGP - 12,00 (1999)
+
+
+
+- EC - 6
+
+- GEC - 6
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 2,00
+
+- PPFE - 0,00
+
+- PPGE - 2,00
+
+- CHPPE - 2,00 (1999)
+
+- CLPPE - 2,00 (1999)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 2,00 (1999)
+
+- CLPPGE - 2,00 (1999)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

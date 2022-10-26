@@ -1,0 +1,153 @@
+Ilkka Kinnunen
+
+Height - 1,90 m
+
+Weight - 133 kg
+
+Born - 1965
+
+
+- First A - 27 (1992)
+
+- First FA - 27 (1992)
+
+- Last A - 27 (1992)
+
+- Last FA - 27 (1992)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 10th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 19,00
+
+- CP% - 23,75
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 19,00
+
+- CFP% - 23,75
+
+
+
+- CHP - 19,00 (1992)
+
+- CHP% - 23,75 (1992)
+
+- CLP - 19,00 (1992)
+
+- CHFP - 19,00 (1992)
+
+- CHFP% - 23,75 (1992)
+
+- CLFP - 19,00 (1992)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 8
+
+- GEC - 0
+
+- FEC - 8
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0 (1992)
+
+- CHGEW - 0 (1992)
+
+- CHFEW - 0 (1992)
+
+
+
+- CHEW% - 0,00 (1992)
+
+- CHGEW% - 0,00 (1992)
+
+- CHFEW% - 0,00 (1992)
+
+
+
+- PPE - 2,38
+
+- PPFE - 2,38
+
+- PPGE - 0,00
+
+- CHPPE - 2,38 (1992)
+
+- CLPPE - 2,38 (1992)
+
+- CHPPFE - 2,38 (1992)
+
+- CLPPFE - 2,38 (1992)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

@@ -1,0 +1,153 @@
+Henning Thorsen
+
+Height - 1,93 m
+
+Weight - 140 kg
+
+Born - 1959-10-20
+
+
+- First A - 30 yrs, 9 m, & 29 d (1990)
+
+- First FA - 30 yrs, 9 m, & 29 d (1990)
+
+- Last A - 32 yrs, 11 m, & 14 d (1992)
+
+- Last FA - 32 yrs, 11 m, & 14 d (1992)
+
+
+- A - 3
+
+- CA - 2
+
+- FA - 3
+
+- CFA - 2
+
+- BF - 2nd in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 123,50
+
+- CP% - 59,38
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 123,50
+
+- CFP% - 59,38
+
+
+
+- CHP - 48,50 (1991)
+
+- CHP% - 75,78 (1991)
+
+- CLP - 34,00 (1990)
+
+- CHFP - 48,50 (1991)
+
+- CHFP% - 75,78 (1991)
+
+- CLFP - 34,00 (1990)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 24
+
+- GEC - 0
+
+- FEC - 24
+
+- EW - 3
+
+- EW% - 12,50
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 3
+
+- FEW% - 12,50
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 3 (1991)
+
+- CHGEW - 0
+
+- CHFEW - 3 (1991)
+
+
+
+- CHEW% - 37,50 (1991)
+
+- CHGEW% - 0,00
+
+- CHFEW% - 37,50 (1991)
+
+
+
+- PPE - 5,15
+
+- PPFE - 5,15
+
+- PPGE - 0,00
+
+- CHPPE - 6,06 (1991)
+
+- CLPPE - 4,25 (1990)
+
+- CHPPFE - 6,06 (1991)
+
+- CLPPFE - 4,25 (1990)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 1
+
+- BTBFEW: 1 (1991)
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

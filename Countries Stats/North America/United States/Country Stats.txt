@@ -1,0 +1,181 @@
+- Amount of Winners: 6
+
+- Amount of Titles: 12
+
+- Amount of 2nd Places: 8
+
+- Amount of 3rd Places: 10
+
+- WSM top 5 finishes: 65
+
+- Amount of Finalists: 59
+
+- Amount of Athletes: 85
+
+
+
+- A: 44
+
+- FA: 39
+
+- FA%: 88,63
+
+- GA: 121
+
+- GW: 37
+
+- GW%: 30,58
+
+- BF: 1st in Finals
+
+
+
+- P: 8170,77
+ 
+- GP: 3574
+
+- FP: 4596,77
+
+- 43,75% of points are from groups
+ 
+- 56,25% of points are from finals
+
+
+
+- EC: 1852
+
+- GEC: 919
+
+- FEC: 933
+
+- EW: 312
+
+- EW%: 16,84
+
+- GEW: 211
+
+- GEW%: 22,95
+
+- FEW: 101
+
+- FEW%: 10,82
+
+- W%: 27,27
+
+- Adj. W%: 30,77
+
+
+
+- TWE: 42
+
+- TWGE: 27
+
+- TWFE: 15
+
+
+
+- PPC: 185,69
+
+- PPG: 29,53
+
+- PPF: 117,86
+
+- PPE: 4,41
+
+- PPGE: 3,88
+
+- PPFE: 4,92
+
+
+
+- BTBEW: 35
+
+- BTBFEW: 10
+
+- BTBGEW: 25
+
+
+
+- BTBTBEW: 11
+
+- BTBTBFEW: 2
+
+- BTBTBGEW: 9
+
+
+
+- BTBTBTBEW: 3
+
+- BTBTBTBFEW: NONE
+
+- BTBTBTBGEW: 3
+
+
+
+- BTBTBTBTBEW: 2
+
+- BTBTBTBTBFEW: 1
+
+- BTBTBTBTBGEW: 1
+
+
+
+- Longest Gap Between Appearances: NONE
+
+- The largest gap between finals appearance: (this case scenario not really that relevant of a stat but... 
+                                             if you must know they were not in the 1994, 1996, 1999, 2003, 2004 finals
+                                             so I guess the longest gap would last 1 yrs, 11 m, & 29 d or 2 yrs, 0 m, & 9 d 
+                                             [depends wheter you consider the end of the gap as the first day of the 2005 WSM or as the last day of 2005 WSM] 
+                                             from 2003 till the 2005)
+
+
+
+- Consecitive groups won: 16 (2005-2021)
+
+- Most groups won in a single year: 3 (2008, 2010, 2014, 2020, 2021)
+
+- The largest gap between group win: 1998-2001  2 yrs, 11 m, & 28 d
+
+
+
+- Consecutive podium finishes: 7 (2013-2019)
+
+- Consecitive podium finishes without wining a title: 2 (2008-2010)
+
+- The largest gap between a podium finish: 15 yrs, 1 m, & 19 d
+
+
+
+- Longest gap between championships: 24 yrs (1982-2006)
+
+
+
+Physical Stats
+
+- Avg. Height of Athletes: 1,88 m
+
+- Avg. Weight of Athletes: 142 kg
+
+
+
+- Avg. Height of Athletes before 1994: 1,86 m 
+
+- Avg. Weight of Athletes before 1994: 136 kg 
+
+
+
+- Avg. Height of Finalists: 1,89 m
+
+- Avg. Weight of Finalists: 148 kg
+
+
+
+- Avg. Height of Winners: 1,92 m
+
+- Avg. Weight of Winners: 155 kg
+
+
+
+- Avg. Height of Winners before 1994: 1,88 m 
+
+- Avg. Weight of Winners before 1994: 153 kg 

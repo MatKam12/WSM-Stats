@@ -1,0 +1,149 @@
+Andrus Murumets
+
+Height - 1,88 m
+
+Weight - ??? kg
+
+Born - 1978-07-20
+
+
+- First A - 26 yrs, 2 m, & 14 d (2004)
+
+- Last A - 31 yrs, 2 m, & 14 d (2009)
+
+
+- A - 2
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 3rd in Heats
+
+- FA% - 0,00
+
+- GA - 2
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 66,00
+
+- CP% - 30,00
+
+- CGP - 66,00
+
+- CGP% - 64,71
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 40,00 (2004)
+
+- CHP% - 35,08 (2004)
+
+- CLP - 26,00 (2009)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 40,00 (2004)
+
+- CHGP% - 72,22 (2009)
+
+- CLGP - 26,00 (2009)
+
+
+
+- EC - 17
+
+- GEC - 17
+
+- FEC - 0
+
+- EW - 2
+
+- EW% - 11,76
+
+- GEW - 2
+
+- GEW% - 11,76
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (2004, 2009)
+
+- CHGEW - 1 (2004, 2009)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 16,67 (2009)
+
+- CHGEW% - 16,67 (2009)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,88
+
+- PPFE - 0,00
+
+- PPGE - 3,88
+
+- CHPPE - 4,33 (2009)
+
+- CLPPE - 3,63 (2004)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 4,33 (2009)
+
+- CLPPGE - 3,63 (2004)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

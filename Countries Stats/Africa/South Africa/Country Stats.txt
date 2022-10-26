@@ -1,0 +1,177 @@
+- Amount of Winners: 0
+
+- Amount of 2nd Places: 1 
+
+- Amount of 3rd Places: 1
+
+- Amount of Finalists: 4
+
+- Amount of Athletes: 12
+
+
+
+- A: 23
+
+- FA: 8
+
+- FA%: 34,78
+
+- GA: 30
+
+- GW: 4
+
+- GW%: 13,33
+
+- BF: 2nd in Finals (1995)
+
+
+
+- P: 807
+
+- GP: 441,5
+
+- FP: 365,5
+
+- 45,3% of points are from groups
+ 
+- 54,7% of points are from finals
+
+
+
+- EC: 229
+
+- GEC: 160
+
+- FEC: 69
+
+- EW: 29
+
+- EW%: 12,66
+
+- GEW: 19
+
+- GEW%: 11,87
+
+- FEW: 10
+
+- FEW%: 14,49
+
+- W%: 0
+
+- Adj. W%: 0
+
+
+
+- TWE: 18
+
+- TWGE: 14
+
+- TWFE: 4
+
+
+
+- PPC: 35,08
+
+- PPG: 14,71
+
+- PPF: 45,68
+
+- PPE: 3,52
+
+- PPGE: 2,75
+
+- PPFE: 5,29
+
+
+
+- BTBEW: 4
+
+- BTBFEW: 2
+
+- BTBGEW: 2
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0
+
+
+
+- Longest Gap Between Appearances: 6 yrs (2003-2009)
+
+- The largest gap between finals appearance: 18 yrs (2000-2018)
+
+
+
+- WSM titles: 0
+
+- Consecitive WSM titles: 0
+
+- Longest gap between first and last championships: 0
+
+
+
+- Consecitive groups won: 1 (1995-1996)
+
+- Most groups won in a single year: 2 (1998)
+
+- The most time between group win: 3 (1995-1998)
+
+
+
+- WSM podium finishes: 2
+
+- WSM runner-up finishes: 1
+
+- WSM 3rd place finishes: 1
+
+- WSM top 5 finishes: 5
+
+
+
+- Consecutive podium finishes: 1 (1995-1996)
+
+- Consecitive podium finishes without wining a title: 1 (1995-1996)
+
+- The largest gap between a podium finish: 0
+
+
+
+Physical Records
+
+- Avg. Height of Athletes: 1,86 m
+
+- Avg. Weight of Athletes: 146 kg
+
+
+
+- Avg. Height of Athletes before 1994: 1,86 m
+
+- Avg. Weight of Athletes before 1994: 136 kg
+
+
+
+- Avg. Height of Finalists: 1,90 m
+
+- Avg. Weight of Finalists: 147 kg
+
+
+
+- Avg. Height of Finalists before 1994: 1,86 m
+
+- Avg. Weight of Finalists before 1994: 136 kg
+
+
+
+- Avg. Height of Winners: -
+
+- Avg. Weight of Winners: -
+
+
+
+- Avg. Height of Winners before 1994: -
+
+- Avg. Weight of Winners before 1994: -

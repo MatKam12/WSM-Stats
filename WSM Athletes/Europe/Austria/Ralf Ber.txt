@@ -1,0 +1,153 @@
+Ralf Ber
+
+Height - 1,90 m
+
+Weight - 135 kg
+
+Born - 1975-04-09
+
+
+- First A - 23 yrs, 5 m, & 30 d (1998)
+
+- First FA - 30 yrs, 5 m, & 18 d (2005)
+
+- Last A - 30 yrs, 5 m, & 18 d (2005)
+
+- Last FA - 30 yrs, 5 m, & 18 d (2005)
+
+
+- A - 3
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 7th in Finals
+
+- FA% - 33,33
+
+- GA - 3
+
+- GW - 1
+
+- GW% - 33,33
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 86,50
+
+- CP% - 26,86
+
+- CGP - 53,00
+
+- CGP% - 51,96
+
+- CFP - 33,50
+
+- CFP% - 15,23
+
+
+
+- CHP - 56,00 (2005)
+
+- CHP% - 56,00 (2005)
+
+- CLP - 10,50 (1998)
+
+- CHFP - 33,50 (2005)
+
+- CHFP% - 47,85 (2005)
+
+- CLFP - 33,50 (2005)
+
+- CHGP - 22,50 (2005)
+
+- CHGP% - 75,00 (2005)
+
+- CLGP - 10,50 (1998)
+
+
+
+- EC - 23
+
+- GEC - 16
+
+- FEC - 7
+
+- EW - 4
+
+- EW% - 17,39
+
+- GEW - 4
+
+- GEW% - 25,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 2 (2005)
+
+- CHGEW - 2 (2005)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 33,33 (2005)
+
+- CHGEW% - 33,33 (2005)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,76
+
+- PPFE - 4,79
+
+- PPGE - 3,31
+
+- CHPPE - 4,30 (2005)
+
+- CLPPE - 2,62 (2001)
+
+- CHPPFE - 4,79 (2005)
+
+- CLPPFE - 4,79 (2005)
+
+- CHPPGE - 3,75 (2005)
+
+- CLPPGE - 2,62 (1998)
+
+
+
+- BTBEW: 1
+
+- BTBFEW: 0
+
+- BTBGEW: 1 (2005)
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

@@ -1,0 +1,149 @@
+Juha-Matti Järvi
+
+Height - 1,83 m
+
+Weight - 128 kg
+
+Born - 1980-10-10
+
+
+- First A - 30 yrs, 11 m, & 12 d (2011)
+
+- Last A - 32 yrs, 10 m, & 14 d (2013)
+
+
+- A - 2
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 5th in Heats
+
+- FA% - 0,00
+
+- GA - 2
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 21,00
+
+- CP% - 10,94
+
+- CGP - 21,00
+
+- CGP% - 29,17
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 11,00 (2013)
+
+- CHP% - 11,45 (2013)
+
+- CLP - 10,00 (2011)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 11,00 (2013)
+
+- CHGP% - 30,55 (2013)
+
+- CLGP - 10,00 (2011)
+
+
+
+- EC - 12
+
+- GEC - 12
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 1,75
+
+- PPFE - 0,00
+
+- PPGE - 1,75
+
+- CHPPE - 1,83 (2013)
+
+- CLPPE - 1,66 (2011)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 1,83 (2013)
+
+- CLPPGE - 1,66 (2011)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

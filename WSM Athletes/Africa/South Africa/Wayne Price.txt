@@ -1,0 +1,143 @@
+Wayne Price
+
+Height - 1,88 m
+
+Weight - 140 kg
+
+Born - 1968 
+
+
+- First A - 26 yrs (1994)
+
+- First FA - 27 yrs (1995)
+
+- Last A - 30 yrs (1998)
+
+- Last FA - 27 yrs (1995)
+
+
+- A - 3
+
+- CA - 1
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 8th in Finals
+
+- FA% - 33,33
+
+- GA - 3
+
+- GW - 0
+
+- GW% - 0
+
+- W% - 0
+
+- Adj. W% - 0
+
+
+
+- CP - 70
+
+- CP% - 25,64
+
+- CGP - 31,5
+
+- CGP% - 65,63
+
+- CFP - 38,5
+
+- CFP% - 17,11
+
+
+
+- CHP - 50 (1995)
+
+- CHP% - 52,08 (1995)
+
+- CLP - 10 (1994, 1998)
+
+- CHFP - 38,5 (1995)
+
+- CHFP% - 48,12 (1995)
+
+- CLFP - 38,5 (1995)
+
+- CHGP - 11,5 (1995)
+
+- CHGP% - 71,87 (1995)
+
+- CLGP - 10 (1994, 1998)
+
+
+
+- EC - 20
+
+- GEC - 12
+
+- FEC - 8
+
+- EW - 1
+
+- EW% - 5
+
+- GEW - 1
+
+- GEW% - 8,33
+
+- FEW - 0
+
+- FEW% - 0
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (1995)
+
+- CHGEW - 1 (1995)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 8,33 (1995)
+
+- CHGEW% - 25,00 (1995)
+
+- CHFEW% - 0
+
+
+
+- PPE - 3,5
+
+- PPFE - 4,81
+
+- PPGE - 2,63
+
+- CHPPE - 4,16 (1995)
+
+- CLPPE - 2,5 (1994, 1998)
+
+- CHPPFE - 4,81 (1995)
+
+- CLPPFE - 4,81 (1995)
+
+- CHPPGE - 2,87 (1995)
+
+- CLPPGE - 2,5 (1994, 1998)
+
+
+
+- BTBEW - 0
+
+- BTBTBEW - 0 

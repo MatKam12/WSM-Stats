@@ -1,0 +1,153 @@
+Allan Hallberg
+
+Height - ?
+
+Weight - ?
+
+Born - 1955-03-28
+
+
+- First A - 28 yrs, 7 m, & 28 d (1983)
+
+- First FA - 28 yrs, 7 m, & 28 d (1983)
+
+- Last A - 28 yrs, 7 m, & 28 d (1983)
+
+- Last FA - 28 yrs, 7 m, & 28 d (1983)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 8th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00 
+
+
+
+- CP - 22,00
+
+- CP% - 34,38
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 22,00
+
+- CFP% - 34,38
+
+
+
+- CHP - 22,00 (1983)
+
+- CHP% - 34,38 (1983) 
+
+- CLP - 22,00 (1983)
+
+- CHFP - 22,00 (1983)
+
+- CHFP% - 34,38 (1983) 
+
+- CLFP - 22,00 (1983)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 8
+
+- GEC - 0
+
+- FEC - 8
+
+- EW - 0
+
+- EW% - 0
+
+- GEW - 0
+
+- GEW% - 0
+
+- FEW - 0
+
+- FEW% - 0
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0
+
+- CHGEW% - 0
+
+- CHFEW% - 0
+
+
+
+- PPE - 2,75
+
+- PPFE - 2,75
+
+- PPGE - 0,00
+
+- CHPPE - 2,75 (1983)
+
+- CLPPE - 2,75 (1983)
+
+- CHPPFE - 2,75 (1983)
+
+- CLPPFE - 2,75 (1983)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

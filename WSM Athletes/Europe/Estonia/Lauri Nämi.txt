@@ -1,0 +1,149 @@
+Lauri Nämi
+
+Height - 1,85 m
+
+Weight - 147 kg
+
+Born - 1979-01-01
+
+
+- First A - 33 yrs, 9 m, & 0 d (2012)
+
+- Last A - 38 yrs, 4 m, & 27 d (2017)
+
+
+- A - 4
+
+- CA - 2
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 3rd in Heats
+
+- FA% - 0,00
+
+- GA - 4
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0
+
+- Adj. W% - 0,00
+
+
+
+- CP - 67,50
+
+- CP% - 17,31
+
+- CGP - 67,50
+
+- CGP% - 48,91
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 24,00 (2013)
+
+- CHP% - 25,00 (2013)
+
+- CLP - 10,50 (2017)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 24,00 (2013)
+
+- CHGP% - 25,00 (2013)
+
+- CLGP - 10,50 (2017)
+
+
+
+- EC - 24
+
+- GEC - 24
+
+- FEC - 0
+
+- EW - 1
+
+- EW% - 4,17
+
+- GEW - 1
+
+- GEW% - 4,17
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 2
+
+- WGE - 2
+
+- WFE - 0
+
+
+
+- CHEW - 1 (2013)
+
+- CHGEW - 1 (2013)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 16,67 (2013)
+
+- CHGEW% - 16,67 (2013)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 2,81
+
+- PPFE - 0,00
+
+- PPGE - 2,81
+
+- CHPPE - 4,00 (2013)
+
+- CLPPE - 1,75 (2017)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 4,00 (2013)
+
+- CLPPGE - 1,75 (2017)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

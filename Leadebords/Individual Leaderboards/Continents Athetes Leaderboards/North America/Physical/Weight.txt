@@ -1,0 +1,145 @@
+Cleve Dean          210 kg F     70s,80s 94     USA
+James Perry         196 kg F     90s     94     USA
+Brian Shaw          195 kg F W G 00s,10s,20s    USA
+Robert Oberst       186 kg F     10s,20s        USA
+Dominic Filiou      185 kg F     00s            CAN
+O.D. Wilson         184 kg F     90s     94     USA
+Mike Jenkins        181 kg F     10s            USA
+Johnny Perry        170 kg F   G 00s            USA
+Jerry Pritchett     164 kg F   G 10s,20s        USA
+Phil Martin         163 kg F     90s            USA
+Don Reinhoudt       162 kg F W   70s,80s 94     USA
+Louis-Philippe Jean 161 kg F     00s,10s        CAN
+Bobby Thompson      161 kg F   G 20s            USA
+Ralph Williams      161 kg       90s            USA
+James Voronin       160 kg       90s            USA
+Dave Ostlund        159 kg F     00s,10s        USA
+Evan Singleton      159 kg       20s            USA
+Bryan Neese         158 kg       90s            USA
+Brian Siders        156 kg       00s            USA
+Christian Savoie    155 kg       00s            CAN
+Jean-François Caron 155 kg F   G 00s,10s,20s    CAN
+Mike Burke          155 kg F   G 10s            USA
+Trey Mitchell       155 kg F   G 10s,20s        USA
+Jerry Hannan        154 kg F     80s     94     USA
+Gabriel Rhéaume     154 kg F     20s            CAN
+Niko Noga           152 kg       90s            USA
+Travis Lyndon       151 kg       00s            CAN
+Hugo Girard         150 kg F   G 90s, 00s       CAN
+Maxime Boudreault   150 kg F     20s            CAN
+Martin Licis        150 kg F W G 10s,20         USA
+Bruce Wilhelm       150 kg F W   70s     94     USA
+Gabriel Peña        150 kg       20s            MEX
+Derek DeVaughan     149 kg       10s            USA
+Bill Kazmaier       148 kg F W   70s,80s 94     USA
+Derek Poundstone    147 kg F   G 00s,10s        USA
+Bryan Benzel        147 kg       10s            USA
+Tomás Rodríguez     145 kg       10s            CUBA
+Mark Philippi       145 kg F   G 90s,00s        USA
+Nick Best           145 kg F   G 10s,20s        USA
+Don Pope            145 kg F   G 00s            USA
+Josh Thigpen        145 kg       00s            USA
+Brian Schoonveld    145 kg       00s            USA
+Mitchell Hooper     145 kg F   G 20s            CAN
+Gregg Ernst         143 kg F     90s,    94     CAN
+Steve Bourgeois     143 kg       00s            CAN
+Kevin Nee           140 kg F     00s            USA
+Marshall White      140 kg       00s            USA
+Harold Collins      140 kg F     90s     94     USA
+Gary Mitchell       140 kg       90s            USA
+Jon Lane            138 kg       10s            USA
+Steve Pulcinella    137 kg       90s            USA
+Travis Ortmayer     136 kg F   G 00s,10s,20s    USA
+Stan Carradine      136 kg       10s            USA
+Ernie Hackett       136 kg F     80s     94     USA
+Dusko Markovic      136 kg F     80s,    94     CAN
+Geoff Dolan         136 kg F     00s            CAN
+Ginaud Dupuis       136 kg       90s            CAN
+Jessen Paulin       135 kg F     00s            CAN
+Steve Kirit         135 kg       00s            USA
+Rob Kearney         135 kg       10s            USA
+Kevin Toth          135 kg       90s            USA
+Scott Cummine       134 kg       10s            CAN
+Bernard Rolle       134 kg       90s            BAMA
+Mike Caruso         134 kg       10s            USA
+Ken Brown           132 kg       90s            USA
+Paul Lepik          131 kg       90s            CAN
+Karl Gillingham     130 kg       00s            USA
+Lou Ferrigno        130 kg F     70s     94     USA
+Ron Trottier        129 kg       90s            CAN
+Jason Bergmann      127 kg F   G 00s,10s        USA
+John Matuszak       127 kg F     70s     94     USA
+Phil Pfister        125 kg F W G 90s,00s        USA
+Whit Baskin         125 kg       90s,00s        USA
+Doyle Kenady        125 kg F     80s     94     USA
+Curt Marsh          125 kg F     80s     94     USA
+Billy Graham        125 kg F     80s     94     USA
+Brian Oldfield      125 kg F     70s     94     USA
+Tom Magee           125 kg F     80s,    94     CAN
+Curt Leffler        124 kg       90s            USA
+Jimmy Paquet        123 kg       10s            CAN
+Adam Derks          123 kg       10s            USA
+Kevin Faires        122 kg F   G 10s,20s        USA
+Bob Young           122 kg F     70s     94     USA
+Ross Browner        120 kg F     80s     94     USA
+Jim Hough           120 kg F     80s     94     USA
+Craig Wolfley       120 kg F     80s     94     USA
+Jon Kolb            119 kg F     70s     94     USA
+Keith Bishop        118 kg F     80s     94     USA
+Ken Patera          116 kg F     70s     94     USA
+Terry Brennan       111 kg       90s            USA
+George Frenn        110 kg F     70s     94     USA
+Dave Johns          98  kg F     70s     94     USA
+
+Jesse Marunde       ??? kg F   G 00s            USA
+Tommy Ingalsbe      ??? kg       90s            USA
+Dave Waddington     ??? kg F     80s     94     USA
+Durwin Piper        ??? kg F     80s     94     USA
+George Hechter      ??? kg F     80s     94     USA
+Joe Zelezniak       ??? kg F     80s     94     USA
+John Gamble         ??? kg F     80s     94     USA
+Larry Kidney        ??? kg F     80s     94     USA
+Rick Brown          ??? kg F     80s     94     USA
+Bill Dunn           ??? kg F     80s     94     USA
+Bishop Dolegiewicz  ??? kg F     80s,    94     CAN
+Daniel Poulin       ??? kg F     80s,    94     CAN
+Gus Rethwisch       ??? kg F     70s     94     USA
+Jack Wright         ??? kg F     70s     94     USA
+Jerry Blackwell     ??? kg F     70s     94     USA
+Joe Dube            ??? kg F     70s     94     USA
+Jon Cole            ??? kg F     70s     94     USA
+Mike Dayton         ??? kg F     70s     94     USA
+
+Avg. Athlete Weight         (70s)       134 kg
+Avg. Winner Weight          (70s)       156 kg
+
+Avg. Athlete Weight         (80s)       137 kg
+Avg. Winner Weight          (80s)       148 kg
+
+Avg. Athlete Weight         (before 94) 136 kg 
+Avg. Winner Weight          (before 94) 153 kg 
+
+Avg. Athlete Weight         (90s)       143 kg
+Avg. Finalists Weight       (90s)       155 kg
+Avg. Group Winner Weight    (90s)       147 kg
+Avg. Winner Weight          (90s)       --- kg
+
+Avg. Athlete Weight         (00s)       147 kg
+Avg. Finalists Weight       (00s)       150 kg
+Avg. Group Winner Weight    (00s)       145 kg
+Avg. Winner Weight          (00s)       125 kg
+
+Avg. Athlete Weight         (10s)       148 kg
+Avg. Finalists Weight       (10s)       158 kg
+Avg. Group Winner Weight    (10s)       154 kg
+Avg. Winner Weight          (10s)       172 kg
+
+Avg. Athlete Weight         (20s)       155 kg
+Avg. Finalists Weight       (20s)       155 kg
+Avg. Group Winner Weight    (20s)       156 kg
+Avg. Winner Weight          (20s)       --- kg
+
+Avg. Athlete Weight                     141 kg
+Avg. Finalists Weight                   145 kg
+Avg. Group Winner Weight                149 kg
+Avg. Winner Weight                      155 kg

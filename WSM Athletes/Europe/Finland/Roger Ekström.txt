@@ -1,0 +1,153 @@
+Roger Ekström
+
+Height - 1,91 m
+
+Weight - 125 kg
+
+Born - ????-??-??
+
+
+- First A - ?
+
+- First FA - ?
+
+- Last A - ?
+
+- Last FA - ?
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 7th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 28,50
+
+- CP% - 44,53
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 28,50
+
+- CFP% - 44,53
+
+
+
+- CHP - 28,50 (1985)
+
+- CHP% - 44,53 (1985)
+
+- CLP - 28,50 (1985)
+
+- CHFP - 28,50 (1985)
+
+- CHFP% - 44,53 (1985)
+
+- CLFP - 28,50 (1985)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 8
+
+- GEC - 0
+
+- FEC - 8
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,56
+
+- PPFE - 3,56
+
+- PPGE - 0,00
+
+- CHPPE - 3,56 (1985)
+
+- CLPPE - 3,56 (1985)
+
+- CHPPFE - 3,56 (1985)
+
+- CLPPFE - 3,56 (1985)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

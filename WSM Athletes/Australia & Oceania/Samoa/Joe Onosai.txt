@@ -1,0 +1,154 @@
+Joe Onosai
+
+Height - 1.93 m
+
+Weight - 180 kg
+
+Born - 1965-12-10
+
+
+- First A - 
+
+- First FA - 
+
+- Last A - 
+
+- Last FA - 
+
+
+
+- A - 4
+
+- CA - 1
+
+- FA - 2
+
+- CFA - 1
+
+- BF - 7th in Finals
+
+- FA% - 50,00
+
+- GA - 4
+
+- GW - 1
+
+- GW% - 25,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 97,50
+
+- CP% - 25,26
+
+- CGP - 55,50
+
+- CGP% - 60,33
+
+- CFP - 42,00
+
+- CFP% - 14,29
+
+
+
+- CHP - 41,50 (1995)
+
+- CHP% - 43,22 (1995)
+
+- CLP - 11,00 (1997)
+
+- CHFP - 29,50 (1995)
+
+- CHFP% - 36,87 (1995)
+
+- CLFP - 12,50 (1994)
+
+- CHGP - 21,50 (1999)
+
+- CHGP% - 75,00 (1995)
+
+- CLGP - 11,00 (1994, 1997)
+
+
+
+- EC - 32
+
+- GEC - 18
+
+- FEC - 14
+
+- EW - 5
+
+- EW% - 15,63
+
+- GEW - 5
+
+- GEW% - 27,78
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 1
+
+- WGE - 0
+
+- WFE - 1
+
+
+
+- CHEW - 2 (1995)
+
+- CHGEW - 2 (1995)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 25,00 (1995)
+
+- CHGEW% - 50,00 (1995)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,05
+
+- PPFE - 3,00
+
+- PPGE - 3,08
+
+- CHPPE - 3,58 (1999)
+
+- CLPPE - 1,83 (1997)
+
+- CHPPFE - 3,68 (1995)
+
+- CLPPFE - 1,85 (1994)
+
+- CHPPGE - 3,58 (1999)
+
+- CLPPGE - 1,83 (1997)
+
+
+
+- BTBEW: 1
+
+- BTBFEW: 
+
+- BTBGEW: 1 (1995)
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

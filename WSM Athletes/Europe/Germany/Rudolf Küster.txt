@@ -1,0 +1,153 @@
+Rudolf Küster
+
+Height - 1,88 m
+
+Weight - 130 kg
+
+Born - 1955-04-07
+
+
+- First A - 29 yrs, 9 m, & 17 d (1985)
+
+- First FA - 29 yrs, 9 m, & 17 d (1985)
+
+- Last A - 34 yrs, 4 m, & 13 d (1989)
+
+- Last FA - 34 yrs, 4 m, & 13 d (1989)
+
+
+- A - 2
+
+- CA - 0
+
+- FA - 2
+
+- CFA - 0
+
+- BF - 4th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 54,00
+
+- CP% - 42,19
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 54,00
+
+- CFP% - 42,19
+
+
+
+- CHP - 34,00 (1985)
+
+- CHP% - 53,12 (1985)
+
+- CLP - 20,00 (1989)
+
+- CHFP - 34,00 (1985)
+
+- CHFP% - 53,12 (1985)
+
+- CLFP - 20,00 (1989)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 16
+
+- GEC - 16
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,38
+
+- PPFE - 0,00
+
+- PPGE - 3,38
+
+- CHPPE - 4,25 (1985)
+
+- CLPPE - 2,50 (1989)
+
+- CHPPFE - 4,25 (1985)
+
+- CLPPFE - 2,50 (1989)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

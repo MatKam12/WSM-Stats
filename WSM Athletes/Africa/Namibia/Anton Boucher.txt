@@ -1,0 +1,143 @@
+Anton Boucher
+
+Height - 1.83 m
+
+Weight - 135 kg
+
+Born - 1973-06-06
+
+
+- First A - 20 yrs (1994)
+
+- First FA - 20 yrs (1994)
+
+- Last A - 21 yrs (1995)
+
+- Last FA - 20 yrs (1994)
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 6th in Finals
+
+- FA% - 50
+
+- GA - 2
+
+- GW - 0
+
+- GW% - 0
+
+- W% - 0
+
+- Adj. W% - 0
+
+
+
+- CP - 50,5
+
+- CP% - 28,69
+
+- CGP - 19
+
+- CGP% - 59,38
+
+- CFP - 31,5
+
+- CFP% - 21,88
+
+
+
+- CHP - 43,5 (1994)
+
+- CHP% - 54,37 (29914)
+
+- CLP - 7 (1995)
+
+- CHFP - 31,5 (1994)
+
+- CHFP% - 49,21 (1994)
+
+- CLFP -  31,5 (1994)
+
+- CHGP - 12 (1994)
+
+- CHGP% - 75 (1994)
+
+- CLGP - 7 (1995)
+
+
+
+- EC - 16
+
+- GEC - 8
+
+- FEC - 8
+
+- EW - 2
+
+- EW% - 12,5
+
+- GEW - 2
+
+- GEW% - 25
+
+- FEW - 0
+
+- FEW% - 0
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 2 (1994)
+
+- CHGEW - 2 (1994)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 16,66 (1994)
+
+- CHGEW% - 50 (1994)
+
+- CHFEW% - 0
+
+
+
+- PPE - 3,16 
+
+- PPFE - 3,94 
+
+- PPGE - 2,38
+
+- CHPPE - 3,62 (1994)
+
+- CLPPE - 1,75 (1995)
+
+- CHPPFE - 3,93 (1994)
+
+- CLPPFE - 3,93 (1994)
+
+- CHPPGE - 3 (1994)
+
+- CLPPGE - 1,75 (1995)
+
+
+
+- BTBEW - 0
+
+- BTBTBEW - 0 

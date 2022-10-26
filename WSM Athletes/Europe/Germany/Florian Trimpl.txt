@@ -1,0 +1,149 @@
+Florian Trimpl
+
+Height - 1,91 m
+
+Weight - ??? kg
+
+Born - 1979-07-09
+
+
+- First A - 28 yrs, 2 m, & 14 d (2007)
+
+- Last A - 30 yrs, 2 m, & 25 d (2009)
+
+
+- A - 3
+
+- CA - 2
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 4th in Heats
+
+- FA% - 0,00
+
+- GA - 3
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 37,50
+
+- CP% - 12,02
+
+- CGP - 37,50
+
+- CGP% - 36,76
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 16,50 (2007)
+
+- CHP% - 16,50 (2007)
+
+- CLP - 9,00 (2008)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 16,50 (2007)
+
+- CHGP% - 55,00 (2007)
+
+- CLGP - 9,00 (2008)
+
+
+
+- EC - 18
+
+- GEC - 18
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 2,08
+
+- PPFE - 0,00
+
+- PPGE - 2,08
+
+- CHPPE - 2,75 (2007)
+
+- CLPPE - 1,50 (2008)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 2,75 (2007)
+
+- CLPPGE - 1,50 (2008)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

@@ -1,0 +1,149 @@
+Mika Törrö
+
+Height - 2,05 m
+
+Weight - 175 kg
+
+Born - 1979-05-11
+
+
+- First A - 43 yrs, 0 m, & 18 d (2022)
+
+- Last A - 43 yrs, 0 m, & 18 d (2022)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 5th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 13,00
+
+- CP% - 14,44
+
+- CGP - 13,00
+
+- CGP% - 43,33
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 13,00 (2022)
+
+- CHP% - 14,44 (2022)
+
+- CLP - 13,00 (2022)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 13,00 (2022)
+
+- CHGP% - 43,33 (2022)
+
+- CLGP - 13,00 (2022)
+
+
+
+- EC - 5
+
+- GEC - 5
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 2,60
+
+- PPFE - 0,00
+
+- PPGE - 2,60
+
+- CHPPE - 2,60 (2022)
+
+- CLPPE - 2,60 (2022)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 2,60 (2022)
+
+- CLPPGE - 2,60 (2022)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

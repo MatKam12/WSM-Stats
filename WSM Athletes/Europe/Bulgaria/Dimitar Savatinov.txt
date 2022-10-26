@@ -1,0 +1,153 @@
+Dimitar Savatinov
+
+Height - 1,78 m
+
+Weight - 150 kg
+
+Born - 1980-05-05
+
+
+- First A - 29 yrs, 5 m, & 2 d (2014)
+
+- First FA - 30 yrs, 5 m, & 29 d (2015)
+
+- Last A - 32 yrs, 7 m, & 1 d (2017)
+
+- Last FA - 30 yrs, 5 m, & 29 d (2015)
+
+
+- A - 3
+
+- CA - 1
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 7th in Finals
+
+- FA% - 33,33
+
+- GA - 3
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 75,50
+
+- CP% - 26,17
+
+- CGP - 53,50
+
+- CGP% - 49,54
+
+- CFP - 22,00
+
+- CFP% - 11,46
+
+
+
+- CHP - 53,00 (2015)
+
+- CHP% - 51,96 (2015)
+
+- CLP - 4,00 (2017)
+
+- CHFP - 22,00 (2015)
+
+- CHFP% - 36,66 (2015)
+
+- CLFP - 22,00 (2015)
+
+- CHGP - 31,00 (2015)
+
+- CHGP% - 73,80 (2015)
+
+- CLGP - 4,00 (2017)
+
+
+
+- EC - 22
+
+- GEC - 16
+
+- FEC - 6
+
+- EW - 1
+
+- EW% - 4,55
+
+- GEW - 1
+
+- GEW% - 6,25
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 1
+
+- WGE - 1
+
+- WFE - 0
+
+
+
+- CHEW - 1 (2015)
+
+- CHGEW - 1 (2015)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 8,33 (2015)
+
+- CHGEW% - 16,67 (2015)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,43
+
+- PPFE - 3,67
+
+- PPGE - 3,34
+
+- CHPPE - 4,41 (2015)
+
+- CLPPE - 1,00 (2017)
+
+- CHPPFE - 3,66 (2015)
+
+- CLPPFE - 3,66 (2015)
+
+- CHPPGE - 5,16 (2015)
+
+- CLPPGE - 1,00 (2017)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

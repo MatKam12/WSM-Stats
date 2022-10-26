@@ -1,0 +1,149 @@
+Torben Sørensen
+
+Height - 1,91 m
+
+Weight - 137 kg
+
+Born - 1971
+
+
+- First A - 27 (1998)
+
+- Last A - 27 (1998)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 2nd in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 11,00
+
+- CP% - 11,46
+
+- CGP - 11,00
+
+- CGP% - 68,75
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 11,00 (1998)
+
+- CHP% - 11,46 (1998)
+
+- CLP - 11,00 (1998)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 11,00 (1998)
+
+- CHGP% - 68,75 (1998)
+
+- CLGP - 11,00 (1998)
+
+
+
+- EC - 4
+
+- GEC - 4
+
+- FEC - 0
+
+- EW - 1
+
+- EW% - 25,00
+
+- GEW - 1
+
+- GEW% - 25,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (1998)
+
+- CHGEW - 1 (1998)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 25,00 (1998)
+
+- CHGEW% - 25,00 (1998)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 2,75
+
+- PPFE - 0,00
+
+- PPGE - 2,75
+
+- CHPPE - 2,75 (1998)
+
+- CLPPE - 2,75 (1998)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 2,75 (1998)
+
+- CLPPGE - 2,75 (1998)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

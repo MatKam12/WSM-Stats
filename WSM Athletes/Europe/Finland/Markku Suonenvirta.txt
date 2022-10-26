@@ -1,0 +1,153 @@
+Markku Suonenvirta
+
+Height - 1,84 m
+
+Weight - 127 kg
+
+Born - 1955-04-12
+
+
+- First A - 36 yrs, 5 m, & 25 d (1991)
+
+- First FA - 36 yrs, 5 m, & 25 d (1991)
+
+- Last A - 36 yrs, 5 m, & 25 d (1991)
+
+- Last FA - 36 yrs, 5 m, & 25 d (1991)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 7th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 25,50
+
+- CP% - 39,84
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 25,50
+
+- CFP% - 39,84
+
+
+
+- CHP - 25,50 (1991)
+
+- CHP% - 39,84 (1991)
+
+- CLP - 25,50 (1991)
+
+- CHFP - 25,50 (1991)
+
+- CHFP% - 39,84 (1991)
+
+- CLFP - 25,50 (1991)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 8
+
+- GEC - 0
+
+- FEC - 8
+
+- EW - 1
+
+- EW% - 12,50
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 1
+
+- FEW% - 12,50
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (1991)
+
+- CHGEW - 0
+
+- CHFEW - 1 (1991)
+
+
+
+- CHEW% - 12,50 (1991)
+
+- CHGEW% - 0,00
+
+- CHFEW% - 12,50 (1991)
+
+
+
+- PPE - 3,19
+
+- PPFE - 3,19
+
+- PPGE - 0,00
+
+- CHPPE - 3,19 (1991)
+
+- CLPPE - 3,19 (1991)
+
+- CHPPFE - 3,19 (1991)
+
+- CLPPFE - 3,19 (1991)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

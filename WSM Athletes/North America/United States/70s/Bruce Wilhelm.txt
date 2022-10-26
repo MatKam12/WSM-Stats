@@ -1,0 +1,153 @@
+Bruce Wilhelm
+
+Height - 1,88 m
+
+Weight - 150 kg
+
+Born - 1945-07-13
+
+
+- First A - 32 (1977)
+
+- First FA - 32 (1977)
+
+- Last A - 33 (1978)
+
+- Last FA - 33 (1978)
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 2
+
+- CFA - 1
+
+- BF - 1st in Finals
+
+- FA% - 100
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0
+
+- W% - 100
+
+- Adj. W% - 100 
+
+
+
+- CP - 127,58
+
+- CP% - 60,75
+
+- CGP - 0
+
+- CGP% - 0
+
+- CFP - 127,58
+
+- CFP% - 60,75
+
+
+
+- CHP - 64,33 (1978)
+
+- CHP% - 64,33 (1978)
+
+- CLP - 63,25 (1977)
+
+- CHFP - 64,33 (1978)
+
+- CHFP% - 64,33 (1978)
+
+- CLFP - 63,25 (1977)
+
+- CHGP - 0
+
+- CHGP% - 0
+
+- CLGP - 0
+
+
+
+- EC - 20
+
+- GEC - 0
+
+- FEC - 20
+
+- EW - 7
+
+- EW% - 35
+
+- GEW - 0
+
+- GEW% - 0
+
+- FEW - 7
+
+- FEW% - 35
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 5 (1977)
+
+- CHGEW - 0
+
+- CHFEW - 5 (1977)
+
+
+
+- CHEW% - 50 (1977)
+
+- CHGEW% - 0
+
+- CHFEW% - 50 (1977)
+
+
+
+- PPE - 6,38
+
+- PPFE - 6,38
+
+- PPGE - 0
+
+- CHPPE - 6,43 (1978)
+
+- CLPPE - 6,32 (1977)
+
+- CHPPFE - 6,43 (1978)
+
+- CLPPFE - 6,32 (1977)
+
+- CHPPGE - 0
+
+- CLPPGE - 0
+
+
+
+- BTBEW: 1
+
+- BTBFEW: 1 (1977)
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

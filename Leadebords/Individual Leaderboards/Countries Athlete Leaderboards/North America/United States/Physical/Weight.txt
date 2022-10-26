@@ -1,0 +1,120 @@
+Cleve Dean          210 kg F     70s,80s 94
+James Perry         196 kg F     90s     94
+Brian Shaw          195 kg F W G 00s,10s,20s
+Robert Oberst       186 kg F     10s,20s
+O.D. Wilson         184 kg F     90s     94
+Mike Jenkins        181 kg F     10s
+Johnny Perry        170 kg F   G 00s
+Jerry Pritchett     164 kg F   G 10s,20s
+Phil Martin         163 kg F     90s
+Don Reinhoudt       162 kg F W   70s,80s 94
+Bobby Thompson      161 kg F   G 20s
+Ralph Williams      161 kg       90s
+James Voronin       160 kg       90s
+Dave Ostlund        159 kg F     00s,10s 
+Evan Singleton      159 kg       20s  
+Bryan Neese         158 kg       90s
+Brian Siders        156 kg       00s
+Mike Burke          155 kg F   G 10s
+Trey Mitchell       155 kg F   G 10s,20s
+Jerry Hannan        154 kg F     80s     94
+Niko Noga           152 kg       90s
+Martin Licis        150 kg F W G 10s
+Bruce Wilhelm       150 kg F W   70s     94
+Derek DeVaughan     149 kg       10s
+Bill Kazmaier       148 kg F W   70s,80s 94
+Derek Poundstone    147 kg F   G 00s,10s
+Bryan Benzel        147 kg       10s
+Mark Philippi       145 kg F   G 90s,00s
+Nick Best           145 kg F   G 10s,20s
+Don Pope            145 kg F   G 00s
+Josh Thigpen        145 kg       00s
+Brian Schoonveld    145 kg       00s
+Kevin Nee           140 kg F     00s
+Marshall White      140 kg       00s
+Harold Collins      140 kg F     90s     94
+Gary Mitchell       140 kg       90s
+Jon Lane            138 kg       10s
+Steve Pulcinella    137 kg       90s
+Travis Ortmayer     136 kg F   G 00s,10s,20s
+Stan Carradine      136 kg       10s
+Ernie Hackett       136 kg F     80s     94
+Steve Kirit         135 kg       00s
+Rob Kearney         135 kg       10s
+Kevin Toth          135 kg       90s
+Mike Caruso         134 kg       10s
+Ken Brown           132 kg       90s
+Karl Gillingham     130 kg       00s
+Lou Ferrigno        130 kg F     70s     94
+Jason Bergmann      127 kg F   G 00s,10s
+John Matuszak       127 kg F     70s     94
+Phil Pfister        125 kg F W G 90s,00s
+Whit Baskin         125 kg       90s,00s
+Doyle Kenady        125 kg F     80s     94
+Curt Marsh          125 kg F     80s     94
+Billy Graham        125 kg F     80s     94
+Brian Oldfield      125 kg F     70s     94
+Curt Leffler        124 kg       90s
+Adam Derks          123 kg       10s
+Kevin Faires        122 kg F   G 10s,20s
+Bob Young           122 kg F     70s     94
+Ross Browner        120 kg F     80s     94
+Jim Hough           120 kg F     80s     94
+Craig Wolfley       120 kg F     80s     94
+Jon Kolb            119 kg F     70s     94
+Keith Bishop        118 kg F     80s     94
+Ken Patera          116 kg F     70s     94
+Terry Brennan       111 kg       90s
+George Frenn        110 kg F     70s     94     
+Dave Johns          98  kg F     70s     94
+
+Jesse Marunde       ??? kg F   G 00s
+Tommy Ingalsbe      ??? kg       90s
+Dave Waddington     ??? kg F     80s     94
+Durwin Piper        ??? kg F     80s     94
+George Hechter      ??? kg F     80s     94
+Joe Zelezniak       ??? kg F     80s     94
+John Gamble         ??? kg F     80s     94
+Larry Kidney        ??? kg F     80s     94
+Rick Brown          ??? kg F     80s     94
+Bill Dunn           ??? kg F     80s     94
+Gus Rethwisch       ??? kg F     70s     94
+Jack Wright         ??? kg F     70s     94
+Jerry Blackwell     ??? kg F     70s     94
+Joe Dube            ??? kg F     70s     94
+Jon Cole            ??? kg F     70s     94
+Mike Dayton         ??? kg F     70s     94
+
+Avg. Athlete Weight         (70s)       134 kg
+Avg. Winner Weight          (70s)       156 kg
+
+Avg. Athlete Weight         (80s)       138 kg
+Avg. Winner Weight          (80s)       148 kg
+
+Avg. Athlete Weight         (before 94) 136 kg 
+Avg. Winner Weight          (before 94) 153 kg 
+
+Avg. Athlete Weight         (90s)       139 kg
+Avg. Finalists Weight       (90s)       159 kg
+Avg. Group Winner Weight    (90s)       145 kg
+Avg. Winner Weight          (90s)       --- kg
+
+Avg. Athlete Weight         (00s)       145 kg
+Avg. Finalists Weight       (00s)       149 kg
+Avg. Group Winner Weight    (00s)       151 kg
+Avg. Winner Weight          (00s)       125 kg
+
+Avg. Athlete Weight         (10s)       149 kg
+Avg. Finalists Weight       (10s)       158 kg
+Avg. Group Winner Weight    (10s)       155 kg
+Avg. Winner Weight          (10s)       172 kg
+
+Avg. Athlete Weight         (20s)       158 kg
+Avg. Finalists Weight       (20s)       163 kg
+Avg. Group Winner Weight    (20s)       159 kg
+Avg. Winner Weight          (20s)       --- kg
+
+Avg. Athlete Weight                     142 kg
+Avg. Finalists Weight                   148 kg
+Avg. Group Winner Weight                144 kg
+Avg. Winner Weight                      155 kg

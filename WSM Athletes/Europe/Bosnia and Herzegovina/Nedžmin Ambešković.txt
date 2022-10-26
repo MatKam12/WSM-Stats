@@ -1,0 +1,149 @@
+Nedžmin Ambešković
+
+Height - 1,90 m
+
+Weight - 162 kg
+
+Born - 1990-05-31
+
+
+- First A - 31 yrs, 11 m, & 9 d
+
+- Last A - 31 yrs, 11 m, & 9 d
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 5th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 9,00
+
+- CP% - 10,00
+
+- CGP - 9,00
+
+- CGP% - 30,00
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 9,00 (2022)
+
+- CHP% - 10,00 (2022)
+
+- CLP - 9,00 (2022)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 9,00 (2022)
+
+- CHGP% - 30,00 (2022)
+
+- CLGP - 9,00 (2022)
+
+
+
+- EC - 5
+
+- GEC - 5
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 1,80
+
+- PPFE - 0,00
+
+- PPGE - 1,80
+
+- CHPPE - 1,80 (2022)
+
+- CLPPE - 1,80 (2022)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 1,80 (2022)
+
+- CLPPGE - 1,80 (2022)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

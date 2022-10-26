@@ -1,0 +1,121 @@
+Brian Shaw          2,03 m F W G 00s,10s,20s
+John Matuszak       2,03 m F     70s     94
+Cleve Dean          2,01 m F     70s     94
+Mike Burke          2,01 m F   G 10s
+Mike Jenkins        2,01 m F     10s
+Robert Oberst       2,01 m F     10s,20s
+Dave Ostlund        2,01 m F     00s,10s
+O.D. Wilson         1,99 m F     90s     94
+Evan Singleton      1,98 m       20s
+Phil Pfister        1,98 m F W G 90s,00s 
+Johnny Perry        1,98 m F   G 00s
+Josh Thigpen        1,98 m       00s,10s
+Phil Martin         1,98 m F     90s
+Derek DeVaughan     1,96 m       10s
+Brian Oldfield      1,95 m F     70s     94
+Bryan Neese         1,94 m       90s
+Curt Marsh          1,94 m F     80s     94
+Jerry Pritchett     1,93 m F   G 10s,20s
+Trey Mitchell       1,93 m F   G 10s,20s
+Jesse Marunde       1,93 m F   G 00s
+Kevin Toth          1,93 m       90s
+Ralph Williams      1,93 m       90s
+Bill Graham         1,93 m F     80s     94
+Lou Ferrigno        1,93 m F     70s     94
+Don Pope            1,91 m F   G 00s 
+Travis Ortmayer     1,91 m F   G 00s,10s,20s
+Karl Gillingham     1,91 m       00s
+Marsh White         1,91 m       00s
+James Voronin       1,91 m       90s
+Ross Browner        1,91 m F     80s     94
+Keith Bishop        1,91 m F     80s     94
+Brian Schoonveld    1,90 m       00s
+Don Reinhoudt       1,90 m F W   70s,80s 94
+Martin Licis        1,89 m F W G 10s
+Nick Best           1,88 m F   G 10s,20s
+Jon Lane            1,88 m       10s
+Bryan Benzel        1,88 m       10s
+Kevin Nee           1,88 m F     00s
+Steve Kirit         1,88 m       00s
+Brian Siders        1,88 m       00s
+Jim Hough           1,88 m F     80s     94
+Bill Kazmaier       1,88 m F W   70s,80s 94
+Bruce Wilhelm       1,88 m F W   70s     94
+Jon Kolb            1,88 m F     70s     94
+Kevin Faires        1,87 m F   G 10s,20s
+Ken Patera          1,87 m F     70s     94
+Bobby Thompson      1,85 m F   G 20s
+Mike Caruso         1,85 m       10s
+Derek Poundstone    1,85 m F   G 00s,10s
+Curt Leffler        1,85 m       90s
+Gary Mitchell       1,85 m       90s
+Ken Brown           1,85 m       90s
+Niko Noga           1,85 m       90s
+Steve Pulcinella    1,85 m       90s
+Craig Wolfley       1,85 m F     80s     94
+Bob Young           1,85 m F     70s     94
+Harold Collins      1,84 m F     90s     94
+Dave Waddington     1,84 m F     80s     94
+Adam Derks          1,83 m       10s
+James Perry         1,83 m F     90s     94
+Terry Brennan       1,83 m       90s
+Mark Philippi       1,83 m F   G 90s,00s
+Larry Kidney        1,83 m F     80s     94
+Jason Bergmann      1,80 m F   G 00s,10s
+Whit Baskin         1,80 m       90s,00s
+Rick Brown          1,80 m F     80s     94
+John Gamble         1,80 m F     80s     94
+George Frenn        1,80 m F     70s     94
+Jon Cole            1,78 m F     70s     94
+Doyle Kenady        1,78 m F     80s     94
+Mike Dayton         1,77 m F     70s     94
+Rob Kearney         1,75 m       10s
+Stan Carradine      1,75 m       10s
+Dave Johns          1,75 m F     70s     94
+Jerry Blackwell     1.75 m F     70s     94
+
+Tommy Ingalsbe      ?,?? m       90s
+Bill Dunn           ?.?? m F     80s     94
+Durwin Piper        ?,?? m F     80s     94
+Ernie Hackett       ?,?? m F     80s     94
+George Hechter      ?,?? m F     80s     94
+Jerry Hannan        ?,?? m F     80s     94
+Joe Zelezniak       ?,?? m F     80s     94
+Gus Rethwisch       ?,?? m F     70s     94
+Jack Wright         ?,?? m F     70s     94
+Joe Dube            ?,?? m F     70s     94
+
+Avg. Athlete Height         (70s)       1,86 m
+Avg. Winner Height          (70s)       1,89 m
+
+Avg. Athlete Height         (80s)       1,86 m
+Avg. Winner Height          (80s)       1,88 m
+
+Avg. Athlete Height         (before 94) 1,86 m 
+Avg. Winner Height          (before 94) 1,88 m 
+
+Avg. Athlete Height         (90s)       1,88 m
+Avg. Finalists Height       (90s)       1,91 m
+Avg. Group Winner Height    (90s)       1,83 m
+Avg. Winner Height          (90s)       ---- m
+
+Avg. Athlete Height         (00s)       1,90 m
+Avg. Finalists Height       (00s)       1,91 m
+Avg. Group Winner Height    (00s)       1,94 m
+Avg. Winner Height          (00s)       2,00 m
+
+Avg. Athlete Height         (10s)       1,90 m
+Avg. Finalists Height       (10s)       1,93 m
+Avg. Group Winner Height    (10s)       1,91 m
+Avg. Winner Height          (10s)       1,96 m
+
+
+Avg. Athlete Height         (20s)       1,93 m
+Avg. Finalists Height       (20s)       1,93 m
+Avg. Group Winner Height    (20s)       1,92 m
+Avg. Winner Height          (20s)       ---- m
+
+Avg. Athlete Height                     1,88 m
+Avg. Finalists Height                   1,89 m
+Avg. Group Winner Height                1,91 m
+Avg. Winner Height                      1,92 m

@@ -1,0 +1,51 @@
+Johan Els                   1,94 m F     10s
+Pieter de Bruyn             1,93 m F   G 90s,00s
+Gerhard van Staden          1,91 m       10s
+Johan van Heerden           1,88 m       00ss
+Wayne Price                 1,88 m F     90s
+Gerrit Badenhorst           1,86 m F   G 90s,00s 94
+Hennie Jordaan              1,84 m       10s
+Anton Boucher               1,83 m F     90s
+Chris van der Linde         1,82 m       20s
+Frankie Scheun              1,82 m       10s
+Oluwatofunmi Fadesire       1,81 m       10s
+Ettiene Smit                1,80 m       00s,10s
+Pius Ochieng                ?,?? m F     80s 94
+Malone Horn                 ?,?? m       00s
+Nigel Moss                  ?,?? m       00s
+Chris Okonkwo               ?,?? m F     80s 94 
+
+Avg. Athlete Height         (70s)       ---- m
+Avg. Winner Height          (70s)       ---- m
+
+Avg. Athlete Height         (80s)       ???? m
+Avg. Winner Height          (80s)       ---- m
+
+Avg. Athlete Height         (before 94) 1,86 m 
+Avg. Winner Height          (before 94) ---- m 
+
+Avg. Athlete Height         (90s)       1,87 m
+Avg. Finalists Height       (90s)       1,87 m
+Avg. Group Winner Height    (90s)       1,89 m
+Avg. Winner Height          (90s)       ---- m
+
+Avg. Athlete Height         (00s)       1,86 m
+Avg. Finalists Height       (00s)       1,86 m
+Avg. Group Winner Height    (00s)       ---- m
+Avg. Winner Height          (00s)       ---- m
+
+Avg. Athlete Height         (10s)       1,85 m
+Avg. Finalists Height       (10s)       1,94 m
+Avg. Group Winner Height    (10s)       ---- m
+Avg. Winner Height          (10s)       ---- m
+
+
+Avg. Athlete Height         (20s)       1,82 m
+Avg. Finalists Height       (20s)       ---- m
+Avg. Group Winner Height    (20s)       ---- m
+Avg. Winner Height          (20s)       ---- m
+
+Avg. Athlete Height                     1,86 m
+Avg. Finalists Height                   1,88 m
+Avg. Group Winner Height                1,89 m
+Avg. Winner Height                      ---- m

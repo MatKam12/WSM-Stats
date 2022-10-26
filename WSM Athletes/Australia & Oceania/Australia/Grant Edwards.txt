@@ -1,0 +1,150 @@
+Grant Edwards
+
+Height - 1.95 m
+
+Weight - 140 kg 
+
+Born - 1970-08-21
+
+
+- First A - 29 yrs, 10 m, 1 d (1999)
+
+- Last A - 29 yrs, 10 m, 1 d (1999)
+
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 6th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00 
+
+
+
+- CP - 13,00
+
+- CP% - 12,26
+
+- CGP - 13,00
+
+- CGP% - 36,11
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 13,00 (1999)
+
+- CHP% - 12,26 (1999)
+
+- CLP - 13,00 (1999)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 13,00 (1999)
+
+- CHGP% - 36,11 (1999)
+
+- CLGP - 13,00 (1999)
+
+
+
+- EC - 6
+
+- GEC - 6
+
+- FEC - 0
+
+- EW - 1
+
+- EW% - 16,67
+
+- GEW - 1
+
+- GEW% - 16,67
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (1999)
+
+- CHGEW - 1 (1999)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 16,67 (1999)
+
+- CHGEW% - 16,67 (1999)
+
+- CHFEW% - 0
+
+
+
+- PPE - 2,17
+
+- PPFE - 0,00
+
+- PPGE - 2,17
+
+- CHPPE - 2,17 (1999)
+
+- CLPPE - 2,17 (1999)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 2,17 (1999)
+
+- CLPPGE - 2,17 (1999)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

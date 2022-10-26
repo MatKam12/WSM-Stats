@@ -1,0 +1,149 @@
+Mikkel Leicht
+
+Height - 1,80 m
+
+Weight - 142 kg
+
+Born - 1988
+
+
+- First A - 28 (2016)
+
+- Last A - 29 (2017)
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 5th in Heats
+
+- FA% - 0,00
+
+- GA - 2
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 33,50
+
+- CP% - 17,45
+
+- CGP - 33,50
+
+- CGP% - 46,53
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 20,00 (2016)
+
+- CHP% - 19,60 (2017)
+
+- CLP - 13,50 (2017)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 20,00 (2016)
+
+- CHGP% - 47,61 (2016)
+
+- CLGP - 13,50 (2017)
+
+
+
+- EC - 11
+
+- GEC - 11
+
+- FEC - 0
+
+- EW - 2
+
+- EW% - 18,18
+
+- GEW - 2
+
+- GEW% - 18,18
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (2016, 2017)
+
+- CHGEW - 1 (2016, 2017)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 20,00 (2017)
+
+- CHGEW% - 20,00 (2017)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,05
+
+- PPFE - 0,00
+
+- PPGE - 3,05
+
+- CHPPE - 3,33 (2016)
+
+- CLPPE - 2,70 (2017)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,33 (2016)
+
+- CLPPGE - 2,70 (2017)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0
