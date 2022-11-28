@@ -1,0 +1,153 @@
+Torfi Ólafsson
+
+Height - 
+
+Weight - 
+
+Born - 
+
+
+- First A - 
+
+- First FA - 
+
+- Last A - 
+
+- Last FA - 
+
+
+- A - 5
+
+- CA - 3
+
+- FA - 3
+
+- CFA - 2
+
+- BF - 4th in Heats
+
+- FA% - 60,00
+
+- GA - 5
+
+- GW - 1
+
+- GW% - 20,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 170,00
+
+- CP% - 33,46
+
+- CGP - 76,00
+
+- CGP% - 59,38
+
+- CFP - 94,00
+
+- CFP% - 24,74
+
+
+
+- CHP - 61,50 (1997)
+
+- CHP% - 59,13 (1997)
+
+- CLP - 2,00 (1995)
+
+- CHFP - 45,50 (1997)
+
+- CHFP% - 56,87 (1997)
+
+- CLFP - 19,00 (1998)
+
+- CHGP - 27,00 (1999)
+
+- CHGP% - 81,25 (1998)
+
+- CLGP - 2,00 (1995)
+
+
+
+- EC - 40
+
+- GEC - 21
+
+- FEC - 19
+
+- EW - 5
+
+- EW% - 12,50
+
+- GEW - 4
+
+- GEW% - 19,05
+
+- FEW - 1
+
+- FEW% - 5,26
+
+
+
+- WE - 7
+
+- WGE - 3
+
+- WFE - 4
+
+
+
+- CHEW - 3 (1998)
+
+- CHGEW - 2 (1998)
+
+- CHFEW - 1 (1998)
+
+
+
+- CHEW% - 37,50 (1998, 1999)
+
+- CHGEW% - 50,00 (1998)
+
+- CHFEW% - 25,00 (1998)
+
+
+
+- PPE - 4,25
+
+- PPFE - 4,95
+
+- PPGE - 3,62
+
+- CHPPE - 5,12 (1997)
+
+- CLPPE - 2,00 (1995)
+
+- CHPPFE - 5,68 (1997)
+
+- CLPPFE - 4,21 (1999)
+
+- CHPPGE - 4,50 (1999)
+
+- CLPPGE - 2,00 (1995)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

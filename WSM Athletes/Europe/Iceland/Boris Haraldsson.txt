@@ -1,0 +1,149 @@
+Boris Haraldsson
+
+Height - 1,83 m
+
+Weight - 140 kg
+
+Born - 1980-03-16
+
+
+- First A - 
+
+- Last A - 
+
+
+- A - 3
+
+- CA - 2
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 3rd in Heats
+
+- FA% - 0,00
+
+- GA - 3
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 53,00
+
+- CP% - 17,67
+
+- CGP - 53,00
+
+- CGP% - 58,89
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 21,50 (2005)
+
+- CHP% - 21,50 (2005)
+
+- CLP - 12,50 (2007)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 21,50 (2005)
+
+- CHGP% - 71,66 (2005)
+
+- CLGP - 12,50 (2007)
+
+
+
+- EC - 17
+
+- GEC - 17
+
+- FEC - 0
+
+- EW - 3
+
+- EW% - 17,65
+
+- GEW - 3
+
+- GEW% - 17,65
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 1
+
+- WGE - 1
+
+- WFE - 0
+
+
+
+- CHEW - 2 (2006)
+
+- CHGEW - 2 (2006)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 33,33 (2006)
+
+- CHGEW% - 33,33 (2006)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,12
+
+- PPFE - 0,00
+
+- PPGE - 3,12
+
+- CHPPE - 3,58 (2005)
+
+- CLPPE - 2,50 (2007)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,58 (2005)
+
+- CLPPGE - 2,50 (2007)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

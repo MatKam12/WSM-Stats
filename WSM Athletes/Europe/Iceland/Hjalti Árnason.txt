@@ -1,0 +1,149 @@
+Hjalti Árnason
+
+Height - 1,88 m
+
+Weight - 140 kg
+
+Born - 1963-02-18
+
+
+- First A - 33 yrs, (1996)
+
+- Last A - 33 yrs, (1996)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 5th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 12,00
+
+- CP% - 13,63
+
+- CGP - 12,00
+
+- CGP% - 50,00
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 12,00 (1996)
+
+- CHP% - 13,63 (1996)
+
+- CLP - 12,00 (1996)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 12,00 (1996)
+
+- CHGP% - 50,00 (1996)
+
+- CLGP - 12,00 (1996)
+
+
+
+- EC - 4
+
+- GEC - 4
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,00
+
+- PPFE - 0,00
+
+- PPGE - 3,00
+
+- CHPPE - 3,00 (1996)
+
+- CLPPE - 3,00 (1996)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,00 (1996)
+
+- CLPPGE - 3,00 (1996)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

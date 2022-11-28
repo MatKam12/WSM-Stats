@@ -1,0 +1,149 @@
+Gunnar Thór Gudjónsson
+
+Height - ?,?? m
+
+Weight - ??? kg
+
+Born - 1963-02-11
+
+
+- First A - 35 yrs, 7 m, & 28 d (1998)
+
+- Last A - 35 yrs, 7 m, & 28 d (1998)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 4th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 1
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 6,00
+
+- CP% - 8,33
+
+- CGP - 8,00
+
+- CGP% - 50,00
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 6,00 (1998)
+
+- CHP% - 8,33 (1998)
+
+- CLP - 6,00 (1998)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 6,00 (1998)
+
+- CHGP% - 50,00 (1998)
+
+- CLGP - 6,00 (1998)
+
+
+
+- EC - 4
+
+- GEC - 4
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 1,50
+
+- PPFE - 0,00
+
+- PPGE - 0,00
+
+- CHPPE - 1,50 (1998)
+
+- CLPPE - 1,50 (1998)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 1,50 (1998)
+
+- CLPPGE - 1,50 (1998)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0
