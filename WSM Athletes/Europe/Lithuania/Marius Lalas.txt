@@ -1,0 +1,148 @@
+Height - 1,78 m
+
+Weight - 132 kg
+
+Born - 1985-12-23
+
+
+- First A - 32 yrs, 4 m, & 14 d (2018)
+
+- Last A - 32 yrs, 4 m, & 14 d (2018)
+
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 3rd in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 19,50
+
+- CP% - 21,67
+
+- CGP - 19,50
+
+- CGP% - 65,00
+
+- CFP - 0
+
+- CFP% - 0,00
+
+
+
+- CHP - 19,50 (2018)
+
+- CHP% - 21,67 (2018)
+
+- CLP - 19,50 (2018)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 19,50 (2018)
+
+- CHGP% - 65,00 (2018)
+
+- CLGP - 19,50 (2018)
+
+
+
+- EC - 6
+
+- GEC - 6
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,0
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,25
+
+- PPFE - 0,00
+
+- PPGE - 3,25
+
+- CHPPE - 3,25 (2018)
+
+- CLPPE - 3,25 (2018)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,25 (2018)
+
+- CLPPGE - 3,25 (2018)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

@@ -1,0 +1,165 @@
+Height - 1,91 m
+
+Weight - 180 kg
+
+Born - 1975-07-15
+
+
+- First A - 23 yrs, 3 m, & 3 d (1998)
+
+- First FA - 27 yrs, 2 m, & 8 d (2002)
+
+- Last A - 42 yrs, 9 m, & 22 d (2018)
+
+- Last FA - 42 yrs, 9 m, & 22 d (2018)
+
+
+- A - 14
+
+- CA - 6
+
+- FA - 12
+
+- CFA - 6
+
+- BF - 1st in Finals
+
+- FA% - 85,71
+
+- GA - 14
+
+- GW - 9
+
+- GW% - 64,29
+
+- W% - 28,57
+
+- Adj. W% - 33,33
+
+
+
+- CP - 949,00
+
+- CP% - 67,59
+
+- CGP - 418,50
+
+- CGP% - 83,04
+
+- CFP - 530,50
+
+- CFP% - 58,94
+
+
+
+- CHP - 92,50 (2014)
+
+- CHP% - 87,74 (2015)
+
+- CLP - 9,00 (1998)
+
+- CHFP - 64,00 (2014)
+
+- CHFP% - 88,88 (2014)
+
+- CLFP - 21,50 (2018)
+
+- CHGP - 54,00 (2004)
+
+- CHGP% - 95,23 (2015)
+
+- CLGP - 9,00 (1998)
+
+
+
+- EC - 175
+
+- GEC - 86
+
+- FEC - 89
+
+- EW - 55
+
+- EW% - 34,38
+
+- GEW - 37
+
+- GEW% - 43,02
+
+- FEW - 18
+
+- FEW% - 24,32
+
+
+
+- WE - 3
+
+- WGE - 0
+
+- WFE - 3
+
+
+
+- CHEW - 7 (2015)
+
+- CHGEW - 5 (2015)
+
+- CHFEW - 3 (2009, 2010)
+
+
+
+- CHEW% - 58,33 (2015)
+
+- CHGEW% - 83,33 (2015)
+
+- CHFEW% - 50,00 (2010)
+
+
+
+- PPE - 5,42
+
+- PPFE - 5,96
+
+- PPGE - 4,87
+
+- CHPPE - 7,70 (2014)
+
+- CLPPE - 2,25 (1998)
+
+- CHPPFE - 10,66 (2014)
+
+- CLPPFE - 3,00 (2018)
+
+- CHPPGE - 6,66 (2015)
+
+- CLPPGE - 2,25 (1998)
+
+
+
+- BTBEW: 10
+
+- BTBFEW: 2 (2004, 2011)
+
+- BTBGEW: 8 (2002, 2003, 2010, 2x2011, 2012, 2015, 2018)
+
+
+
+- BTBTBEW: 1
+
+- BTBTBFEW: 1 (2010)
+
+- BTBTBGEW: 0
+
+
+- BTBTBTBEW: 0
+
+- BTBTBTBFEW: 0
+
+- BTBTBTBGEW: 0
+
+
+- BTBTBTBTBEW: 1
+
+- BTBTBTBTBFEW: 0
+
+- BTBTBTBTBGEW: 1 (2015)

@@ -1,0 +1,151 @@
+Height - 1,80 m
+
+Weight - 131 kg
+
+Born - 1976-03-22
+
+
+- First A - 29 yrs, 6 m, & 14 d (2005)
+
+- First FA - 30 yrs, 6 m, & 1 d (2006)
+
+- Last A - 32 yrs, 5 m, & 21 d (2008)
+
+- Last FA - 30 yrs, 6 m, & 1 d (2006)
+
+
+- A - 4
+
+- CA - 3
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 9th in Finals
+
+- FA% - 25,00
+
+- GA - 4
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 98,50
+
+- CP% - 24,26
+
+- CGP - 72,50
+
+- CGP% - 57,54
+
+- CFP - 26,00
+
+- CFP% - 9,29
+
+
+
+- CHP - 46,50 (2006)
+
+- CHP% - 46,50 (2006)
+
+- CLP - 14,50 (2008)
+
+- CHFP - 26,00 (2006)
+
+- CHFP% - 37,14 (2006)
+
+- CLFP - 26,00 (2006)
+
+- CHGP - 21,50 (2006)
+
+- CHGP% - 71,66 (2006)
+
+- CLGP - 14,50 (2008)
+
+
+
+- EC - 31
+
+- GEC - 24
+
+- FEC - 7
+
+- EW - 3
+
+- EW% - 9,68
+
+- GEW - 3
+
+- GEW% - 12,50
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 2 (2006)
+
+- CHGEW - 2 (2006)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 16,67 (2005)
+
+- CHGEW% - 33,33 (2005)
+
+- CHFEW% - 0
+
+
+
+- PPE - 3,18
+
+- PPFE - 3,71
+
+- PPGE - 3,02
+
+- CHPPE - 3,65 (2006)
+
+- CLPPE - 2,41 (2008)
+
+- CHPPFE - 3,71 (2006)
+
+- CLPPFE - 3,71 (2006)
+
+- CHPPGE - 3,58 (2006)
+
+- CLPPGE - 2,41 (2008)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0
