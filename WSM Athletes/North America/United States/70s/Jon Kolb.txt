@@ -1,0 +1,151 @@
+Height - 1,88 m
+
+Weight - 119 kg
+
+Born - 1947-08-30
+
+
+- First A - 31 yrs (1978)
+
+- First FA - 31 yrs (1978)
+
+- Last A - 32 yrs (1979)
+
+- Last FA - 32 yrs (1979)
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 2
+
+- CFA - 1
+
+- BF - 4th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 64,83
+
+- CP% - 32,42
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 64,83
+
+- CFP% - 32,42
+
+
+
+- CHP - 41,43 (1979)
+
+- CHP% - 41,43 (1979)
+
+- CLP - 23,40 (1978)
+
+- CHFP - 41,43 (1979)
+
+- CHFP% - 41,43 (1979)
+
+- CLFP - 23,40 (1978)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 20
+
+- GEC - 0
+
+- FEC - 20
+
+- EW - 5
+
+- EW% - 25,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 5
+
+- FEW% - 25,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 4 (1979)
+
+- CHGEW - 0
+
+- CHFEW - 4 (1979)
+
+
+
+- CHEW% - 40,00 (1979)
+
+- CHGEW% - 0,00
+
+- CHFEW% - 40,00 (1979)
+
+
+
+- PPE - 3,24
+
+- PPFE - 3,24
+
+- PPGE - 0,00
+
+- CHPPE - 4,14 (1979)
+
+- CLPPE - 2,34 (1978)
+
+- CHPPFE - 4,14 (1979)
+
+- CLPPFE - 2,34 (1978)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 1
+
+- BTBFEW: 1 (1979)
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

@@ -1,6 +1,4 @@
-Grant Edwards
-
-Height - 1.95 m
+Height - 1,95 m
 
 Weight - 140 kg 
 
@@ -10,7 +8,6 @@ Born - 1970-08-21
 - First A - 29 yrs, 10 m, 1 d (1999)
 
 - Last A - 29 yrs, 10 m, 1 d (1999)
-
 
 
 - A - 1

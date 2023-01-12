@@ -1,0 +1,151 @@
+Height - ??? kg
+
+Weight - 154 kg 
+
+Born - ????-??-??
+
+
+- First A - ? (1980)
+
+- First FA - ? (1980)
+
+- Last A - ? (1981)
+
+- Last FA - ? (1981)
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 2
+
+- CFA - 1
+
+- BF - 4th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 113,50
+
+- CP% - 49,35
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 113,50
+
+- CFP% - 49,35
+
+
+ 
+- CHP - 68,00 (1981)
+
+- CHP% - 56,67 (1981)
+
+- CLP - 45,50 (1980)
+
+- CHFP - 68,00 (1981)
+
+- CHFP% - 56,67 (1981)
+
+- CLFP - 45,50 (1980)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 21
+
+- GEC - 0
+
+- FEC - 21
+
+- EW - 1
+
+- EW% - 4,76
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 1
+
+- FEW% - 4,76
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (1980)
+
+- CHGEW - 0
+
+- CHFEW - 1 (1980)
+
+
+
+- CHEW% - 10,00 (1980)
+
+- CHGEW% - 0,00
+
+- CHFEW% - 10,00 (1980)
+
+
+
+- PPE - 5,40
+
+- PPFE - 5,40
+
+- PPGE - 0,00
+
+- CHPPE - 6,18 (1981)
+
+- CLPPE - 4,55 (1980)
+
+- CHPPFE - 6,18 (1981)
+
+- CLPPFE - 4,55 (1980)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

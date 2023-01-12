@@ -1,10 +1,8 @@
-Bernard Rolle
-
 Height - 1.90 m
 
 Weight - 134 kg
 
-Born - 1964
+Born - 1964-??-??
 
 
 - First A - 31 yrs (1995)
@@ -22,17 +20,17 @@ Born - 1964
 
 - BF - 3rd in Heats
 
-- FA% - 0
+- FA% - 0,00
 
 - GA - 2
 
 - GW - 0
 
-- GW% - 0
+- GW% - 0,00
 
-- W% - 0
+- W% - 0,00
 
-- Adj. W% - 0
+- Adj. W% - 0,00
 
 
 
@@ -40,13 +38,13 @@ Born - 1964
 
 - CP% - 7,25
 
-- CGP - 14,5
+- CGP - 14,50
 
 - CGP% - 36,25
 
-- CFP - 0
+- CFP - 0,00
 
-- CFP% - 0
+- CFP% - 0,00
 
 
 
@@ -54,7 +52,7 @@ Born - 1964
 
 - CHP% - 8,85 (1995)
 
-- CLP - 6 (1997)
+- CLP - 6,00 (1997)
 
 - CHFP - 0
 
@@ -62,11 +60,11 @@ Born - 1964
 
 - CLFP - 0
 
-- CHGP - 8,5 (1995)
+- CHGP - 8,50 (1995)
 
 - CHGP% - 53,12 (1995)
 
-- CLGP - 6 (1997)
+- CLGP - 6,00 (1997)
 
 
 
@@ -78,15 +76,15 @@ Born - 1964
 
 - EW - 1
 
-- EW% - 12,5
+- EW% - 12,50
 
 - GEW - 1
 
-- GEW% - 12,5
+- GEW% - 12,50
 
 - FEW - 0
 
-- FEW% - 0
+- FEW% - 0,00
 
 
 
@@ -106,17 +104,17 @@ Born - 1964
 
 
 
-- CHEW% - 25 (1995)
+- CHEW% - 25,00 (1995)
 
-- CHGEW% - 25 (1995)
+- CHGEW% - 25,00 (1995)
 
-- CHFEW% - 0
+- CHFEW% - 0,00
 
 
 
 - PPE - 1,81
 
-- PPFE - 0
+- PPFE - 0,00
 
 - PPGE - 1,81
 
@@ -124,9 +122,9 @@ Born - 1964
 
 - CLPPE - 1,50 (1997)
 
-- CHPPFE - 0
+- CHPPFE - 0,00
 
-- CLPPFE - 0
+- CLPPFE - 0,00
 
 - CHPPGE - 2,12 (1995)
 

@@ -1,16 +1,13 @@
-Johan van Heerden
-
 Height - 1,88 m
 
 Weight - 130 kg
 
-Born - 1975
+Born - 1975-??-??
 
 
-- First A - 26 (2001)
+- First A - 26 yrs (2001)
 
-- Last A - 26 (2001)
-
+- Last A - 26 yrs (2001)
 
 
 - A - 1
@@ -23,51 +20,51 @@ Born - 1975
 
 - BF - 5th in Heats
 
-- FA% - 0
+- FA% - 0,00
 
 - GA - 1
 
 - GW - 0
 
-- GW% - 0
+- GW% - 0,00
 
-- W% - 0
+- W% - 0,00
 
-- Adj. W% - 0
+- Adj. W% - 0,00
 
 
 
-- CP - 16,5
+- CP - 16,50
 
 - CP% - 15,57
 
-- CGP - 16,5
+- CGP - 16,50
 
 - CGP% - 45,83
 
-- CFP - 0
+- CFP - 0,00
 
-- CFP% - 0
+- CFP% - 0,00
 
 
 
-- CHP - 16,5 (2001)
+- CHP - 16,50 (2001)
 
 - CHP% - 15,57 (2001)
 
-- CLP - 16,5 (2001)
+- CLP - 16,50 (2001)
 
-- CHFP -  0
+- CHFP -  0,00
 
-- CHFP% - 0 
+- CHFP% - 0,00
 
-- CLFP - 0
+- CLFP - 0,00
 
-- CHGP - 16,5 (2001)
+- CHGP - 16,50 (2001)
 
 - CHGP% - 45,83 (2001)
 
-- CLGP - 16,5 (2001)
+- CLGP - 16,50 (2001)
 
 
 
@@ -79,15 +76,15 @@ Born - 1975
 
 - EW - 0
 
-- EW% - 0
+- EW% - 0,00
 
 - GEW - 0
 
-- GEW% - 0
+- GEW% - 0,00
 
 - FEW - 0
 
-- FEW% - 0
+- FEW% - 0,00
 
 
 
@@ -107,17 +104,17 @@ Born - 1975
 
 
 
-- CHEW% - 0
+- CHEW% - 0,00
 
-- CHGEW% - 0
+- CHGEW% - 0,00
 
-- CHFEW% - 0
+- CHFEW% - 0,00
 
 
 
 - PPE - 2,75
 
-- PPFE - 0
+- PPFE - 0,00
 
 - PPGE - 2,75
 
@@ -125,9 +122,9 @@ Born - 1975
 
 - CLPPE - 2,75 (2001)
 
-- CHPPFE - 0
+- CHPPFE - 0,00
 
-- CLPPFE - 0
+- CLPPFE - 0,00
 
 - CHPPGE - 2,75 (2001)
 
@@ -135,6 +132,16 @@ Born - 1975
 
 
 
-- BTBEW - 0
+- BTBEW: 0
 
-- BTBTBEW - 0
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

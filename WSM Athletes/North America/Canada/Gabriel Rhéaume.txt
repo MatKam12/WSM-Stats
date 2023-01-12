@@ -1,5 +1,3 @@
-Gabriel Rhéaume
-
 Height -  1,88 m
 
 Weight - 154 kg
@@ -26,17 +24,17 @@ Born - 1996-11-07
 
 - BF - 10th in Finals
 
-- FA% - 100
+- FA% - 100,00
 
 - GA - 1
 
 - GW - 0
 
-- GW% - 0
+- GW% - 0,00
 
-- W% - 0
+- W% - 0,00
 
-- Adj. W% - 0
+- Adj. W% - 0,00
 
 
 
@@ -90,7 +88,7 @@ Born - 1996-11-07
 
 - FEW - 0
 
-- FEW% - 0
+- FEW% - 0,00
 
 
 

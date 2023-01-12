@@ -1,0 +1,151 @@
+Height - ??? m
+
+Weight - 136 kg
+
+Born - 1954-??-??
+
+
+- First A - 28 yrs (1982)
+
+- First FA - 28 yrs (1982)
+
+- Last A - 28 yrs (1982)
+
+- Last FA - 28 yrs (1982)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 5th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 63,50
+
+- CP% - 57,73
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 63,50
+
+- CFP% - 57,73
+
+
+
+- CHP - 63,50 (1982)
+
+- CHP% - 57,73 (1982)
+
+- CLP - 63,50 (1982)
+
+- CHFP - 63,50 (1982)
+
+- CHFP% - 57,73 (1982)
+
+- CLFP - 63,50 (1982)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 10
+
+- GEC - 0
+
+- FEC - 10
+
+- EW - 1
+
+- EW% - 10,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 1
+
+- FEW% - 10,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (1982)
+
+- CHGEW - 0
+
+- CHFEW - 1 (1982)
+
+
+
+- CHEW% - 10,00 (1982)
+
+- CHGEW% - 0,00
+
+- CHFEW% - 10,00 (1982)
+
+
+
+- PPE - 6,35
+
+- PPFE - 6,35
+
+- PPGE - 0,00
+
+- CHPPE - 6,35 (1982)
+
+- CLPPE - 6,35 (1982)
+
+- CHPPFE - 6,35 (1982)
+
+- CLPPFE - 6,35 (1982)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

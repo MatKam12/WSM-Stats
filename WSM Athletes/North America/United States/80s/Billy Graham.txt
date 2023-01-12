@@ -1,0 +1,153 @@
+Nickname - Superstar
+
+Height - 1,93 m
+
+Weight - 125 kg
+
+Born - 1943-06-07
+
+
+- First A - 37 yrs (1980)
+
+- First FA - 37 yrs (1980)
+
+- Last A - 37 yrs (1980)
+
+- Last FA - 37 yrs (1980)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 7th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 37,00
+
+- CP% - 33,64
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 37,00
+
+- CFP% - 33,64
+
+
+
+- CHP - 37,00 (1980)
+
+- CHP% - 33,64 (1980)
+
+- CLP - 37,00 (1980)
+
+- CHFP - 37,00 (1980)
+
+- CHFP% - 33,64 (1980)
+
+- CLFP - 37,00 (1980)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 10
+
+- GEC - 0
+
+- FEC - 10
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,70
+
+- PPFE - 3,70
+
+- PPGE - 0,00
+
+- CHPPE - 3,70 (1980)
+
+- CLPPE - 3,70 (1980)
+
+- CHPPFE - 3,70 (1980)
+
+- CLPPFE - 3,70 (1980)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

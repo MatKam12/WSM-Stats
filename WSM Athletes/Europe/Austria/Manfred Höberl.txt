@@ -1,5 +1,3 @@
-Manfred Höberl
-
 Height - 1,91 m
 
 Weight - 135 kg
@@ -7,13 +5,13 @@ Weight - 135 kg
 Born - 1964-05-12
 
 
-- First A - 27 yrs, 4 m, & 25 d
+- First A - 27 yrs, 4 m, & 25 d (1991)
 
-- First FA - 27 yrs, 4 m, & 25 d
+- First FA - 27 yrs, 4 m, & 25 d (1991)
 
-- Last A - 30 yrs, 5 m, & 12 d
+- Last A - 30 yrs, 5 m, & 12 d (1994)
 
-- Last FA - 30 yrs, 5 m, & 12 d
+- Last FA - 30 yrs, 5 m, & 12 d (1994)
 
 
 - A - 3

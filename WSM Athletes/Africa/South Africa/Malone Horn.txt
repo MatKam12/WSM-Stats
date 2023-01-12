@@ -1,16 +1,13 @@
-Malone Horn
-
-Height - ?
+Height - ??? m
 
 Weight - 121 kg
 
-Born - 1970 
+Born - 1970-??-??
 
 
-- First A - 33 (2003)
+- First A - 33 yrs (2003)
 
-- Last A - 33 (2003)
-
+- Last A - 33 yrs (2003)
 
 
 - A - 1
@@ -23,51 +20,51 @@ Born - 1970
 
 - BF - 6th in Heats
 
-- FA% - 0
+- FA% - 0,00
 
 - GA - 1
 
 - GW - 0
 
-- GW% - 0
+- GW% - 0,00
 
-- W% - 0
+- W% - 0,00
 
-- Adj. W% - 0
+- Adj. W% - 0,00
 
 
 
-- CP - 1
+- CP - 1,00
 
 - CP% - 0,94
 
-- CGP - 1
+- CGP - 1,00
 
 - CGP% - 2,78
 
-- CFP - 0
+- CFP - 0,00
 
-- CFP% - 0
+- CFP% - 0,00
 
 
 
-- CHP - 1 (2003)
+- CHP - 1,00 (2003)
 
 - CHP% - 0,94 (2003)
 
-- CLP - 1 (2003)
+- CLP - 1,00 (2003)
 
-- CHFP -  0
+- CHFP -  0,00
 
-- CHFP% -  0
+- CHFP% -  0,00
 
-- CLFP - 0
+- CLFP - 0,00
 
-- CHGP - 1 (2003)
+- CHGP - 1,00 (2003)
 
 - CHGP% - 2,78 (2003)
 
-- CLGP - 1 (2003)
+- CLGP - 1,00 (2003)
 
 
 
@@ -79,15 +76,15 @@ Born - 1970
 
 - EW - 0
 
-- EW% - 0
+- EW% - 0,00
 
 - GEW - 0
 
-- GEW% - 0
+- GEW% - 0,00
 
 - FEW - 0
 
-- FEW% - 0
+- FEW% - 0,00
 
 
 
@@ -107,34 +104,44 @@ Born - 1970
 
 
 
-- CHEW% - 0
+- CHEW% - 0,00
 
-- CHGEW% - 0
+- CHGEW% - 0,00
 
-- CHFEW% - 0
-
-
-
-- PPE - 1
-
-- PPFE - 0
-
-- PPGE - 1
-
-- CHPPE - 1 (2003)
-
-- CLPPE - 1 (2003)
-
-- CHPPFE - 0
-
-- CLPPFE - 0
-
-- CHPPGE - 1 (2003)
-
-- CLPPGE - 1 (2003)
+- CHFEW% - 0,00
 
 
 
-- BTBEW - 0
+- PPE - 1,00
 
-- BTBTBEW - 0
+- PPFE - 0,00
+
+- PPGE - 1,00
+
+- CHPPE - 1,00 (2003)
+
+- CLPPE - 1,00 (2003)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 1,00 (2003)
+
+- CLPPGE - 1,00 (2003)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

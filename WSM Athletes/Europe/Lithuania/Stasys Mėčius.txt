@@ -2,7 +2,7 @@ Height - 1,85 m
 
 Weight - 120 kg
 
-Born - 1955
+Born - 1955-??-??
 
 
 - First A - 40 yrs (1995)
@@ -42,7 +42,7 @@ Born - 1955
 
 - CGP% - 36,25
 
-- CFP - 0
+- CFP - 0,00
 
 - CFP% - 0,00
 

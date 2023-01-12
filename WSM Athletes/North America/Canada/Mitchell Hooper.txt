@@ -1,5 +1,3 @@
-Mitchell Hooper
-
 Height - 1,91 m
 
 Weight - 145 kg
@@ -26,17 +24,17 @@ Born - 1995-09-29
 
 - BF - 8th in Finals
 
-- FA% - 100
+- FA% - 100,00
 
 - GA - 1
 
 - GW - 1
 
-- GW% - 100
+- GW% - 100,00
 
-- W% - 0
+- W% - 0,00
 
-- Adj. W% - 0
+- Adj. W% - 0,00
 
 
 

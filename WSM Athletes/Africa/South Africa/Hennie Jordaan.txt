@@ -1,16 +1,13 @@
-Hennie Jordaan
-
 Height - 1,84 m
 
 Weight - 145 kg
 
-Born - 1975
+Born - 1975-??-??
 
 
 - First A - 35 yrs (2010) 
 
 - Last A - 35 yrs (2010) 
-
 
 
 - A - 1
@@ -23,51 +20,51 @@ Born - 1975
 
 - BF - 5th in Heats
 
-- FA% - 0
+- FA% - 0,00
 
 - GA - 1
 
 - GW - 0
 
-- GW% - 0
+- GW% - 0,00
 
-- W% - 0
+- W% - 0,00
 
-- Adj. W% - 0
+- Adj. W% - 0,00
 
 
 
-- CP - 11
+- CP - 11,00
 
 - CP% - 11,56
 
-- CGP - 11
+- CGP - 11,00
 
 - CGP% - 30,56
 
-- CFP - 0
+- CFP - 0,00
 
-- CFP% - 0
+- CFP% - 0,00
 
 
 
-- CHP - 11 (2010)
+- CHP - 11,00 (2010)
 
 - CHP% - 11,46 (2010)
 
-- CLP - 11 (2010)
+- CLP - 11,00 (2010)
 
-- CHFP - 0 (2010)
+- CHFP - 0,00 (2010)
 
-- CHFP% - 0 (2010)
+- CHFP% - 0,00 (2010)
 
-- CLFP - 0 (2010)
+- CLFP - 0,00 (2010)
 
-- CHGP - 11 (2010)
+- CHGP - 11,00 (2010)
 
 - CHGP% - 30,56 (2010)
 
-- CLGP - 11 (2010)
+- CLGP - 11,00 (2010)
 
 
 
@@ -79,15 +76,15 @@ Born - 1975
 
 - EW - 0
 
-- EW% - 0
+- EW% - 0,00
 
 - GEW - 0
 
-- GEW% - 0
+- GEW% - 0,00
 
 - FEW - 0
 
-- FEW% - 0
+- FEW% - 0,00
 
 
 
@@ -107,17 +104,17 @@ Born - 1975
 
 
 
-- CHEW% - 0
+- CHEW% - 0,00
 
-- CHGEW% - 0
+- CHGEW% - 0,00
 
-- CHFEW% - 0
+- CHFEW% - 0,00
 
 
 
 - PPE - 1,83
 
-- PPFE - 0
+- PPFE - 0,00
 
 - PPGE - 1,83
 
@@ -125,9 +122,9 @@ Born - 1975
 
 - CLPPE - 1,83 (2010)
 
-- CHPPFE - 0
+- CHPPFE - 0,00
 
-- CLPPFE - 0
+- CLPPFE - 0,00
 
 - CHPPGE - 1,83 (2010)
 
@@ -135,6 +132,16 @@ Born - 1975
 
 
 
-- BTBEW - 0
+- BTBEW: 0
 
-- BTBTBEW - 0
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

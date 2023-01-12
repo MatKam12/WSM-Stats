@@ -6,6 +6,7 @@ Jerry Pritchett     39 yrs, 10 m, & 27 d (2020) USA
 Jean-François Caron 38 yrs, 11 m, & 21 d (2021) CAN
 Phil Pfister        38 yrs, 04 m, & 19 d (2009) USA
 O.D. Wilson         37 yrs, 00 m, & 25 d (1991) USA
+Bob Young           37                   (1979) USA
 Billy Graham        37                   (1980) USA
 Robert Oberst       36 yrs, 06 m, & 00 d (2021) USA
 George Frenn        36                   (1977) USA
@@ -17,7 +18,6 @@ Harold Collins      35                   (1993) USA
 Don Reinhoudt       35                   (1980) USA
 Joe Dube            35                   (1979) USA
 Dave Johns          34                   (1979) USA
-Bob Young           35                   (1977) USA
 Jon Cole            34                   (1977) USA
 Ken Patera          34                   (1977) USA
 Dusko Markovic      33 yrs, 06 m, & 17 d (1989) CAN
@@ -30,12 +30,12 @@ Jason Bergmann      32 yrs, 06 m, & 09 d (2010) USA
 Daniel Poulin       32 yrs, 04 m, & 10 d (1985) CAN
 Jon Kolb            32                   (1979) USA
 Martins Licis       31 yrs, 07 m, & 27 d (2022) USA
-Kevin Faires        31 yrs, 06 m, & 16 d (2021) USA
 Gregg Ernst         31 yrs, 00 m, & 04 d (1992) CAN
 Gus Rethwisch       31                   (1978) USA
 Phil Martin         30 yrs, 11 m, & 12 d (1995) USA
 James Perry         30 yrs, 11 m, & 11 d (1992) USA
 Mike Jenkins        30 yrs, 09 m, & 21 d (2013) USA
+Kevin Faires        30 yrs, 09 m, & 11 d (2020) USA
 Maxime Boudreault   30 yrs, 08 m, & 03 d (2022) CAN
 Rob Kearney         30 yrs, 06 m, & 08 d (2022) USA
 Joe Zelezniak       30                   (1981) USA

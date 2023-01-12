@@ -1,6 +1,4 @@
-Ettiene Smit
-
-Height - 1,8 m
+Height - 1,80 m
 
 Weight - 131 kg
 
@@ -10,7 +8,6 @@ Born - 1974-06-15
 - First A - 35 yrs, 3 m, & 14 d (2009)
 
 - Last A - 36 yrs, 3 m, & 0 d (2010)
-
 
 
 - A - 2
@@ -23,51 +20,51 @@ Born - 1974-06-15
 
 - BF - 4th in heats
 
-- FA% - 0 
+- FA% - 0,00
 
 - GA - 2
 
 - GW - 0
 
-- GW% - 0
+- GW% - 0,00
 
-- W% - 0
+- W% - 0,00
 
-- Adj. W% - 0
+- Adj. W% - 0,00
 
 
 
-- CP - 31,5
+- CP - 31,50
 
 - CP% - 15,59
 
-- CGP - 31,5
+- CGP - 31,50
 
 - CGP% - 43,75
 
-- CFP - 0
+- CFP - 0,00
 
-- CFP% - 0
+- CFP% - 0,00
 
 
 
-- CHP - 20 (2009)
+- CHP - 20,00 (2009)
 
-- CHP% -  18,86 (2009)
+- CHP% - 18,86 (2009)
 
-- CLP - 11,5 (2010)
+- CLP - 11,50 (2010)
 
-- CHFP -  0
+- CHFP -  0,00
 
-- CHFP% -  0
+- CHFP% - 0,00
 
-- CLFP - 0
+- CLFP - 0,00
 
-- CHGP - 20 (2009)
+- CHGP - 20,00 (2009)
 
-- CHGP% -  61,11 (2009)
+- CHGP% - 61,11 (2009)
 
-- CLGP - 1,5 (2010)
+- CLGP - 1,50 (2010)
 
 
 
@@ -87,7 +84,7 @@ Born - 1974-06-15
 
 - FEW - 0
 
-- FEW% - 0
+- FEW% - 0,00
 
 
 
@@ -109,7 +106,7 @@ Born - 1974-06-15
 
 - CHEW% - 16,67 (2009)
 
-- CHGEW% - 0
+- CHGEW% - 0,00
 
 - CHFEW% - 16,67 (2009)
 
@@ -117,7 +114,7 @@ Born - 1974-06-15
 
 - PPE - 2,63
 
-- PPFE - 0
+- PPFE - 0,00
 
 - PPGE - 2,63
 
@@ -125,9 +122,9 @@ Born - 1974-06-15
 
 - CLPPE - 1,91 (2010)
 
-- CHPPFE - 0
+- CHPPFE - 0,00
 
-- CLPPFE - 0
+- CLPPFE - 0,00
 
 - CHPPGE - 3,33 (2009)
 
@@ -135,6 +132,16 @@ Born - 1974-06-15
 
 
 
-- BTBEW - 0
+- BTBEW: 0
 
-- BTBTBEW - 0
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

@@ -1,0 +1,151 @@
+Height - 1,91 m
+
+Weight - 118 kg
+
+Born - 1957-03-10
+
+
+- First A - 24 yrs (1981)
+
+- First FA - 24 yrs (1981)
+
+- Last A - 24 yrs (1981)
+
+- Last FA - 24 yrs (1981)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 6th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 61,50
+
+- CP% - 51,25
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 61,50
+
+- CFP% - 51,25
+
+
+
+- CHP - 61,50 (1981)
+
+- CHP% - 51,25 (1981)
+
+- CLP - 61,50 (1981)
+
+- CHFP - 61,50 (1981)
+
+- CHFP% - 51,25 (1981)
+
+- CLFP - 61,50 (1981)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 11
+
+- GEC - 0
+
+- FEC - 11
+
+- EW - 1
+
+- EW% - 9,09
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 1
+
+- FEW% - 9,09
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (1981)
+
+- CHGEW - 0
+
+- CHFEW - 1 (1981)
+
+
+
+- CHEW% - 9,09 (1981)
+
+- CHGEW% - 0,00
+
+- CHFEW% - 9,09 (1981)
+
+
+
+- PPE - 5,59
+
+- PPFE - 5,59
+
+- PPGE - 0,00
+
+- CHPPE - 5,59 (1981)
+
+- CLPPE - 5,59 (1981)
+
+- CHPPFE - 5,59 (1981)
+
+- CLPPFE - 5,59 (1981)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

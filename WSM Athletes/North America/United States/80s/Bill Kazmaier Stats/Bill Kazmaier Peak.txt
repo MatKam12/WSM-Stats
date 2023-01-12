@@ -1,16 +1,16 @@
 Peak Bill Kazmaier (Three-Peat)
 
-- CP - 289,5
+- CP - 289,50
 
-- CP% - 78,24
+- CP% - 85,15
 
-- CGP - 0
+- CGP - 0,00
 
-- CGP% - 0
+- CGP% - 0,00
 
-- CFP - 289,5
+- CFP - 289,50
 
-- CFP% - 75,24
+- CFP% - 85,15
 
 
 
@@ -18,19 +18,19 @@ Peak Bill Kazmaier (Three-Peat)
 
 - CHP% - 93,18 (1980)
 
-- CLP - 91 (1982)
+- CLP - 91,00 (1982)
 
 - CHFP - 102,5 (1980)
 
 - CHFP% - 93,18 (1980)
 
-- CLFP - 91 (1982)
+- CLFP - 91,00 (1982)
 
-- CHGP - 0
+- CHGP - 0,00
 
-- CHGP% - 0
+- CHGP% - 0,00
 
-- CLGP - 0
+- CLGP - 0,00
 
 
 
@@ -46,7 +46,7 @@ Peak Bill Kazmaier (Three-Peat)
 
 - GEW - 0
 
-- GEW% - 0
+- GEW% - 0,00
 
 - FEW - 15
 
@@ -70,11 +70,11 @@ Peak Bill Kazmaier (Three-Peat)
 
 
 
-- CHEW% - 60 (1980)
+- CHEW% - 60,00 (1980)
 
-- CHGEW% - 0
+- CHGEW% - 0,00
 
-- CHFEW% - 60 (1980)
+- CHFEW% - 60,00 (1980)
 
 
 
@@ -82,19 +82,19 @@ Peak Bill Kazmaier (Three-Peat)
 
 - PPFE - 9,34
 
-- PPGE - 0
+- PPGE - 0,00
 
 - CHPPE - 10,25 (1980)
 
-- CLPPE - 9,1 (1982)
+- CLPPE - 9,10 (1982)
 
 - CHPPFE - 10,25 (1980)
 
-- CLPPFE - 9,1 (1982)
+- CLPPFE - 9,10 (1982)
 
-- CHPPGE - 0
+- CHPPGE - 0,00
 
-- CLPPGE - 0
+- CLPPGE - 0,00
 
 
 

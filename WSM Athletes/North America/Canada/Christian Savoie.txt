@@ -1,0 +1,148 @@
+Height - 1,93 m
+
+Weight - 155 kg
+
+Born - 1976-03-25
+
+
+- First A - 33 yrs, 6 m, & 9 d (2009)
+
+- Last A - 34 yrs, 6 m, & 28 d (2010)
+
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 4th in Heats
+
+- FA% - 0,00
+
+- GA - 2
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 34,50
+
+- CP% - 17,08
+
+- CGP - 34,50
+
+- CGP% - 47,92
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 18,00 (2009)
+
+- CHP% - 17,18 (2010)
+
+- CLP - 16,50 (2010)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 18,00 (2009)
+
+- CHGP% - 50,00 (2009)
+
+- CLGP - 16,50 (2010)
+
+
+
+- EC - 12
+
+- GEC - 12
+
+- FEC - 0
+
+- EW - 1
+
+- EW% - 8,33
+
+- GEW - 1
+
+- GEW% - 8,33
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (2010)
+
+- CHGEW - 1 (2010)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 16,66 (2010)
+
+- CHGEW% - 16,66 (2010)
+
+- CHFEW% - 0
+
+
+
+- PPE - 2,88
+
+- PPFE - 0,00
+
+- PPGE - 2,88
+
+- CHPPE - 3,00 (2009)
+
+- CLPPE - 2,75 (2010)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,00 (2009)
+
+- CLPPGE - 2,75 (2010)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0
