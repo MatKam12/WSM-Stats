@@ -18,134 +18,134 @@ Born - 1964-08-04
 
 - CA - 0
 
-- FA - 3rd in Finals
+- FA - 2
 
-- CFA - 
+- CFA - 0
 
-- BF - 
+- BF - 3rd in Finals
 
-- FA% - 
+- FA% - 100,00
 
-- GA - 
+- GA - 2
 
 - GW - 
 
 - GW% - 
 
-- W% - 
+- W% - 0,00
 
-- Adj. W% - 
+- Adj. W% - 0,00
 
 
 
-- CP - 
+- CP - 130,00
 
-- CP% - 
+- CP% - 64,36
 
-- CGP - 
+- CGP - 39,50
 
-- CGP% - 
+- CGP% - 75,96
 
-- CFP - 
+- CFP - 90,50
 
-- CFP% - 
+- CFP% - 60,33
 
 
 
-- CHP - 
+- CHP - 76,00 (1998)
 
-- CHP% - 
+- CHP% - 79,17 (1998)
 
-- CLP - 
+- CLP - 54,00 (2001)
 
-- CHFP - 
+- CHFP - 62,00 (1998)
 
-- CHFP% - 
+- CHFP% - 77,50 (1998)
 
-- CLFP - 
+- CLFP - 28,50 (2001)
 
-- CHGP - 
+- CHGP - 25,50 (2001)
 
-- CHGP% - 
+- CHGP% - 87,50 (1998)
 
-- CLGP - 
+- CLGP - 14,00 (1998)
 
 
 
-- EC - 
+- EC - 25
 
-- GEC - 
+- GEC - 10
 
-- FEC - 
+- FEC - 15
 
-- EW - 
+- EW - 3
 
-- EW% - 
+- EW% - 12,00
 
-- GEW - 
+- GEW - 3
 
-- GEW% - 
+- GEW% - 30,00
 
-- FEW - 
+- FEW - 0
 
-- FEW% - 
+- FEW% - 0,00
 
 
 
-- WE - 
+- WE - 0
 
-- WGE - 
+- WGE - 0
 
-- WFE - 
+- WFE - 0
 
 
 
-- CHEW - 
+- CHEW - 2 (1998)
 
-- CHGEW - 
+- CHGEW - 2 (1998)
 
-- CHFEW - 
+- CHFEW - 0
 
 
 
-- CHEW% - 
+- CHEW% - 16,67 (1998)
 
-- CHGEW% - 
+- CHGEW% - 50,00 (1998)
 
-- CHFEW% - 
+- CHFEW% - 0,00
 
 
 
-- PPE - 
+- PPE - 5,20
 
-- PPFE - 
+- PPFE - 6,03
 
-- PPGE - 
+- PPGE - 3,95
 
-- CHPPE - 
+- CHPPE - 6,33 (1998)
 
-- CLPPE - 
+- CLPPE - 4,15 (2001)
 
-- CHPPFE - 
+- CHPPFE - 7,75 (1998)
 
-- CLPPFE - 
+- CLPPFE - 4,07 (2001)
 
-- CHPPGE - 
+- CHPPGE - 3,75 (2001)
 
-- CLPPGE - 
+- CLPPGE - 3,50 (1998)
 
 
 
-- BTBEW: 
+- BTBEW: 1
 
-- BTBFEW: 
+- BTBFEW: 0
 
-- BTBGEW: 
+- BTBGEW: 1 (1998)
 
 
 
-- BTBTBEW: 
+- BTBTBEW: 0
 
-- BTBTBFEW: 
+- BTBTBFEW: 0
 
-- BTBTBGEW: 
+- BTBTBGEW: 0
