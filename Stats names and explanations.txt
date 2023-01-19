@@ -5,19 +5,21 @@ Weight -
 Born -
 
 
-- First A - format podawany wiek [lata] [miesiace] [dni] (rok wystąpienia)
+Format podawania wieku [lata] [miesiące] [dni] (rok wystąpienia)
 
-- First FA - 
+- First A - pierwsze wystąpienie
 
-- Last A - 
+- First FA - pierwszy finał
 
-- Last FA - 
+- Last A - ostatnie wystąpienie
+
+- Last FA - ostatni finał
 
 
 
 - A - ilość wystąpień
 
-- CA - ilość wystąpień po sobie bez przerwy (example. 2009, 2010, 2011)
+- CA - ilość wystąpień po sobie bez przerwy (np. 2009, 2010, 2011 = CA - 2)
 
 - FA - ilość wystąpień w finałach
 
@@ -35,7 +37,7 @@ Born -
 
 - W% - procent wygranych (procentowa ilość wygranych ze wszystkich wystąpień)
 
-- Adj. W% - skorygowany procent wygranych (procentowa ilość wygranych ze wszystkich wystąpień [uwzględnione są tylko wysąpienia w finałach] )
+- Adj. W% - skorygowany procent wygranych (procentowa ilość wygranych wystąpień [uwzględnione są tylko występy w finałach] )
 
 
 
