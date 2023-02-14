@@ -1,0 +1,147 @@
+Height - 1,82 m
+
+Weight - 118 kg
+
+Born - 1987-07-10
+
+
+- First A - 26 yrs, 1 m, & 14 d (2013)
+
+- Last A - 26 yrs, 8 m, & 19 d (2014)
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 5th in Heats
+
+- FA% - 0,00
+
+- GA - 2
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 30,50
+
+- CP% - 14,95
+
+- CGP - 30,20
+
+- CGP% - 42,36
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 16,50 (2014)
+
+- CHP% - 15,27 (2014)
+
+- CLP - 14,00 (2013)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 16,50 (2014)
+
+- CHGP% - 45,83 (2014)
+
+- CLGP - 14,00 (2013)
+
+
+
+- EC - 12
+
+- GEC - 12
+
+- FEC - 0
+
+- EW - 1
+
+- EW% - 8,33
+
+- GEW - 1
+
+- GEW% - 8,33
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (2014)
+
+- CHGEW - 1 (2014)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 16,67 (2014)
+
+- CHGEW% - 16,67 (2014)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 2,54
+
+- PPFE - 0,00
+
+- PPGE - 2,54
+
+- CHPPE - 2,75 (2014)
+
+- CLPPE - 2,33 (2013)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 2,75 (2014)
+
+- CLPPGE - 2,33 (2013)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0
