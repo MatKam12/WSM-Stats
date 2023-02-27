@@ -1,0 +1,151 @@
+Height - 1,85 m
+
+Weight - 152 kg
+
+Born - 1992-09-23
+
+
+- First A - 22 yrs, 7 m, & 3 d (2015)
+
+- First FA - 23 yrs, 10 m, & 28 d (2016)
+
+- Last A - 25 yrs, 7 m, & 14 d (2018)
+
+- Last FA - 25 yrs, 7 m, & 14 d (2018)
+
+
+- A - 4
+
+- CA - 3
+
+- FA - 2
+
+- CFA - 0
+
+- BF - 7th in Finals
+
+- FA% - 50,00
+
+- GA - 4
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 146,00
+
+- CP% - 38,02
+
+- CGP - 97,50
+
+- CGP% - 67,71
+
+- CFP - 48,50
+
+- CFP% - 20,21
+
+
+
+- CHP - 51,00 (2016)
+
+- CHP% - 51,67 (2018)
+
+- CLP - 21,00 (2017)
+
+- CHFP - 27,50 (2018)
+
+- CHFP% - 45,33 (2018)
+
+- CLFP - 21,00 (2016)
+
+- CHGP - 30,00 (2016)
+
+- CHGP% - 83,33 (2016)
+
+- CLGP - 19,00 (2018)
+
+
+
+- EC - 36
+
+- GEC - 24
+
+- FEC - 12
+
+- EW - 4
+
+- EW% - 11,11
+
+- GEW - 4
+
+- GEW% - 16,67
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 2
+
+- CHGEW - 2
+
+- CHFEW - 0
+
+
+
+- CHEW% - 16,67
+
+- CHGEW% - 33,33
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 4,06
+
+- PPFE - 4,04
+
+- PPGE - 4,06
+
+- CHPPE - 4,25 (2016)
+
+- CLPPE - 3,50 (2017)
+
+- CHPPFE - 4,58 (2018)
+
+- CLPPFE - 3,50 (2017)
+
+- CHPPGE - 5,00 (2016)
+
+- CLPPGE - 3,16 (2018)
+
+
+
+- BTBEW: 1
+
+- BTBFEW: 0
+
+- BTBGEW: 1 (2018)
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

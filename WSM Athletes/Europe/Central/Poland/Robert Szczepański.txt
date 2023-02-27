@@ -1,0 +1,147 @@
+Height - 1,83
+
+Weight - ??? kg
+
+Born - 1972-06-01
+
+
+- First A - 33 yrs, 8 m, & 17 d (2010)
+
+- Last A - 33 yrs, 8 m, & 17 d (2010)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 6th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 10,00
+
+- CP% - 10,42
+
+- CGP - 10,00
+
+- CGP% - 27,78
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 10,00
+
+- CHP% - 10,42
+
+- CLP - 10,00
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 10,00
+
+- CHGP% - 27,78
+
+- CLGP - 10,00
+
+
+
+- EC - 4
+
+- GEC - 4
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 2
+
+- WGE - 2
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 2,50
+
+- PPFE - 0,00
+
+- PPGE - 2,50
+
+- CHPPE - 2,50 (2010)
+
+- CLPPE - 2,50 (2010)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 2,50 (2010)
+
+- CLPPGE - 2,50 (2010)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0
