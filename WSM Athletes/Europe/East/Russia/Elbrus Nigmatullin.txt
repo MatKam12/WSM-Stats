@@ -24,128 +24,128 @@ Born - 1974-03-30
 
 - BF - 10th in Finals
 
-- FA% - 
+- FA% - 25,00
 
-- GA - 
+- GA - 4
 
-- GW - 
+- GW - 0
 
-- GW% - 
+- GW% - 0,00
 
-- W% - 
+- W% - 0,00
 
-- Adj. W% - 
+- Adj. W% - 0,00
 
 
 
-- CP - 
+- CP - 103,50
 
-- CP% - 
+- CP% - 25,49
 
-- CGP - 
+- CGP - 73,50
 
-- CGP% - 
+- CGP% - 58,33
 
-- CFP - 
+- CFP - 30,00
 
-- CFP% - 
+- CFP% - 10,71
 
 
 
-- CHP - 
+- CHP - 52,00 (2005)
 
-- CHP% - 
+- CHP% - 52,00 (2005)
 
-- CLP - 
+- CLP - 16,00 (2007)
 
-- CHFP - 
+- CHFP - 30,00 (2005)
 
-- CHFP% - 
+- CHFP% - 42,86 (2005)
 
-- CLFP - 
+- CLFP - 30,00 (2005)
 
-- CHGP - 
+- CHGP - 22,00 (2005)
 
-- CHGP% - 
+- CHGP% - 73,33 (2005)
 
-- CLGP - 
+- CLGP - 16,00 (2007)
 
 
 
-- EC - 
+- EC - 31
 
-- GEC - 
+- GEC - 24
 
-- FEC - 
+- FEC - 7
 
-- EW - 
+- EW - 2
 
-- EW% - 
+- EW% - 6,45
 
-- GEW - 
+- GEW - 2
 
-- GEW% - 
+- GEW% - 8,33
 
-- FEW - 
+- FEW - 0
 
-- FEW% - 
+- FEW% - 0,00
 
 
 
-- WE - 
+- WE - 0
 
-- WGE - 
+- WGE - 0
 
-- WFE - 
+- WFE - 0
 
 
 
-- CHEW - 
+- CHEW - 2 (2005)
 
-- CHGEW - 
+- CHGEW - 2 (2006)
 
-- CHFEW - 
+- CHFEW - 0
 
 
 
-- CHEW% - 
+- CHEW% - 15,38 (2005)
 
-- CHGEW% - 
+- CHGEW% - 33,33 (2005)
 
-- CHFEW% - 
+- CHFEW% - 0,00
 
 
 
-- PPE - 
+- PPE - 3,34
 
-- PPFE - 
+- PPFE - 4,29
 
-- PPGE - 
+- PPGE - 3,06
 
-- CHPPE - 
+- CHPPE - 4,00 (2005)
 
-- CLPPE - 
+- CLPPE - 2,67 (2007)
 
-- CHPPFE - 
+- CHPPFE - 4,29 (2005)
 
-- CLPPFE - 
+- CLPPFE - 4,29 (2005)
 
-- CHPPGE - 
+- CHPPGE - 3,67 (2005)
 
-- CLPPGE - 
+- CLPPGE - 2,67 (2007)
 
 
 
-- BTBEW: 
+- BTBEW: 1
 
-- BTBFEW: 
+- BTBFEW: 0
 
-- BTBGEW: 
+- BTBGEW: 1 (2005)
 
 
 
-- BTBTBEW: 
+- BTBTBEW: 0
 
-- BTBTBFEW: 
+- BTBTBFEW: 0
 
-- BTBTBGEW: 
+- BTBTBGEW: 0
