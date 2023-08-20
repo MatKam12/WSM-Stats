@@ -3,8 +3,9 @@ Harold Collins      113,50 (1997) USA
 Bill Kazmaier       102,50 (1980) USA
 Brian Shaw          92,50 (2016) USA
 Tommy Ingalsbe      83,50 (1997) USA
-Hugo Girard         83,50 (2000) CAN
+Hugo Girard         83,50 (1999) CAN
 Derek Poundstone    82,50 (2008) USA
+Mitchell Hooper     82,50 (2023) CAN
 Phil Pfister        82,50 (2006) USA
 Ken Brown           79,50 (1997) USA
 Phil Martin         79,50 (1997) USA
@@ -21,9 +22,11 @@ Kevin Toth          68,00 (1997) USA
 Jerry Hannan        68,00 (1981) USA
 Mike Jenkins        66,00 (2013) USA
 Jean-François Caron 66,00 (2016) CAN
+Trey Mitchell       65,50 (2023) USA
 Gary Mitchell       64,50 (1997) USA
 Bruce Wilhelm       64,33 (1978) USA
 Curt Marsh          64,00 (1982) USA
+Evan Singleton      64,00 (2023) USA
 Don Pope            63,50 (2006) USA
 Dominic Filiou      63,50 (2005) CAN
 Ernie Hackett       63,50 (1982) USA
@@ -35,8 +38,6 @@ Maxime Boudreault   57,50 (2022) CAN
 Jerry Pritchett     57,00 (2020) USA
 Jessen Paulin       56,00 (2003) CAN
 Bishop Dolegiewicz  56,00 (1980) CAN
-Trey Mitchell       55,50 (2022) USA
-Mitchell Hooper     53,50 (2022) CAN
 Jason Bergmann      52,50 (2008) USA
 Kevin Nee           52,50 (2007) USA
 Nick Best           52,00 (2010) USA
@@ -77,6 +78,7 @@ Josh Thigpen        20,00 (2011) USA
 Steve Kirit         20,00 (2002) USA
 Mike Dayton         19,25 (1977) USA
 Christian Savoie    18,00 (2009) CAN
+Thomas Evans        18,00 (2023) USA
 Adam Derks          17,50 (2018) USA
 Derks DeVaughan     17,50 (2016) USA
 Tomás Rodríguez     17,50 (2014) CUBA
@@ -84,7 +86,6 @@ Niko Noga           17,00 (1999) USA
 Gus Rethwisch       16,73 (1978) USA
 Steve Bourgeois     16,00 (2005) CAN
 Rob Kearney         15,00 (2017, 2019, 2022) USA
-Evan Singleton      14,50 (2022) USA
 Scott Cummine       14,50 (2014) CAN
 Steve Carradine     14,00 (2016) USA
 Gabriel Peña        13,00 (2022) MEX
@@ -92,6 +93,7 @@ Jimmy Paquet        13,00 (2017) CAN
 Marshall White      12,50 (2009) USA
 Bryan Oldfield      12,00 (1978) USA
 Brian Siders        11,50 (2008) USA
+Spenser Remick      10,50 (2023) USA
 Jon Lane            10,50 (2016) USA
 George Frenn        10,00 (1977) USA
 Paul Lepik          10,00 (1996, 1997) CAN

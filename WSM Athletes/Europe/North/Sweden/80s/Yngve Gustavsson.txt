@@ -1,0 +1,151 @@
+Height - ??? m
+
+Weight - ??? kg
+
+Born - ????-??-??
+
+
+- First A - ? (1984)
+
+- First FA - ? (1984)
+
+- Last A - ? (1984)
+
+- Last FA - ? (1984)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 7th in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 21,50
+
+- CP% - 33,59
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 21,50
+
+- CFP% - 33,59
+
+
+
+- CHP - 21,50 (1984)
+
+- CHP% - 33,59 (1984)
+
+- CLP - 21,50 (1984)
+
+- CHFP - 21,50 (1984)
+
+- CHFP% - 33,59 (1984)
+
+- CLFP - 21,50 (1984)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 8
+
+- GEC - 0
+
+- FEC - 8
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0,00
+
+- GEW% - 0,00
+
+- FEW - 0,00
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0
+
+- CHGEW% - 0
+
+- CHFEW% - 0
+
+
+
+- PPE - 2,69
+
+- PPFE - 2,69
+
+- PPGE - 0,00
+
+- CHPPE - 2,69 (1984)
+
+- CLPPE - 2,69 (1984)
+
+- CHPPFE - 2,69 (1984)
+
+- CLPPFE - 2,69 (1984)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

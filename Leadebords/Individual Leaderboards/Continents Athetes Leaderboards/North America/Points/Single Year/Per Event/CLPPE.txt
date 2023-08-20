@@ -26,6 +26,7 @@ Bryan Neese         1,75 (1999) USA
 Jon Lane            1,75 (2016) USA
 Kevin Nee           1,83 (2009) USA
 Jean-François Caron 1,83 (2008) CAN
+Gabriel Rhéaume     1,90 (2023) CAN
 Jessen Paulin       1,91 (2006) CAN
 Brian Siders        1,92 (2008) USA
 Mike Dayton         1,93 (1977) USA
@@ -34,6 +35,7 @@ Rob Kearney         2,00 (2018) USA
 Jason Bergmann      2,08 (2007) USA
 Marshall White      2,08 (2009) USA
 Mike Caruso         2,08 (2015) USA
+Spenser Remick      2,10 (2023) USA
 Jon Cole            2,15 (1977) USA
 Jimmy Paquet        2,17 (2017) CAN
 Dusko Markovic      2,18 (1989) CAN
@@ -50,7 +52,6 @@ Trey Mitchell       2,50 (2020) USA
 James Perry         2,50 (1992) USA
 Jerry Pritchett     2,50 (2021) USA
 Paul Lepik          2,50 (1996, 1997)
-Gabriel Rhéaume     2,58 (2022) CAN
 Maxime Boudreault   2,60 (2020) CAN
 Evan Singleton      2,60 (2021) USA
 Gabriel Peña        2,60 (2022) MEX
@@ -75,6 +76,7 @@ Ross Browner        3,50 (1982) USA
 Brian Shaw          3,50 (2008) USA
 Adam Derks          3,50 (2018) USA
 Don Pope            3,58 (2007) USA
+Thomas Evans        3,60 (2023) USA
 Jim Hough           3,65 (1982) USA
 Whit Baskin         3,66 (1999) USA
 Gregg Ernst         3,68 (1991) CAN

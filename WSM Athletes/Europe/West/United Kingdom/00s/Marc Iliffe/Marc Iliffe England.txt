@@ -1,0 +1,140 @@
+- First A - 30 yrs, 2 m, & 26 d (2002)
+
+- Last A - 30 yrs, 2 m, & 26 d (2002)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 6th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 3,00
+
+- CP% - 2,83
+
+- CGP - 3,00
+
+- CGP% - 8,33
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 3,00 (2002)
+
+- CHP% - 2,83 (2002)
+
+- CLP - 3,00 (2002)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 3,00 (2002)
+
+- CHGP% - 8,33 (2002)
+
+- CLGP - 3,00 (2002)
+
+
+
+- EC - 4
+
+- GEC - 4
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 2
+
+- WGE - 2
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 0,75
+
+- PPFE - 0,00
+
+- PPGE - 0,75
+
+- CHPPE - 0,75 (2002)
+
+- CLPPE - 0,75 (2002)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 0,75 (2002)
+
+- CLPPGE - 0,75 (2002)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

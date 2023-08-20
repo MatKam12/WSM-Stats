@@ -1,0 +1,159 @@
+Height - 1,91 m
+
+Weight - 145 kg
+
+Born - 1995-09-29
+
+
+- First A - 26 yrs, 8 m, & 14 d (2022)
+
+- First FA - 26 yrs, 8 m, & 14 d (2022)
+
+- Last A - 27 yrs, 6 m, & 21 d (2023)
+
+- Last FA - 27 yrs, 6 m, & 21 d (2023)
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 2
+
+- CFA - 2
+
+- BF - 1st in Finals
+
+- FA% - 100,00
+
+- GA - 2
+
+- GW - 2
+
+- GW% - 100,00
+
+- W% - 50,00
+
+- Adj. W% - 50,00
+
+
+
+- CP - 136,00
+
+- CP% - 75,56
+
+- CGP - 52,50
+
+- CGP% - 87,50
+
+- CFP - 83,50
+
+- CFP% - 69,58
+
+
+
+- CHP - 82,50 (2023)
+
+- CHP% - 91,67 (2023)
+
+- CLP - 53,50 (2022)
+
+- CHFP - 53,50 (2023)
+
+- CHFP% - 89,17 (2023)
+
+- CLFP - 30,00 (2022)
+
+- CHGP - 29,00 (2023)
+
+- CHGP% - 96,67 (2023)
+
+- CLGP - 23,50 (2022)
+
+
+
+- EC - 22
+
+- GEC - 10
+
+- FEC - 12
+
+- EW - 12
+
+- EW% - 54,55
+
+- GEW - 7
+
+- GEW% - 70,00
+
+- FEW - 5
+
+- FEW% - 41,67
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 8 (2023)
+
+- CHGEW - 4 (2023)
+
+- CHFEW - 4 (2023)
+
+
+
+- CHEW% - 72,72 (2023)
+
+- CHGEW% - 80,00 (2023)
+
+- CHFEW% - 66,67 (2023)
+
+
+
+- PPE - 6,18
+
+- PPFE - 6,96
+
+- PPGE - 5,25
+
+- CHPPE - 7,50 (2023)
+
+- CLPPE - 4,86 (2022)
+
+- CHPPFE - 8,91 (2023)
+
+- CLPPFE - 5,00 (2022)
+
+- CHPPGE - 5,80 (2023)
+
+- CLPPGE - 4,70 (2022)
+
+
+
+- BTBEW: 2
+
+- BTBFEW: 2 (2x2023)
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 1
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 1 (2022)
+
+
+
+- BTBTBTBEW: 1
+
+- BTBTBTBFEW: 0
+
+- BTBTBTBGEW: 1 (2023)

@@ -1,4 +1,5 @@
 Phil Pfister        71,42 (2006) USA
+Mitchell Hooper     66,67 (2023) CAN
 Bill Kazmaier       60,00 (1980) USA
 Bruce Wilhelm       50,00 (1977) USA
 Mike Jenkins        50,00 (2011) USA
@@ -11,11 +12,11 @@ Mike Burke          33,33 (2014) USA
 Derek Poundstone    28,57 (2008) USA
 Lou Ferrigno        20,00 (1977) USA
 Ken Patera          20,00 (1977) USA
-Maxime Boudreault   16,66 (2022) CAN
-Mitchell Hooper     16,66 (2022) CAN
-Travis Ortmayer     16,66 (2010) USA
-Jerry Pritchett     16,66 (2014) USA
-Jean-François Caron 16,66 (2020) CAN
+Evan Singleton      16,67 (2023) USA
+Maxime Boudreault   16,67 (2022) CAN
+Travis Ortmayer     16,67 (2010) USA
+Jerry Pritchett     16,67 (2014) USA
+Jean-François Caron 16,67 (2020) CAN
 Jesse Marunde       14,28 (2005) USA
 Dave Ostlund        14,28 (2008) USA
 Jessen Paulin       14,28 (2003) CAN

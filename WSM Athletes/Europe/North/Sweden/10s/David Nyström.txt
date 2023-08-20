@@ -1,0 +1,147 @@
+Height - 1,80 m
+
+Weight - 130 kg
+
+Born - 1983-09-20
+
+
+- First A - 31 yrs, 7 m, & 6 d (2015)
+
+- Last A - 31 yrs, 7 m, & 6 d (2015)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 4th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 19,00
+
+- CP% - 18,63
+
+- CGP - 19,00
+
+- CGP% - 45,24
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 19,00 (2015)
+
+- CHP% - 18,63 (2015)
+
+- CLP - 19,00 (2015)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 19,00 (2015)
+
+- CHGP% - 45,24 (2015)
+
+- CLGP - 19,00 (2015)
+
+
+
+- EC - 6
+
+- GEC - 6
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,17
+
+- PPFE - 0,00
+
+- PPGE - 3,17
+
+- CHPPE - 3,17 (2015)
+
+- CLPPE - 3,17 (2015)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,17 (2015)
+
+- CLPPGE - 3,17 (2015)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

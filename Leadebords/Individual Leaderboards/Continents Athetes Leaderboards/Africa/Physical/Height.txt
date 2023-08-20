@@ -1,6 +1,7 @@
 Johan Els                   1,94 m F     10s
 Pieter de Bruyn             1,93 m F   G 90s,00s
 Gerhard van Staden          1,91 m       10s
+Jaco Schoonwinkel           1,90 m F   G 20s
 Johan van Heerden           1,88 m       00ss
 Wayne Price                 1,88 m F     90s
 Gerrit Badenhorst           1,86 m F   G 90s,00s 94
@@ -40,12 +41,12 @@ Avg. Group Winner Height    (10s)       ---- m
 Avg. Winner Height          (10s)       ---- m
 
 
-Avg. Athlete Height         (20s)       1,82 m
-Avg. Finalists Height       (20s)       ---- m
-Avg. Group Winner Height    (20s)       ---- m
+Avg. Athlete Height         (20s)       1,86 m
+Avg. Finalists Height       (20s)       1,90 m
+Avg. Group Winner Height    (20s)       1,90 m
 Avg. Winner Height          (20s)       ---- m
 
 Avg. Athlete Height                     1,86 m
-Avg. Finalists Height                   1,88 m
+Avg. Finalists Height                   1,89 m
 Avg. Group Winner Height                1,89 m
 Avg. Winner Height                      ---- m

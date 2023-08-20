@@ -1,0 +1,147 @@
+Height - 1,81 m
+
+Weight - 127 kg
+
+Born - 1963-07-13
+
+
+- First A - 
+
+- Last A - 
+
+
+- A - 3
+
+- CA - 1
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 3rd in Heats
+
+- FA% -0,00 
+
+- GA - 3
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 32,00
+
+- CP% - 11,03
+
+- CGP - 32,00
+
+- CGP% - 42,11
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 14,00 (1996)
+
+- CHP% - 15,90 (1996)
+
+- CLP - 7,00 (1995)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 14,00 (1996)
+
+- CHGP% - 58,33 (1996)
+
+- CLGP - 7,00 (1995)
+
+
+
+- EC - 14
+
+- GEC - 14
+
+- FEC - 0
+
+- EW - 1
+
+- EW% - 7,14
+
+- GEW - 1
+
+- GEW% - 7,14
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (1996)
+
+- CHGEW - 1 (1996)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 25,00 (1996)
+
+- CHGEW% - 25,00 (1996)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 2,29
+
+- PPFE - 0,00
+
+- PPGE - 2,29
+
+- CHPPE - 3,50 (1996)
+
+- CLPPE - 1,75 (1995)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,50 (1996)
+
+- CLPPGE - 1,75 (1995)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

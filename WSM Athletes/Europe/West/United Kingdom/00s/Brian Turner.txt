@@ -1,0 +1,147 @@
+Height - ??? m
+
+Weight - 137 kg
+
+Born - 1972-??-??
+
+
+- First A - 32 yrs (2004)
+
+- Last A - 32 yrs (2004)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 9th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 39,00
+
+- CP% - 34,21
+
+- CGP - 39,00
+
+- CGP% - 59,09
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 39,00 (2004)
+
+- CHP% - 34,21 (2004)
+
+- CLP - 39,00 (2004)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 39,00 (2004)
+
+- CHGP% - 59,09 (2004)
+
+- CLGP - 39,00 (2004)
+
+
+
+- EC - 11
+
+- GEC - 11
+
+- FEC - 0
+
+- EW - 3
+
+- EW% - 27,27
+
+- GEW - 3
+
+- GEW% - 27,27
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 3 (2004)
+
+- CHGEW - 3 (2004)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 27,27 (2004)
+
+- CHGEW% - 27,27 (2004)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,55
+
+- PPFE - 0,00
+
+- PPGE - 3,55
+
+- CHPPE - 3,55 (2004)
+
+- CLPPE - 3,55 (2004)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,55 (2004)
+
+- CLPPGE - 3,55 (2004)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

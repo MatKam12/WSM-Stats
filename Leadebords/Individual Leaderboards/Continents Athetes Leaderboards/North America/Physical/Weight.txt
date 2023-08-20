@@ -14,7 +14,7 @@ Bobby Thompson      161 kg F   G 20s            USA
 Ralph Williams      161 kg       90s            USA
 James Voronin       160 kg       90s            USA
 Dave Ostlund        159 kg F     00s,10s        USA
-Evan Singleton      159 kg       20s            USA
+Evan Singleton      159 kg F     20s            USA
 Bryan Neese         158 kg       90s            USA
 Brian Siders        156 kg       00s            USA
 Christian Savoie    155 kg       00s            CAN
@@ -25,6 +25,7 @@ Jerry Hannan        154 kg F     80s     94     USA
 Gabriel Rhéaume     154 kg F     20s            CAN
 Niko Noga           152 kg       90s            USA
 Travis Lyndon       151 kg       00s            CAN
+Spenser Remick      150 kg       20s            usa
 Hugo Girard         150 kg F   G 90s, 00s       CAN
 Maxime Boudreault   150 kg F     20s            CAN
 Martin Licis        150 kg F W G 10s,20         USA
@@ -40,7 +41,7 @@ Nick Best           145 kg F   G 10s,20s        USA
 Don Pope            145 kg F   G 00s            USA
 Josh Thigpen        145 kg       00s            USA
 Brian Schoonveld    145 kg       00s            USA
-Mitchell Hooper     145 kg F   G 20s            CAN
+Mitchell Hooper     145 kg F W G 20s            CAN
 Gregg Ernst         143 kg F     90s,    94     CAN
 Steve Bourgeois     143 kg       00s            CAN
 Kevin Nee           140 kg F     00s            USA
@@ -134,12 +135,12 @@ Avg. Finalists Weight       (10s)       158 kg
 Avg. Group Winner Weight    (10s)       154 kg
 Avg. Winner Weight          (10s)       172 kg
 
-Avg. Athlete Weight         (20s)       155 kg
-Avg. Finalists Weight       (20s)       155 kg
+Avg. Athlete Weight         (20s)       156 kg
+Avg. Finalists Weight       (20s)       156 kg
 Avg. Group Winner Weight    (20s)       156 kg
-Avg. Winner Weight          (20s)       --- kg
+Avg. Winner Weight          (20s)       145 kg
 
-Avg. Athlete Weight                     141 kg
+Avg. Athlete Weight                     143 kg
 Avg. Finalists Weight                   145 kg
 Avg. Group Winner Weight                149 kg
-Avg. Winner Weight                      155 kg
+Avg. Winner Weight                      152 kg

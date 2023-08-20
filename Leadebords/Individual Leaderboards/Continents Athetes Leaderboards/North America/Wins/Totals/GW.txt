@@ -6,7 +6,8 @@ Martins Licis       4 USA
 Jean-François Caron 3 CAN
 Jerry Pritchett     2 USA
 Mark Philippi       2 USA
-Mitchell Hooper     1 CAN
+Mitchell Hooper     2 CAN
+Trey Mitchell       2 USA
 Mike Burke          1 USA
 Don Pope            1 USA
 Jason Bergmann      1 USA
@@ -16,4 +17,3 @@ Nick Best           1 USA
 Travis Ortmayer     1 USA
 Bobby Thompson      1 USA
 Kevin Faires        1 USA
-Trey Mitchell       1 USA

@@ -19,11 +19,13 @@ Phil Martin         7,00 (1996) USA
 Ken Brown           7,00 (1998) USA
 Bryan Neese         7,00 (1999) USA
 Robert Oberst       7,00 (2016) USA
+Gabriel Rhéaume     9,50 (2023) CAN
 George Frenn        10,00 (1977) USA
 Rob Kearney         10,00 (2018) USA
 Trey Mitchell       10,00 (2020) USA
 Paul Lepik          10,00 (1996, 1997)  CAN
 Jon Lane            10,50 (2016) USA
+Spenser Remick      10,50 (2023) USA
 Jean-François Caron 11,00 (2008) CAN
 Kevin Nee           11,00 (2009) USA
 Jessen Paulin       11,50 (2006) CAN
@@ -58,6 +60,7 @@ Dusko Markovic      17,50 (1989) CAN
 Adam Derks          17,50 (2018) USA
 Tomás Rodríguez     17,50 (2014) CUBA
 Mark Philippi       18,00 (2001, 2005) USA
+Thomas Evans        18,00 (2023) USA
 Mike Dayton         19,25 (1977) USA
 Louis-Philippe Jean 19,50 (2008) CAN
 Dave Ostlund        20,50 (2006) USA
@@ -79,7 +82,6 @@ Don Reinhoudt       27,50 (1980) USA
 Derek Poundstone    27,50 (2012) USA
 Gregg Ernst         29,50 (1991) CAN
 O.D. Wilson         30,50 (1991) USA
-Gabriel Rhéaume     31,00 (2022) CAN
 Tom Magee           33,00 (1985) CAN
 John Gamble         33,50 (1983) USA
 Ken Patera          34,00 (1977) USA

@@ -1,11 +1,11 @@
 Nick Best           52 yrs, 00 m, & 09 d (2020) USA
 Karl Gillingham     42 yrs, 07 m, & 17 d (2007) USA
 Mark Philippi       42 yrs, 06 m, & 16 d (2005) USA
+Brian Shaw          41 yrs, 01 m, & 24 d (2023) USA
 Larry Kidney        41                   (1980) USA
 Mike Burke          40 yrs, 10 m, & 11 d (2015) USA
 Jerry Pritchett     40 yrs, 06 m, & 02 d (2021) USA
 Harold Collins      40 yrs, 04 m, & 19 d (1997) USA
-Brian Shaw          40 yrs, 02 m, & 29 d (2022) USA
 Travis Ortmayer     39 yrs, 10 m, & 11 d (2021) USA
 Derek DeVaughan     39 yrs, 08 m, & 29 d (2017) USA
 Jon Lane            39 yrs, 06 m, & 07 d (2016) USA
@@ -18,6 +18,7 @@ Bob Young           37                   (1979) USA
 Billy Graham        37                   (1980) USA
 Steve Bourgeois     36 yrs, 02 m, & 20 d (2005) CAN
 George Frenn        36                   (1977) USA
+Spenser Remick      35 yrs, 11 m, & 20 d (2023) USA
 Don Pope            35 yrs, 08 m, & 13 d (2007) USA
 Bill Kazmaier       35 yrs, 07 m, & 21 d (1989) USA
 Doyle Kenady        35 yrs, 02 m, & 28 d (1983) USA
@@ -35,6 +36,7 @@ Dusko Markovic      33 yrs, 06 m, & 17 d (1989) CAN
 Jason Bergmann      33 yrs, 06 m, & 09 d (2011) USA
 Christian Savoie    33 yrs, 06 m, & 09 d (2009) CAN
 Robert Oberst       33 yrs, 04 m, & 17 d (2018) USA
+Kevin Faires        33 yrs, 02 m, & 16 d (2023) USA
 Josh Thigpen        33 yrs, 02 m, & 04 d (2015) USA
 James Voronin       33 yrs, 01 m, & 06 d (1997) USA
 Ginaud Dupuis       33 yrs, 01 m, & 02 d (1997) CAN
@@ -50,7 +52,6 @@ Gary Mitchell       32 yrs, 08 m, & 27 d (1997) USA
 Dave Waddington     32 yrs, 08 m, & 14 d (1984) USA
 Daniel Poulin       32 yrs, 04 m, & 10 d (1985) CAN
 Jessen Paulin       32 yrs, 03 m, & 24 d (2006) CAN
-Kevin Faires        32 yrs, 03 m, & 20 d (2022) USA
 Ralph Williams      32                   (1998) USA
 Jon Kolb            32                   (1979) USA
 Steve Kirit         31 yrs, 09 m, & 25 d (2004) MEX
@@ -65,18 +66,19 @@ James Perry         30 yrs, 11 m, & 11 d (1992) USA
 Mike Jenkins        30 yrs, 09 m, & 21 d (2013) USA
 Maxime Boudreault   30 yrs, 08 m, & 03 d (2022) CAN
 Dominic Filiou      30 yrs, 06 m, & 26 d (2007) CAN
+Evan Singleton      30 yrs, 06 m, & 11 d (2023) USA
 Rob Kearney         30 yrs, 06 m, & 08 d (2022) USA
+Bobby Thompson      30 yrs, 03 m, & 22 d (2023) USA
 Brian Siders        30 yrs, 00 m, & 02 d (2008) USA
 Scott Cummine       30 yrs, 01 m, & 25 d (2014) CAN
 Joe Zelezniak       30                   (1981) USA
 Jerry Blackwell     30                   (1979) USA
 Johnny Perry        29 yrs, 10 m, & 29 d (2002) USA
-Evan Singleton      29 yrs, 07 m, & 15 d (2022) USA
+Trey Mitchell       29 yrs, 09 m, & 04 d (2023) USA
 Paul Lepik          29 yrs, 07 m, & 00 d (1997) CAN
 Geoff Dolan         29 yrs, 05 m, & 11 d (2003) CAN
-Bobby Thompson      29 yrs, 04 m, & 27 d (2022) USA
 Steve Pulcinella    29 yrs, 00 m, & 05 d (1994) USA
-Trey Mitchell       28 yrs, 10 m, & 08 d (2022) USA
+Thomas Evans        28 yrs, 11 m, & 11 d (2023) USA
 Brian Schoonveld    28 yrs, 06 m, & 15 d (2002) USA
 Louis-Philippe Jean 28 yrs, 00 m, & 16 d (2012) CAN
 Bishop Dolegiewicz  28                   (1981) CAN
@@ -92,9 +94,9 @@ Cleve Dean          27                   (1980) USA
 Rick Brown          26 yrs, 07 m, & 17 d (1986) USA
 Mitchell Hooper     26 yrs, 08 m, & 14 d (2022) CAN
 Ron Trottier        26 yrs, 06 m, & 28 d (1994) CAN
+Gabriel Rhéaume     26 yrs, 05 m, & 13 d (2023) CAN
 John Gamble         26 yrs, 05 m, & 01 d (1983) USA
 Adam Derks          26 yrs, 03 m, & 01 d (2018) USA
-Gabriel Rhéaume     25 yrs, 06 m, & 17 d (2022) CAN
 Jim Hough           25                   (1982) USA
 Durwin Piper        25                   (1981) USA
 Lou Ferrigno        26                   (1977) USA

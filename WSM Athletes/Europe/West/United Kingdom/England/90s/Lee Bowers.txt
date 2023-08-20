@@ -1,0 +1,147 @@
+Height - 1,88 m
+
+Weight - 130 kg
+
+Born - 1967-09-28
+
+
+- First A - 31 yrs, 0 m, & 21 d (1998)
+
+- Last A - 31 yrs, 11 m, & 20 d (1999)
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 2nd in Heats
+
+- FA% - 0,00
+
+- GA - 2
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 19,50
+
+- CP% - 9,65
+
+- CGP - 19,50
+
+- CGP% - 37,50
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 10,50 (1998)
+
+- CHP% - 19,93 (1998)
+
+- CLP - 9,00 (1999)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 10,50 (1998)
+
+- CHGP% - 95,52 (1998)
+
+- CLGP - 9,00 (1999)
+
+
+
+- EC - 10
+
+- GEC - 10
+
+- FEC - 0
+
+- EW - 1
+
+- EW% - 10,00
+
+- GEW - 1
+
+- GEW% - 10,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (1998)
+
+- CHGEW - 1 (1998)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 25,00 (1998)
+
+- CHGEW% - 25,00 (1998)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 1,95
+
+- PPFE - 0,00
+
+- PPGE - 1,95
+
+- CHPPE - 2,62 (1998)
+
+- CLPPE - 1,50 (1999)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 2,62 (1998)
+
+- CLPPGE - 1,50 (1999)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

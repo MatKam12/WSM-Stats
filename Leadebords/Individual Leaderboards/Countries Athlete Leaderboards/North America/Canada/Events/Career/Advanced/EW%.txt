@@ -1,4 +1,4 @@
-Mitchell Hooper     36,36
+Mitchell Hooper     54,55
 Maxime Boudreault   20,68
 Jean-François Caron 19,13
 Hugo Girard         17,18
@@ -9,8 +9,8 @@ Daniel Poulin       12,50
 Dominic Filiou      12,00
 Scott Cummine       8,33
 Christian Savoie    8,33
-Gabriel Rhéaume     8,33
 Tom Magee           7,69
 Gregg Ernst         6,25
+Gabriel Rhéaume     5,88
 Louis=Philippe Jean 5,41
 Bishop Dolegiewicz  4,76

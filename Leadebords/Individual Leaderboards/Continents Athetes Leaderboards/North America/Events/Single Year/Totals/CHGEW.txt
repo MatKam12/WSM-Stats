@@ -1,5 +1,6 @@
 Phil Pfister        5 (2009) USA
 Brian Shaw          5 (2013, 2016) USA
+Mitchell Hooper     4 (2023) CAN
 Tommy Ingalsbe      4 (1997) USA
 Hugo Girard         4 (1999) CAN
 Mark Philippi       4 (1997, 1998) USA
@@ -9,14 +10,13 @@ Derek Poundstone    4 (2009) USA
 Mike Burke          4 (2015) USA
 Martin Licis        4 (2016) USA
 Maxime Boudreault   3 (2022) CAN
-Mitchell Hooper     3 (2022) CAN
 Dominic Filiou      3 (2005) CAN
 Jean-François Caron 3 (2017, 2020)  CAN
 Whit Baskin         3 (1999) USA
 Travis Ortmayer     3 (2008) USA
 Nick Best           3 (2010) USA
 Jerry Pritchett     3 (2020) USA
-Trey Mitchell       3 (2022) USA
+Trey Mitchell       3 (2022, 2023) USA
 Geoff Dolan         2 (2003) CAN
 Jessen Paulin       2 (2003) CAN
 Brian Schoonveld    2 (2002) USA
@@ -30,6 +30,7 @@ Bryan Benzel        2 (2017) USA
 Rob Kearney         2 (2019) USA
 Bobby Thompson      2 (2021) USA
 Robert Oberst       2 (2021) USA
+Evan Singleton      2 (2023) USA
 Gabriel Rhéaume     1 (2022) CAN
 Phil Martin         1 (1995, 1997) USA
 Gary Mitchell       1 (1997) USA
@@ -38,7 +39,6 @@ Harold Collins      1 (1997) USA
 Karl Gillingham     1 (2002) USA
 Mike Caruso         1 (2014) USA
 Adam Derks          1 (2018) USA
-Evan Singleton      1 (2020) USA
 Kevin Faires        1 (2020, 2021, 2022) USA
 Steve Bourgeois     1 (2005) CAN
 Louis-Philippe Jean 1 (2009, 2012) CAN

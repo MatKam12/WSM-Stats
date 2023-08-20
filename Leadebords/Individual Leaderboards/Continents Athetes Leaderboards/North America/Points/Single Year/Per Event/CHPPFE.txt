@@ -1,6 +1,7 @@
 Bill Kazmaier       10,25 (1980) USA
 Brian Shaw          10,16 (2014) USA
 Martins Licis       9,20 (2019) USA
+Mitchell Hooper     8,91 (2023) CAN
 Philippi Pfister    8,71 (2006) USA
 Tom Magee           7,80 (1982) CAN
 Mike Burke          7,66 (2014) USA
@@ -12,6 +13,8 @@ Jean-François Caron 7,00 (2020) CAN
 Mike Jenkins        7,00 (2011) USA
 John Gamble         6,95 (1982) USA
 Jerry Pritchett     6,66 (2020) USA
+Trey Mitchell       6,58 (2023) USA
+Evan Singleton      6,58 (2023) USA
 Jesse Marunde       6,57 (2005) USA
 Travis Ortmayer     6,50 (2009) USA
 Bruce Wilhelm       6,43 (1978) USA
@@ -24,7 +27,6 @@ Don Reinhoudt       6,04 (1979) USA
 Dominic Filiou      6,00 (2005) CAN
 O.D. Wilson         6,00 (1990) USA
 Johnny Perry        6,00 (2002) USA
-Trey Mitchell       5,83 (2021) USA
 Craig Wolfley       5,73 (1981) USA
 Bishop Dolegiewicz  5,60 (1980) CAN
 Keith Bishop        5,59 (1981) USA
@@ -32,7 +34,6 @@ Durwin Piper        5,27 (1981) USA
 Kevin Faires        5,17 (2020) USA
 Mark Philippi       5,06 (1997) USA
 Phil Martin         5,00 (1995) USA
-Mitchell Hooper     5,00 (2022) CAN
 Gregg Ernst         4,75 (1992) CAN
 George Hechter      4,50 (1985) USA
 Nick Best           4,50 (2010) USA

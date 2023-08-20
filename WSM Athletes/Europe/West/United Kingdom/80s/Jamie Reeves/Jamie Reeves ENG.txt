@@ -1,0 +1,144 @@
+- First A - 30 yrs, 5 m, & 0 d (1992)
+
+- First FA - 30 yrs, 5 m, & 0 d (1992)
+
+- Last A - 30 yrs, 5 m, & 0 d (1992)
+
+- Last FA - 30 yrs, 5 m, & 0 d (1992)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 3rd in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 62,00
+
+- CP% - 77,50
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 62,00
+
+- CFP% - 77,50
+
+
+
+- CHP - 62,00 (1992)
+
+- CHP% - 77,50 (1992)
+
+- CLP - 62,00 (1992)
+
+- CHFP - 62,00 (1992)
+
+- CHFP% - 77,50 (1992)
+
+- CLFP - 62,00 (1992)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 8
+
+- GEC - 0
+
+- FEC - 8
+
+- EW - 1
+
+- EW% - 12,50
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 1
+
+- FEW% - 12,50
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (1992)
+
+- CHGEW - 0
+
+- CHFEW - 1 (1992)
+
+
+
+- CHEW% - 12,50 (1992)
+
+- CHGEW% - 0,00
+
+- CHFEW% - 12,50 (1992)
+
+
+
+- PPE - 7,75
+
+- PPFE - 7,75
+
+- PPGE - 0,00
+
+- CHPPE - 7,75 (1992)
+
+- CLPPE - 7,75 (1992)
+
+- CHPPFE - 7,75 (1992)
+
+- CLPPFE - 7,75 (1992)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

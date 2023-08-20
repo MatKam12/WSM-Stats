@@ -1,0 +1,147 @@
+Height - 1,85 m
+
+Weight - ??? kg
+
+Born - 1980-01-02
+
+
+- First A - 28 yrs, 8 m, & 11 d (2008)
+
+- Last A - 28 yrs, 8 m, & 11 d (2008)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 5th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 19,50
+
+- CP% - 18,40
+
+- CGP - 19,50
+
+- CGP% - 54,17
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 19,50 (2008)
+
+- CHP% - 18,40 (2008)
+
+- CLP - 19,50 (2008)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 19,50 (2008)
+
+- CHGP% - 54,17 (2008)
+
+- CLGP - 19,50 (2008)
+
+
+
+- EC - 6
+
+- GEC - 6
+
+- FEC - 0
+
+- EW - 1
+
+- EW% - 16,67
+
+- GEW - 1
+
+- GEW% - 16,67
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 1 (2008)
+
+- CHGEW - 1 (2008)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 16,67 (2008)
+
+- CHGEW% - 16,67 (2008)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,25
+
+- PPFE - 0,00
+
+- PPGE - 3,25
+
+- CHPPE - 3,25 (2008)
+
+- CLPPE - 3,25 (2008)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,25 (2008)
+
+- CLPPGE - 3,25 (2008)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

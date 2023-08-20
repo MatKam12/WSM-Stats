@@ -1,3 +1,4 @@
+Mitchell Hooper     72,72 (2023) CAN
 Phil Pfister        61,53 (2006) USA
 Brian Shaw          58,33 (2013, 2015, 2016) USA
 Bruce Wilhelm       50,00 (1977) USA
@@ -15,7 +16,6 @@ Jesse Marunde       38,46 (2005) USA
 Hugo Girard         38,46 (1999) CAN
 O.D. Wilson         37,50 (1990) USA
 Jean-François Caron 36,36 (2020) CAN
-Mitchell Hooper     36,36 (2022) CAN
 Tommy Ingalsbe      33,33 (1997) USA
 Brian Schoonveld    33,33 (2002) USA
 Kevin Nee           33,33 (2008) USA
@@ -25,9 +25,9 @@ Maxime Boudreault   33,33 (2022) CAN
 Johnny Perry        30,76 (2002) USA
 Derek Poundstone    30,76 (2009) USA
 Jerry Pritchett     30,00 (2020) USA
+Trey Mitchell       27,27 (2023) USA
 Nick Best           25,00 (2010) USA
-Evan Singleton      25,00 (2020) USA
-Trey Mitchell       25,00 (2020, 2022) USA
+Evan Singleton      25,00 (2020, 2023) USA
 Bernard Rolle       25,00 (1995) BAMA
 Dave Ostlund        23,07 (2008) USA
 Travis Ortmayer     23,07 (2008) USA
@@ -37,6 +37,7 @@ Lou Ferrigno        20,00 (1977) USA
 Ken Patera          20,00 (1977) USA
 Adam Derks          20,00 (2018) USA
 Bobby Thompson      20,00 (2020) USA
+Thomas Evans        20,00 (2023) USA
 Steve Bourgeois     16,66 (2005) CAN
 Louis-Philippe Jean 16,66 (2009) CAN
 Christian Savoie    16,66 (2010) CAN

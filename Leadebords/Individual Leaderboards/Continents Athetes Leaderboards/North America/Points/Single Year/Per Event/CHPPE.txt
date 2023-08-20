@@ -1,6 +1,7 @@
 Bill Kazmaier       10,25 (1980) USA
 Brian Shaw          8,00 (2014) USA
 Tom Magee           7,80 (1982) CAN
+Mitchell Hooper     7,50 (2023) CAN
 Mark Philippi       7,42 (1997) USA
 Dave Waddington     7,25 (1981) USA
 Martins Licis       7,22 (2019) USA
@@ -20,6 +21,7 @@ O.D. Wilson         6,00 (1990) USA
 Don Reinhoudt       6,04 (1979) USA
 Harold Collins      5,97 (1997) USA
 Dave Ostlund        5,96 (2008) USA
+Trey Mitchell       5,95 (2023) USA
 Johnny Perry        5,80 (2002) USA
 Craig Wolfley       5,73 (1981) USA
 Jerry Pritchett     5,70 (2020) USA
@@ -31,13 +33,12 @@ Jesse Marunde       5,53 (2005) USA
 Jean-François Caron 5,50 (2016) CAN
 Gary Mitchell       5,38 (1997) USA
 Travis Ortmayer     5,34 (2008) USA
+Evan Singleton      5,33 (2023) USA
 Durwin Piper        5,27 (1981) USA
 James Voronin       5,17 (1997) USA
-Trey Mitchell       4,90 (2021) USA
 Don Pope            4,88 (2006) USA
 Dominic Filiou      4,88 (2005) CAN
 Maxime Boudreault   4,86 (2021) CAN
-Mitchell Hooper     4,86 (2022) CAN
 Gregg Ernst         4,75 (1992) CAN
 George Hechter      4,50 (1985) USA
 Kevin Faires        4,50 (2020) USA
@@ -62,7 +63,7 @@ Karl Gillingham     3,75 (2002) USA
 Billy Graham        3,70 (1980) USA
 Jim Hough           3,65 (1982) USA
 Rick Brown          3,62 (1985) USA
-Evan Singleton      3,62 (2022) USA
+Thomas Evans        3,60 (2023) USA
 Robert Oberst       3,58 (2013) USA
 Ross Browner        3,50 (1982) USA
 Adam Derks          3,50 (2018) USA
@@ -89,6 +90,7 @@ Stan Carradine      2,33 (2016) USA
 Jimmy Paquet        2,17 (2017) CAN
 Jon Cole            2,15 (1977) USA
 Bernard Rolle       2,12 (1995) BAMA
+Spenser Remick      2,10 (2023) USA
 Marshall White      2,08 (2009) USA
 Ginaud Dupuis       2,00 (1997) CAN
 Mike Dayton         1,93 (1977) USA

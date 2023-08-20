@@ -1,0 +1,144 @@
+- First A - 26 yrs (1988)
+
+- First FA - 26 yrs (1988)
+
+- Last A - 27 yrs, 3 m, & 17 d (1989)
+
+- Last FA - 27 yrs, 3 m, & 17 d (1989)
+
+
+- A - 2
+
+- CA - 1
+
+- FA - 2
+
+- CFA - 1
+
+- BF - 1st in Finals
+
+- FA% - 100,00
+
+- GA - 0
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 50,00
+
+- Adj. W% - 50,00
+
+
+
+- CP - 102,00
+
+- CP% - 79,69
+
+- CGP - 0,00
+
+- CGP% - 0,00
+
+- CFP - 102,00
+
+- CFP% - 79,69
+
+
+
+- CHP - 54,50 (1988)
+
+- CHP% - 85,15 (1989)
+
+- CLP - 47,50 (1988)
+
+- CHFP - 54,50 (1988)
+
+- CHFP% - 85,15 (1989)
+
+- CLFP - 47,50 (1988)
+
+- CHGP - 0,00
+
+- CHGP% - 0,00
+
+- CLGP - 0,00
+
+
+
+- EC - 16
+
+- GEC - 0
+
+- FEC - 16
+
+- EW - 4
+
+- EW% - 26,67
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 4
+
+- FEW% - 26,67
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 4 (1989)
+
+- CHGEW - 0
+
+- CHFEW - 4 (1989)
+
+
+
+- CHEW% - 50,00 (1989)
+
+- CHGEW% - 0,00
+
+- CHFEW% - 50,00 (1989)
+
+
+
+- PPE - 6,80
+
+- PPFE - 6,80
+
+- PPGE - 0,00
+
+- CHPPE - 6,81 (1989)
+
+- CLPPE - 5,93 (1988)
+
+- CHPPFE - 6,81 (1989)
+
+- CLPPFE - 5,93 (1988)
+
+- CHPPGE - 0,00
+
+- CLPPGE - 0,00
+
+
+
+- BTBEW: 1
+
+- BTBFEW: 1 (1989)
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

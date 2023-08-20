@@ -2,6 +2,7 @@ Chris van der Linde         184 kg       20s
 Gerrit van Staden           175 kg       10s
 Johan Els                   158 kg F     10s
 Gerrit Badenhorst           154 kg F   G 90s,00s 94
+Jaco Schoonwinkel           150 kg F   G 20s
 Hennie Jordaan              145 kg       10s
 Wayne Price                 140 kg F     90s,00s
 Pieter de Bruyn             136 kg F   G 90s,00s
@@ -40,12 +41,12 @@ Avg. Group Winner Weight    (10s)       --- kg
 Avg. Winner Weight          (10s)       --- kg
 
 
-Avg. Athlete Weight         (20s)       184 kg
-Avg. Finalists Weight       (20s)       --- kg
-Avg. Group Winner Weight    (20s)       --- kg
+Avg. Athlete Weight         (20s)       167 kg
+Avg. Finalists Weight       (20s)       150 kg
+Avg. Group Winner Weight    (20s)       150 kg
 Avg. Winner Weight          (20s)       --- kg
 
-Avg. Athlete Weight                     140 kg
-Avg. Finalists Weight                   137 kg
-Avg. Group Winner Weight                145 kg
+Avg. Athlete Weight                     141 kg
+Avg. Finalists Weight                   139 kg
+Avg. Group Winner Weight                146 kg
 Avg. Winner Weight                      --- kg 

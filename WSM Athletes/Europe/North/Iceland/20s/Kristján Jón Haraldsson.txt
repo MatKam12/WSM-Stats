@@ -1,0 +1,147 @@
+Height - 1,91 m
+
+Weight - 150 kg
+
+Born - 1998-06-03
+
+
+- First A - 24 yrs, 10 m, & 17 d (2023)
+
+- Last A - 24 yrs, 10 m, & 17 d (2023)
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 6th in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 15,50
+
+- CP% - 17,22
+
+- CGP - 15,50
+
+- CGP% - 51,67
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 15,50
+
+- CHP% - 17,22
+
+- CLP - 15,50
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 15,50
+
+- CHGP% - 51,67
+
+- CLGP - 15,50
+
+
+
+- EC - 5
+
+- GEC - 5
+
+- FEC - 0
+
+- EW - 0
+
+- EW% - 0,00
+
+- GEW - 0
+
+- GEW% - 0,00
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 0
+
+- CHGEW - 0
+
+- CHFEW - 0
+
+
+
+- CHEW% - 0,00
+
+- CHGEW% - 0,00
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,10
+
+- PPFE - 0,00
+
+- PPGE - 3,10
+
+- CHPPE - 3,10 (2023)
+
+- CLPPE - 3,10 (2023)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,10 (2023)
+
+- CLPPGE - 3,10 (2023)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

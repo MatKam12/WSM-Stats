@@ -7,7 +7,7 @@ Robert Oberst       2,01 m F     10s,20s        USA
 Dave Ostlund        2,01 m F     00s,10s        USA
 O.D. Wilson         1,99 m F     90s     94     USA
 Travis Lyndon       1,99 m       00s            CAN
-Evan Singleton      1,98 m       20s            USA
+Evan Singleton      1,98 m F     20s            USA
 Phil Pfister        1,98 m F W G 90s,00s        USA
 Johnny Perry        1,98 m F   G 00s            USA
 Josh Thigpen        1,98 m       00s,10s        USA
@@ -38,7 +38,7 @@ Keith Bishop        1,91 m F     80s     94     USA
 Jean-François Caron 1,91 m F   G 00s,10s,20s    CAN
 Ron Trottier        1,91 m       90s            CAN
 Steve Bourgeois     1,91 m       00s            CAN
-Mitchell Hooper     1,91 m F   G 20s            CAN
+Mitchell Hooper     1,91 m F W G 20s            CAN
 Brian Schoonveld    1,90 m       00s            USA
 Don Reinhoudt       1,90 m F W   70s,80s 94     USA
 Bernard Rolle       1.90 m       90s            BAMA
@@ -136,11 +136,11 @@ Avg. Winner Height          (10s)       1,96 m
 
 
 Avg. Athlete Height         (20s)       1,92 m
-Avg. Finalists Height       (20s)       1,91 m
+Avg. Finalists Height       (20s)       1,92 m
 Avg. Group Winner Height    (20s)       1,91 m
-Avg. Winner Height          (20s)       ---- m
+Avg. Winner Height          (20s)       1,91 m
 
-Avg. Athlete Height                     1,88 m
-Avg. Finalists Height                   1,92 m
+Avg. Athlete Height                     1,89 m
+Avg. Finalists Height                   1,89 m
 Avg. Group Winner Height                1,90 m
 Avg. Winner Height                      1,92 m
