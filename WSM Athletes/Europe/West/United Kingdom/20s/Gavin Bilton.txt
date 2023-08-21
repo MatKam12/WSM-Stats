@@ -34,114 +34,114 @@ Born - 1988-10-23
 
 
 
-- CP - 
+- CP - 53,00
 
-- CP% - 
+- CP% - 15,36
 
-- CGP - 
+- CGP - 53,00
 
-- CGP% - 
+- CGP% - 50,45
 
-- CFP - 
+- CFP - 0,00
 
-- CFP% - 
-
-
-
-- CHP - 
-
-- CHP% - 
-
-- CLP - 
-
-- CHFP - 
-
-- CHFP% - 
-
-- CLFP - 
-
-- CHGP - 
-
-- CHGP% - 
-
-- CLGP - 
+- CFP% - 0,00
 
 
 
-- EC - 
+- CHP - 20,00 (2023)
 
-- GEC - 
+- CHP% - 22,22 (2020)
 
-- FEC - 
+- CLP - 4,00 (2020)
 
-- EW - 
+- CHFP - 0,00
 
-- EW% - 
+- CHFP% - 0,00
 
-- GEW - 
+- CLFP - 0,00
 
-- GEW% - 
+- CHGP - 20,00 (2023)
 
-- FEW - 
+- CHGP% - 66,67 (2023)
 
-- FEW% - 
-
-
-
-- WE - 
-
-- WGE - 
-
-- WFE - 
+- CLGP - 4,00 (2020)
 
 
 
-- CHEW - 
+- EC - 20
 
-- CHGEW - 
+- GEC - 20
 
-- CHFEW - 
+- FEC - 0
 
+- EW - 1
 
+- EW% - 5,00
 
-- CHEW% - 
+- GEW - 1
 
-- CHGEW% - 
+- GEW% - 5,00
 
-- CHFEW% - 
+- FEW - 0
 
-
-
-- PPE - 
-
-- PPFE - 
-
-- PPGE - 
-
-- CHPPE - 
-
-- CLPPE - 
-
-- CHPPFE - 
-
-- CLPPFE - 
-
-- CHPPGE - 
-
-- CLPPGE - 
+- FEW% - 0,00
 
 
 
-- BTBEW: 
+- WE - 0
 
-- BTBFEW: 
+- WGE - 0
 
-- BTBGEW: 
+- WFE - 0
 
 
 
-- BTBTBEW: 
+- CHEW - 1 (2023)
 
-- BTBTBFEW: 
+- CHGEW - 1 (2023)
 
-- BTBTBGEW: 
+- CHFEW - 0
+
+
+
+- CHEW% - 16,67 (2023)
+
+- CHGEW% - 16,67 (2023)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 2,65
+
+- PPFE - 0,00
+
+- PPGE - 2,65
+
+- CHPPE - 3,40 (2023)
+
+- CLPPE - 1,00 (2020)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,40 (2023)
+
+- CLPPGE - 1,00 (2020)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

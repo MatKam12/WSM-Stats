@@ -1,0 +1,151 @@
+Height - 1,90 m
+
+Weight - 186 kg
+
+Born - 1980-01-15
+
+
+- First A - 24 yrs, 8 m, & 17 d (2012)
+
+- First FA - 26 yrs, 2 m, & 14 d (2014)
+
+- Last A - 29 yrs, 4 m, & 13 d (2017)
+
+- Last FA - 29 yrs, 4 m, & 13 d (2017)
+
+
+- A - 6
+
+- CA - 5
+
+- FA - 4
+
+- CFA - 3
+
+- BF - 1st in Finals
+
+- FA% - 
+
+- GA - 6
+
+- GW - 
+
+- GW% - 
+
+- W% - 16,61
+
+- Adj. W% - 25,00
+
+
+
+- CP - 
+
+- CP% - 
+
+- CGP - 
+
+- CGP% - 
+
+- CFP - 
+
+- CFP% - 
+
+
+
+- CHP - 
+
+- CHP% - 
+
+- CLP - 
+
+- CHFP - 
+
+- CHFP% - 
+
+- CLFP - 
+
+- CHGP - 
+
+- CHGP% - 
+
+- CLGP - 
+
+
+
+- EC - 
+
+- GEC - 
+
+- FEC - 
+
+- EW - 
+
+- EW% - 
+
+- GEW - 
+
+- GEW% - 
+
+- FEW - 
+
+- FEW% - 
+
+
+
+- WE - 
+
+- WGE - 
+
+- WFE - 
+
+
+
+- CHEW - 
+
+- CHGEW - 
+
+- CHFEW - 
+
+
+
+- CHEW% - 
+
+- CHGEW% - 
+
+- CHFEW% - 
+
+
+
+- PPE - 
+
+- PPFE - 
+
+- PPGE - 
+
+- CHPPE - 
+
+- CLPPE - 
+
+- CHPPFE - 
+
+- CLPPFE - 
+
+- CHPPGE - 
+
+- CLPPGE - 
+
+
+
+- BTBEW: 
+
+- BTBFEW: 
+
+- BTBGEW: 
+
+
+
+- BTBTBEW: 
+
+- BTBTBFEW: 
+
+- BTBTBGEW: 
