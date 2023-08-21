@@ -28,9 +28,9 @@ Born - 1980-01-15
 
 - GA - 6
 
-- GW - 
+- GW - 2
 
-- GW% - 
+- GW% - 33,33
 
 - W% - 16,61
 
@@ -38,114 +38,114 @@ Born - 1980-01-15
 
 
 
-- CP - 
+- CP - 334,00
 
-- CP% - 
+- CP% - 56,23
 
-- CGP - 
+- CGP - 162,50
 
-- CGP% - 
+- CGP% - 73,20
 
-- CFP - 
+- CFP - 171,50
 
-- CFP% - 
-
-
-
-- CHP - 
-
-- CHP% - 
-
-- CLP - 
-
-- CHFP - 
-
-- CHFP% - 
-
-- CLFP - 
-
-- CHGP - 
-
-- CHGP% - 
-
-- CLGP - 
+- CFP% - 46,10
 
 
 
-- EC - 
+- CHP - 79,50 (2015, 2016)
 
-- GEC - 
+- CHP% - 83,88 (2017)
 
-- FEC - 
+- CLP - 19,00 (2012)
 
-- EW - 
+- CHFP - 51,00 (2017)
 
-- EW% - 
+- CHFP% - 85,00 (2017)
 
-- GEW - 
+- CLFP - 32,00 (2014)
 
-- GEW% - 
+- CHGP - 36,50 (2016)
 
-- FEW - 
+- CHGP% - 86,90 (2016)
 
-- FEW% - 
-
-
-
-- WE - 
-
-- WGE - 
-
-- WFE - 
+- CLGP - 19,00 (2012)
 
 
 
-- CHEW - 
+- EC - 59
 
-- CHGEW - 
+- GEC - 35
 
-- CHFEW - 
+- FEC - 24
 
+- EW - 21
 
+- EW% - 35,59
 
-- CHEW% - 
+- GEW - 16
 
-- CHGEW% - 
+- GEW% - 45,71
 
-- CHFEW% - 
+- FEW - 5
 
-
-
-- PPE - 
-
-- PPFE - 
-
-- PPGE - 
-
-- CHPPE - 
-
-- CLPPE - 
-
-- CHPPFE - 
-
-- CLPPFE - 
-
-- CHPPGE - 
-
-- CLPPGE - 
+- FEW% - 20,83
 
 
 
-- BTBEW: 
+- WE - 0
 
-- BTBFEW: 
+- WGE - 0
 
-- BTBGEW: 
+- WFE - 0
 
 
 
-- BTBTBEW: 
+- CHEW - 6 (2016, 2017)
 
-- BTBTBFEW: 
+- CHGEW - 4 (2016)
 
-- BTBTBGEW: 
+- CHFEW - 3 (2017)
+
+
+
+- CHEW% - 54,54 (2017)
+
+- CHGEW% - 66,67 (2016)
+
+- CHFEW% - 50,00 (2017)
+
+
+
+- PPE - 5,66
+
+- PPFE - 7,15
+
+- PPGE - 4,64
+
+- CHPPE - 6,86 (2017)
+
+- CLPPE - 3,17 (2012)
+
+- CHPPFE - 8,50 (2017)
+
+- CLPPFE - 5,33 (2014)
+
+- CHPPGE - 6,08 (2016)
+
+- CLPPGE - 3,17 (2012)
+
+
+
+- BTBEW: 5
+
+- BTBFEW: 2 (2013, 2014, 2015)
+
+- BTBGEW: 3 (2016, 2017)
+
+
+
+- BTBTBEW: 2
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 2 (2017)
