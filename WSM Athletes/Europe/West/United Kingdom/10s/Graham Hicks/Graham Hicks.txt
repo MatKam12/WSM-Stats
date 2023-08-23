@@ -1,0 +1,151 @@
+Height - 1,78 m
+
+Weight - 150 kg
+
+Born - 1985-11-15
+
+
+- First A - 26 yrs, 10 m, & 17 d (2012)
+
+- First FA - 35 yrs, 0 m, & 0 d (2020)
+
+- Last A - 37 yrs, 5 m, & 5 d (2023)
+
+- Last FA - 35 yrs, 0 m, & 0 d (2020)
+
+
+- A - 7
+
+- CA - 2
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 10th in Finals
+
+- FA% - 14,29
+
+- GA - 7
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 106,50
+
+- CP% - 16,09
+
+- CGP - 105,50
+
+- CGP% - 45,87
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 23,00 (2014)
+
+- CHP% - 21,29 (2014)
+
+- CLP - 8,00 (2015)
+
+- CHFP - 1,00 (2020)
+
+- CHFP% - 1,67 (2020)
+
+- CLFP - 1,00 (2020)
+
+- CHGP - 23,00 (2014)
+
+- CHGP% - 63,38 (2014)
+
+- CLGP - 8,00 (2015)
+
+
+
+- EC - 
+
+- GEC - 
+
+- FEC - 
+
+- EW - 
+
+- EW% - 
+
+- GEW - 
+
+- GEW% - 
+
+- FEW - 
+
+- FEW% - 
+
+
+
+- WE - 
+
+- WGE - 
+
+- WFE - 
+
+
+
+- CHEW - 
+
+- CHGEW - 
+
+- CHFEW - 
+
+
+
+- CHEW% - 
+
+- CHGEW% - 
+
+- CHFEW% - 
+
+
+
+- PPE - 
+
+- PPFE - 
+
+- PPGE - 
+
+- CHPPE - 
+
+- CLPPE - 
+
+- CHPPFE - 
+
+- CLPPFE - 
+
+- CHPPGE - 
+
+- CLPPGE - 
+
+
+
+- BTBEW: 
+
+- BTBFEW: 
+
+- BTBGEW: 
+
+
+
+- BTBTBEW: 
+
+- BTBTBFEW: 
+
+- BTBTBGEW: 

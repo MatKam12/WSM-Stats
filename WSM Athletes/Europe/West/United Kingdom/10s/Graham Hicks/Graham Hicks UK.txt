@@ -1,0 +1,144 @@
+- First A - 29 yrs, 5 m, & 11 d (2015)
+
+- First FA - 35 yrs, 0 m, & 0 d (2020)
+
+- Last A - 37 yrs, 5 m, & 5 d (2023)
+
+- Last FA - 35 yrs, 0 m, & 0 d (2020)
+
+
+- A - 4
+
+- CA - 0
+
+- FA - 1
+
+- CFA - 0
+
+- BF - 10th in Finals
+
+- FA% - 25,00
+
+- GA - 4
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 
+
+- CP% - 
+
+- CGP - 
+
+- CGP% - 
+
+- CFP - 
+
+- CFP% - 
+
+
+
+- CHP - 
+
+- CHP% - 
+
+- CLP - 
+
+- CHFP - 
+
+- CHFP% - 
+
+- CLFP - 
+
+- CHGP - 
+
+- CHGP% - 
+
+- CLGP - 
+
+
+
+- EC - 
+
+- GEC - 
+
+- FEC - 
+
+- EW - 
+
+- EW% - 
+
+- GEW - 
+
+- GEW% - 
+
+- FEW - 
+
+- FEW% - 
+
+
+
+- WE - 
+
+- WGE - 
+
+- WFE - 
+
+
+
+- CHEW - 
+
+- CHGEW - 
+
+- CHFEW - 
+
+
+
+- CHEW% - 
+
+- CHGEW% - 
+
+- CHFEW% - 
+
+
+
+- PPE - 
+
+- PPFE - 
+
+- PPGE - 
+
+- CHPPE - 
+
+- CLPPE - 
+
+- CHPPFE - 
+
+- CLPPFE - 
+
+- CHPPGE - 
+
+- CLPPGE - 
+
+
+
+- BTBEW: 
+
+- BTBFEW: 
+
+- BTBGEW: 
+
+
+
+- BTBTBEW: 
+
+- BTBTBFEW: 
+
+- BTBTBGEW: 

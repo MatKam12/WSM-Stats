@@ -1,0 +1,140 @@
+- First A - 26 yrs, 10 m, & 17 d (2012)
+
+- Last A - 28 yrs, 4 m, & 14 d (2014)
+
+
+- A - 3
+
+- CA - 2
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 3rd in Heats
+
+- FA% - 0,00
+
+- GA - 3
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 
+
+- CP% - 
+
+- CGP - 
+
+- CGP% - 
+
+- CFP - 
+
+- CFP% - 
+
+
+
+- CHP - 
+
+- CHP% - 
+
+- CLP - 
+
+- CHFP - 
+
+- CHFP% - 
+
+- CLFP - 
+
+- CHGP - 
+
+- CHGP% - 
+
+- CLGP - 
+
+
+
+- EC - 
+
+- GEC - 
+
+- FEC - 
+
+- EW - 
+
+- EW% - 
+
+- GEW - 
+
+- GEW% - 
+
+- FEW - 
+
+- FEW% - 
+
+
+
+- WE - 
+
+- WGE - 
+
+- WFE - 
+
+
+
+- CHEW - 
+
+- CHGEW - 
+
+- CHFEW - 
+
+
+
+- CHEW% - 
+
+- CHGEW% - 
+
+- CHFEW% - 
+
+
+
+- PPE - 
+
+- PPFE - 
+
+- PPGE - 
+
+- CHPPE - 
+
+- CLPPE - 
+
+- CHPPFE - 
+
+- CLPPFE - 
+
+- CHPPGE - 
+
+- CLPPGE - 
+
+
+
+- BTBEW: 
+
+- BTBFEW: 
+
+- BTBGEW: 
+
+
+
+- BTBTBEW: 
+
+- BTBTBFEW: 
+
+- BTBTBGEW: 
