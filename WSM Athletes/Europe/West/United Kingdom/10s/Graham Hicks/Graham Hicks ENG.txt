@@ -27,114 +27,115 @@
 
 
 
-- CP - 
 
-- CP% - 
+- CP - 57,00
 
-- CGP - 
+- CP% - 19,00
 
-- CGP% - 
+- CGP - 57,00
 
-- CFP - 
+- CGP% - 52,78
 
-- CFP% - 
+- CFP - 0,00
 
-
-
-- CHP - 
-
-- CHP% - 
-
-- CLP - 
-
-- CHFP - 
-
-- CHFP% - 
-
-- CLFP - 
-
-- CHGP - 
-
-- CHGP% - 
-
-- CLGP - 
+- CFP% - 0,00
 
 
 
-- EC - 
+- CHP - 23,00 (2014)
 
-- GEC - 
+- CHP% - 21,29 (2014)
 
-- FEC - 
+- CLP - 16,00 (2013)
 
-- EW - 
+- CHFP - 0,00
 
-- EW% - 
+- CHFP% - 0,00
 
-- GEW - 
+- CLFP - 0,00
 
-- GEW% - 
+- CHGP - 23,00 (2014)
 
-- FEW - 
+- CHGP% - 21,29 (2014)
 
-- FEW% - 
-
-
-
-- WE - 
-
-- WGE - 
-
-- WFE - 
+- CLGP - 16,00 (2013)
 
 
 
-- CHEW - 
+- EC - 18
 
-- CHGEW - 
+- GEC - 18
 
-- CHFEW - 
+- FEC - 0
 
+- EW - 1
 
+- EW% - 5,56
 
-- CHEW% - 
+- GEW - 1
 
-- CHGEW% - 
+- GEW% - 5,56
 
-- CHFEW% - 
+- FEW - 0
 
-
-
-- PPE - 
-
-- PPFE - 
-
-- PPGE - 
-
-- CHPPE - 
-
-- CLPPE - 
-
-- CHPPFE - 
-
-- CLPPFE - 
-
-- CHPPGE - 
-
-- CLPPGE - 
+- FEW% - 0,00
 
 
 
-- BTBEW: 
+- WE - 3
 
-- BTBFEW: 
+- WGE - 3
 
-- BTBGEW: 
+- WFE - 0
 
 
 
-- BTBTBEW: 
+- CHEW - 1 (2012)
 
-- BTBTBFEW: 
+- CHGEW - 1 (2012)
 
-- BTBTBGEW: 
+- CHFEW - 0
+
+
+
+- CHEW% - 16,67 (2012)
+
+- CHGEW% - 16,67 (2012)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,17
+
+- PPFE - 0,00
+
+- PPGE - 3,17
+
+- CHPPE - 3,83 (2014)
+
+- CLPPE - 2,67 (2013)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,83 (2014)
+
+- CLPPGE - 2,67 (2013)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0

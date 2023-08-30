@@ -7,6 +7,7 @@
 - Last FA - 35 yrs, 0 m, & 0 d (2020)
 
 
+
 - A - 4
 
 - CA - 0
@@ -30,115 +31,114 @@
 - Adj. W% - 0,00
 
 
+- CP - 49,50
 
-- CP - 
+- CP% - 13,67
 
-- CP% - 
+- CGP - 48,50
 
-- CGP - 
+- CGP% - 39,75
 
-- CGP% - 
+- CFP - 1,00
 
-- CFP - 
+- CFP% - 0,42
 
-- CFP% - 
 
 
+- CHP - 17,00 (2018)
 
-- CHP - 
+- CHP% - 18,89 (2018)
 
-- CHP% - 
+- CLP - 8,00 (2015)
 
-- CLP - 
+- CHFP - 1,00 (2020)
 
-- CHFP - 
+- CHFP% - 1,67 (2020)
 
-- CHFP% - 
+- CLFP - 1,00 (2020)
 
-- CLFP - 
+- CHGP - 17,00 (2018)
 
-- CHGP - 
+- CHGP% - 60,00 (2020)
 
-- CHGP% - 
+- CLGP - 8,00 (2015)
 
-- CLGP - 
 
 
+- EC - 19
 
-- EC - 
+- GEC - 18
 
-- GEC - 
+- FEC - 1
 
-- FEC - 
+- EW - 3
 
-- EW - 
+- EW% - 15,79
 
-- EW% - 
+- GEW - 3
 
-- GEW - 
+- GEW% - 16,67
 
-- GEW% - 
+- FEW - 0
 
-- FEW - 
+- FEW% - 0,00
 
-- FEW% - 
 
 
+- WE - 8
 
-- WE - 
+- WGE - 3
 
-- WGE - 
+- WFE - 5
 
-- WFE - 
 
 
+- CHEW - 2 (2020)
 
-- CHEW - 
+- CHGEW - 2 (2020)
 
-- CHGEW - 
+- CHFEW - 0
 
-- CHFEW - 
 
 
+- CHEW% - 33,33 (2020)
 
-- CHEW% - 
+- CHGEW% - 40,00 (2020)
 
-- CHGEW% - 
+- CHFEW% - 0,00
 
-- CHFEW% - 
 
 
+- PPE - 2,61
 
-- PPE - 
+- PPFE - 1,00
 
-- PPFE - 
+- PPGE - 2,69
 
-- PPGE - 
+- CHPPE - 3,50 (2018)
 
-- CHPPE - 
+- CLPPE - 2,30 (2023)
 
-- CLPPE - 
+- CHPPFE - 1,00 (2020)
 
-- CHPPFE - 
+- CLPPFE - 1,00 (2020)
 
-- CLPPFE - 
+- CHPPGE - 3,40 (2018)
 
-- CHPPGE - 
+- CLPPGE - 2,17 (2020)
 
-- CLPPGE - 
 
 
+- BTBEW: 1
 
-- BTBEW: 
+- BTBFEW: 0
 
-- BTBFEW: 
+- BTBGEW: 1 (2020)
 
-- BTBGEW: 
 
 
+- BTBTBEW: 0
 
-- BTBTBEW: 
+- BTBTBFEW: 0
 
-- BTBTBFEW: 
-
-- BTBTBGEW: 
+- BTBTBGEW: 0
