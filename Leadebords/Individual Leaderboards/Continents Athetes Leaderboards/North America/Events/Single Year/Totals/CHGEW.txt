@@ -20,6 +20,7 @@ Trey Mitchell       3 (2022, 2023) USA
 Geoff Dolan         2 (2003) CAN
 Jessen Paulin       2 (2003) CAN
 Brian Schoonveld    2 (2002) USA
+Mark Felix          2 (2004) GRN
 Don Pope            2 (2005, 2007) USA
 Dave Ostlund        2 (2005, 2007, 2008, 2009, 2010) USA
 Kevin Nee           2 (2008) USA
@@ -44,4 +45,4 @@ Steve Bourgeois     1 (2005) CAN
 Louis-Philippe Jean 1 (2009, 2012) CAN
 Christian Savoie    1 (2010) CAN
 Scott Cummine       1 (2013) CAN
-Bernard Rolle       1 (1995) BAMA
+Bernard Rolle       1 (1995) BHS

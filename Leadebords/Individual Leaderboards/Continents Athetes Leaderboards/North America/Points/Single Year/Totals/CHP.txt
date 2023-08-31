@@ -36,6 +36,7 @@ Don Reinhoudt       60,40 (1979) USA
 Durwin Piper        58,00 (1981) USA
 Maxime Boudreault   57,50 (2022) CAN
 Jerry Pritchett     57,00 (2020) USA
+Mark Felix          56,50 (2006) GRN
 Jessen Paulin       56,00 (2003) CAN
 Bishop Dolegiewicz  56,00 (1980) CAN
 Jason Bergmann      52,50 (2008) USA
@@ -81,7 +82,7 @@ Christian Savoie    18,00 (2009) CAN
 Thomas Evans        18,00 (2023) USA
 Adam Derks          17,50 (2018) USA
 Derks DeVaughan     17,50 (2016) USA
-Tomás Rodríguez     17,50 (2014) CUBA
+Tomás Rodríguez     17,50 (2014) CUB
 Niko Noga           17,00 (1999) USA
 Gus Rethwisch       16,73 (1978) USA
 Steve Bourgeois     16,00 (2005) CAN
@@ -97,7 +98,7 @@ Spenser Remick      10,50 (2023) USA
 Jon Lane            10,50 (2016) USA
 George Frenn        10,00 (1977) USA
 Paul Lepik          10,00 (1996, 1997) CAN
-Bernard Rolle       8,50 (1995) BAMA
+Bernard Rolle       8,50 (1995) BHS
 Ginaud Dupuis       8,00 (1997) CAN
 Bryan Neese         7,00 (1999) USA
 Ron Trottier        5,00 (1994) CAN

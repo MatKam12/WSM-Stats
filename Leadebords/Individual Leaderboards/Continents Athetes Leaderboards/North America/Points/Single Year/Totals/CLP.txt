@@ -13,7 +13,7 @@ Terry Brennan       5,00 (1998) USA
 Ron Trottier        5,00 (1994) CAN
 Ginaud Dupuis       6,00 (1998) CAN
 Travis Ortmayer     6,00 (2011) USA
-Bernard Rolle       6,00 (1997) BAMA
+Bernard Rolle       6,00 (1997) BHS
 Gabriel Peña        6,00 (2020) MEX
 Phil Martin         7,00 (1996) USA
 Ken Brown           7,00 (1998) USA
@@ -58,7 +58,7 @@ Josh Thigpen        17,00 (2006) USA
 Hugo Girard         17,00 (1998) CAN
 Dusko Markovic      17,50 (1989) CAN
 Adam Derks          17,50 (2018) USA
-Tomás Rodríguez     17,50 (2014) CUBA
+Tomás Rodríguez     17,50 (2014) CUB
 Mark Philippi       18,00 (2001, 2005) USA
 Thomas Evans        18,00 (2023) USA
 Mike Dayton         19,25 (1977) USA
@@ -89,6 +89,7 @@ Dave Waddington     34,00 (1984) USA
 Ross Browner        35,00 (1982) USA
 George Hechter      36,00 (1985) USA
 Jim Hough           36,50 (1982) USA
+Mark Felix          37,50 (2004) GRN
 Billy Graham        37,00 (1980) USA
 Bill Kazmaier       40,00 (1989) USA
 Bill Dunn           40,50 (1982) USA

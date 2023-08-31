@@ -23,6 +23,7 @@ John Gamble         3rd in Finals USA
 Jean-François Caron 3rd in Finals CAN
 Dominic Filiou      3rd in Finals CAN
 Maxime Boudreault   3rd in Finals CAN
+Mark Felix          4th in Finals GRN
 Mike Burke          4th in Finals USA
 george Hechter      4th in Finals USA
 Jerry Hannan        4th in Finals USA
@@ -88,7 +89,7 @@ Josh Thigpen        3rd in Heats USA
 Mike Caruso         3rd in Heats USA
 Josh Gillingham     3rd in Heats USA
 Terry Ingalsbe      3rd in Heats USA
-Bernard Rolle       3rd in Heats BAMA
+Bernard Rolle       3rd in Heats BHS
 Thomas Evans        4th in Heats USA
 Whit Baskin         4th in Heats USA
 Ralph Williams      4th in Heats USA
@@ -104,7 +105,7 @@ Jimmy Paquet        4th in Heats CAN
 Ginaud Dupuis       4th in Heats CAN
 Christian Savoie    4th in Heats CAN
 Steve Bourgeois     4th in Heats CAN
-Tomás Rodríguez     4th in Heats CUBA
+Tomás Rodríguez     4th in Heats CUB
 Spenser Remick      5th in Heats USA
 Derek DeVaughan     5th in Heats USA
 Niko Noga           5th in Heats USA

@@ -28,7 +28,7 @@ Jerry Pritchett     30,00 (2020) USA
 Trey Mitchell       27,27 (2023) USA
 Nick Best           25,00 (2010) USA
 Evan Singleton      25,00 (2020, 2023) USA
-Bernard Rolle       25,00 (1995) BAMA
+Bernard Rolle       25,00 (1995) BHS
 Dave Ostlund        23,07 (2008) USA
 Travis Ortmayer     23,07 (2008) USA
 Dominic Filiou      23,07 (2005) CAN
@@ -38,6 +38,7 @@ Ken Patera          20,00 (1977) USA
 Adam Derks          20,00 (2018) USA
 Bobby Thompson      20,00 (2020) USA
 Thomas Evans        20,00 (2023) USA
+Mark Felix          18,18 (2004) GRN
 Steve Bourgeois     16,66 (2005) CAN
 Louis-Philippe Jean 16,66 (2009) CAN
 Christian Savoie    16,66 (2010) CAN

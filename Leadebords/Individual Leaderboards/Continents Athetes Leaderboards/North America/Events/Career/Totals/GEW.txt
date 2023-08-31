@@ -24,6 +24,7 @@ Kevin Nee           4 USA
 Jessen Paulin       4 CAN
 Rob Kearney         4 USA
 Bobby Thompson      4 USA
+Mark Felix          3 GRN
 Dominic Filiou      3 CAN
 Bryan Benzel        3 USA
 Whit Baskin         3 USA
@@ -35,7 +36,7 @@ Phil Martin         2 USA
 Geoff Dolan         2 CAN
 Louis=Philippe Jean 2 CAN
 Thomas Evans        1 USA
-Bernard Rolle       1 BAMA
+Bernard Rolle       1 BHS
 Mike Caruso         1 USA
 Adam Derks          1 USA
 Karl Gillingham     1 USA

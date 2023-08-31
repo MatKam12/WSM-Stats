@@ -43,12 +43,13 @@ Dominic Filiou      3,58 (2005) CAN
 Adam Derks          3,50 (2018) USA
 Mike Caruso         3,41 (2014) USA
 Bryan Benzel        3,37 (2017) USA
+Mark Felix          3,36 (2004) GRN
 Steve Kirit         3,33 (2002) USA
 Gabriel Rhéaume     3,33 (2022) CAN
 Christian Savoie    3,00 (2009) CAN
 Rob Kearney         3,00 (2019) USA
 Gabriel Peña        3,00 (2020) MEX
-Tomás Rodríguez     2,92 (2014) CUBA
+Tomás Rodríguez     2,92 (2014) CUB
 Derek DeVaughan     2,91 (2016) USA
 Niko Noga           2,83 (1999) USA
 Steve Bourgeois     2,67 (2005) CAN
@@ -56,7 +57,7 @@ Paul Lepik          2,50 (1996, 1997) CAN
 Scott Cummine       2,41 (2014) CAN
 Stan Carradine      2,33 (2016) USA
 Jimmy Paquet        2,17 (2017) CAN
-Bernard Rolle       2,12 (1995) BAMA
+Bernard Rolle       2,12 (1995) BHS
 Spenser Remick      2,10 (2023) USA
 Marshall White      2,08 (2009) USA
 Ginaud Dupuis       2,00 (1997) CAN

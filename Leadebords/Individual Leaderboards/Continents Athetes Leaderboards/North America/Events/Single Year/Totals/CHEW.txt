@@ -37,6 +37,7 @@ Josh Thigpen        2 (2015) USA
 Bryan Benzel        2 (2017) USA
 Rob Kearney         2 (2019) USA
 Robert Oberst       2 (2021) USA
+Mark Felix          2 (2004, 2006) GRN
 Thomas Evans        1 (2023) USA
 Gabriel Rhéaume     1 (2022) CAN
 Bishop Dolegiewicz  1 (1981) CAN
@@ -68,4 +69,4 @@ Mike Caruso         1 (2014) USA
 Adam Derks          1 (2018) USA
 Kevin Faires        1 (2020, 2021, 2022) USA
 Bobby Thompson      2 (2021) USA
-Bernard Rolle       1 (1995) BAMA
+Bernard Rolle       1 (1995) BHS
