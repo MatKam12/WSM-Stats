@@ -122,13 +122,13 @@ Born - 1941-01-21
 
 - PPGE - 0,00
 
-- CHPPE - 0,54
+- CHPPE - 0,54 (1978)
 
-- CLPPE - 0,54
+- CLPPE - 0,54 (1978)
 
-- CHPPFE - 0,54
+- CHPPFE - 0,54 (1978)
 
-- CLPPFE - 0,54
+- CLPPFE - 0,54 (1978)
 
 - CHPPGE - 0,00
 

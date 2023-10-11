@@ -148,4 +148,4 @@ Born - 1981-08-18
 
 - BTBTBFEW: 0
 
-- BTBTBGEW: 0s
+- BTBTBGEW: 0
