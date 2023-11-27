@@ -1,0 +1,48 @@
+Sebastian Wenta         2,01 m F   G 00s
+Mateusz Kieliszkowski   1,96 m F   G 10s 20s
+Rafał Kobylarz          1,96 m       10s
+Grzegorz Szymański      1,89 m F     10s 20s
+Mateusz Baron           1,88 m       10s
+Krzysztof Radzikowski   1,88 m F     10s
+Mariusz Pudzianowski    1,86 m F W G 00s
+Janusz Kułaga           1,86 m       10s
+Sebastian Kurek         1,85 m       10s
+Robert Szczepański      1,83 m       10s
+Sławomir Toczek         1,80 m F     00s
+Jarosław Dymek          1,78 m F   G 00s
+Ivan Putski             1,78 m F     70s
+
+Avg. Athlete Height         (70s)       1,78 m
+Avg. Winner Height          (70s)       ---- m
+
+Avg. Athlete Height         (80s)       ---- m
+Avg. Winner Height          (80s)       ---- m
+
+Avg. Athlete Height         (before 94) 1,78 m 
+Avg. Winner Height          (before 94) ---- m 
+
+Avg. Athlete Height         (90s)       ---- m
+Avg. Finalists Height       (90s)       ---- m
+Avg. Group Winner Height    (90s)       ---- m
+Avg. Winner Height          (90s)       ---- m
+
+Avg. Athlete Height         (00s)       1,86 m
+Avg. Finalists Height       (00s)       1,86 m
+Avg. Group Winner Height    (00s)       1,88 m
+Avg. Winner Height          (00s)       1,86 m
+
+Avg. Athlete Height         (10s)       1,88 m
+Avg. Finalists Height       (10s)       1,91 m
+Avg. Group Winner Height    (10s)       1,96 m
+Avg. Winner Height          (10s)       ---- m
+
+
+Avg. Athlete Height         (20s)       1,92 m
+Avg. Finalists Height       (20s)       ---- m
+Avg. Group Winner Height    (20s)       ---- m
+Avg. Winner Height          (20s)       ---- m
+
+Avg. Athlete Height                     1,87 m
+Avg. Finalists Height                   1,87 m
+Avg. Group Winner Height                1,90 m
+Avg. Winner Height                      1,86 m
