@@ -63,25 +63,25 @@
 
 
 1994
-8 64 4 16          4 groups
+8 64 4 16           4 groups
 
 
 1995
-8 80 4 16          5 groups
+8 80 4 16           5 groups
 
 
 1996
-8 64 4 24          4 groups
+8 64 4 24           4 groups
 
 
 1997
-8 80 4 24          4 groups + U.S group
+8 80 4 24           4 groups + U.S group
 U.S group 
 12 120
 
 
 1998
-8 80 4 16          10 groups
+8 80 4 16           10 groups
 
 
 1999
