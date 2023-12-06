@@ -1,4 +1,4 @@
-Height - ??? m
+Height - 1,83 m
 
 Weight - ??? kg
 
@@ -122,17 +122,17 @@ Born - 1957-04-18
 
 - PPGE - 0,00
 
-- CHPPE - 2,77 (1986)
+- CHPPE - 3,94 (1986)
 
-- CLPPE - 2,77 (1986)
+- CLPPE - 1,94 (1988)
 
-- CHPPFE - 0,00
+- CHPPFE - 3,94 (1986)
 
-- CLPPFE - 0,00
+- CLPPFE - 1,94 (1988)
 
-- CHPPGE - 2,77 (1986)
+- CHPPGE - 0,00
 
-- CLPPGE - 2,77 (1986)
+- CLPPGE - 0,00
 
 
 

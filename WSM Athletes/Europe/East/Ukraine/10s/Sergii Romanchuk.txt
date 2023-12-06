@@ -118,17 +118,17 @@ Born - 1982-06-07
 
 - PPGE - 2,79
 
-- CHPPE - 2,83
+- CHPPE - 2,83 (2010)
 
-- CLPPE - 2,75
+- CLPPE - 2,75 (2011)
 
 - CHPPFE - 0,00
 
 - CLPPFE - 0,00
 
-- CHPPGE - 2,83
+- CHPPGE - 2,83 (2010)
 
-- CLPPGE - 2,75
+- CLPPGE - 2,75 (2011)
 
 
 

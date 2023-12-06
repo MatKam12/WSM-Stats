@@ -1,0 +1,47 @@
+Marko Varalahti             2,05 m F     90s
+Mika Törrö                  2,05 m       20s
+Juha-Matti Räsänen          1,98 m F   G 00s
+Janne Virtanen              1,97 m F W G 90s,00s
+Riku Kiri                   1,93 m F   G 90s         94
+Roger Ekström               1,91 m F     80s         94
+Tomi Lotta                  1,91 m       00s
+Jorma Ojanaho               1,91 m F     90s
+Ilkka Kinnunen              1,90 m F     90s         94
+Ilkka Nummisto              1,86 m F     80s,90s     94
+Jouko Ahola                 1,85 m F W G 90s
+Markku Suonenvirta          1,84 m F     90s         94
+Juha-Matti Järvi            1,83 m       10s
+
+Avg. Athlete Height         (70s)       ---- m
+Avg. Winner Height          (70s)       ---- m
+
+Avg. Athlete Height         (80s)       1,88 m
+Avg. Winner Height          (80s)       ---- m
+
+Avg. Athlete Height         (before 94) 1,88 m 
+Avg. Winner Height          (before 94) ---- m 
+
+Avg. Athlete Height         (90s)       1,91 m
+Avg. Finalists Height       (90s)       1,91 m
+Avg. Group Winner Height    (90s)       1,91 m
+Avg. Winner Height          (90s)       1,85 m
+
+Avg. Athlete Height         (00s)       1,95 m
+Avg. Finalists Height       (00s)       1,97 m
+Avg. Group Winner Height    (00s)       1,97 m
+Avg. Winner Height          (00s)       1,97 m
+
+Avg. Athlete Height         (10s)       1,83 m
+Avg. Finalists Height       (10s)       ---- m
+Avg. Group Winner Height    (10s)       ---- m
+Avg. Winner Height          (10s)       ---- m
+
+Avg. Athlete Height         (20s)       2,05 m
+Avg. Finalists Height       (20s)       ---- m
+Avg. Group Winner Height    (20s)       ---- m
+Avg. Winner Height          (20s)       ---- m
+
+Avg. Athlete Height                     1,92 m
+Avg. Finalists Height                   1,92 m
+Avg. Group Winner Height                1,89 m
+Avg. Winner Height                      1,91 m

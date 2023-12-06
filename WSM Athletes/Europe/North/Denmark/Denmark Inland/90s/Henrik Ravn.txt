@@ -5,9 +5,13 @@ Weight - 123 kg
 Born - 1968-??-??
 
 
-- First A -  25 yrs (1993)
+- First A - 25 yrs (1993)
+
+- First FA - 25 yrs (1993)
 
 - Last A - 26 yrs (1994)
+
+- Last FA - 25 yrs (1993)
 
 
 - A - 2
