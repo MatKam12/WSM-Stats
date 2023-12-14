@@ -1,17 +1,17 @@
 Height - ??? m
 
-Weight - ??? kg
+Weight - 120 kg
 
-Born - ????-??-??
+Born - 1960-??-??
 
 
-- First A - ? (1984)
+- First A - 24 (1984)
 
-- First FA - ? (1984)
+- First FA - 24 (1984)
 
-- Last A - ? (1984)
+- Last A - 24 (1984)
 
-- Last FA - ? (1984)
+- Last FA - 24 (1984)
 
 
 - A - 1
