@@ -1,6 +1,6 @@
 Height - 1,96 m
 
-Weight - ??? kg
+Weight - 162 kg
 
 Born - 1973-11-25
 
@@ -76,7 +76,7 @@ Born - 1973-11-25
 
 - EW - 1
 
-- EW% - 8,333
+- EW% - 8,33
 
 - GEW - 1
 
