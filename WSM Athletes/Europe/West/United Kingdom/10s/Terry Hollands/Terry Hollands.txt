@@ -144,8 +144,8 @@ Born - 1979-06-06
 
 
 
-- BTBTBEW: 
+- BTBTBEW: 0
 
-- BTBTBFEW: 
+- BTBTBFEW: 0
 
-- BTBTBGEW: 
+- BTBTBGEW: 0
