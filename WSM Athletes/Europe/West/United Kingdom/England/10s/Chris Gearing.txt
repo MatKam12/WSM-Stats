@@ -118,17 +118,17 @@ Born - 1986-09-30
 
 - PPGE - 1,67
 
-- CHPPE - 1,6 (2012)
+- CHPPE - 1,67 (2012)
 
-- CLPPE - 1,6 (2012)
+- CLPPE - 1,67 (2012)
 
 - CHPPFE - 0,00
 
 - CLPPFE - 0,00
 
-- CHPPGE - 1,6 (2012)
+- CHPPGE - 1,67 (2012)
 
-- CLPPGE - 1,6 (2012)
+- CLPPGE - 1,67 (2012)
 
 
 
