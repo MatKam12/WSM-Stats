@@ -41,7 +41,7 @@ Format podawania wieku [lata] [miesiące] [dni] (rok wystąpienia)
 
 
 
-- CP - ilośc zdobytych punkót w karierze
+- CP - ilośc zdobytych punktów w karierze
 
 - CP% - procent ilości zdobytych punktów (ile procent punktów z maksymalnej mozliwej (gdyby wygral wyszystkie konkurencje)) 
 
@@ -113,7 +113,7 @@ Format podawania wieku [lata] [miesiące] [dni] (rok wystąpienia)
 
 - CHEW% - najwiekszy procent wygranych konkurencji podczas jendnych zawodow
 
-- CHGEW% - no i you know the drill i tak dalej
+- CHGEW% - no i tak dalej
 
 - CHFEW% - 
 
@@ -121,9 +121,9 @@ Format podawania wieku [lata] [miesiące] [dni] (rok wystąpienia)
 
 - PPE - ilosc punktow na konkurencje (cala kariera)
 
-- PPFE - to samo ale tylko fo finalow
+- PPFE - to samo ale tylko dla finalow
 
-- PPGE - to samo ale tylko do grup
+- PPGE - to samo ale tylko dla grup
 
 - CHPPE - najwieksza ilosc punktow na konkurencje w pojedynczych zawodach
 
@@ -133,7 +133,7 @@ Format podawania wieku [lata] [miesiące] [dni] (rok wystąpienia)
 
 - CLPPFE - odwrotnosc CHPPFE 
 
-- CHPPGE - to samo co CHPPE ale dra grup
+- CHPPGE - to samo co CHPPE ale dla grup
 
 - CLPPGE - odwrotnosc CHPPGE
 
@@ -144,4 +144,4 @@ Format podawania wieku [lata] [miesiące] [dni] (rok wystąpienia)
 - BTBTBEW - to samo ale w przypadku dla wygrania 3 od rzad
 
 * jezeli zawodnik ma jedno BTBTBEW to nie licze tego jako BTBEW 
-* jezeli BTBEW/BTBTBEW jest w liczbie wiekszej niz jedno i jedno jest np w grupie a drugie w finala liczymy je na tabeli pomniejszej jako osobne dwie staty a BTBW/BTBTBEW jako ich sume 
+* jezeli BTBEW/BTBTBEW jest w liczbie wiekszej niz jedno i jedno jest np w grupie a drugie w finale liczymy je na tabeli pomniejszej jako osobne dwie statystyki a BTBW/BTBTBEW jako ich sume 
