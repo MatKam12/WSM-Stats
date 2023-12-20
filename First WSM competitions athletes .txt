@@ -55,3 +55,5 @@ Out of 42 athletes ONLY 2  were actuall Strongman. The rest were:
 6 x Track & Field Athlete
 8 x Powerlifter
 10 x American Footballer
+
+Far have we come in the sport of Strongman.
