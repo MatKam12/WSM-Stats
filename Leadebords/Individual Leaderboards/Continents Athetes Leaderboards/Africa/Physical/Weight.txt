@@ -1,7 +1,7 @@
 Chris van der Linde         184 kg       20s
 Gerrit van Staden           175 kg       10s
 Johan Els                   158 kg F     10s
-Gerrit Badenhorst           154 kg F   G 90s,00s 94
+Gerrit Badenhorst           154 kg F   G 90s,00s         94
 Jaco Schoonwinkel           150 kg F   G 20s
 Hennie Jordaan              145 kg       10s
 Wayne Price                 140 kg F     90s,00s
@@ -11,10 +11,11 @@ Frankie Scheun              134 kg       10s
 Ettiene Smit                131 kg       00s,10s
 Johan van Heerden           130 kg       00s
 Oluwatofunmi Fadesire       123 kg       10s
+Nigel Moss                  123 kg       00s
 Malone Horn                 121 kg       00s
-Pius Ochieng                100 kg F     80s 94
-Nigel Moss                  ??? kg       00s
-Chris Okonkwo               ??? kg F     80s 94
+Pius Ochieng                100 kg F     80s             94
+
+Chris Okonkwo               ??? kg F     80s             94
 
 Avg. Athlete Weight         (70s)       --- kg
 Avg. Winner Weight          (70s)       --- kg
@@ -30,7 +31,7 @@ Avg. Finalists Weight       (90s)       141 kg
 Avg. Group Winner Weight    (90s)       145 kg
 Avg. Winner Weight          (90s)       --- kg
 
-Avg. Athlete Weight         (00s)       135 kg
+Avg. Athlete Weight         (00s)       133 kg
 Avg. Finalists Weight       (00s)       154 kg
 Avg. Group Winner Weight    (00s)       --- kg
 Avg. Winner Weight          (00s)       --- kg
@@ -46,7 +47,7 @@ Avg. Finalists Weight       (20s)       150 kg
 Avg. Group Winner Weight    (20s)       150 kg
 Avg. Winner Weight          (20s)       --- kg
 
-Avg. Athlete Weight                     141 kg
+Avg. Athlete Weight                     139 kg
 Avg. Finalists Weight                   139 kg
 Avg. Group Winner Weight                146 kg
 Avg. Winner Weight                      --- kg 

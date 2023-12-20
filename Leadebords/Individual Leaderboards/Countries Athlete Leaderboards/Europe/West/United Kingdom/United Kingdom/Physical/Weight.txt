@@ -1,0 +1,88 @@
+Gavin Bilton                205 kg       20s
+Glenn Ross                  200 kg       90s,00s
+Andy Black                  195 kg       10s
+Eddie Hall                  186 kg F W G 10s
+Tom Stoltman                185 kg F W G 10s,20s
+Graham Mullins              173 kg       00s
+Geoff Capes                 170 kg F W   80s        94
+Lloyd Renals                170 kg       10s
+Luke Stoltman               165 kg F   G 10s,20s
+Laurence Shahlaei           160 kg F   G 00s,10s
+Mark Westaby                160 kg       00s,10s
+Charlie Gough               160 kg       10s
+Terry Hollands              155 kg F   G 00s,10s,20s
+Luke Richardson             155 kg F     20s
+Adrian Rollinson            155 kg       00s
+Rob Frampton                152 kg       10s
+Zake Muluzi                 152 kg       10s
+Jamie Reeves                150 kg F W   80s,90s    94
+Adam Bishop                 150 kg F     10s,20s
+Graham Hicks                150 kg F     10s,20s
+Chris Gearing               150 kg       10s
+Shane Flowers               145 kg       20s
+Brian Irwin                 143 kg       00s
+Eddy Ellwood                142 kg       00s
+Jimmy Marku                 141 kg       00s
+Mark Felix                  140 kg F   G 00s,10s,20s
+Jack McIntosh               140 kg       10s
+Richard Gosling             140 kg       00s
+Brian Turner                137 kg       00s
+Forbes Cowan                135 kg F   G 90s
+Oliver Thompson             135 kg       00s
+David Warner                135 kg       00s
+Gary Taylor                 134 kg F W G 90s        94
+Paul Smith                  132 kg       10s,20s
+Robert Weir                 132 kg       90s
+Lee Bowers                  130 kg       90s
+Russ Bradley                130 kg       90s
+Steve Brooks                130 kg       90s
+Brian Bell                  127 kg       90s,00s
+Bill Pittuck                127 kg       90s
+Stuart Murray               126 kg       90s,00s
+Mick Gosling                125 kg       00s
+Jamie Barr                  125 kg F     90s
+Andrew Raynes               123 kg F     00s
+Adrian Smith                121 kg F     90s        94
+Rob Dixon                   120 kg F     00s
+Gregor Edmunds              120 kg F     00s
+Carl Broomfield             115 kg       00s
+Marc Iliffe                 115 kg       00s
+Ben Kelsey                  112 kg       10s
+Darren Sadler               110 kg       00s,10s
+
+Bill Anderson               ??? kg F     70s        94
+Fraser Tranter              ??? kg       90s
+
+Avg. Athlete Weight         (70s)       ??? kg
+Avg. Winner Weight          (70s)       --- kg
+
+Avg. Athlete Weight         (80s)       160 kg
+Avg. Winner Weight          (80s)       160 kg
+
+Avg. Athlete Weight         (before 94) 143 kg 
+Avg. Winner Weight          (before 94) 151 kg 
+
+Avg. Athlete Weight         (90s)       135 kg
+Avg. Finalists Weight       (90s)       133 kg
+Avg. Group Winner Weight    (90s)       134 kg
+Avg. Winner Weight          (90s)       142 kg
+
+Avg. Athlete Weight         (00s)       139 kg
+Avg. Finalists Weight       (00s)       136 kg
+Avg. Group Winner Weight    (00s)       151 kg
+Avg. Winner Weight          (00s)       --- kg
+
+Avg. Athlete Weight         (10s)       160 kg
+Avg. Finalists Weight       (10s)       153 kg
+Avg. Group Winner Weight    (10s)       160 kg
+Avg. Winner Weight          (10s)       186 kg
+
+Avg. Athlete Weight         (20s)       150 kg
+Avg. Finalists Weight       (20s)       161 kg
+Avg. Group Winner Weight    (20s)       175 kg
+Avg. Winner Weight          (20s)       185 kg
+
+Avg. Athlete Weight                     144 kg
+Avg. Finalists Weight                   146 kg
+Avg. Group Winner Weight                157 kg
+Avg. Winner Weight                      165 kg

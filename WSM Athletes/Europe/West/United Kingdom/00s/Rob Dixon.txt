@@ -1,4 +1,4 @@
-Height - 1,,75 m
+Height - 1,75 m
 
 Weight - 120 kg
 

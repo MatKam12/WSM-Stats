@@ -1,17 +1,13 @@
-Height - ??? m
+Height - 1,91 m
 
-Weight - ??? kg
+Weight - 123 kg
 
-Born - ????-??-??
+Born - 1968-??-??
 
 
-- First A - ? (2002)
+- First A - 34 (2002)
 
-- First FA - ? (2002)
-
-- Last A - ? (2002)
-
-- Last FA - ? (2002)
+- Last A - 34 (2002)
 
 
 - A - 1

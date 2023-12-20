@@ -1,115 +1,115 @@
-Brian Shaw          2,03 m F W G 00s,10s,20s    USA
-John Matuszak       2,03 m F     70s     94     USA
-Cleve Dean          2,01 m F     70s     94     USA
-Mike Burke          2,01 m F   G 10s            USA
-Mike Jenkins        2,01 m F     10s            USA
-Robert Oberst       2,01 m F     10s,20s        USA
-Dave Ostlund        2,01 m F     00s,10s        USA
-O.D. Wilson         1,99 m F     90s     94     USA
-Travis Lyndon       1,99 m       00s            CAN
-Evan Singleton      1,98 m F     20s            USA
-Phil Pfister        1,98 m F W G 90s,00s        USA
-Johnny Perry        1,98 m F   G 00s            USA
-Josh Thigpen        1,98 m       00s,10s        USA
-Phil Martin         1,98 m F     90s            USA
-Derek DeVaughan     1,96 m       10s            USA
-Bishop Dolegiewicz  1,96 m F     80s,    94     CAN
-Dominic Filiou      1,96 m F     00s            CAN
-Brian Oldfield      1,95 m F     70s     94     USA
-Bryan Neese         1,94 m       90s            USA
-Curt Marsh          1,94 m F     80s     94     USA
-Tom Magee           1,94 m F     80s,    94     CAN
-Mark Felix          1,93 m F     00s            GRN
-Jerry Pritchett     1,93 m F   G 10s,20s        USA
-Trey Mitchell       1,93 m F   G 10s,20s        USA
-Jesse Marunde       1,93 m F   G 00s            USA
-Kevin Toth          1,93 m       90s            USA
-Ralph Williams      1,93 m       90s            USA
-Bill Graham         1,93 m F     80s     94     USA 
-Lou Ferrigno        1,93 m F     70s     94     USA
-Christian Savoie    1,93 m       00s            CAN
-Maxime Boudreault   1,93 m F     20s            CAN
-Don Pope            1,91 m F   G 00s            USA
-Travis Ortmayer     1,91 m F   G 00s,10s,20s    USA
-Karl Gillingham     1,91 m       00s            USA
-Marsh White         1,91 m       00s            USA
-James Voronin       1,91 m       90s            USA
-Ross Browner        1,91 m F     80s     94     USA
-Keith Bishop        1,91 m F     80s     94     USA
-Jean-François Caron 1,91 m F   G 00s,10s,20s    CAN
-Ron Trottier        1,91 m       90s            CAN
-Steve Bourgeois     1,91 m       00s            CAN
-Mitchell Hooper     1,91 m F W G 20s            CAN
-Brian Schoonveld    1,90 m       00s            USA
-Don Reinhoudt       1,90 m F W   70s,80s 94     USA
-Bernard Rolle       1.90 m       90s            BAMA
-Geoff Dolan         1,89 m F     00s            CAN
-Martin Licis        1,89 m F W G 10s,20s        USA
-Tomás Rodríguez     1,89 m       10s            CUBA
-Nick Best           1,88 m F   G 10s,20s        USA
-Jon Lane            1,88 m       10s            USA
-Bryan Benzel        1,88 m       10s            USA
-Kevin Nee           1,88 m F     00s            USA
-Steve Kirit         1,88 m       00s            USA
-Brian Siders        1,88 m       00s            USA
-Jim Hough           1,88 m F     80s     94     USA
-Bill Kazmaier       1,88 m F W   70s,80s 94     USA
-Bruce Wilhelm       1,88 m F W   70s     94     USA
-Jon Kolb            1,88 m F     70s     94     USA
-Louis-Philippe Jean 1,88 m F     00s,10s        CAN
-Jesse Paulin        1,88 m F     00s            CAN
-Paul Lepik          1,88 m       90s            CAN
-Ginaud Dupuis       1,88 m       90s            CAN 
-Dusko Markovic      1,88 m F     80s,    94     CAN
-Gabriel Peña        1,88 m       20s            MEX
-Gabriel Rhéaume     1,88 m F     20s            CAN
-Kevin Faires        1,87 m F   G 10s,20s        USA
-Ken Patera          1,87 m F     70s     94     USA
-Bobby Thompson      1,85 m F   G 20s            USA
-Mike Caruso         1,85 m       10s            USA
-Derek Poundstone    1,85 m F   G 00s,10s        USA
-Curt Leffler        1,85 m       90s            USA
-Gary Mitchell       1,85 m       90s            USA
-Ken Brown           1,85 m       90s            USA
-Niko Noga           1,85 m       90s            USA
-Steve Pulcinella    1,85 m       90s            USA
-Craig Wolfley       1,85 m F     80s     94     USA
-Bob Young           1,85 m F     70s     94     USA
-Hugo Girard         1,85 m F   G 90s,00s        CAN
-Harold Collins      1,84 m F     90s     94     USA
-Dave Waddington     1,84 m F     80s     94     USA
-Adam Derks          1,83 m       10s            USA
-James Perry         1,83 m F     90s     94     USA
-Terry Brennan       1,83 m       90s            USA
-Mark Philippi       1,83 m F   G 90s,00s        USA
-Larry Kidney        1,83 m F     80s     94     USA
-Gregg Ernst         1,83 m F     90s,    94     CAN
-Scott Cummine       1,83 m       10s            CAN
-Jimmy Paquet        1,81 m       10s            CAN
-Jason Bergmann      1,80 m F   G 00s,10s        USA
-Whit Baskin         1,80 m       90s,00s        USA
-Rick Brown          1,80 m F     80s     94     USA
-John Gamble         1,80 m F     80s     94     USA
-George Frenn        1,80 m F     70s     94     USA
-Jon Cole            1,78 m F     70s     94     USA
-Doyle Kenady        1,78 m F     80s     94     USA
-Mike Dayton         1,77 m F     70s     94     USA
-Rob Kearney         1,75 m       10s            USA
-Stan Carradine      1,75 m       10s            USA
-Dave Johns          1,75 m F     70s     94     USA
-Jerry Blackwell     1,75 m F     70s     94     USA
+Brian Shaw          2,03 m F W G 00s,10s,20s           USA
+John Matuszak       2,03 m F     70s            94     USA
+Cleve Dean          2,01 m F     70s            94     USA
+Mike Burke          2,01 m F   G 10s                   USA
+Mike Jenkins        2,01 m F     10s                   USA
+Robert Oberst       2,01 m F     10s,20s               USA
+Dave Ostlund        2,01 m F     00s,10s               USA
+O.D. Wilson         1,99 m F     90s            94     USA
+Travis Lyndon       1,99 m       00s                   CAN
+Evan Singleton      1,98 m F     20s                   USA
+Phil Pfister        1,98 m F W G 90s,00s               USA
+Johnny Perry        1,98 m F   G 00s                   USA
+Josh Thigpen        1,98 m       00s,10s               USA
+Phil Martin         1,98 m F     90s                   USA
+Derek DeVaughan     1,96 m       10s                   USA
+Bishop Dolegiewicz  1,96 m F     80s,           94     CAN
+Dominic Filiou      1,96 m F     00s                   CAN
+Brian Oldfield      1,95 m F     70s            94     USA
+Bryan Neese         1,94 m       90s                   USA
+Curt Marsh          1,94 m F     80s            94     USA
+Tom Magee           1,94 m F     80s,           94     CAN
+Mark Felix          1,93 m F     00s                   GRN
+Jerry Pritchett     1,93 m F   G 10s,20s               USA
+Trey Mitchell       1,93 m F   G 10s,20s               USA
+Jesse Marunde       1,93 m F   G 00s                   USA
+Kevin Toth          1,93 m       90s                   USA
+Ralph Williams      1,93 m       90s                   USA
+Bill Graham         1,93 m F     80s            94     USA 
+Lou Ferrigno        1,93 m F     70s            94     USA
+Christian Savoie    1,93 m       00s                   CAN
+Maxime Boudreault   1,93 m F     20s                   CAN
+Don Pope            1,91 m F   G 00s                   USA
+Travis Ortmayer     1,91 m F   G 00s,10s,20s           USA
+Karl Gillingham     1,91 m       00s                   USA
+Marsh White         1,91 m       00s                   USA
+James Voronin       1,91 m       90s                   USA
+Ross Browner        1,91 m F     80s            94     USA
+Keith Bishop        1,91 m F     80s            94     USA
+Jean-François Caron 1,91 m F   G 00s,10s,20s           CAN
+Ron Trottier        1,91 m       90s                   CAN
+Steve Bourgeois     1,91 m       00s                   CAN
+Mitchell Hooper     1,91 m F W G 20s                   CAN
+Brian Schoonveld    1,90 m       00s                   USA
+Don Reinhoudt       1,90 m F W   70s,80s        94     USA
+Bernard Rolle       1.90 m       90s                   BAMA
+Geoff Dolan         1,89 m F     00s                   CAN
+Martin Licis        1,89 m F W G 10s,20s               USA
+Tomás Rodríguez     1,89 m       10s                   CUBA
+Nick Best           1,88 m F   G 10s,20s               USA
+Jon Lane            1,88 m       10s                   USA
+Bryan Benzel        1,88 m       10s                   USA
+Kevin Nee           1,88 m F     00s                   USA
+Steve Kirit         1,88 m       00s                   USA
+Brian Siders        1,88 m       00s                   USA
+Jim Hough           1,88 m F     80s            94     USA
+Bill Kazmaier       1,88 m F W   70s,80s        94     USA
+Bruce Wilhelm       1,88 m F W   70s            94     USA
+Jon Kolb            1,88 m F     70s            94     USA
+Louis-Philippe Jean 1,88 m F     00s,10s               CAN
+Jesse Paulin        1,88 m F     00s                   CAN
+Paul Lepik          1,88 m       90s                   CAN
+Ginaud Dupuis       1,88 m       90s                   CAN 
+Dusko Markovic      1,88 m F     80s,           94     CAN
+Gabriel Peña        1,88 m       20s                   MEX
+Gabriel Rhéaume     1,88 m F     20s                   CAN
+Kevin Faires        1,87 m F   G 10s,20s               USA
+Ken Patera          1,87 m F     70s            94     USA
+Bobby Thompson      1,85 m F   G 20s                   USA
+Mike Caruso         1,85 m       10s                   USA
+Derek Poundstone    1,85 m F   G 00s,10s               USA
+Curt Leffler        1,85 m       90s                   USA
+Gary Mitchell       1,85 m       90s                   USA
+Ken Brown           1,85 m       90s                   USA
+Niko Noga           1,85 m       90s                   USA
+Steve Pulcinella    1,85 m       90s                   USA
+Craig Wolfley       1,85 m F     80s            94     USA
+Bob Young           1,85 m F     70s            94     USA
+Hugo Girard         1,85 m F   G 90s,00s               CAN
+Harold Collins      1,84 m F     90s            94     USA
+Dave Waddington     1,84 m F     80s            94     USA
+Adam Derks          1,83 m       10s                   USA
+James Perry         1,83 m F     90s            94     USA
+Terry Brennan       1,83 m       90s                   USA
+Mark Philippi       1,83 m F   G 90s,00s               USA
+Larry Kidney        1,83 m F     80s            94     USA
+Gregg Ernst         1,83 m F     90s,           94     CAN
+Scott Cummine       1,83 m       10s                   CAN
+Jimmy Paquet        1,81 m       10s                   CAN
+Jason Bergmann      1,80 m F   G 00s,10s               USA
+Whit Baskin         1,80 m       90s,00s               USA
+Rick Brown          1,80 m F     80s            94     USA
+John Gamble         1,80 m F     80s            94     USA
+George Frenn        1,80 m F     70s            94     USA
+Jon Cole            1,78 m F     70s            94     USA
+Doyle Kenady        1,78 m F     80s            94     USA
+Mike Dayton         1,77 m F     70s            94     USA
+Rob Kearney         1,75 m       10s                   USA
+Stan Carradine      1,75 m       10s                   USA
+Dave Johns          1,75 m F     70s            94     USA
+Jerry Blackwell     1,75 m F     70s            94     USA
 
-Tommy Ingalsbe      ?,?? m       90s            USA
-Daniel Poulin       ?,?? m F     80s,    94     CAN
-Bill Dunn           ?,?? m F     80s     94     USA
-Durwin Piper        ?,?? m F     80s     94     USA
-Ernie Hackett       ?,?? m F     80s     94     USA
-George Hechter      ?,?? m F     80s     94     USA
-Jerry Hannan        ?,?? m F     80s     94     USA
-Joe Zelezniak       ?,?? m F     80s     94     USA
-Gus Rethwisch       ?,?? m F     70s     94     USA
-Jack Wright         ?,?? m F     70s     94     USA
-Joe Dube            ?,?? m F     70s     94     USA
+Tommy Ingalsbe      ?,?? m       90s                   USA
+Daniel Poulin       ?,?? m F     80s,           94     CAN
+Bill Dunn           ?,?? m F     80s            94     USA
+Durwin Piper        ?,?? m F     80s            94     USA
+Ernie Hackett       ?,?? m F     80s            94     USA
+George Hechter      ?,?? m F     80s            94     USA
+Jerry Hannan        ?,?? m F     80s            94     USA
+Joe Zelezniak       ?,?? m F     80s            94     USA
+Gus Rethwisch       ?,?? m F     70s            94     USA
+Jack Wright         ?,?? m F     70s            94     USA
+Joe Dube            ?,?? m F     70s            94     USA
 
 Avg. Athlete Height         (70s)       1,86 m
 Avg. Winner Height          (70s)       1,89 m

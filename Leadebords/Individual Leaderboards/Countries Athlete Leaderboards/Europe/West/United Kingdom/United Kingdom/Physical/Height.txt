@@ -1,0 +1,88 @@
+Tom Stoltman                2,03 m F W G 10s,20s
+Andy Black                  2,01 m       20s
+Terry Hollands              1,98 m F   G 00s,10s,20s
+Gavin Bilton                1,98 m       20s
+Fraser Tranter              1,98 m       90s
+Geoff Capes                 1,97 m F W   80s        94
+Mark Westaby                1,96 m       00s,10s
+Mick Gosling                1,96 m       00s
+Jack McIntosh               1,95 m       10s
+Richard Gosling             1,95 m       00s
+Gregor Edmunds              1,94 m F     00s
+Robert Weir                 1,94 m       90s
+Mark Felix                  1,93 m F   G 00s,10s,20s
+Forbes Cowan                1,93 m F   G 90s
+Bill Anderson               1,93 m F     70s        94
+Shane Flowers               1,93 m       20s
+Russ Bradley                1,92 m       90s
+Graham Mullins              1,92 m       00s
+Luke Stoltman               1,91 m F   G 10s,20s
+Charlie Gough               1,91 m       10s
+Eddie Hall                  1,90 m F W G 10s
+Jamie Reeves                1,90 m F W   80s,90s    94
+Adam Bishop                 1,90 m F     10s,20s
+Luke Richardson             1,90 m F     20s
+Zake Muluzi                 1,90 m       10s
+Adrian Rollinson            1,89 m       00s
+Chris Gearing               1,89 m       10s
+Laurence Shahlaei           1,88 m F   G 00s,10s
+Lee Bowers                  1,88 m       90s
+Jamie Barr                  1,88 m F     90s
+Lloyd Renals                1,88 m       10s
+Brian Bell                  1,85 m       90s,00s
+Glenn Ross                  1,85 m       90s,00s
+Rob Frampton                1,85 m       10s
+Eddy Ellwood                1,85 m       00s
+David Warner                1,85 m       00s
+Oliver Thompson             1,85 m       00s
+Gary Taylor                 1,83 m F W G 90s        94
+Marc Iliffe                 1,83 m       00s
+Ben Kelsey                  1,83 m       10s
+Steve Brooks                1,82 m       90s
+Brian Turner                1,82 m       00s
+Carl Broomfield             1,82 m       00s
+Bill Pittuck                1,81 m       90s
+Adrian Smith                1,80 m F     90s        94
+Paul Smith                  1,80 m       10s,20s
+Brian Irwin                 1,80 m       00s
+Graham Hicks                1,78 m F     10s,20s
+Jimmy Marku                 1,78 m       00s
+Darren Sadler               1,77 m       00s,10s
+Rob Dixon                   1,75 m F     00s
+Stuart Murray               1,75 m       90s,00s
+Andrew Raynes               1,60 m F     00s
+
+Avg. Athlete Height         (70s)       1,93 m
+Avg. Winner Height          (70s)       ---- m
+
+Avg. Athlete Height         (80s)       1,93 m
+Avg. Winner Height          (80s)       1,93 m
+
+Avg. Athlete Height         (before 94) 1,88 m 
+Avg. Winner Height          (before 94) 1,90 m 
+
+Avg. Athlete Height         (90s)       1,86 m
+Avg. Finalists Height       (90s)       1,86 m
+Avg. Group Winner Height    (90s)       1,88 m
+Avg. Winner Height          (90s)       1,86 m
+
+Avg. Athlete Height         (00s)       1,85 m
+Avg. Finalists Height       (00s)       1,84 m
+Avg. Group Winner Height    (00s)       1,93 m
+Avg. Winner Height          (00s)       ---- m
+
+Avg. Athlete Height         (10s)       1,89 m
+Avg. Finalists Height       (10s)       1,93 m
+Avg. Group Winner Height    (10s)       1,93 m
+Avg. Winner Height          (10s)       1,90 m
+
+
+Avg. Athlete Height         (20s)       1,92 m
+Avg. Finalists Height       (20s)       1,90 m
+Avg. Group Winner Height    (20s)       1,97 m
+Avg. Winner Height          (20s)       2,03 m
+
+Avg. Athlete Height                     1,87 m
+Avg. Finalists Height                   1,88 m
+Avg. Group Winner Height                1,92 m
+Avg. Winner Height                      1,92 m
