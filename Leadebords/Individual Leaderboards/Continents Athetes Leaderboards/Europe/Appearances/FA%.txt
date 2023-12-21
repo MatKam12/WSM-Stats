@@ -1,0 +1,90 @@
+Geoff Capes                 100,00 GBR
+Jamie Reeves                100,00 GBR
+Gregor Edmunds              100,00 GBR
+Andrew Raynes               100,00 GBR
+Bill Anderson               100,00 GBR
+Adrian Smith                100,00 GBR
+Ab Wolders                  100,00 NLD
+Ted van der Parre           100,00 NLD
+Wout Zijlstra               100,00 NLD
+Cees de Vreugd              100,00 NLD
+Siem Wulfse                 100,00 NLD
+Tjalling van den Bosch      100,00 NLD
+Stago Piczko                100,00 NLD
+Gerard du Prie              100,00 NLD
+Jean-Pierre Brulois         100,00 FRA
+Franco Columbu              100,00 ITA
+Lars Hedlund                100,00 SWE
+Yngve Gustavsson            100,00 SWE
+Hafthór Júlíus Björnsson    100,00 ISL
+Jón Páll Sigmarsson         100,00 ISL
+Ilkka Nummisto              100,00 FIN
+Jouko Ahola                 100,00 FIN
+Juha-Matti Räsänen          100,00 FIN
+Marko Varalahti             100,00 FIN
+Jorma Ojanaho               100,00 FIN
+Markku Suonenvirta          100,00 FIN
+Roger Ekström               100,00 FIN
+Ilkka Kinnunen              100,00 FIN
+Henning Thorsen             100,00 DNK
+Vasyl Virastyuk             100,00 UKR
+Aap Uspenski                100,00 EST
+Tarmo Mitt                  100,00 EST
+Mariusz Pudzianowski        100,00 POL
+Ivan Putski                 100,00 POL
+Rudolf Küster               100,00 DEU
+Manfred Höberl              100,00 AUT
+Klaus Wallas                100,00 AUT
+Svend Karlsen               87.50 NOR
+Magnús Ver Magnússon        85,71 ISL
+Žydrūnas Savickas           85,71 LTU
+Tom Stoltman                83,33 GBR
+Gary Taylor                 80,00 GBR
+Riku Kiri                   80,00 FIN
+Mateusz Kieliszkowski       80,00 POL
+Magnus Samuelsson           76,92 SWE
+Sebastian Wenta             75,00 POL
+Vytautas Lalas              75,00 LTU
+Ervin Katona                75,00 SRB
+Raimonds Bergmanis          71,43 LVA
+Konstantine Janashia        71,43 GEO
+Eddie Hall                  66,67 GBR
+Forbes Cowan                66,67 GBR
+Mikhail Koklyaev            66,67 RUS
+Martin Muhr                 66,67 DEU
+Jarosław Dymek              62,50 POL
+Terry Hollands              60,00 GBR
+Torfi Ólafsson              60,00 ISL
+Flemming Rasmussen          60,00 DNK
+Oleksii Novikov             60,00 UKR
+László Fekete               57,14 HUN
+Sławomir Toczek             50,00 POL
+Pavlo Kordiyaka             50,00 UKR
+Henrik Ravn                 50,00 DNK
+Eythór Ingólfsson Melsted   50,00 ISL
+Arild Haugen                50.00 NOR
+Luke Stoltman               50,00 GBR
+Rob Dixon                   50,00 GBR
+Luke Richardson             50,00 GBR
+Jamie Barr                  50,00 GBR
+Berend Veneberg             50,00 NLD
+Matjaž Belšak               50,00 SVN
+Laurence Shahlaei           45,45 GBR
+Janne Virtanen              44,44 FIN
+Johannes Årsjö              40,00 SWE
+Stefán Sölvi Pétursson      40,00 ISL
+Regin Vágadal               40,00 DNK [FRO]
+Adam Bishop                 34,50 GBR
+Ralf Ber                    33,33 AUT
+Dimitar Savatinov           33,33 BGR
+Heinz Ollesch               25,00 DEU
+Elbrus Nigmatullin          25,00 RUS
+Raivis Vidzis               25,00 LVA
+Grzegorz Szymański          25,00 POL
+Martin Wildauer             20,00 AUT
+Krzysztof Radzikowski       20,00 POL
+Rene Minkwitz               20,00 DNK
+Aivars Šmaukstelis          16,67 LVA
+Mikhail Shivlyakov          14,29 RUS
+Graham Hicks                14,29 GBR
+Mark Felix                  12,50 GBR
