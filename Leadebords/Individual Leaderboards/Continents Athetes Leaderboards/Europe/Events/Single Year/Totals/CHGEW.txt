@@ -1,0 +1,103 @@
+Vasyl Virastyuk             7 (2004)                            UKR
+Magnus Samuelsson           5 (2004)                            SWE
+Hafthór Júlíus Björnsson    5 (2016)                            ISL
+Janne Virtanen              5 (1999, 2000)                      FIN
+Žydrūnas Savickas           5 (2015)                            LTU
+Mariusz Pudzianowski        5 (2004)                            POL
+Sebastian Wenta             4 (2004)                            POL
+Vytautas Lalas              4 (2011)                            LTU
+Eddie Hall                  4 (2016)                            GBR
+Tom Stoltman                4 (2022)                            GBR
+Oleksii Novikov             3 (2022, 2023)                      UKR
+Pavlo Kordiyaka             3 (2023)                            UKR
+Terry Hollands              3 (2006, 2012)                      GBR
+Mark Felix                  3 (2007, 2008)                      GBR
+Laurence Shahlaei           3 (2009, 2016)                      GBR
+Adam Bishop                 3 (2019, 2021)                      GBR
+Luke Stoltman               3 (2022)                            GBR
+Rob Dixon                   3 (2001)                            GBR
+Brian Turner                3 (2004)                            GBR
+Ervin Katona                3 (2011)                            SRB
+Svend Karlsen               3 (2000, 2001)                      NOR
+Riku Kiri                   3 (1998)                            FIN
+Jouko Ahola                 3 (1998, 1999)                      FIN
+Flemming Rasmussen          3 (1998)                            DNK
+Raimonds Bergmanis          3 (2002, 2003, 2004)                LVA
+Konstantine Janashia        3 (2017)                            GEO
+Tarmo Mitt                  3 (2007)                            EST
+Mateusz Kieliszkowski       3 (2018, 2019)                      POL
+Manfred Höberl              3 (1994)                            AUT
+Heinz Ollesch               2 (2001)                            DEU
+Martin Muhr                 2 (2000, 2001)                      DEU
+Jarosław Dymek              2 (2001, 2002, 2003, 2005, 2006)    POL
+Sławomir Toczek             2 (2005, 2006)                      POL
+Krzysztof Radzikowski       2 (2012)                            POL
+Grzegorz Szymański          2 (2016)                            POL
+Matjaž Belšak               2 (2018)                            SVN
+Aivars Šmaukstelis          2 (2020, 2021)                      LVA
+Raivis Vidzis               2 (2006)                            LVA
+Dainis Zageris              2 (2015)                            LVA
+Forbes Cowan                2 (1994, 1996)                      GBR
+Jimmy Marku                 2 (2008)                            GBR
+Graham Hicks                2 (2020)                            GBR
+Adrian Rollinson            2 (2004)                            GBR
+Andrew Raynes               2 (2001)                            GBR
+Luke Richardson             2 (2020)                            GBR
+Berend Veneberg             2 (1998)                            NLD
+Wout Zijlstra               2 (1998)                            NLD
+Peter Baltus                2 (2003)                            NLD
+Stoyan Todorchev            2 (2007)                            BGR
+Johannes Årsjö              2 (2012, 2013)                      SWE
+Arild Haugen                2 (2008)                            NOR
+Richard Skog                2 (2010)                            NOR
+Magnús Ver Magnússon        2 (1994, 1996)                      ISL
+Eythór Ingólfsson Melsted   2 (2021)                            ISL
+Torfi Ólafsson              2 (1998)                            ISL
+Boris Haraldsson            2 (2006)                            ISL
+Marko Varalahti             2 (1995)                            FIN
+Juha-Matti Räsänen          2 (2001)                            FIN
+Tomi Lotta                  2 (2004)                            FIN
+Rene Minkwitz               2 (1999, 2002)                      DNK
+Mikhail Shivlyakov          2 (2018)                            RUS
+Elbrus Nigmatullin          2 (2005)                            RUS
+Martin Wildauer             2 (2012, 2014)                      AUT
+Ralf Ber                    2 (2005)                            AUT
+Bernd Kerschbaumer          1 (2002)                            AUT
+László Fekete               1 (1998, 1999)                      HUN
+Andrus Murumets             1 (2004, 2009)                      EST
+Rauno Heinla                1 (2023)                            EST
+Lauri Nämi                  1 (2013)                            EST
+Stasys Mėčius               1 (1995)                            LTU
+Mikhail Koklyaev            1 (2010, 2012, 2013)                RUS
+Mykhailo Starov             1 (2005)                            UKR
+Mikkel Leicht               1 (2016, 2017)                      DNK
+Regin Vágadal               1 (1996, 2000)                      DNK [FRO]
+Torben Sørensen             1 (1998)                            DNK
+Jorma Ojanaho               1 (1996)                            FIN
+Stefán Sölvi Pétursson      1 (2009, 2010, 2011, 2017)          ISL
+Ari Gunnarsson              1 (2017)                            ISL
+Jón Valgeir Williams        1 (2003)                            ISL
+Bjørn Andre Solvang         1 (2014)                            NOR
+Espen Aune                  1 (2011)                            NOR
+Johnny Hansson              1 (2018, 2021)                      SWE
+Torbjörn Samuelsson         1 (2002)                            SWE
+Dimitar Savatinov           1 (2015)                            BGR
+Jarno Hams                  1 (2002)                            NLD
+Kelvin de Ruiter            1 (2022)                            NLD
+Ted van der Parre           1 (1994)                            NLD
+Glenn Ross                  1 (1998, 1999, 2000, 2001, 2003)    GBR
+Gary Taylor                 1 (1994, 1995)                      GBR
+Jamie Barr                  1 (1998, 1999)                      GBR
+Marc Iliffe                 1 (2001)                            GBR
+Gavin Bilton                1 (2023)                            GBR
+Darren Sadler               1 (2009)                            GBR
+Mick Gosling                1 (2002)                            GBR
+Oliver Thompson             1 (2008)                            GBR
+Richard Gosling             1 (2003)                            GBR
+Jack McIntosh               1 (2011)                            GBR
+Lloyd Renals                1 (2013)                            GBR
+Bill Pittuck                1 (1996)                            GBR
+Lee Bowers                  1 (1998)                            GBR
+Russ Bradley                1 (1997)                            GBR
+Gregor Edmunds              1 (2002)                            GBR
+James Fennelly              1 (2012)                            IRL

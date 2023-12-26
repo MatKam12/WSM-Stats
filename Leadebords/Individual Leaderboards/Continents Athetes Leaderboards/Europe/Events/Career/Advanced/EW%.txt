@@ -1,0 +1,114 @@
+Hafthór Júlíus Björnsson    43,69 ISL
+Vasyl Virastyuk             37,50 UKR
+Mariusz Pudzianowski        36,59 POL
+Oleksii Novikov             35,71 UKR
+Rob Dixon                   35,71 GBR
+Tom Stoltman                35,59 GBR
+Eddie Hall                  35,59 GBR
+Žydrūnas Savickas           34,38 LTU
+Marko Varalahti             33,33 FIN
+Mateusz Kieliszkowski       32,65 POL
+Jouko Ahola                 32,43 FIN
+Jón Páll Sigmarsson         32,14 ISL
+Riku Kiri                   31,82 FIN
+Magnus Samuelsson           30,77 SWE
+Magnús Ver Magnússon        28,13 ISL
+Brian Turner                27,27 GBR
+Janne Virtanen              27,27 FIN
+Sebastian Wenta             26,83 POL
+Torben Sørensen             25,00 DNK
+Geoff Capes                 23,81 GBR
+Vytautas Lalas              23,81 LTU
+Pavlo Kordiyaka             23,53 UKR
+Jimmy Marku                 22,22 GBR
+Manfred Höberl              21,43 AUT
+Sławomir Toczek             21,05 POL
+Jamie Reeves                20,83 GBR
+Svend Karlsen               20,83 NOR
+Gary Taylor                 20,00 GBR
+Richard Gosling             20,00 GBR
+Kelvin de Ruiter            20,00 NLD
+Martin Muhr                 20,00 DEU
+Ervin Katona                19,44 SRB
+Terry Hollands              19,15 GBR
+Raimonds Bergmanis          18,52 LVAs
+Flemming Rasmussen          18,18 DNK
+Mikkel Leicht               18,18 DNK
+Ted van der Parre           18,18 NLD
+Tomi Lotta                  18,18 FIN
+Mark Felix                  18,00 GBR
+Forbes Cowan                17,89 GBR
+Glenn Ross                  17,86 GBR
+Boris Haraldsson            17,65 ISL
+Johannes Årsjö              17,50 SWE
+Tarmo Mitt                  17,39 EST
+Ralf Ber                    17,39 AUT
+Krzysztof Radzikowski       17,14 POL
+Heinz Ollesch               16,67 DEU
+Dainis Zageris              16,67 LVA
+Peter Baltus                16,67 NLD
+Andrew Raynes               16,67 GBR
+Luke Richardson             16,67 GBR
+Adrian Smith                16,67 GBR
+Oliver Thompson             16,67 GBR
+Lloyd Renals                16,67 GBR
+James Fennelly              16,67 IRL
+Stoyan Todorchev            16,67 BGR
+Espen Aune                  16,67 NOR
+Jorma Ojanaho               16,67 FIN
+Mykhailo Starov             16,67 UKR
+Laurence Shahlaei           16,28 GBR
+Adam Bishop                 16,13 GBR
+Lars Hedlund                16,13 SWE
+Arild Haugen                15,79 NOR
+Jarosław Dymek              15,66 POL
+Ab Wolders                  15,63 NLD
+Berend Veneberg             15,38 NLD
+Martin Wildauer             13,89 AUT
+Rene Minkwitz               13,89 DNK
+Henning Thorsen             12,50 DNK
+Johnny Hansson              12,50 SWE
+Russ Bradley                12,50 GBR
+Siem Wulfse                 12,50 NLD
+Cees de Vreugd              12,50 NLD
+Torfi Ólafsson              12,50 ISL
+Markku Suonenvirta          12,50 FIN
+Stasys Mėčius               12,50 LTU
+Eythór Ingólfsson Melsted   12,12 ISL
+Wout Zijlstra               12,00 NLD
+Mikhail Koklyaev            12,00 RUS
+Luke Stoltman               11,94 GBR
+Stefán Sölvi Pétursson      11,90 ISL
+Jamie Barr                  11,76 GBR
+Andrus Murumets             11,76 EST
+Mikhail Shivlyakov          11,36 RUS
+Konstantine Janashia        11,11 GEO
+Matjaž Belšak               11,11 SVN
+Graham Hicks                10,81 GBR
+Aivars Šmaukstelis          10,53 LVA
+Grzegorz Szymański          10,34 POL
+Marc Iliffe                 10,00 GBR
+Mick Gosling                10,00 GBR
+Lee Bowers                  10,00 GBR
+Raivis Vidzis               9,68 LVA
+László Fekete               8,70 HUN
+Bernd Kerschbaumer          8,33 AUT
+Ari Gunnarsson              8,33 ISL
+Jón Valgeir Williams        8,33 ISL
+Richard Skog                8,33 NOR
+Bjørn Andre Solvang         8,33 NOR
+Jack McIntosh               8,33 GBR
+Jarno Hams                  8,33 NLD
+Rauno Heinla                8,33 EST
+Juha-Matti Räsänen          8,00 FIN
+Gregor Edmunds              7,69 GBR
+Bill Pittuck                7,14 GBR
+Adrian Rollinson            6,90 GBR
+Elbrus Nigmatullin          6,45 RUS
+Torbjörn Samuelsson         5,56 SWE
+Darren Sadler               5,26 GBR
+Gavin Bilton                5,00 GBR
+Regin Vágadal               4,88 DNK [FRO]
+Dimitar Savatinov           4,55 BGR
+Lauri Nämi                  4,17 EST
+Ilkka Nummisto              2,50 FIN

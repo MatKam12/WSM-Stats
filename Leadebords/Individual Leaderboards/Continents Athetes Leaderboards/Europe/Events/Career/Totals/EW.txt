@@ -1,0 +1,114 @@
+Žydrūnas Savickas           55 LTU
+Hafthór Júlíus Björnsson    45 ISL
+Mariusz Pudzianowski        45 POL
+Magnus Samuelsson           44 SWE
+Terry Hollands              27 GBR
+Eddie Hall                  21 GBR
+Tom Stoltman                21 GBR
+Janne Virtanen              21 FIN
+Svend Karlsen               20 NOR
+Mark Felix                  18 GBR
+Magnús Ver Magnússon        18 ISL
+Jón Páll Sigmarsson         18 ISL
+Mateusz Kieliszkowski       16 POL
+Geoff Capes                 15 GBR
+Oleksii Novikov             15 UKR
+Raimonds Bergmanis          15 LVA
+Laurence Shahlaei           14 GBR
+Riku Kiri                   14 FIN
+Jarosław Dymek              13 POL
+Vasyl Virastyuk             12 UKR
+Jouko Ahola                 12 FIN
+Sebastian Wenta             11 POL
+Adam Bishop                 10 GBR
+Vytautas Lalas              10 LTU
+Gary Taylor                 8 GBR
+Luke Stoltman               8 GBR
+Flemming Rasmussen          8 DNK
+Tarmo Mitt                  8 EST
+Martin Muhr                 8 DEU
+Konstantine Janashia        7 GEO
+Johannes Årsjö              7 SWE
+Ervin Katona                7 SRB
+Manfred Höberl              6 AUT
+Krzysztof Radzikowski       6 POL
+Berend Veneberg             6 NLD
+Heinz Ollesch               6 DEU
+Mikhail Shivlyakov          5 RUS
+Lars Hedlund                5 SWE
+Glenn Ross                  5 GBR
+Rob Dixon                   5 GBR
+Jamie Reeves                5 GBR
+Forbes Cowan                5 GBR
+Ab Wolders                  5 NLD
+Stefán Sölvi Pétursson      5 ISL
+Torfi Ólafsson              5 ISL
+Rene Minkwitz               5 DNK
+Martin Wildauer             5 AUT
+Ralf Ber                    4 AUT
+László Fekete               4 HUN
+Pavlo Kordiyaka             4 UKR
+Marko Varalahti             4 FIN
+Eythór Ingólfsson Melsted   4 ISL
+Ted van der Parre           4 NLD
+Graham Hicks                4 GBR
+Jimmy Marku                 4 GBR
+Aivars Šmaukstelis          4 LVA
+Matjaž Belšak               4 SVN
+Sławomir Toczek             4 POL
+Grzegorz Szymański          3 POL
+Raivis Vidzis               3 LVA
+Brian Turner                3 GBR
+Wout Zijlstra               3 NLD
+Arild Haugen                3 NOR
+Boris Haraldsson            3 ISL
+Henning Thorsen             3 DNK
+Mikhail Koklyaev            3 RUS
+Dainis Zageris              2 LVA
+Elbrus Nigmatullin          2 RUS
+Peter Baltus                2 NLD
+Adrian Rollinson            2 GBR
+Andrew Raynes               2 GBR
+Luke Richardson             2 GBR
+Jamie Barr                  2 GBR
+Richard Skog                2 NOR
+Stoyan Todorchev            2 BGR
+Johnny Hansson              2 SWE
+Tomi Lotta                  2 FIN
+Jorma Ojanaho               2 FIN
+Juha-Matti Räsänen          2 FIN
+Mikkel Leicht               2 DNK
+Regin Vágadal               2 DNK [FRO]
+Andrus Murumets             2 EST
+Bernd Kerschbaumer          1 AUT
+Lauri Nämi                  1 EST
+Rauno Heinla                1 EST
+Mykhailo Starov             1 UKR
+Torben Sørensen             1 DNK
+Ilkka Nummisto              1 FIN
+Markku Suonenvirta          1 FIN
+Ari Gunnarsson              1 ISL
+Jón Valgeir Williams        1 ISL
+Bjørn Andre Solvang         1 NOR
+Espen Aune                  1 NOR
+Torbjörn Samuelsson         1 SWE
+Dimitar Savatinov           1 BGR
+Adrian Smith                1 GBR
+Marc Iliffe                 1 GBR
+Gavin Bilton                1 GBR
+Darren Sadler               1 GBR
+Mick Gosling                1 GBR
+Oliver Thompson             1 GBR
+Richard Gosling             1 GBR
+Jack McIntosh               1 GBR
+Lloyd Renals                1 GBR
+Bill Pittuck                1 GBR
+Lee Bowers                  1 GBR
+Russ Bradley                1 GBR
+Gregor Edmunds              1 GBR
+James Fennelly              1 IRL
+Jarno Hams                  1 NLD
+Siem Wulfse                 1 NLD
+Cees de Vreugd              1 NLD
+Kelvin de Ruiter            1 NLD
+Stasys Mėčius               1 LTU
