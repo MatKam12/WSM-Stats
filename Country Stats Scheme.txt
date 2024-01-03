@@ -6,6 +6,10 @@
 
 - Amount of 3rd Places: 
 
+- Amount of podium finishes: 
+
+- Amount of top 5 finishes: 
+
 - Amount of Finalists:
 
 - Amount of Athletes: 
@@ -34,9 +38,9 @@
 
 - FP: 
 
-- % of points are from groups
+- % of points are from groups:
  
-- % of points are from finals
+- % of points are from finals:
 
 
 
@@ -61,14 +65,6 @@
 - W%: 
 
 - Adj. W%: 
-
-
-
-- TWE: 
-
-- TWGE:  
-
-- TWFE: 
 
 
 
@@ -118,17 +114,7 @@
 
 - Most groups won in a single year: 
 
-- The gap between group wins: 
-
-
-
-- WSM podium finishes: 
-
-- WSM runner-up finishes: 
-
-- WSM 3rd place finishes: 
-
-- WSM top 5 finishes: 
+- Longest gap between group wins: 
 
 
 

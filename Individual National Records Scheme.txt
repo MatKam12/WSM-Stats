@@ -4,9 +4,9 @@
 
 - Most 3rd Places: 
 
-- Total Podium Finishes: 
+- Most Podium Finishes: 
 
-- Total Top 5 Finishes: 
+- Most Top 5 Finishes: 
 
 
 
@@ -211,21 +211,27 @@ Physical Records
 - Lightest WSM Finalist: 
 
 
+- Youngest WSM Group Winner: 
+
+- Oldest WSM Group Winner: 
+
+- Shortest WSM Group Winner: 
+
+- Tallest WSM Group Winner: 
+
+- Heaviest WSM Group Winner: 
+
+- Lightest WSM Group Winner: 
+
 
 - Youngest WSM Winner: 
 
 - Oldest WSM Winner: 
 
-- Tallest WSM Winner: 
+- Shortest WSM Winner:
 
-- Shortest WSM Winner: 
+- Tallest WSM Winner:  
 
 - Heaviest WSM Winner: 
 
 - Lightest WSM Winner: 
-
-
-
-- Youngest WSM Group Winner: 
-
-- Oldest WSM Group Winner: 
