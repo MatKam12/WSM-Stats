@@ -1,18 +1,18 @@
-- Amount of Winners:
+- Amount of Winners: 1
 
-- Amount of Titles: 
+- Amount of Titles: 1
 
-- Amount of 2nd Places: 
+- Amount of 2nd Places: 1
 
-- Amount of 3rd Places: 
+- Amount of 3rd Places: 3
 
-- Amount of podium finishes: 
+- Amount of podium finishes: 5
 
-- Amount of top 5 finishes: 
+- Amount of top 5 finishes: 14
 
-- Amount of Finalists:
+- Amount of Finalists: 14
 
-- Amount of Athletes: 
+- Amount of Athletes: 22
 
 
 
@@ -126,30 +126,30 @@
 
 Physical Stats
 
-- Avg. Height of Athletes: 
+- Avg. Height of Athletes: 1,89 m
 
-- Avg. Weight of Athletes: 
-
-
-
-- Avg. Height of Athletes before 1994: 
-
-- Avg. Weight of Athletes before 1994: 
+- Avg. Weight of Athletes: 143 kg
 
 
 
-- Avg. Height of Finalists: 
+- Avg. Height of Athletes before 1994: 1,90 m
 
-- Avg. Weight of Finalists: 
-
-
-
-- Avg. Height of Winners before 1994: 
-
-- Avg. Weight of Winners before 1994: 
+- Avg. Weight of Athletes before 1994: 134 kg
 
 
 
-- Avg. Height of Winners: 
+- Avg. Height of Finalists: 1,90 m
 
-- Avg. Weight of Winners: 
+- Avg. Weight of Finalists: 147 kg
+
+
+
+- Avg. Height of Winners before 1994: NONE
+
+- Avg. Weight of Winners before 1994: NONE
+
+
+
+- Avg. Height of Winners: 1,91 m 
+
+- Avg. Weight of Winners: 145 kg
