@@ -22,6 +22,8 @@ Wout Zijlstra               5,20 NLD
 Svend Karlsen               5,19 NOR
 Mateusz Kieliszkowski       5,18 POL
 Henning Thorsen             5,15 DNK
+Lars Hedlund                5,11 SWE
+Magnus Samuelsson           5,08 SWE
 Vasyl Virastyuk             5,06 UKR
 Gary Taylor                 5,05 GBR
 Sebastian Wenta             5,05 POL
@@ -43,6 +45,7 @@ Konstantine Janashia        4,21 GEO
 Tomi Lotta                  4,18 FIN
 Krzysztof Radzikowski       4,16 POL
 Jarosław Dymek              4,08 POL
+Matjaž Belšak               4,08 SVN
 Grzegorz Szymański          4,00 POL
 Rob Dixon                   4,00 GBR
 Robert Weir                 4,00 GBR
@@ -58,6 +61,7 @@ Ervin Katona                3,82 SRB
 Richard Gosling             3,80 GBR
 Stefán Sölvi Pétursson      3,80 ISL
 Dainis Zageris              3,79 LVA
+Johannes Årsjö              3,78 SWE
 Ralf Ber                    3,76 AUT
 Luke Stoltman               3,75 GBR
 Martin Wildauer             3,57 AUT
@@ -65,6 +69,7 @@ Tjalling van den Bosch      3,56 NLD
 Roger Ekström               3,56 FIN
 Gerard du Prie              3,55 NLD
 Brian Turner                3,55 GBR
+Martin Forsmark             3,55 SWE
 Jamie Barr                  3,53 GBR
 Arild Haugen                3,53 NOR
 Rafał Kobylarz              3,50 POL
@@ -89,7 +94,9 @@ Kostiantyn Ilin             3,21 UKR
 Luke Richardson             3,21 GBR
 Markku Suonenvirta          3,19 FIN
 Aap Uspenski                3,19 EST
+Torbjörn Samuelsson         3,19 SWE
 Raivis Vidzis               3,18 LVA
+David Nyström               3,17 SWE
 Eythór Ingólfsson Melsted   3,15 ISL
 Aivars Šmaukstelis          3,13 LVA
 Sławomir Toczek             3,13 POL
@@ -100,6 +107,7 @@ Mikhail Shivlyakov          3,10 RUS
 László Fekete               3,09 HUN
 James Fennelly              3,08 IRL
 Mykhailo Starov             3,08 UKR
+Jorma Paananen              3,08 SWE
 Richard Skog                3,06 NOR
 Mikkel Leicht               3,05 DNK
 Odd Haugen                  3,04 NOR

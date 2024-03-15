@@ -6,190 +6,191 @@
 
 - Total Podium Finishes: Brian Shaw 10
 
-- Total Top 5 Finishes: Brian Shaw 12
+- Total Top 5 Finishes: Brian Shaw 13
 
 
 
-- A - Brian Shaw            14
+- A - Brian Shaw                16
 
-- CA - Brian Shaw           13
+- CA - Brian Shaw               15
 
-- FA - Brian Shaw           13
+- FA - Brian Shaw               15
 
-- CFA - Brian Shaw          12
+- CFA - Brian Shaw              13
 
-- BF -  Brian Shaw          1st in Finals
-        Bill Kazmaier       1st in Finals
-        Bruce Wilhelm       1st in Finals
-        Phil Pfister        1st in Finals
-        Don Reinhoudt       1st in Finals
-        Martins Licis       1st in Finals
+- BF -  Brian Shaw              1st in Finals
+        Bill Kazmaier           1st in Finals
+        Bruce Wilhelm           1st in Finals
+        Phil Pfister            1st in Finals
+        Don Reinhoudt           1st in Finals
+        Martins Licis           1st in Finals
 
-- FA% - Martins Licis       100
-        Mike Jenkins        100
-        Bob Young           100
-        Brian Oldfield      100
-        Bruce Wilhelm       100
-        Cleve Dean          100
-        Dave Johns          100
-        Don Reinhoudt       100
-        George Frenn        100
-        Gus Rethwisch       100
-        Jack Wright         100
-        Jerry Blackwell     100
-        Joe Dube            100
-        John Matuszak       100
-        Jon Cole            100
-        Jon Kolb            100
-        Lou Ferrigno        100
-        Mike Dayton         100
-        Ken Patera          100
-        Bill Dunn           100
-        Bill Kazmaier       100
-        Billy Graham        100
-        Craig Wolfley       100
-        Curt Marsh          100
-        Dave Waddington     100
-        Dave Kenady         100
-        Durwin Piper        100
-        Ernie Hackett       100
-        George Hechter      100
-        Jerry Hannan        100
-        Jim Hough           100
-        Joe Zelezniak       100
-        John Gamble         100
-        Keith Bishop        100
-        Larry Kidney        100
-        Rick Brown          100
-        Ross Browner        100
-        James Perry         100
-        O.D. Wilson         100
+- FA% - Martins Licis           100,00
+        Mike Jenkins            100,00
+        Bob Young               100,00
+        Brian Oldfield          100,00
+        Bruce Wilhelm           100,00
+        Cleve Dean              100,00
+        Dave Johns              100,00
+        Don Reinhoudt           100,00
+        George Frenn            100,00
+        Gus Rethwisch           100,00
+        Jack Wright             100,00
+        Jerry Blackwell         100,00
+        Joe Dube                100,00
+        John Matuszak           100,00
+        Jon Cole                100,00
+        Jon Kolb                100,00
+        Lou Ferrigno            100,00
+        Mike Dayton             100,00
+        Ken Patera              100,00
+        Bill Dunn               100,00
+        Bill Kazmaier           100,00
+        Billy Graham            100,00
+        Craig Wolfley           100,00
+        Curt Marsh              100,00
+        Dave Waddington         100,00
+        Dave Kenady             100,00
+        Durwin Piper            100,00
+        Ernie Hackett           100,00
+        George Hechter          100,00
+        Jerry Hannan            100,00
+        Jim Hough               100,00
+        Joe Zelezniak           100,00
+        John Gamble             100,00
+        Keith Bishop            100,00
+        Larry Kidney            100,00
+        Rick Brown              100,00
+        Ross Browner            100,00
+        James Perry             100,00
+        O.D. Wilson             100,00
 
-- GA -      Brian Shaw      14
+- GA -      Brian Shaw          16
 
-- GW -      Brian Shaw      12
+- GW -      Brian Shaw          12
 
-- GW% -     Brian Shaw      85,71
+- GW% -     Derek Poundstone    80,00
+            Martins Licis       80,00
 
-- W% -      Bruce Wilhelm   100
+- W% -      Bruce Wilhelm       100,00
 
-- Adj. W% - Bruce Wilhelm   100
-
-
-
-- CP -   Brian Shaw         993,5
-
-- CP% -  Brian Shaw         75,09
-
-- CGP -  Brian Shaw         385
-
-- CGP% - Martins Licis      84,84
-
-- CFP -  Brian Shaw         608,5
-
-- CFP% - Bill Kazmaier      73,73
+- Adj. W% - Bruce Wilhelm       100,00
 
 
 
-- CHP -   Mark Philippi       148,5 (1997)
+- CP -   Brian Shaw             1099,50
 
-- CHP% -  Bill Kazmaier       93,18 (1980)
+- CP% -  Bill Kazmaier          77,62
 
-- CLP -   Steve Kirit         0,00 (2004)
-          Jerry Blackwell     0,00 (1979)
-          Jack Wright         0,00 (1978)
+- CGP -  Brian Shaw             426,00
 
-- CHFP -  Bill Kazmaier       102,5 (1980)
+- CGP% - Martins Licis          84,86
 
-- CHFP% - Bill Kazmaier       93,18 (1980)
+- CFP -  Brian Shaw             673,50
 
-- CLFP -  Jack Wright         0,00 (1978)
-          Jerry Blackwell     0,00 (1979)
+- CFP% - Bill Kazmaier          77,62
 
-- CHGP -  Mark Philippi       108  (1997)
 
-- CHGP% - Mark Philippi       100 (1998)
+
+- CHP -   Mark Philippi         148,5 (1997)
+
+- CHP% -  Bill Kazmaier         93,18 (1980)
+
+- CLP -   Steve Kirit           0,00 (2004)
+          Jerry Blackwell       0,00 (1979)
+          Jack Wright           0,00 (1978)
+
+- CHFP -  Bill Kazmaier         102,5 (1980)
+
+- CHFP% - Bill Kazmaier         93,18 (1980)
+
+- CLFP -  Jack Wright           0,00 (1978)
+          Jerry Blackwell       0,00 (1979)
+
+- CHGP -  Mark Philippi         108  (1997)
+
+- CHGP% - Mark Philippi         100 (1998)
  
-- CLGP -  Steve Kirit         0,00 (2004)
+- CLGP -  Steve Kirit           0,00 (2004)
 
 
 
-- EC -   Brian Shaw         154
+- EC -   Brian Shaw             177
 
-- GEC -  Brian Shaw         76
+- GEC -  Brian Shaw             88
 
-- FEC -  Brian Shaw         78
+- FEC -  Brian Shaw             89
 
-- EW -   Brian Shaw         59
+- EW -   Brian Shaw             64
 
-- EW% -  Brian Shaw         38,31
+- EW% -  Brian Shaw             36,16
 
-- GEW -  Brian Shaw         42
+- GEW -  Brian Shaw             47
 
-- GEW% - Brian Shaw         55,26
+- GEW% - Brian Shaw             53,41
 
-- FEW -  Bill Kazmaier      20
+- FEW -  Bill Kazmaier          20
 
-- FEW% - Bill Kazmaier      35,09
-
-
-
-- WE -  Don Reinhoudt       6
-        Mark Philippi       6
-        Robert Oberst       6
-
-- WGE - Robert Oberst       6
-
-- WFE - Don Reinhoudt       6
+- FEW% - Bill Kazmaier          35,09
 
 
 
-- CHEW - Phil Pfister        8 (2006)
+- WE -  Don Reinhoudt           6
+        Mark Philippi           6
+        Robert Oberst           6
 
-- CHGEW - Phil Pfister        5 (2009)
-          Brian Shaw          5 (2013, 2016)  
+- WGE - Robert Oberst           6
 
-- CHFEW - Bill Kazmaier       6 (1980)
-
-
-
-- CHEW% - Phil Pfister        61,53 (2006)
-
-- CHGEW% - Phil Pfister        71,42 (2006)
-
-- CHFEW% - Mark Philippi       100 (1998)
+- WFE - Don Reinhoudt           6
 
 
 
-- PPE - Bill Kazmaier       7,74
+- CHEW - Phil Pfister           8 (2006)
 
-- PPFE - Brian Shaw          7,80
+- CHGEW - Phil Pfister          5 (2009)
+          Brian Shaw            5 (2013, 2016)  
 
-- PPGE - Harold Collins      7,13
-
-- CHPPE - Bill Kazmaier       10,25 (1980)
-
-- CLPPE - Steve Kirit         0,00 (2004)
-          Jerry Blackwell     0,00 (1979)
-          Jack Wright         0,00 (1978)
-
-- CHPPFE - Bill Kazmaier       10,25 (1980)
-
-- CLPPFE - Jack Wright         0,00 (1978)
-           Jerry Blackwell     0,00 (1979)
-
-- CHPPGE - Mark Philippi       9,00 (1997)
-
-- CLPPGE - Steve Kirit         0,00 (2004)
+- CHFEW - Bill Kazmaier         6 (1980)
 
 
 
-- BTBEW: Brian Shaw          9 (3xF, 6xG)
+- CHEW% - Phil Pfister          61,53 (2006)
 
-- BTBFEW: Brian Shaw         3 (2010, 2013, 2015)
-          Bill Kazmaier      3 (1979, 2x1981)
+- CHGEW% - Phil Pfister         71,42 (2006)
 
-- BTBGEW: Brian Shaw         6 (2x2011, 2012, 2014, 2018, 2019)
+- CHFEW% - Mark Philippi        100 (1998)
+
+
+
+- PPE - Bill Kazmaier           7,74
+
+- PPFE - Bill Kazmaier          7,74
+
+- PPGE - Harold Collins         7,13
+
+- CHPPE - Bill Kazmaier         10,25 (1980)
+
+- CLPPE - Steve Kirit           0,00 (2004)
+          Jerry Blackwell       0,00 (1979)
+          Jack Wright           0,00 (1978)
+
+- CHPPFE - Bill Kazmaier        10,25 (1980)
+
+- CLPPFE - Jack Wright          0,00 (1978)
+           Jerry Blackwell      0,00 (1979)
+
+- CHPPGE - Mark Philippi        9,00 (1997)
+
+- CLPPGE - Steve Kirit          0,00 (2004)
+
+
+
+- BTBEW: Brian Shaw             11 (3xF, 8xG)
+
+- BTBFEW: Brian Shaw            3 (2010, 2013, 2015)
+          Bill Kazmaier         3 (1979, 2x1981)
+
+- BTBGEW: Brian Shaw            8 (2x2011, 2012, 2014, 2018, 2019, 2x2023)
 
 
 
@@ -203,20 +204,20 @@
 
 
 
-- BTBTBTBEW: Brian Shaw          2 (2xG)
+- BTBTBTBEW: Brian Shaw         2 (2xG)
 
 - BTBTBTBFEW: NONE
 
-- BTBTBTBGEW: Brian Shaw          2 (2013, 2015)
+- BTBTBTBGEW: Brian Shaw        2 (2013, 2015)
 
 
 
-- BTBTBTBTBEW:  Phil Pfister        1 (1xF)
-                Brian Shaw          1 (1xG)
+- BTBTBTBTBEW:  Phil Pfister    1 (1xF)
+                Brian Shaw      1 (1xG)
 
-- BTBTBTBTBFEW: Phil Pfister        1 (2006)
+- BTBTBTBTBFEW: Phil Pfister    1 (2006)
 
-- BTBTBTBTBGEW: Brian Shaw          1 (2016)
+- BTBTBTBTBGEW: Brian Shaw      1 (2016)
 
 
 

@@ -18,6 +18,7 @@ Tomi Lotta                  4,18 FIN
 Martin Muhr                 4,13 DEU
 Johannes Årsjö              4,13 SWE
 Oleksii Novikov             4,10 UKR
+Matjaž Belšak               4,06 SVN
 Mikhail Koklyaev            4,03 RUS
 Robert Weir                 4,00 GBR
 Riku Kiri                   4,00 FIN

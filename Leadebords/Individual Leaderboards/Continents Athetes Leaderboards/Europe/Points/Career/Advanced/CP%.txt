@@ -49,6 +49,7 @@ Forbes Cowan                40,63 GBR
 Tomi Lotta                  40,35 FIN
 Markku Suonenvirta          39,84 FIN
 Aap Uspenski                39,84 EST
+Matjaž Belšak               38,02 SVN
 Andrew Raynes               37,26 GBR
 Luke Stoltman               36,08 GBR
 Ervin Katona                34,90 SRB
