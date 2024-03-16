@@ -11,7 +11,7 @@ Mateusz Kieliszkowski       32,65 POL
 Jouko Ahola                 32,43 FIN
 Jón Páll Sigmarsson         32,14 ISL
 Riku Kiri                   31,82 FIN
-Magnus Samuelsson           30,77 SWE
+Magnus Samuelsson           30,07 SWE
 Magnús Ver Magnússon        28,13 ISL
 Brian Turner                27,27 GBR
 Janne Virtanen              27,27 FIN

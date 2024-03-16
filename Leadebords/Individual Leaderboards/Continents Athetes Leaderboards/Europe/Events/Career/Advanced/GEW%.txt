@@ -7,11 +7,11 @@ Marko Varalahti             50,00 FIN
 Oleksii Novikov             45,83 UKR
 Eddie Hall                  45,71 GBR
 Žydrūnas Savickas           43,02 LTU
-Magnus Samuelsson           42,47 SWE
 Mateusz Kieliszkowski       42,31 POL
 Vytautas Lalas              41,67 LTU
 Rob Dixon                   41,67 GBR
 Forbes Cowan                41,67 GBR
+Magnus Samuelsson           41,10 SWE
 Magnús Ver Magnússon        37,50 ISL
 Mariusz Pudzianowski        37,29 POL
 Tom Stoltman                36,67 GBR
