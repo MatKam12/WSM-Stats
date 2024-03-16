@@ -3,9 +3,11 @@ Mark Felix                  87 GBR
 Terry Hollands              84 GBR
 Magnus Samuelsson           73 SWE
 Laurence Shahlaei           60 GBR
+Mariusz Pudzianowski        59 POL
 Hafthór Júlíus Björnsson    50 ISL
 Janne Virtanen              49 FIN
 Svend Karlsen               49 NOR
+Jarosław Dymek              48 POL
 Adam Bishop                 45 GBR
 Luke Stoltman               44 GBR
 Raimonds Bergmanis          43 LVA
@@ -19,10 +21,12 @@ Stefán Sölvi Pétursson      30 ISL
 Tom Stoltman                30 GBR
 Heinz Ollesch               30 DEU
 Martin Wildauer             30 AUT
+Krzysztof Radzikowski       29 POL
 Adrian Rollinson            29 GBR
 Johannes Årsjö              28 SWE
 Glenn Ross                  28 GBR
 Regin Vágadal               26 DNK [FRO]
+Mateusz Kieliszkowski       26 POL
 Vytautas Lalas              24 LTU
 Raivis Vidzis               24 LVA
 Flemming Rasmussen          24 DNK
@@ -33,9 +37,11 @@ Oleksii Novikov             24 UKR
 Tarmo Mitt                  24 EST
 Lauri Nämi                  24 EST
 Matjaž Belšak               24 SVN
+Grzegorz Szymański          23 POL
 Torfi Ólafsson              21 ISL
 Eythór Ingólfsson Melsted   21 ISL
 Berend Veneberg             21 NLD
+Sebastian Wenta             20 POL
 Gavin Bilton                20 GBR
 Darren Sadler               19 GBR
 Jimmy Marku                 18 GBR
@@ -54,6 +60,7 @@ Dimitar Savatinov           16 BGR
 Johnny Hansson              16 SWE
 Riku Kiri                   16 FIN
 László Fekete               15 HUN
+Mateusz Baron               15 POL
 Jouko Ahola                 14 FIN
 Brian Bell                  14 GBR
 Bill Pittuck                14 GBR
@@ -83,6 +90,8 @@ Juha-Matti Järvi            12 FIN
 Kostiantyn Ilin             12 UKR
 Sergii Romanchuk            12 UKR
 Alexander Klyushev          12 RUS
+Sławomir Toczek             12 POL
+Rafał Kobylarz              12 POL
 Pavlo Kordiyaka             11 UKR
 Tomi Lotta                  11 FIN
 Brian Turner                11 GBR
@@ -132,6 +141,8 @@ Mykhailo Starov             6 UKR
 Igor Werner                 6 DEU
 Tobias Ide                  6 DEU
 Andreas Hoffmann            6 DEU
+Janusz Kułaga               6 POL
+Sebastian Kurek             6 POL
 Nedžmin Ambešković          5 BIH
 Andy Black                  5 GBR
 Richard Gosling             5 GBR
@@ -160,6 +171,7 @@ Andreas Ståhlberg           4 SWE
 Jörgen Ljungberg            4 SWE
 Torben Sørensen             4 DNK
 Jaromír Němec               4 CZE
+Robert Szczepański          4 POL
 Benedikt Magnússon          3 ISL
 Henrik Ravn                 2 DNK
 José Hervás                 2 ESP

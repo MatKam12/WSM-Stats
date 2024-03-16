@@ -1,4 +1,5 @@
 Magnus Samuelsson           10 (2xF, 8xG)   SWE
+Žydrūnas Savickas           10 (2xF, 8xG)   LTU
 Hafthór Júlíus Björnsson    7 (2xF, 5xG)    ISL
 Mariusz Pudzianowski        6 (3xF, 3xG)    POL
 Jón Páll Sigmarsson         5 (5xF)         ISL
@@ -13,12 +14,17 @@ Oleksii Novikov             3 (3xG)         UKR
 Tom Stoltman                2 (2xF)         GBR
 Geoff Capes                 2 (2xF)         GBR
 Jouko Ahola                 2 (1xF, 1xG)    FIN
+Ervin Katona                2 (2xG)         SRB
 Mark Felix                  2 (2xG)         GBR
 Laurence Shahlaei           2 (2xG)         GBR
 Mateusz Kieliszkowski       2 (2xG)         POL
+Vytautas Lalas              2 (2xG)         LTU
+Matjaž Belšak               1 (1xG)         SVN
 Janne Virtanen              1 (1xF)         FIN
 Jamie Reeves                1 (1xF)         GBR
 Henning Thorsen             1 (1xF)         DNK
+Berend Veneberg             1 (1xG)         NLD
+Wout Zijlstra               1 (1xG)         NLD
 Adam Bishop                 1 (1xG)         GBR
 Luke Stoltman               1 (1xG)         GBR
 Rob Dixon                   1 (1xG)         GBR
