@@ -1,44 +1,90 @@
-Jón Páll Sigmarsson         92,18 (1986) ISL
-Magnus Samuelsson           91,25 (1998) SWE
-Tom Stoltman                89,17 (2022) GBR
-Magnús Ver Magnússon        88,75 (1995) ISL
-Hafthór Júlíus Björnsson    88,19 (2014) ISL
-Berend Veneberg             86,11 (1999) NLD
-Geoff Capes                 85,93 (1986) GBR
-Jamie Reeves                85,15 (1989) GBR
-Eddie Hall                  85,00 (2017) GBR
-Gary Taylor                 84,37 (1993) GBR
-Ab Wolders                  80,47 (1984) NLD
-Ted van der Parre           78,45 (1992) NLD
-Wout Zijlstra               77,50 (1998) NLD
-Svend Karlsen               77,14 (2000) NOR
-Terry Hollands              74,28 (2007) GBR
-Siem Wulfse                 73,44 (1983) NLD
-Cees de Vreugd              71,09 (1985) NLD
-Lars Hedlund                67,27 (1980) SWE
-Laurence Shahlaei           60,83 (2011) GBR
-Forbes Cowan                57,03 (1994) GBR
-Adam Bishop                 56,67 (2020) GBR
-Torfi Ólafsson              56,87 (1997) ISL
-Stefán Sölvi Pétursson      55,00 (2010) ISL
-Luke Stoltman               53,33 (2021) GBR
-Adrian Smith                52,34 (1990) GBR
-Jean-Pierre Brulois         49,21 (1986) FRA
-Stago Piczko                49,17 (1981) NLD
-Mark Felix                  47,85 (2007) GBR
-Ervin Katona                41,67 (2010) SRB
-Luke Richardson             45,00 (2020) GBR
-Tjalling van den Bosch      44,53 (1990) NLD
-Gregor Edmunds              39,29 (2002) GBR
-Dimitar Savatinov           36,66 (2015) BGR
-Eythór Ingólfsson Melsted   34,16 (2021) ISL
-Yngve Gustavsson            33,59 (1984) SWE
-Johannes Årsjö              32,50 (2013) SWE
-Gerard du Prie              32,27 (1980) NLD
-Andrew Raynes               26,43 (2001) GBR
-Franco Columbu              21,14 (1977) ITA
-Arild Haugen                18,57 (2008) NOR
-Jamie Barr                  15,00 (1999) GBR
-Rob Dixon                   7,14 (2000) GBR
-Graham Hicks                1,67 (2020) GBR
-Bill Anderson               1,33 (1979) GBR
+Mariusz Pudzianowski        94,28 (2003)        POL
+Jón Páll Sigmarsson         92,18 (1986)        ISL
+Magnus Samuelsson           91,25 (1998)        SWE
+Tom Stoltman                89,17 (2022)        GBR
+Žydrūnas Savickas           88,88 (2014)        LTU
+Magnús Ver Magnússon        88,75 (1995)        ISL
+Hafthór Júlíus Björnsson    88,19 (2014)        ISL
+Berend Veneberg             86,11 (1999)        NLD
+Geoff Capes                 85,93 (1986)        GBR
+Jouko Ahola                 85,71 (1998)        FIN
+Jamie Reeves                85,15 (1989)        GBR
+Eddie Hall                  85,00 (2017)        GBR
+Gary Taylor                 84,37 (1993)        GBR
+Janne Virtanen              84,28 (2000)        FIN
+Ab Wolders                  80,47 (1984)        NLD
+Ted van der Parre           78,45 (1992)        NLD
+Oleksii Novikov             78,33 (2020)        UKR
+Wout Zijlstra               77,50 (1998)        NLD
+Manfred Höberl              77,34 (1994)        AUT
+Svend Karlsen               77,14 (2000)        NOR
+Sebastian Wenta             77,14 (2007)        POL
+Vasyl Virastyuk             77,08 (2004)        UKR
+Mikhail Koklyaev            76,67 (2010)        RUS
+Mateusz Kieliszkowski       76,00 (2019)        POL
+Henning Thorsen             75,78 (1991)        DNK
+Riku Kiri                   75,78 (1993)        FIN
+Terry Hollands              74,28 (2007)        GBR
+Vytautas Lalas              74,16 (2012)        LTU
+Siem Wulfse                 73,44 (1983)        NLD
+Heinz Ollesch               71,87 (1995)        DEU
+Flemming Rasmussen          71,25 (1997)        DNK
+Cees de Vreugd              71,09 (1985)        NLD
+Raimonds Bergmanis          67,85 (2002)        LVA
+Lars Hedlund                67,27 (1980)        SWE
+Konstantine Janashia        66,66 (2016)        GEO
+Ilkka Nummisto              62,50 (1988)        FIN
+Laurence Shahlaei           60,83 (2011)        GBR
+Marko Varalahti             60,63 (1995)        FIN
+Martin Muhr                 57,14 (2000, 2001)  DEU
+Forbes Cowan                57,03 (1994)        GBR
+Adam Bishop                 56,67 (2020)        GBR
+Torfi Ólafsson              56,87 (1997)        ISL
+Stefán Sölvi Pétursson      55,00 (2010)        ISL
+Juha-Matti Räsänen          55,00 (2002)        FIN
+Jarosław Dymek              54,29 (2003)        POL
+Tarmo Mitt                  54,28 (2006)        EST
+Krzysztof Radzikowski       54,17 (2012)        POL
+Luke Stoltman               53,33 (2021)        GBR
+Rudolf Küster               53,12 (1985)        DEU
+Pavlo Kordiyaka             52,50 (2023)        UKR
+Adrian Smith                52,34 (1990)        GBR
+Jorma Ojanaho               50,78 (1996)        FIN
+\László Fekete              50,00 (1989)        HUN
+Jean-Pierre Brulois         49,21 (1986)        FRA
+Stago Piczko                49,17 (1981)        NLD
+Ralf Ber                    47,85 (2005)        AUT
+Mark Felix                  47,85 (2007)        GBR
+Aivars Šmaukstelis          47,50 (2020)        LVA
+Matjaž Belšak               45,33 (2018)        SVN
+Elbrus Nigmatullin          42,86 (2005)        RUS
+Ervin Katona                41,67 (2010)        SRB
+Luke Richardson             45,00 (2020)        GBR
+Tjalling van den Bosch      44,53 (1990)        NLD
+Roger Ekström               44,53 (1985)        FIN
+Grzegorz Szymański          42,50 (2016)        POL
+Markku Suonenvirta          39,84 (1991)        FIN
+Aap Uspenski                39,84 (1990)        EST
+Gregor Edmunds              39,29 (2002)        GBR
+Regin Vágadal               37,50 (2000)        DNK [FRO]
+Raivis Vidzis               37,14 (2006)        LVA
+Dimitar Savatinov           36,66 (2015)        BGR
+Henrik Ravn                 35,93 (1993)        DNK
+Klaus Wallas                34,38 (1986)        AUT
+Eythór Ingólfsson Melsted   34,16 (2021)        ISL
+Yngve Gustavsson            33,59 (1984)        SWE
+Johannes Årsjö              32,50 (2013)        SWE
+Gerard du Prie              32,27 (1980)        NLD
+Martin Wildauer             30,55 (2014)        AUT
+Sławomir Toczek             29,29 (2006)        POL
+Andrew Raynes               26,43 (2001)        GBR
+Ilkka Kinnunen              23,75 (1992)        FIN
+Mikhail Shivlyakov          21,67 (2015)        RUS
+Franco Columbu              21,14 (1977)        ITA
+Arild Haugen                18,57 (2008)        NOR
+Jamie Barr                  15,00 (1999)        GBR
+Rob Dixon                   7,14 (2000)         GBR
+Ivan Putski                 5,40 (1978)         POL
+Graham Hicks                1,67 (2020)         GBR
+Rene Minkwitz               1,42 (1999)         DNK
+Bill Anderson               1,33 (1979)         GBR
