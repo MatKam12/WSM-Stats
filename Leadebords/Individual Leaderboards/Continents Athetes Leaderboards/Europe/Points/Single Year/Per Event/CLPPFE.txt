@@ -1,31 +1,30 @@
 Tarmo Mitt                  0,00 (2006)         EST
 Bill Anderson               0,13 (1979)         GBR
+Ivan Putski                 0,54 (1978)         POL
 Rene Minkwitz               1,00 (1999)         DNK
 Graham Hicks                1,00 (2020)         GBR
-Henrik Ravn                 1,50 (1994)         DNK
-Flemming Rasmussen          1,75 (2001)         DNK
+László Fekete               1,37 (1988)         HUN
 Svend Karlsen               1,80 (2004)         NOR
 Ervin Katona                1,88 (2011)         SRB
 Jean-Pierre Brulois         1,94 (1988)         FRA
 Mikhail Koklyaev            2,00 (2013)         RUS
 Eythór Ingólfsson Melsted   2,16 (2022)         ISL
 Mikhail Shivlyakov          2,17 (2015)         RUS
-Kim Ujarak Lorentzen        2,20 (2022)         DNK [GRL]
-Regin Vágadal               2,25 (2001)         DNK [FRO]
-Rene Minkwitz               2,33 (2000)         DNK
 Raimonds Bergmanis          2,37 (2004)         LVA
 Magnus Samuelsson           2,37 (1995)         SWE
 Ilkka Nummisto              2,37 (1986)         FIN
 Ilkka Kinnunen              2,38 (1992)         FIN
 Rob Dixon                   2,50 (2000)         GBR
+Rudolf Küster               2,50 (1989)         DEU
 Franco Columbu              2,58 (1977)         ITA
 Johannes Årsjö              2,67 (2012)         SWE
 Yngve Gustavsson            2,69 (1984)         SWE
-Mikkel Leicht               2,70 (2017)         DNK
 Terry Hollands              2,71 (2008)         GBR
-Torben Sørensen             2,75 (1998)         DNK
+Klaus Wallas                2,75 (1986)         AUT
+Manfred Höberl              2,81 (1991)         AUT
 Henrik Ravn                 2,88 (1993)         DNK
 Mark Felix                  2,91 (2015)         GBR
+Sławomir Toczek             2,93 (2006)         POL
 Regin Vágadal               3,00 (1996)         DNK [FRO]
 Adam Bishop                 3,00 (2019)         GBR
 Berend Veneberg             3,00 (1998)         NLD
@@ -36,6 +35,7 @@ Markku Suonenvirta          3,19 (1991)         FIN
 Jamie Barr                  3,21 (1999)         GBR
 Riku Kiri                   3,25 (1998)         FIN
 Laurence Shahlaei           3,35 (2009)         GBR
+Jarosław Dymek              3,50 (2002)         POL
 Konstantine Janashia        3,50 (2018, 2019)   GEO
 Ted van der Parre           3,50 (1994)         NLD
 Matjaž Belšak               3,50 (2017)         SVN
@@ -43,6 +43,7 @@ Gerard du Prie              3,55 (1980)         NLD
 Roger Ekström               3,56 (1985)         FIN
 Tjalling van den Bosch      3,56 (1990)         NLD
 Luke Stoltman               3,58 (2023)         GBR
+Martin Wildauer             3,66 (2014)         AUT
 Dimitar Savatinov           3,67 (2015)         BGR
 Arild Haugen                3,71 (2008)         NOR
 Raivis Vidzis               3,71 (2006)         LVA
@@ -55,21 +56,29 @@ Wout Zijlstra               4,07 (2001)         NLD
 Torfi Ólafsson              4,21 (1999)         ISL
 Juha-Matti Räsänen          4,25 (2001)         FIN
 Forbes Cowan                4,25 (1996)         GBR
+Grzegorz Szymański          4,25 (2016)         POL
 Henning Thorsen             4,25 (1990)         DNK
 Elbrus Nigmatullin          4,29 (2005)         RUS
+Mariusz Pudzianowski        4,37 (2004)         POL
 Flemming Rasmussen          4,43 (1996)         DNK
+Mateusz Kieliszkowski       4,58 (2016)         POL
 Vasyl Virastyuk             4,63 (2004)         UKR
 Ab Wolders                  4,68 (1986)         NLD
 Aivars Šmaukstelis          4,75 (2020)         LVA
+Ralf Ber                    4,79 (2005)         AUT
 Gary Taylor                 4,87 (1991)         GBR
 Vytautas Lalas              4,91 (2011)         LTU
 Hafthór Júlíus Björnsson    4,91 (2011)         ISL
+Sebastian Wenta             5,21 (2006)         POL
 Pavlo Kordiyaka             5,25 (2023)         UKR
 Janne Virtanen              5,28 (2005)         FIN
 Eddie Hall                  5,33 (2014)         GBR
 Stago Piczko                5,36 (1981)         NLD
+Krzysztof Radzikowski       5,42 (2012)         POL
+Heinz Ollesch               5,43 (1997)         DEU
 Adrian Smith                5,58 (1990)         GBR
 Cees de Vreugd              5,69 (1985)         NLD
+Martin Muhr                 5,71 (2000, 2001)   DEU
 Jón Páll Sigmarsson         5,87 (1989)         ISL
 Siem Wulfse                 5,88 (1983)         NLD
 Jamie Reeves                5,93 (1988)         GBR

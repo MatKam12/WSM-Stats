@@ -2,7 +2,7 @@ Alexander Matveev           0,00 (1998)         RUS
 Marc Iliffe                 0,75 (2002)         GBR
 Vladimir Turchinsky         1,00 (1998)         RUS
 Sigfús Fossdal              1,00 (2019)         ISL
-Dimitar Savatinov           1,00 (2017)         BRR
+Dimitar Savatinov           1,00 (2017)         BGR
 José Hervás                 1,00 (2000)         ESP
 Luke Richardson             1,00 (2021)         GBR
 Zake Muluzi                 1,00 (2019)         GBR
@@ -10,14 +10,21 @@ Gavin Bilton                1,00 (2020)         GBR
 Darren Sadler               1,00 (2010)         GBR
 Jean-Luc Moalli             1,00 (1997)         FRA
 Ervin Toots                 1,00 (2021)         EST
+László Fekete               1,00 (2000)         HUN
+Raffael Gordzielik          1,00 (2019)         DEU
+Igor Werner                 1,00 (2008)         DEU
 Jimmy Laureys               1,17 (2009)         BEL
 Magnus Samuelsson           1,25 (2006)         SWE
 Gustavo Pujadas             1,25 (1998)         ESP
 Paul Smith                  1,30 (2018)         GBR
+Tobias Ide                  1,33 (2008)         DEU
 Stuart Murray               1,33 (2002)         GBR
 Brian Irwin                 1,33 (2005)         GBR
 Rob Frampton                1,33 (2011)         GBR
 Ole Martin Kristiansen      1,40 (2019)         NOR
+Henrik Ravn                 1,50 (1994)         DNK
+Florian Trimpl              1,50 (2008)         DEU
+Heinz Ollesch               1,50 (2003)         DEU
 Gunnar Thór Gudjónsson      1,50 (1998)         ISL
 Israel Garrido              1,50 (2001)         ESP
 Brian Bell                  1,50 (1995)         GBR
@@ -30,6 +37,7 @@ Ole Martin Hansen           1,50 (2015)         NOR
 Juha-Matti Järvi            1,66 (2011)         FIN
 Chris Gearing               1,67 (2012)         GBR
 Jean-Stephen Coraboeuf      1,70 (2023)         FRA
+Flemming Rasmussen          1,75 (2001)         DNK
 Lauri Nämi                  1,75 (2017)         EST
 Odd Haugen                  1,75 (2006)         NOR
 Kurt Kvikstad               1,75 (1998)         NOR
@@ -37,11 +45,14 @@ Bill Pittuck                1,75 (1995)         GBR
 Fraser Tranter              1,75 (1998)         GBR
 Alex Moonen                 1,75 (2013)         NLD
 Stasys Mėčius               1,75 (1996)         LTU
+Dennis Kohlruss             1,80 (2018)         DEU
 Nedžmin Ambešković          1,80 (2022)         BIH
 Ben Kelsey                  1,83 (2014)         GBR
 Øyvind Rein                 1,83 (2014)         NOR
 Mikhail Shivlyakov          1,90 (2020)         RUS
 Richard Skog                1,91 (2007)         NOR
+Tibor Mészáros              1,92 (2002)         HUN
+Hubert Dörer                2,00 (1999)         AUT
 Tom Stoltman                2,00 (2017)         GBR
 Mick Gosling                2,00 (2005)         GBR
 Jaromír Němec               2,00 (1998)         CZE
@@ -55,11 +66,16 @@ Alexander Klyushev          2,17 (2011)         RUS
 Johnny Hansson              2,20 (2021)         SWE
 Terry Hollands              2,20 (2018)         GBR
 Adam Bishop                 2,20 (2020)         GBR
+Kim Ujarak Lorentzen        2,20 (2022) [GRL]   DNK
+Regin Vágadal               2,25 (2001) [FRO]   DNK
+Ákos Nagy                   2,25 (2012)         HUN
 Žydrūnas Savickas           2,25 (1998)         LTU
 Jon Olav Granli             2,25 (2016)         NOR
 Berend Veneberg             2,25 (1995)         NLD
 Pa O'Dwyer                  2,25 (2020)         IRL
+Martin Wildauer             2,25 (2009)         AUT
 Graham Hicks                2,30 (2023)         GBR
+Rene Minkwitz               2,33 (2000)         DNK
 Lloyd Renals                2,33 (2013)         GBR
 Bjørn Andre Solvang         2,33 (2013)         NOR
 Jarno Hams                  2,33 (2003)         NLD
@@ -68,20 +84,33 @@ Janne Virtanen              2,33 (2007)         FIN
 Andy Black                  2,40 (2022)         GBR
 Aivars Šmaukstelis          2,40 (2019)         LVA
 Raivis Vidzis               2,41 (2008)         LVA
+Sebastian Kurek             2,50 (2012)         POL
+Robert Szczepański          2,50 (2010)         POL
+Jarosław Dymek              2,50 (2009)         POL
+Mateusz Baron               2,50 (2012)         POL
 Boris Haraldsson            2,50 (2007)         ISL
 Graham Mullins              2,50 (2000)         GBR
 Steve Brooks                2,50 (2000)         GBR
 David Warner                2,50 (2002)         GBR
 Martin Forsmark             2,50 (2018)         SWE
 Russ Bradley                2,50 (1998)         GBR
+Martin Muhr                 2,50 (1998)         DEU
+Janusz Kułaga               2,58 (2010)         POL
 Rauno Heinla                2,58 (2011)         EST
+Grzegorz Szymański          2,60 (2022)         POL
 Konstantine Janashia        2,60 (2022)         GEO
 Luke Stoltman               2,60 (2019)         GBR
 Mika Törrö                  2,60 (2022)         FIN
+Ralf Ber                    2,62 (1998)         AUT
 Evgeny Popov                2,62 (1997)         BGR
 Jamie Barr                  2,62 (1998)         GBR
+Rafał Kobylarz              2,67 (2014)         POL
+Sławomir Toczek             2,67 (2005)         POL
 Mark Westaby                2,67 (2007)         GBR
 Elbrus Nigmatullin          2,67 (2007)         RUS
+Andreas Hoffmann            2,67 (1999)         DEU
+Mikkel Leicht               2,70 (2017)         DNK
+Torben Sørensen             2,75 (1998)         DNK
 Ted van der Parre           2,75 (1994)         NLD
 Forbes Cowan                2,75 (1994, 1995)   GBR
 Andreas Ståhlberg           2,75 (2019)         SWE
@@ -89,14 +118,17 @@ Gary Taylor                 2,75 (1994)         GBR
 Eythór Ingólfsson Melsted   2,75 (2020)         ISL
 Sergii Romanchuk            2,75 (2011)         UKR
 Paul Pîrjol                 2,80 (2011)         ROU
+Mateusz Kieliszkowski       2,80 (2023)         POL
 Igor Pedan                  2,83 (2003)         RUS
 Jón Valgeir Williams        2,83 (2003)         ISL
 Stoyan Todorchev            2,83 (2007, 2010)   BGR
 Alex Curletto               2,83 (2010)         ITA
+Krzysztof Radzikowski       2,91 (2018)         POL
 Torbjörn Samuelsson         2,91 (2001)         SWE
 Raimonds Bergmanis          2,91 (2001)         LVA
 Carl Broomfield             2,92 (2003)         GBR
 Kostiantyn Ilin             2,92 (2010)         UKR
+Sebastian Wenta             3,00 (2009)         POL
 Shane Flowers               3,00 (2022)         GBR
 Charlie Gough               3,00 (2016)         GBR
 Jimmy Marku                 3,00 (2009)         GBR
@@ -104,6 +136,8 @@ Benedikt Magnússon          3,00 (2015)         ISL
 Hjalti Árnason              3,00 (1996)         ISL
 Magnús Ver Magnússon        3,00 (1995)         ISL
 Vidas Blekaitis             3,00 (2003)         LTU
+Bernd Kerschbaumer          3,00 (2000)         AUT
+Franz Müllner               3,00 (2003)         AUT
 Jorma Paananen              3,08 (1999)         SWE
 James Fennelly              3,08 (2012)         IRL
 Mykhailo Starov             3,08 (2005)         UKR
@@ -118,6 +152,7 @@ Marius Lalas                3,25 (2018)         LTU
 Kelvin de Ruiter            3,30 (2022)         NLD
 Oleksii Novikov             3,40 (2021)         UKR
 Ervin Katona                3,42 (2009)         SRB
+Manfred Höberl              3,50 (1994)         AUT
 Mikhail Koklyaev            3,50 (2012)         RUS
 Alexander Lysenko           3,50 (2015)         RUS
 Wout Zijlstra               3,50 (1998)         NLD
@@ -135,6 +170,7 @@ Svend Karlsen               3,75 (1996)         NOR
 Ari Gunnarsson              3,75 (2017)         ISL
 Jouko Ahola                 3,75 (1998)         FIN
 Richard Gosling             3,80 (2003)         GBR
+Mariusz Pudzianowski        4,00 (2007)         POL
 Hafthór Júlíus Björnsson    4,00 (2019)         ISL
 Rob Dixon                   4,00 (2001)         GBR
 Robert Weir                 4,00 (1997)         GBR
