@@ -1,3 +1,4 @@
+Žydrūnas Savickas           10,66 (2014) LTU
 Hafthór Júlíus Björnsson    10,58 (2014) ISL
 Magnus Samuelsson           9,12 (1998) SWE
 Tom Stoltman                8,91 (2022) GBR
@@ -7,16 +8,21 @@ Eddie Hall                  8,50 (2017) GBR
 Janne Virtanen              8,42 (2000) FIN
 Geoff Capes                 8,00 (1981) GBR
 Ted van der Parre           7,88 (1992) NLD
+Oleksii Novikov             7,83 (2020) UKR
 Wout Zijlstra               7,75 (1998) NLD
 Jamie Reeves                7,75 (1992) GBR
 Svend Karlsen               7,71 (2000) NOR
+Mikhail Koklyaev            7,67 (2010) RUS
 Terry Hollands              7,42 (2007) GBR
+Vytautas Lalas              7,41 (2012) LTU
 Jón Páll Sigmarsson         7,37 (1986) ISL
 Flemming Rasmussen          7,12 (1997) DNK
+Raimonds Bergmanis          6,78 (2002) LVA
 Gary Taylor                 6,75 (1993) GBR
 Lars Hedlund                6,73 (1980) SWE
 Konstantine Janashia        6,66 (2016) GEO
 Ab Wolders                  6,43 (1984) NLD
+Vasyl Virastyuk             6,14 (2003) UKR
 Laurence Shahlaei           6,08 (2011) GBR
 Riku Kiri                   6,06 (1993) FIN
 Marko Varalahti             6,06 (1995) FIN
@@ -30,11 +36,15 @@ Torfi Ólafsson              5,68 (1997) ISL
 Stefán Sölvi Pétursson      5,50 (2010) ISL
 Juha-Matti Räsänen          5,50 (2002) FIN
 Mark Felix                  5,50 (2007) GBR
+Tarmo Mitt                  5,42 (2006) EST
 Stago Piczko                5,36 (1981) NLD
 Luke Stoltman               5,33 (2021) GBR
+Pavlo Kordiyaka             5,25 (2023) UKR
 Ilkka Nummisto              5,00 (1988) FIN
+Aivars Šmaukstelis          4,75 (2020) LVA
 Matjaž Belšak               4,58 (2018) SVN
 Forbes Cowan                4,56 (1994) GBR
+Elbrus Nigmatullin          4,29 (2005) RUS
 Ervin Katona                4,17 (2010) SRB
 Jorma Ojanaho               4,06 (1996) FIN
 Jean-Pierre Brulois         3,94 (1986) FRA
@@ -42,6 +52,7 @@ Gregor Edmunds              3,93 (2002) GBR
 Luke Richardson             3,75 (2020) GBR
 Regin Vágadal               3,71 (2000) DNK [FRO]
 Arild Haugen                3,71 (2008) NOR
+Raivis Vidzis               3,71 (2006) LVA
 Dimitar Savatinov           3,67 (2015) BGR
 Roger Ekström               3,56 (1985) FIN
 Tjalling van den Bosch      3,56 (1990) NLD
@@ -49,6 +60,7 @@ Gerard du Prie              3,55 (1980) NLD
 Eythór Ingólfsson Melsted   3,41 (2021) ISL
 Johannes Årsjö              3,25 (2013) SWE
 Jamie Barr                  3,21 (1999) GBR
+Aap Uspenski                3,19 (1990) EST
 Markku Suonenvirta          3,19 (1991) FIN
 Andrew Raynes               3,08 (2001) GBR
 Henrik Ravn                 2,88 (1993) DNK
@@ -56,6 +68,7 @@ Yngve Gustavsson            2,69 (1984) SWE
 Franco Columbu              2,58 (1977) ITA
 Rob Dixon                   2,50 (2000) GBR
 Ilkka Kinnunen              2,38 (1992) FIN
+Mikhail Shivlyakov          2,17 (2015) RUS
 Nedžmin Ambešković          1,80 (2022) BIH
 Graham Hicks                1,00 (2020) GBR
 Rene Minkwitz               1,00 (1999) DNK
