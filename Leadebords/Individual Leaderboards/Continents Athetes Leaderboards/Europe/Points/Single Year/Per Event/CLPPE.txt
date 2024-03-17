@@ -1,0 +1,87 @@
+Bill Anderson               0,13 (1979)         GBR
+Marc Iliffe                 0,75 (2002)         GBR
+Luke Richardson             1,00 (2021)         GBR
+Zake Muluzi                 1,00 (2019)         GBR
+Gavin Bilton                1,00 (2020)         GBR
+Darren Sadler               1,00 (2010)         GBR
+Jean-Luc Moalli             1,00 (1997)         FRA
+José Hervás                 1,00 (2000)         ESP
+Dimitar Savatinov           1,00 (2017)         BGR
+Jimmy Laureys               1,17 (2009)         BEL
+Gustavo Pujadas             1,25 (1998)         ESP
+Paul Smith                  1,30 (2018)         GBR
+Stuart Murray               1,33 (2002)         GBR
+Brian Irwin                 1,33 (2005)         GBR
+Rob Frampton                1,33 (2011)         GBR
+Israel Garrido              1,50 (2001)         ESP
+Brian Bell                  1,50 (1995)         GBR
+Lee Bowers                  1,50 (1999)         GBR
+Mark Felix                  1,50 (2017)         GBR
+Laurence Shahlaei           1,50 (2019)         GBR
+Jean-Marc Tocaven           1,50 (2000)         FRA
+Chris Gearing               1,67 (2012)         GBR
+Jean-Stephen Coraboeuf      1,70 (2023)         FRA
+Bill Pittuck                1,75 (1995)         GBR
+Fraser Tranter              1,75 (1998)         GBR
+Alex Moonen                 1,75 (2013)         NLD
+Nedžmin Ambešković          1,80 (2022)         BIH
+Ben Kelsey                  1,83 (2014)         GBR
+Jean-Pierre Brulois         1,94 (1988)         FRA
+Tom Stoltman                2,00 (2017)         GBR
+Jaromír Němec               2,00 (1998)         CZE
+Mick Gosling                2,00 (2005)         GBR
+Adrian Rollinson            2,08 (2000)         GBR
+Graham Hicks                2,17 (2020)         GBR
+Glenn Ross                  2,17 (2001)         GBR
+Jack McIntosh               2,17 (2012)         GBR
+Terry Hollands              2,20 (2018)         GBR
+Pa O'Dwyer                  2,25 (2020)         IRL
+Berend Veneberg             2,25 (1995)         NLD
+Lloyd Renals                2,33 (2013)         GBR
+Jarno Hams                  2,33 (2003)         NLD
+Andy Black                  2,40 (2022)         GBR
+Graham Mullins              2,50 (2000)         GBR
+David Warner                2,50 (2002)         GBR
+Steve Brooks                2,50 (2000)         GBR
+Russ Bradley                2,50 (1998)         GBR
+Franco Columbu              2,58 (1977)         ITA
+Konstantine Janashia        2,60 (2022)         GEO
+Jamie Barr                  2,62 (1998)         GBR
+Evgeny Popov                2,62 (1997)         BGR
+Mark Westaby                2,67 (2007)         GBR
+Adam Bishop                 2,67 (2015)         GBR
+Gary Taylor                 2,75 (1994)         GBR
+Forbes Cowan                2,75 (1995)         GBR
+Paul Pîrjol                 2,80 (2011)         ROU
+Alex Curletto               2,83 (2010)         ITA
+Stoyan Todorchev            2,83 (2007, 2010)   BGR
+Carl Broomfield             2,92 (2003)         GBR
+Jimmy Marku                 3,00 (2009)         GBR
+Shane Flowers               3,00 (2022)         GBR
+Charlie Gough               3,00 (2016)         GBR
+Ted van der Parre           3,00 (1994)         NLD
+James Fennelly              3,08 (2012)         IRL
+Luke Stoltman               3,17 (2017)         GBR
+Eddie Hall                  3,17 (2012)         GBR
+Eddy Ellwood                3,25 (2003)         GBR
+Oliver Thompson             3,25 (2008)         GBR
+Andrew Raynes               3,29 (2001)         GBR
+Kelvin de Ruiter            3,30 (2022)         NLD
+Ervin Katona                3,42 (2009)         SRB
+Matjaž Belšak               3,50 (2017)         SVN
+Brian Turner                3,55 (2004)         GBR
+Gerard du Prie              3,55 (1980)         NLD
+Tjalling van den Bosch      3,56 (1990)         NLD
+Peter Baltus                3,75 (2000)         NLD
+Richard Gosling             3,80 (2003)         GBR
+Rob Dixon                   4,00 (2000, 2001)   GBR
+Robert Weir                 4,00 (1997)         GBR
+Wout Zijlstra               4,15 (2001)         NLD
+Gregor Edmunds              4,27 (2002)         GBR
+Ab Wolders                  4,68 (1986)         NLD
+Stago Piczko                5,36 (1981)         NLD
+Adrian Smith                5,58 (1990)         GBR
+Cees de Vreugd              5,69 (1985)         NLD
+Siem Wulfse                 5,88 (1983)         NLD
+Jamie Reeves                5,93 (1988)         GBR
+Geoff Capes                 6,12 (1984)         GBR
