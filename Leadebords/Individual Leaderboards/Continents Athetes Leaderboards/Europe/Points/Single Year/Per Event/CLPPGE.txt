@@ -1,4 +1,5 @@
 Marc Iliffe                 0,75 (2002)         GBR
+Sigfús Fossdal              1,00 (2019)         ISL
 Dimitar Savatinov           1,00 (2017)         BRR
 José Hervás                 1,00 (2000)         ESP
 Luke Richardson             1,00 (2021)         GBR
@@ -7,59 +8,89 @@ Gavin Bilton                1,00 (2020)         GBR
 Darren Sadler               1,00 (2010)         GBR
 Jean-Luc Moalli             1,00 (1997)         FRA
 Jimmy Laureys               1,17 (2009)         BEL
+Magnus Samuelsson           1,25 (2006)         SWE
 Gustavo Pujadas             1,25 (1998)         ESP
 Paul Smith                  1,30 (2018)         GBR
 Stuart Murray               1,33 (2002)         GBR
 Brian Irwin                 1,33 (2005)         GBR
 Rob Frampton                1,33 (2011)         GBR
+Ole Martin Kristiansen      1,40 (2019)         NOR
+Gunnar Thór Gudjónsson      1,50 (1998)         ISL
 Israel Garrido              1,50 (2001)         ESP
 Brian Bell                  1,50 (1995)         GBR
 Lee Bowers                  1,50 (1999)         GBR
 Jean-Marc Tocaven           1,50 (2000)         FRA
 Mark Felix                  1,50 (2017)         GBR
 Laurence Shahlaei           1,50 (2019)         GBR
+Arild Haugen                1,50 (2006)         NOR
+Ole Martin Hansen           1,50 (2015)         NOR
+Juha-Matti Järvi            1,66 (2011)         FIN
 Chris Gearing               1,67 (2012)         GBR
 Jean-Stephen Coraboeuf      1,70 (2023)         FRA
+Odd Haugen                  1,75 (2006)         NOR
+Kurt Kvikstad               1,75 (1998)         NOR
 Bill Pittuck                1,75 (1995)         GBR
 Fraser Tranter              1,75 (1998)         GBR
 Alex Moonen                 1,75 (2013)         NLD
 Nedžmin Ambešković          1,80 (2022)         BIH
-Alex Curletto               2,83 (2010)         ITA
 Ben Kelsey                  1,83 (2014)         GBR
+Øyvind Rein                 1,83 (2014)         NOR
+Richard Skog                1,91 (2007)         NOR
 Tom Stoltman                2,00 (2017)         GBR
 Mick Gosling                2,00 (2005)         GBR
 Jaromír Němec               2,00 (1998)         CZE
+Torfi Ólafsson              2,00 (1995)         ISL
 Adrian Rollinson            2,08 (2000)         GBR
+Jörgen Ljungberg            2,13 (2003)         SWE
 Jack McIntosh               2,17 (2012)         GBR
 Glenn Ross                  2,17 (2001)         GBR
+Johnny Hansson              2,20 (2021)         SWE
 Terry Hollands              2,20 (2018)         GBR
 Adam Bishop                 2,20 (2020)         GBR
+Jon Olav Granli             2,25 (2016)         NOR
 Berend Veneberg             2,25 (1995)         NLD
 Pa O'Dwyer                  2,25 (2020)         IRL
 Graham Hicks                2,30 (2023)         GBR
 Lloyd Renals                2,33 (2013)         GBR
+Bjørn Andre Solvang         2,33 (2013)         NOR
 Jarno Hams                  2,33 (2003)         NLD
+Stefán Sölvi Pétursson      2,33 (2017)         ISL
+Janne Virtanen              2,33 (2007)         FIN
 Andy Black                  2,40 (2022)         GBR
+Boris Haraldsson            2,50 (2007)         ISL
 Graham Mullins              2,50 (2000)         GBR
 Steve Brooks                2,50 (2000)         GBR
 David Warner                2,50 (2002)         GBR
+Martin Forsmark             2,50 (2018)         SWE
 Russ Bradley                2,50 (1998)         GBR
 Konstantine Janashia        2,60 (2022)         GEO
 Luke Stoltman               2,60 (2019)         GBR
+Mika Törrö                  2,60 (2022)         FIN
 Evgeny Popov                2,62 (1997)         BGR
 Jamie Barr                  2,62 (1998)         GBR
 Mark Westaby                2,67 (2007)         GBR
 Ted van der Parre           2,75 (1994)         NLD
 Forbes Cowan                2,75 (1994, 1995)   GBR
+Andreas Ståhlberg           2,75 (2019)         SWE
 Gary Taylor                 2,75 (1994)         GBR
+Eythór Ingólfsson Melsted   2,75 (2020)         ISL
 Paul Pîrjol                 2,80 (2011)         ROU
+Jón Valgeir Williams        2,83 (2003)         ISL
 Stoyan Todorchev            2,83 (2007, 2010)   BGR
+Alex Curletto               2,83 (2010)         ITA
+Torbjörn Samuelsson         2,91 (2001)         SWE
 Carl Broomfield             2,92 (2003)         GBR
 Shane Flowers               3,00 (2022)         GBR
 Charlie Gough               3,00 (2016)         GBR
 Jimmy Marku                 3,00 (2009)         GBR
+Benedikt Magnússon          3,00 (2015)         ISL
+Hjalti Árnason              3,00 (1996)         ISL
+Magnús Ver Magnússon        3,00 (1995)         ISL
+Jorma Paananen              3,08 (1999)         SWE
 James Fennelly              3,08 (2012)         IRL
+Kristján Jón Haraldsson     3,10 (2023)         ISL
 Matjaž Belšak               3,16 (2018)         SVN
+David Nyström               3,17 (2015)         SWE
 Eddie Hall                  3,17 (2012)         GBR
 Eddy Ellwood                3,25 (2003)         GBR
 Oliver Thompson             3,25 (2008)         GBR
@@ -67,9 +98,20 @@ Kelvin de Ruiter            3,30 (2022)         NLD
 Ervin Katona                3,42 (2009)         SRB
 Wout Zijlstra               3,50 (1998)         NLD
 Andrew Raynes               3,50 (2001)         GBR
+Espen Aune                  3,50 (2011)         NOR
+Riku Kiri                   3,50 (1994)         FIN
+Marko Varalahti             3,50 (1995)         FIN
 Brian Turner                3,55 (2004)         GBR
+Johannes Årsjö              3,67 (2009)         SWE
 Peter Baltus                3,75 (2000)         NLD
+Svend Karlsen               3,75 (1996)         NOR
+Ari Gunnarsson              3,75 (2017)         ISL
+Jouko Ahola                 3,75 (1998)         FIN
 Richard Gosling             3,80 (2003)         GBR
+Hafthór Júlíus Björnsson    4,00 (2019)         ISL
 Rob Dixon                   4,00 (2001)         GBR
 Robert Weir                 4,00 (1997)         GBR
+Juha-Matti Räsänen          4,16 (2002)         FIN
+Tomi Lotta                  4,18 (2004)         FIN
 Gregor Edmunds              4,67 (2002)         GBR
+Jorma Ojanaho               5,00 (1996)         FIN
