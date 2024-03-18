@@ -180,7 +180,6 @@ Andrus Murumets             26,00 (2009)        EST
 Vytautas Lalas              27,50 (2010)        LTU
 Tjalling van den Bosch      28,50 (1990)        NLD
 Roger Ekström               28,50 (1985)        FIN
-Pavlo Kordiyaka             31,50 (2023)        UKR
 Adrian Smith                33,50 (1990)        GBR
 Henning Thorsen             34,00 (1990)        DNK
 Gerard du Prie              35,50 (1980)        NLD
@@ -189,9 +188,7 @@ Lars Hedlund                38,90 (1978)        SWE
 Brian Turner                39,00 (2004)        GBR
 Andrew Raynes               39,50 (2001)        GBR
 Riku Kiri                   40,50 (1998)        FIN
-Vasyl Virastyuk             43,00 (2003)        UKR
 Cees de Vreugd              45,50 (1985)        NLD
-Oleksii Novikov             47,00 (2020)        UKR
 Siem Wulfse                 47,00 (1983)        NLD
 Jón Páll Sigmarsson         47,00 (1989)        ISL
 Jamie Reeves                47,50 (1988)        GBR

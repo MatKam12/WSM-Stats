@@ -25,6 +25,7 @@ Henning Thorsen             48,50 (1991)        DNK
 Riku Kiri                   48,50 (1993)        FIN
 Marko Varalahti             48,50 (1995)        FIN
 Raimonds Bergmanis          47,50 (2002)        LVA
+Oleksii Novikov             47,00 (2020)        UKR
 Siem Wulfse                 47,00 (1983)        NLD
 Heinz Ollesch               46,00 (1995)        DEU
 Mikhail Koklyaev            46,00 (2010)        RUS
@@ -32,6 +33,7 @@ Cees de Vreugd              45,50 (1985)        NLD
 Torfi Ólafsson              45,50 (1997)        ISL
 Mateusz Kieliszkowski       45,00 (2018)        POL
 Vytautas Lalas              44,50 (2012)        LTU
+Vasyl Virastyuk             43,00 (2003)        UKR
 Berend Veneberg             41,00 (1999)        NLD
 Konstantine Janashia        40,00 (2016)        GEO
 Martin Muhr                 40,00 (2000, 2001)  DEU
@@ -53,6 +55,7 @@ Krzysztof Radzikowski       32,50 (2012)        POL
 László Fekete               32,00 (1989)        HUN
 Luke Stoltman               32,00 (2021)        GBR
 Jean-Pierre Brulois         31,50 (1986)        FRA
+Pavlo Kordiyaka             31,50 (2023)        UKR
 Elbrus Nigmatullin          30,00 (2005)        RUS
 Tjalling van den Bosch      28,50 (1990)        NLD
 Roger Ekström               28,50 (1985)        FIN
