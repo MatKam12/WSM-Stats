@@ -1,0 +1,150 @@
+Vasyl Virastyuk             55,00 (2004)        UKR
+Žydrūnas Savickas           54,00 (2004)        LTU
+Raimonds Bergmanis          50,00 (2004)        LVA
+Magnus Samuelsson           49,00 (2004)        SWE
+Tomi Lotta                  48,00 (2004)        FIN
+Svend Karlsen               48,00 (2004)        NOR
+Hafthór Júlíus Björnsson    40,00 (2016)        ISL
+Andrus Murumets             40,00 (2004)        EST
+Brian Turner                39,00 (2004)        GBR
+Eddie Hall                  36,50 (2016)        GBR
+Adrian Rollinson            34,00 (2004)        GBR
+Vytautas Lalas              34,00 (2011)        LTU
+Janne Virtanen              33,00 (2000)        FIN
+Jouko Ahola                 32,00 (1999)        FIN
+Laurence Shahlaei           31,50 (2016)        GBR
+Berend Veneberg             31,00 (1999)        NLD
+Mark Felix                  31,00 (2015)        GBR
+Dimitar Savatinov           31,00 (2015)        BGR
+Rene Minkwitz               31,00 (2004)        DNK
+Terry Hollands              30,00 (2012)        GBR
+Adam Bishop                 30,00 (2016)        GBR
+Konstantine Janashia        29,00 (2016)        GEO
+Johannes Årsjö              29,00 (2012)        SWE
+Ervin Katona                29,00 (2010)        SRB
+Tarmo Mitt                  28,50 (2008)        EST
+Gregor Edmunds              28,00 (2002)        GBR
+Mikhail Shivlyakov          28,00 (2015)        RUS
+Rob Dixon                   27,00 (2000)        GBR
+Torfi Ólafsson              27,00 (1999)        ISL
+Stefán Sölvi Pétursson      27,00 (2010)        ISL
+Jamie Barr                  27,00 (1999)        GBR
+Martin Forsmark             26,50 (2015)        SWE
+Mikhail Koklyaev            26,00 (2010)        RUS
+Juha-Matti Räsänen          26,00 (2001)        FIN
+Wout Zijlstra               25,50 (2001)        NLD
+Dainis Zageris              25,50 (2015)        LVA
+Tom Stoltman                25,00 (2022)        GBR
+Arild Haugen                25,00 (2008)        NOR
+Pavlo Kordiyaka             25,00 (2023)        UKR
+Oleksii Novikov             24,50 (2022)        UKR
+Ari Gunnarsson              24,00 (2016)        ISL
+Lauri Nämi                  24,00 (2013)        EST
+Jimmy Marku                 23,50 (2008)        GBR
+Glenn Ross                  23,00 (2000)        GBR
+Luke Stoltman               23,00 (2022)        GBR
+Graham Hicks                23,00 (2014)        GBR
+Regin Vágadal               23,00 (2000)        DNK [FRO]
+Peter Baltus                22,50 (2000)        NLD
+Richard Skog                22,50 (2008)        NOR
+Eythór Ingólfsson Melsted   22,50 (2023)        ISL
+Jarno Hams                  22,00 (2002)        NLD
+Darren Sadler               22,00 (2009)        GBR
+Elbrus Nigmatullin          22,00 (2005)        RUS
+Boris Haraldsson            21,50 (2005)        ISL
+Raivis Vidzis               21,50 (2006)        LVA
+Alexander Lysenko           21,00 (2015)        RUS
+Andrew Raynes               21,00 (2001)        GBR
+Jack McIntosh               21,00 (2011)        GBR
+Kostiantyn Ilin             21,00 (2009)        UKR
+Torbjörn Samuelsson         21,00 (2002)        SWE
+Odd Haugen                  21,00 (2001)        NOR
+Espen Aune                  21,00 (2011)        NOR
+Rauno Heinla                20,50 (2023)        EST
+Gavin Bilton                20,00 (2023)        GBR
+Johnny Hansson              20,00 (2016)        SWE
+Magnús Ver Magnússon        20,00 (1996)        ISL
+Jorma Ojanaho               20,00 (1996)        FIN
+Flemming Rasmussen          20,00 (1997)        DNK
+Mikkel Leicht               20,00 (2016)        DNK
+Oliver Thompson             19,50 (2008)        GBR
+Vidas Blekaitis             19,50 (2011)        LTU
+Marius Lalas                19,50 (2018)        LTU
+Alex Moonen                 19,00 (2012)        NLD
+Richard Gosling             19,00 (2003)        GBR
+Mick Gosling                19,00 (2002)        GBR
+David Nyström               19,00 (2015)        SWE
+Jorma Paananen              18,50 (1999)        SWE
+Mark Westaby                18,50 (2010)        GBR
+James Fennelly              18,50 (2012)        IRL
+Mykhailo Starov             18,50 (2005)        UKR
+Charlie Gough               18,00 (2016)        GBR
+Forbes Cowan                18,00 (1996)        GBR
+Riku Kiri                   18,00 (1996)        FIN
+Carl Broomfield             17,50 (2003)        GBR
+Jón Valgeir Williams        17,50 (2002)        ISL
+Aivars Šmaukstelis          17,50 (2023)        LVA
+Alexander Klyushev          17,50 (2009)        RUS
+Igor Pedan                  17,00 (2003)        RUS
+Sergii Romanchuk            17,00 (2010)        UKR
+Alex Curletto               17,00 (2010)        ITA
+Stoyan Todorchev            17,00 (2007, 2010)  BGR
+Ole Martin Hansen           17,00 (2012)        NOR
+Bjørn Andre Solvang         16,50 (2014)        NOR
+Kelvin de Ruiter            16,50 (2022)        NLD
+Robert Weir                 16,00 (1997)        GBR
+Russ Bradley                16,00 (1997)        GBR
+Kristján Jón Haraldsson     15,50 (2023)        ISL
+Agris Kazeļņiks             15,50 (2009)        LVA
+Graham Mullins              15,00 (2000)        GBR
+Luke Richardson             15,00 (2020)        GBR
+David Warner                15,00 (2002)        GBR
+Steve Brooks                15,00 (2000)        GBR
+Marc Iliffe                 14,50 (2001)        GBR
+Bill Pittuck                14,00 (1996)        GBR
+Lloyd Renals                14,00 (2013)        GBR
+Evgeny Popov                14,00 (1996)        BGR
+Paul Pîrjol                 14,00 (2011)        ROU
+Marko Varalahti             14,00 (1995)        FIN
+Jon Olav Granli             13,50 (2016)        NOR
+Mika Törrö                  13,00 (2022)        FIN
+Eddy Ellwood                13,00 (2003)        GBR
+Brian Bell                  13,00 (2000)        GBR
+Pa O'Dwyer                  13,00 (2023)        IRL
+Rob Frampton                12,00 (2010)        GBR
+Andy Black                  12,00 (2022)        GBR
+Hjalti Árnason              12,00 (1996)        ISL
+Paul Smith                  11,00 (2023)        GBR
+Gary Taylor                 11,00 (1994)        GBR
+Ben Kelsey                  11,00 (2014)        GBR
+Ted van der Parre           11,00 (1994)        NLD
+Andreas Ståhlberg           11,00 (2019)        SWE
+Øyvind Rein                 11,00 (2014)        NOR
+Juha-Matti Järvi            11,00 (2013)        FIN
+Torben Sørensen             11,00 (1998)        DNK
+Kim Ujarak Lorentzen        11,00 (2022)        DNK [GRL]
+Lee Bowers                  10,50 (1998)        GBR
+Chris Gearing               10,00 (2012)        GBR
+Vladimir Turchinsky         10,00 (1996)        RUS
+Israel Garrido              10,00 (1999)        ESP
+Nedžmin Ambešković          9,00 (2022)         BIH
+Benedikt Magnússon          9,00 (2015)         ISL
+Jörgen Ljungberg            8,50 (2003)         SWE
+Stuart Murray               8,00 (2002)         GBR
+Brian Irwin                 8,00 (2005)         GBR
+Stasys Mėčius               7,50 (1995)         LTU
+Jimmy Laureys               7,00 (2009)         BEL
+Fraser Tranter              7,00 (1998)         GBR
+Ole Martin Kristiansen      7,00 (2019)         NOR
+Kurt Kvikstad               7,00 (1998)         NOR
+Gunnar Thór Gudjónsson      6,00 (1998)         ISL
+Shane Flowers               6,00 (2022)         GBR
+Gustavo Pujadas             5,00 (1998)         ESP
+Zake Muluzi                 5,00 (2019)         GBR
+Ervin Toots                 5,00 (2021)         EST
+Jean-Luc Moalli             4,00 (1997)         FRA
+Jean-Marc Tocaven           3,00 (2000)         FRA
+Henrik Ravn                 3,00 (1994)         DNK
+José Hervás                 2,00 (2000)         ESP
+Sigfús Fossdal              1,00 (2019)         ISL
+Alexander Matveev           0,00 (1998)         RUS
