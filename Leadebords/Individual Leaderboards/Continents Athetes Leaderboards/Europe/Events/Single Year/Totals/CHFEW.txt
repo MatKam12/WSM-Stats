@@ -1,43 +1,44 @@
-Magnus Samuelsson           4 (1998)                         SWE
-Geoff Capes                 4 (1985)                         GBR
-Jamie Reeves                4 (1989)                         GBR
-Gary Taylor                 4 (1993)                         GBR
-Jón Páll Sigmarsson         4 (1986, 1988)                   ISL
-Žydrūnas Savickas           3 (2009, 2010)                   LTU
-Hafthór Júlíus Björnsson    3 (2014, 2016, 2018)             ISL
-Magnús Ver Magnússon        3 (1991, 1992)                   ISL
-Eddie Hall                  3 (2017)                         GBR
-Tom Stoltman                3 (2020, 2021)                   GBR
-Ab Wolders                  3 (1989)                         NLD
-Ted van der Parre           3 (1992)                         NLD
-Svend Karlsen               3 (2000)                         NOR
-Riku Kiri                   3 (1994)                         FIN
-Jouko Ahola                 3 (1998)                         FIN
-Henning Thorsen             3 (1991)                         DNK
-Oleksii Novikov             3 (2022)                         UKR
-Sebastian Wenta             3 (2007)                         POL
-Manfred Höberl              2 (1993)                         AUT
-Mateusz Kieliszkowski       2 (2018)                         POL
-Vasyl Virastyuk             2 (2004)                         UKR
-Flemming Rasmussen          2 (1997)                         DNK
-Lars Hedlund                2 (1978, 1979)                   SWE
-Janne Virtanen              2 (2000)                         FIN
-Marko Varalahti             2 (1995)                         FIN
-Raimonds Bergmanis          2 (2002)                         LVA
-László Fekete               1 (1990, 1999)                   HUN
-Ilkka Nummisto              1 (1992)                         FIN
-Jorma Ojanaho               1 (1996)                         FIN
-Markku Suonenvirta          1 (1991)                         FIN
-Stefán Sölvi Pétursson      1 (2011)                         ISL
-Torfi Ólafsson              1 (1998)                         ISL
-Arild Haugen                1 (2008)                         NOR
-Cees de Vreugd              1 (1985)                         NLD
-Siem Wulfse                 1 (1983)                         NLD
-Terry Hollands              1 (2007, 2009, 2012, 2014)       GBR
-Mark Felix                  1 (2007)                         GBR
-Adam Bishop                 1 (2020)                         GBR
-Luke Stoltman               1 (2021)                         GBR
-Adrian Smith                1 (1990)                         GBR
-Tarmo Mitt                  1 (2005)                         EST
-Heinz Ollesch               1 (1995)                         DEU
-Martin Muhr                 1 (2000)                         DEU
+Mariusz Pudzianowski        5 (2005)                        POL
+Magnus Samuelsson           4 (1998)                        SWE
+Geoff Capes                 4 (1985)                        GBR
+Jamie Reeves                4 (1989)                        GBR
+Gary Taylor                 4 (1993)                        GBR
+Jón Páll Sigmarsson         4 (1986, 1988)                  ISL
+Žydrūnas Savickas           3 (2009, 2010)                  LTU
+Hafthór Júlíus Björnsson    3 (2014, 2016, 2018)            ISL
+Magnús Ver Magnússon        3 (1991, 1992)                  ISL
+Eddie Hall                  3 (2017)                        GBR
+Tom Stoltman                3 (2020, 2021)                  GBR
+Ab Wolders                  3 (1989)                        NLD
+Ted van der Parre           3 (1992)                        NLD
+Svend Karlsen               3 (2000)                        NOR
+Riku Kiri                   3 (1994)                        FIN
+Jouko Ahola                 3 (1998)                        FIN
+Henning Thorsen             3 (1991)                        DNK
+Oleksii Novikov             3 (2022)                        UKR
+Sebastian Wenta             3 (2007)                        POL
+Manfred Höberl              2 (1993)                        AUT
+Mateusz Kieliszkowski       2 (2018)                        POL
+Vasyl Virastyuk             2 (2004)                        UKR
+Flemming Rasmussen          2 (1997)                        DNK
+Lars Hedlund                2 (1978, 1979)                  SWE
+Janne Virtanen              2 (2000)                        FIN
+Marko Varalahti             2 (1995)                        FIN
+Raimonds Bergmanis          2 (2002)                        LVA
+László Fekete               1 (1990, 1999)                  HUN
+Ilkka Nummisto              1 (1992)                        FIN
+Jorma Ojanaho               1 (1996)                        FIN
+Markku Suonenvirta          1 (1991)                        FIN
+Stefán Sölvi Pétursson      1 (2011)                        ISL
+Torfi Ólafsson              1 (1998)                        ISL
+Arild Haugen                1 (2008)                        NOR
+Cees de Vreugd              1 (1985)                        NLD
+Siem Wulfse                 1 (1983)                        NLD
+Terry Hollands              1 (2007, 2009, 2012, 2014)      GBR
+Mark Felix                  1 (2007)                        GBR
+Adam Bishop                 1 (2020)                        GBR
+Luke Stoltman               1 (2021)                        GBR
+Adrian Smith                1 (1990)                        GBR
+Tarmo Mitt                  1 (2005)                        EST
+Heinz Ollesch               1 (1995)                        DEU
+Martin Muhr                 1 (2000)                        DEU

@@ -16,6 +16,7 @@ Konstantine Janashia        60,00 (2017)                            GEO
 Oleksii Novikov             60,00 (2022, 2023)                      UKR
 Pavlo Kordiyaka             60,00 (2023)                            UKR
 Adam Bishop                 60,00 (2019)                            GBR
+Raimonds Bergmanis          50,00 (1996, 1997, 2002, 2003)          LVA
 Terry Hollands              50,00 (2006, 2012)                      GBR
 Mark Felix                  50,00 (2007, 2008)                      GBR
 Laurence Shahlaei           50,00 (2009, 2016)                      GBR
@@ -98,5 +99,5 @@ Bjørn Andre Solvang         16,67 (2014)                            NOR
 Espen Aune                  16,67 (2011)                            NOR
 Stefán Sölvi Pétursson      16,67 (2009, 2010, 2011, 2017)          ISL
 Ari Gunnarsson              16,67 (2017)                            ISL
-Jón Valgeir Williams        16,67 (2003)                           ISL
+Jón Valgeir Williams        16,67 (2003)                            ISL
 Juha-Matti Räsänen          16,67 (2001)                            FIN
