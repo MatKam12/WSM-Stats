@@ -44,13 +44,6 @@ Jarosław Dymek              4th in Finals POL
 Konstantine Janashia        4th in Finals GEO
 Stefán Sölvi Pétursson      4th in Finals ISL
 Torfi Ólafsson              4th in Finals ISL
-Carl Broomfield             4th in Heats GBR
-David Warner                4th in Heats GBR
-Richard Gosling             4th in Heats GBR
-Fraser Tranter              4th in Heats GBR
-Mick Gosling                4th in Heats GBR
-Mark Westaby                4th in Heats GBR
-Adrian Rollinson            4th in Heats GBR
 László Fekete               5th in Finals HUN
 Martin Muhr                 5th in Finals DEU
 Tarmo Mitt                  5th in Finals EST
@@ -136,6 +129,13 @@ Bill Pittuck                3rd in Heats GBR
 Jack McIntosh               3rd in Heats GBR
 Stuart Murray               3rd in Heats GBR
 Robert Weir                 3rd in HeatS GBR
+Carl Broomfield             4th in Heats GBR
+David Warner                4th in Heats GBR
+Richard Gosling             4th in Heats GBR
+Fraser Tranter              4th in Heats GBR
+Mick Gosling                4th in Heats GBR
+Mark Westaby                4th in Heats GBR
+Adrian Rollinson            4th in Heats GBR
 Jarno Hams                  4th in Heats NLD
 Alex Moonen                 4th in Heats NLD
 Kelvin de Ruiter            4th in Heats NLD
