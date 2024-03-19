@@ -19,10 +19,10 @@ Mark Felix                  2 (2xG)         GBR
 Laurence Shahlaei           2 (2xG)         GBR
 Mateusz Kieliszkowski       2 (2xG)         POL
 Vytautas Lalas              2 (2xG)         LTU
-Matjaž Belšak               1 (1xG)         SVN
 Janne Virtanen              1 (1xF)         FIN
 Jamie Reeves                1 (1xF)         GBR
 Henning Thorsen             1 (1xF)         DNK
+Matjaž Belšak               1 (1xG)         SVN
 Berend Veneberg             1 (1xG)         NLD
 Wout Zijlstra               1 (1xG)         NLD
 Adam Bishop                 1 (1xG)         GBR
