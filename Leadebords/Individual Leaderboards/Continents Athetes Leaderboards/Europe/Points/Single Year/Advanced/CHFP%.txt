@@ -57,12 +57,12 @@ Ralf Ber                    47,85 (2005)        AUT
 Mark Felix                  47,85 (2007)        GBR
 Aivars Šmaukstelis          47,50 (2020)        LVA
 Matjaž Belšak               45,33 (2018)        SVN
-Elbrus Nigmatullin          42,86 (2005)        RUS
-Ervin Katona                41,67 (2010)        SRB
 Luke Richardson             45,00 (2020)        GBR
 Tjalling van den Bosch      44,53 (1990)        NLD
 Roger Ekström               44,53 (1985)        FIN
+Elbrus Nigmatullin          42,86 (2005)        RUS
 Grzegorz Szymański          42,50 (2016)        POL
+Ervin Katona                41,67 (2010)        SRB
 Markku Suonenvirta          39,84 (1991)        FIN
 Aap Uspenski                39,84 (1990)        EST
 Gregor Edmunds              39,29 (2002)        GBR
