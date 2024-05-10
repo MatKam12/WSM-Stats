@@ -1,0 +1,151 @@
+Height - 1,87 m
+
+Weight - 160 kg
+
+Born - 2001-12-22
+
+
+- First A - 22 yrs, 4 m, & 10 d (2024)
+
+- First FA - 
+
+- Last A - 22 yrs, 4 m, & 10 d (2024)
+
+- Last FA - 
+
+
+- A - 1
+
+- CA - 0
+
+- FA - 0
+
+- CFA - 0
+
+- BF - 3rd in Heats
+
+- FA% - 0,00
+
+- GA - 1
+
+- GW - 0
+
+- GW% - 0,00
+
+- W% - 0,00
+
+- Adj. W% - 0,00
+
+
+
+- CP - 22,50
+
+- CP% - 25,00
+
+- CGP - 22,50
+
+- CGP% - 75,00
+
+- CFP - 0,00
+
+- CFP% - 0,00
+
+
+
+- CHP - 22,50 (2024)
+
+- CHP% - 25,00 (2024)
+
+- CLP - 22,50 (2024)
+
+- CHFP - 0,00
+
+- CHFP% - 0,00
+
+- CLFP - 0,00
+
+- CHGP - 22,50 (2024)
+
+- CHGP% - 75,00 (2024)
+
+- CLGP - 22,50 (2024)
+
+
+
+- EC - 6
+
+- GEC - 6
+
+- FEC - 0
+
+- EW - 2
+
+- EW% - 33,33
+
+- GEW - 2
+
+- GEW% - 33,33
+
+- FEW - 0
+
+- FEW% - 0,00
+
+
+
+- WE - 0
+
+- WGE - 0
+
+- WFE - 0
+
+
+
+- CHEW - 2 (2024)
+
+- CHGEW - 2 (2024)
+
+- CHFEW - 0
+
+
+
+- CHEW% - 33,33 (2024)
+
+- CHGEW% - 33,33 (2024)
+
+- CHFEW% - 0,00
+
+
+
+- PPE - 3,75
+
+- PPFE - 0,00
+
+- PPGE - 3,75
+
+- CHPPE - 3,75 (2024)
+
+- CLPPE - 3,75 (2024)
+
+- CHPPFE - 0,00
+
+- CLPPFE - 0,00
+
+- CHPPGE - 3,75 (2024)
+
+- CLPPGE - 3,75 (2024)
+
+
+
+- BTBEW: 0
+
+- BTBFEW: 0
+
+- BTBGEW: 0
+
+
+
+- BTBTBEW: 0
+
+- BTBTBFEW: 0
+
+- BTBTBGEW: 0
