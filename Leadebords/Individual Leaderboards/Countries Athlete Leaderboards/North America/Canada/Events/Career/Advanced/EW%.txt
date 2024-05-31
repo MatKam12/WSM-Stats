@@ -1,7 +1,9 @@
-Mitchell Hooper     54,55
+Mitchell Hooper     51,52
 Maxime Boudreault   20,68
 Jean-François Caron 19,13
+Tristain Hoath      18,18
 Hugo Girard         17,18
+Wesley Derwinsky    16,67
 Steve Bourgeois     16,67
 Jessen Paulin       16,13
 Geoff Dolan         15,38
