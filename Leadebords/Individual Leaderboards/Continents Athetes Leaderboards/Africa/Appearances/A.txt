@@ -5,6 +5,7 @@ Pieter de Bruyn             3 ZAF
 Johan Els                   3 ZAF
 Wayne Price                 3 ZAF
 Ettiene Smit                2 ZAF
+Jaco Schoonwinkel           2 ZAF
 Anton Boucher               2 NAM
 Evans Nana Aryee            1 GHA
 Pius Ochieng                1 KEN
@@ -13,6 +14,5 @@ Hennie Jordaan              1 ZAF
 Chris van der Linde         1 ZAF
 Malone Horn                 1 ZAF
 Nigel Moss                  1 ZAF
-Jaco Schoonwinkel           1 ZAF
 Chris Okonkwo               1 NGA
 Oluwatofunmi Fadesire       1 NGA

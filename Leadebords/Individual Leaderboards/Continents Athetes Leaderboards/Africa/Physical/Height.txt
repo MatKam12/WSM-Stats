@@ -6,6 +6,7 @@ Jaco Schoonwinkel           1,90 m F   G 20s
 Johan van Heerden           1,88 m       00s
 Wayne Price                 1,88 m F     90s
 Gerrit Badenhorst           1,86 m F   G 90s,00s        94
+Evans Nana Aryee            1,85 m       20s
 Hennie Jordaan              1,84 m       10s
 Anton Boucher               1,83 m F     90s
 Chris van der Linde         1,82 m       20s
@@ -42,7 +43,7 @@ Avg. Group Winner Height    (10s)       ---- m
 Avg. Winner Height          (10s)       ---- m
 
 
-Avg. Athlete Height         (20s)       1,86 m
+Avg. Athlete Height         (20s)       1,85 m
 Avg. Finalists Height       (20s)       1,90 m
 Avg. Group Winner Height    (20s)       1,90 m
 Avg. Winner Height          (20s)       ---- m

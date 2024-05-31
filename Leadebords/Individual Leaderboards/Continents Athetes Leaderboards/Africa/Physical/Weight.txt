@@ -6,6 +6,7 @@ Jaco Schoonwinkel           150 kg F   G 20s
 Hennie Jordaan              145 kg       10s
 Wayne Price                 140 kg F     90s,00s
 Pieter de Bruyn             136 kg F   G 90s,00s
+Evans Nana Aryee            136 kg       20s
 Anton Boucher               135 kg F     90s
 Frankie Scheun              134 kg       10s
 Ettiene Smit                131 kg       00s,10s
@@ -42,7 +43,7 @@ Avg. Group Winner Weight    (10s)       --- kg
 Avg. Winner Weight          (10s)       --- kg
 
 
-Avg. Athlete Weight         (20s)       167 kg
+Avg. Athlete Weight         (20s)       156 kg
 Avg. Finalists Weight       (20s)       150 kg
 Avg. Group Winner Weight    (20s)       150 kg
 Avg. Winner Weight          (20s)       --- kg
