@@ -46,6 +46,7 @@ Bryan Benzel        3,37 (2017)         USA
 Mark Felix          3,36 (2004)         GRN
 Steve Kirit         3,33 (2002)         USA
 Gabriel Rhéaume     3,33 (2022)         CAN
+Austin Andrade      3,33 (2024)         MEX
 Christian Savoie    3,00 (2009)         CAN
 Rob Kearney         3,00 (2019)         USA
 Gabriel Peña        3,00 (2020)         MEX
