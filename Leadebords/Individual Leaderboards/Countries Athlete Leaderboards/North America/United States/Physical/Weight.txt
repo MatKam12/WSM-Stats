@@ -12,7 +12,7 @@ Bobby Thompson      161 kg F   G 20s
 Ralph Williams      161 kg       90s
 James Voronin       160 kg       90s
 Dave Ostlund        159 kg F     00s,10s 
-Evan Singleton      159 kg       20s  
+Evan Singleton      159 kg     G 20s  
 Bryan Neese         158 kg       90s
 Brian Siders        156 kg       00s
 Mike Burke          155 kg F   G 10s
@@ -25,6 +25,8 @@ Derek DeVaughan     149 kg       10s
 Bill Kazmaier       148 kg F W   70s,80s        94
 Derek Poundstone    147 kg F   G 00s,10s
 Bryan Benzel        147 kg       10s
+Marcus Crowder      147 kg       20s
+Nathan Goltry       147 kg       20s
 Mark Philippi       145 kg F   G 90s,00s
 Nick Best           145 kg F   G 10s,20s
 Don Pope            145 kg F   G 00s
@@ -109,7 +111,7 @@ Avg. Finalists Weight       (10s)       158 kg
 Avg. Group Winner Weight    (10s)       155 kg
 Avg. Winner Weight          (10s)       172 kg
 
-Avg. Athlete Weight         (20s)       158 kg
+Avg. Athlete Weight         (20s)       156 kg
 Avg. Finalists Weight       (20s)       163 kg
 Avg. Group Winner Weight    (20s)       159 kg
 Avg. Winner Weight          (20s)       --- kg

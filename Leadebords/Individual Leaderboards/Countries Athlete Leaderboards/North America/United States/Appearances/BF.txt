@@ -18,6 +18,7 @@ Don Pope            3rd in Finals
 Ken Patera          3rd in Finals
 Dave Waddington     3rd in Finals
 John Gamble         3rd in Finals
+Evan Singleton      3rd in Finals
 Mike Burke          4th in Finals
 george Hechter      4th in Finals
 Jerry Hannan        4th in Finals
@@ -31,7 +32,6 @@ Gus Rethwisch       5th in Finals
 Ernie Hackett       5th in Finals
 Craig Wolfley       5th in Finals
 Travis Ortmayer     5th in Finals
-Evan Singleton      5th in Finals
 Keith Bishop        6th in Finals
 Larry Kidney        6th in Finals
 Rick Brown          6th in Finals
@@ -74,7 +74,8 @@ Josh Thigpen        3rd in Heats
 Mike Caruso         3rd in Heats
 Josh Gillingham     3rd in Heats
 Terry Ingalsbe      3rd in Heats
-Thomas Evans        4th in Heats
+Thomas Evans        3rd in Heats
+Marcus Crowder      3rd in Heats
 Whit Baskin         4th in Heats
 Ralph Williams      4th in Heats
 Steve Pulcinella    4th in Heats
@@ -82,7 +83,8 @@ Terry Brennan       4th in Heats
 Curtis Leffler      4th in Heats
 Brian Benzel        4th in Heats
 Adam Derks          4th in Heats
-Spenser Remick      5th in Heats
+Spenser Remick      4th in Heats
+Nathan Goltry       5th in Heats
 Derek DeVaughan     5th in Heats
 Niko Noga           5th in Heats
 Kevin Toth          6th in Heats

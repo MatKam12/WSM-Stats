@@ -6,7 +6,7 @@ Mike Jenkins        2,01 m F     10s
 Robert Oberst       2,01 m F     10s,20s
 Dave Ostlund        2,01 m F     00s,10s
 O.D. Wilson         1,99 m F     90s            94
-Evan Singleton      1,98 m       20s
+Evan Singleton      1,98 m     G 20s
 Phil Pfister        1,98 m F W G 90s,00s 
 Johnny Perry        1,98 m F   G 00s
 Josh Thigpen        1,98 m       00s,10s
@@ -42,6 +42,7 @@ Jim Hough           1,88 m F     80s            94
 Bill Kazmaier       1,88 m F W   70s,80s        94
 Bruce Wilhelm       1,88 m F W   70s            94
 Jon Kolb            1,88 m F     70s            94
+Nathan Goltry       1,88 m       20s
 Kevin Faires        1,87 m F   G 10s,20s
 Ken Patera          1,87 m F     70s            94
 Bobby Thompson      1,85 m F   G 20s
@@ -61,6 +62,7 @@ James Perry         1,83 m F     90s            94
 Terry Brennan       1,83 m       90s
 Mark Philippi       1,83 m F   G 90s,00s
 Larry Kidney        1,83 m F     80s            94
+Marcus Crowder      1,83 m       20s
 Jason Bergmann      1,80 m F   G 00s,10s
 Whit Baskin         1,80 m       90s,00s
 Rick Brown          1,80 m F     80s            94

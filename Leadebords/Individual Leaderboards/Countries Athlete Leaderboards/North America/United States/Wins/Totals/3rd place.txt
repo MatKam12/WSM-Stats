@@ -5,3 +5,4 @@ Ken Patera          1
 Bill Kazmaier       1
 Dave Ostlund        1
 Don Pope            1
+Evan Singleton      1
