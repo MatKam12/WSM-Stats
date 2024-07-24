@@ -37,3 +37,4 @@ Dominic Filiou      1 CAN
 Dusko Markovic      1 CAN
 Hugo Girard         1 CAN
 Mitchell Hooper     1 CAN
+Tristain Hoath      1 CAN

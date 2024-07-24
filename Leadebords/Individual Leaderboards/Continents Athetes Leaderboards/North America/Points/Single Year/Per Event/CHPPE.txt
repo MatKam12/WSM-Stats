@@ -34,6 +34,7 @@ Jean-François Caron 5,50 (2016) CAN
 Gary Mitchell       5,38 (1997) USA
 Travis Ortmayer     5,34 (2008) USA
 Evan Singleton      5,33 (2023) USA
+Tristain Hoath      5,32 (2024) CAN
 Durwin Piper        5,27 (1981) USA
 James Voronin       5,17 (1997) USA
 Don Pope            4,88 (2006) USA
@@ -43,6 +44,7 @@ Gregg Ernst         4,75 (1992) CAN
 George Hechter      4,50 (1985) USA
 Kevin Faires        4,50 (2020) USA
 Larry Kidney        4,45 (1980) USA
+Wesley Derwinsky    4,38 (2024) CAN
 Joe Zelezniak       4,36 (1981) USA
 Mark Felix          4,34 (2006) GRN
 Nick Best           4,33 (2010) USA

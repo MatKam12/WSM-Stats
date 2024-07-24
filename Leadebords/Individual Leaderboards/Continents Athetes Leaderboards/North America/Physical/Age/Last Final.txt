@@ -29,6 +29,7 @@ Dave Ostlund        32 yrs, 10 m, & 22 d (2014) USA
 Hugo Girard         32 yrs, 09 m, & 14 d (2004) CAN
 Dave Waddington     32 yrs, 08 m, & 14 d (1984) USA
 Jason Bergmann      32 yrs, 06 m, & 09 d (2010) USA
+Tristain Hoath      32 yrs, 06 m, & 03 d (2024) CAN
 Daniel Poulin       32 yrs, 04 m, & 10 d (1985) CAN
 Martins Licis       31 yrs, 07 m, & 27 d (2022) USA
 Gregg Ernst         31 yrs, 00 m, & 04 d (1992) CAN
@@ -53,10 +54,11 @@ Ernie Hackett       28 yrs               (1982) USA
 Ross Browner        28 yrs               (1982) USA
 John Matuszak       28 yrs               (1978) USA
 Mike Dayton         28 yrs               (1977) USA
+Wesley Derwinsky    28 yrs, 08 m, & 16 d (2024) CAN
 Dominic Filiou      28 yrs, 07 m, & 10 d (2005) CAN
+Mitchell Hooper     28 yrs, 07 m, & 03 d (2024) CAN
 Bobby Thompson      28 yrs, 05 m, & 22 d (2021) USA
 Cleve Dean          27 yrs               (1980) USA
-Mitchell Hooper     27 yrs, 06 m, & 21 d (2023) CAN
 Tom Magee           27 yrs, 04 m, & 14 d (1985) CAN
 Travis Ortmayer     27 yrs, 01 m, & 04 d (2008) USA
 Lou Ferrigno        26 yrs               (1977) USA

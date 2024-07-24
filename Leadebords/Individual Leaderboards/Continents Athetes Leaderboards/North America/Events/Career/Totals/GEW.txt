@@ -9,8 +9,8 @@ Mike Burke          11 USA
 Jerry Pritchett     10 USA
 Dave Ostlund        10 USA
 Trey Mitchell       10 USA
+Mitchell Hooper     10 CAN
 Nick Best           7 USA
-Mitchell Hooper     7 CAN
 Travis Ortmayer     6 USA
 Jesse Marunde       6 USA
 Don Pope            6 USA
@@ -34,6 +34,8 @@ Evan Singleton      3 USA
 Josh Thigpen        2 USA
 Phil Martin         2 USA
 Geoff Dolan         2 CAN
+Tristain Hoath      2 CAN
+Wesley Derwinsky    2 CAN
 Louis=Philippe Jean 2 CAN
 Austin Andrade      1 MEX
 Thomas Evans        1 USA

@@ -17,6 +17,7 @@ Travis Ortmayer     5,25 (2008)         USA
 Trey Mitchell       5,20 (2023)         USA
 James Voronin       5,17 (1997)         USA
 Phil Pfister        5,16 (2001)         USA
+Tristain Hoath      5,00 (2024)         CAN
 Robert Oberst       4,83 (2013)         USA
 Geoff Dolan         4,83 (2003)         CAN
 Dave Ostlund        4,66 (2008)         USA
@@ -40,6 +41,7 @@ Don Pope            3,75 (2005)         USA
 Bobby Thompson      3,66 (2022)         USA
 Thomas Evans        3,60 (2023)         USA
 Dominic Filiou      3,58 (2005)         CAN
+Wesley Derwinsky    3,58 (2024)         CAN
 Adam Derks          3,50 (2018)         USA
 Mike Caruso         3,41 (2014)         USA
 Bryan Benzel        3,37 (2017)         USA

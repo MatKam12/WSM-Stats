@@ -18,6 +18,7 @@ Evan Singleton      71,11 (2023) USA
 Tom Magee           70,90 (1982) CAN
 Mike Jenkins        68,75 (2013) USA
 Travis Ortmayer     65,56 (2008) USA
+Tristain Hoath      65,00 (2024) CAN
 Brian Schoonveld    65,27 (2002) USA
 Bruce Wilhelm       64,33 (1978) USA
 Maxime Boudreault   63,89 (2022) CAN
@@ -26,6 +27,7 @@ Don Pope            63,50 (2006) USA
 John Gamble         60,45 (1982) USA
 Dave Waddington     60,41 (1981) USA
 Don Reinhoudt       60,40 (1979) USA
+Wesley Derwinsky    58,33 (2024) CAN
 Curt Marsh          58,18 (1982) USA
 Ernie Hackett       57,73 (1982) USA
 Harold Collins      56,75 (1997) USA

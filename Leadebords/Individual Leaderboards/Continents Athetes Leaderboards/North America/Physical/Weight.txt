@@ -28,6 +28,7 @@ Niko Noga           152 kg       90s                   USA
 Travis Lyndon       151 kg       00s                   CAN
 Spenser Remick      150 kg       20s                   USA
 Hugo Girard         150 kg F   G 90s, 00s              CAN
+Tristain Hoath      150 kg F   G 20s                   CAN
 Maxime Boudreault   150 kg F     20s                   CAN
 Martin Licis        150 kg F W G 10s,20                USA
 Bruce Wilhelm       150 kg F W   70s            94     USA
@@ -45,6 +46,7 @@ Brian Schoonveld    145 kg       00s                   USA
 Mitchell Hooper     145 kg F W G 20s                   CAN
 Gregg Ernst         143 kg F     90s,           94     CAN
 Steve Bourgeois     143 kg       00s                   CAN
+Wesley Derwinsky    141 kg F     20s                   CAN
 Kevin Nee           140 kg F     00s                   USA
 Marshall White      140 kg       00s                   USA
 Harold Collins      140 kg F     90s            94     USA

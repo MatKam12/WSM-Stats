@@ -33,6 +33,7 @@ Mark Felix          17 GRN
 Karl Gillingham     17 USA
 Dominic Filiou      17 CAN
 Maxime Boudreault   17 CAN
+Mitchell Hooper     15 CAN
 Bryan Benzel        15 USA
 Derek DeVaughan     12 USA
 Kevin Toth          12 USA
@@ -44,13 +45,13 @@ Whit Baskin         12 USA
 Christian Savoie    12 CAN
 Scott Cummine       12 CAN
 Gabriel Rhéaume     11 CAN
-Mitchell Hooper     10 CAN
 James Voronin       9 USA
 George Hechter      8 USA
 Ginaud Dupuis       8 CAN
 Paul Lepik          8 CAN
 Bernard Rolle       8 BHS
 Gabriel Peña        7 MEX
+Wesley Derwinsky    6 CAN
 Marshall White      6 USA
 Brian Siders        6 USA
 Niko Noga           6 USA
@@ -64,6 +65,7 @@ Austin Andrade      6 MEX
 Thomas Evans        5 USA
 Spenser Remick      5 USA
 Adam Derks          5 USA
+Tristain Hoath      5 CAN
 Terry Brennan       4 USA
 Steve Pulcinella    4 USA
 Ralph Williams      4 USA
