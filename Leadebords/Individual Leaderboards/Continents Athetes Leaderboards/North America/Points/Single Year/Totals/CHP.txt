@@ -83,13 +83,16 @@ Steve Kirit         20,00 (2002) USA
 Mike Dayton         19,25 (1977) USA
 Christian Savoie    18,00 (2009) CAN
 Thomas Evans        18,00 (2023) USA
+Marcus Crowder      17,50 (2024) USA
 Adam Derks          17,50 (2018) USA
 Derks DeVaughan     17,50 (2016) USA
 Tomás Rodríguez     17,50 (2014) CUB
 Niko Noga           17,00 (1999) USA
 Gus Rethwisch       16,73 (1978) USA
+Nathan Goltry       16,50 (2024) USA
+Spenser Remick      16,50 (2024) USA
 Steve Bourgeois     16,00 (2005) CAN
-Rob Kearney         15,00 (2017, 2019, 2022) USA
+Rob Kearney         15,00 (2017, 2019, 2022, 2024) USA
 Scott Cummine       14,50 (2014) CAN
 Steve Carradine     14,00 (2016) USA
 Gabriel Peña        13,00 (2022) MEX
@@ -97,7 +100,6 @@ Jimmy Paquet        13,00 (2017) CAN
 Marshall White      12,50 (2009) USA
 Bryan Oldfield      12,00 (1978) USA
 Brian Siders        11,50 (2008) USA
-Spenser Remick      10,50 (2023) USA
 Jon Lane            10,50 (2016) USA
 George Frenn        10,00 (1977) USA
 Paul Lepik          10,00 (1996, 1997) CAN

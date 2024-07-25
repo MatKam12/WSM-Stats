@@ -32,6 +32,7 @@ Jason Bergmann      32 yrs, 06 m, & 09 d (2010) USA
 Tristain Hoath      32 yrs, 06 m, & 03 d (2024) CAN
 Daniel Poulin       32 yrs, 04 m, & 10 d (1985) CAN
 Martins Licis       31 yrs, 07 m, & 27 d (2022) USA
+Evan Singleton      31 yrs, 06 m, & 23 d (2024) USA
 Gregg Ernst         31 yrs, 00 m, & 04 d (1992) CAN
 Gus Rethwisch       31                   (1978) USA
 Joe Zelezniak       30 yrs               (1981) USA
@@ -41,7 +42,6 @@ James Perry         30 yrs, 11 m, & 11 d (1992) USA
 Mike Jenkins        30 yrs, 09 m, & 21 d (2013) USA
 Kevin Faires        30 yrs, 09 m, & 11 d (2020) USA
 Maxime Boudreault   30 yrs, 08 m, & 03 d (2022) CAN
-Evan Singleton      30 yrs, 06 m, & 11 d (2023) USA
 Rob Kearney         30 yrs, 06 m, & 08 d (2022) USA
 Austin Andrade      30 yrs, 03 m, & 12 d (2024) MEX
 Derek Poundstone    29 yrs, 11 m, & 24 d (2011) USA

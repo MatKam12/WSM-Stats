@@ -1,6 +1,7 @@
 Steve Kirit         0,00 (2004)         USA
 Jerry Blackwell     0,00 (1979)         USA
 Jack Wright         0,00 (1978)         USA
+Bobby Thompson      1,00 (2020)         USA
 Jesse Marunde       2,00 (2003)         USA
 Dave Johns          2,00 (1979)         USA
 John Matuszak       4,00 (1978)         USA
@@ -44,23 +45,24 @@ Rick Brown          14,00 (1986)        USA
 Steve Carradine     14,00 (2016)        USA
 Scott Cummine       14,00 (2013)        CAN
 Karl Gillingham     14,50 (2007)        USA
-Bobby Thompson      14,50 (2020)        USA
 Cleve Dean          15,00 (1979)        USA
 Jerry Pritchett     15,00 (2021)        USA
 Dominic Filiou      15,50 (2007)        CAN
 Steve Bourgeois     16,00 (2005)        CAN
 Christian Savoie    16,50 (2010)        CAN
 Johnny Perry        16,50 (2001)        USA
+Nathan Goltry       16,50 (2024)        USA
 Gus Rethwisch       16,73 (1978)        USA
 Niko Noga           17,00 (1999)        USA
 Brian Schoonveld    17,00 (2001)        USA
 Josh Thigpen        17,00 (2006)        USA
 Hugo Girard         17,00 (1998)        CAN
+Thomas Evans        17,00 (2024)        USA
+Marcus Crowder      17,50 (2024)        USA
 Dusko Markovic      17,50 (1989)        CAN
 Adam Derks          17,50 (2018)        USA
 Tomás Rodríguez     17,50 (2014)        CUB
 Mark Philippi       18,00 (2001, 2005)  USA
-Thomas Evans        18,00 (2023)        USA
 Mike Dayton         19,25 (1977)        USA
 Louis-Philippe Jean 19,50 (2008)        CAN
 Dave Ostlund        20,50 (2006)        USA

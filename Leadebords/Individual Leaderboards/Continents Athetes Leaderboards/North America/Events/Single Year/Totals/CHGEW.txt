@@ -31,9 +31,10 @@ Bryan Benzel        2 (2017) USA
 Rob Kearney         2 (2019) USA
 Bobby Thompson      2 (2021) USA
 Robert Oberst       2 (2021) USA
-Evan Singleton      2 (2023) USA
+Evan Singleton      2 (2023, 2024) USA
 Wesley Derwinsky    2 (2024) CAN
 Tristain Hoath      2 (2024) CAN
+Thomas Evans        1 (2023, 2024) USA
 Gabriel Rhéaume     1 (2022) CAN
 Phil Martin         1 (1995, 1997) USA
 Gary Mitchell       1 (1997) USA
@@ -49,3 +50,4 @@ Louis-Philippe Jean 1 (2009, 2012) CAN
 Christian Savoie    1 (2010) CAN
 Scott Cummine       1 (2013) CAN
 Bernard Rolle       1 (1995) BHS
+Spenser Remick      1 (2024) USA

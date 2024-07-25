@@ -17,12 +17,12 @@ Bob Young           37 yrs               (1979) USA
 Billy Graham        37 yrs               (1980) USA
 Niko Noga           37 yrs, 06 m, & 17 d (1999) USA
 O.D. Wilson         37 yrs, 00 m, & 25 d (1991) USA
+Spenser Remick      37 yrs, 00 m, & 02 d (2024) USA
 George Frenn        36 yrs               (1977) USA
 Steve Bourgeois     36 yrs, 02 m, & 20 d (2005) CAN
 Ken Brown           35 yrs               (1999) USA
 Don Reinhoudt       35 yrs               (1980) USA
 Joe Dube            35 yrs               (1979) USA
-Spenser Remick      35 yrs, 11 m, & 20 d (2023) USA
 Don Pope            35 yrs, 08 m, & 13 d (2007) USA
 Bill Kazmaier       35 yrs, 07 m, & 21 d (1989) USA
 Doyle Kenady        35 yrs, 02 m, & 28 d (1983) USA
@@ -30,6 +30,7 @@ Bryan Neese         35 yrs, 00 m, & 18 d (1999) USA
 Dave Johns          34 yrs               (1979) USA
 Jon Cole            34 yrs               (1977) USA
 Ken Patera          34 yrs               (1977) USA
+Kevin Faires        34 yrs, 02 m, & 28 d (2024) USA
 Mike Caruso         34 yrs, 00 m, & 29 d (2015) USA
 Bruce Wilhelm       33 yrs               (1978) USA
 Brian Oldfield      33 yrs               (1978) USA
@@ -41,7 +42,6 @@ Dusko Markovic      33 yrs, 06 m, & 17 d (1989) CAN
 Jason Bergmann      33 yrs, 06 m, & 09 d (2011) USA
 Christian Savoie    33 yrs, 06 m, & 09 d (2009) CAN
 Robert Oberst       33 yrs, 04 m, & 17 d (2018) USA
-Kevin Faires        33 yrs, 02 m, & 16 d (2023) USA
 Josh Thigpen        33 yrs, 02 m, & 04 d (2015) USA
 James Voronin       33 yrs, 01 m, & 06 d (1997) USA
 Ginaud Dupuis       33 yrs, 01 m, & 02 d (1997) CAN
@@ -60,7 +60,11 @@ Gus Rethwisch       31 yrs               (1978) USA
 Steve Kirit         31 yrs, 09 m, & 25 d (2004) MEX
 Gabriel Peña        31 yrs, 09 m, & 21 d (2022) USA
 Martins Licis       31 yrs, 07 m, & 27 d (2022) USA
+Evan Singleton      31 yrs, 06 m, & 23 d (2024) USA
 Tomás Rodríguez     31 yrs, 06 m, & 04 d (2014) CUBA
+Nathan Goltry       31 yrs, 05 m, & 30 d (2024) USA
+Bobby Thompson      31 yrs, 04 m, & 04 d (2024) USA
+Marcus Crowder      31 yrs, 01 m, & 21 d (2024) USA
 Bryan Benzel        31 yrs, 00 m, & 26 d (2018) USA
 Derek Poundstone    31 yrs, 00 m, & 04 d (2012) USA
 Gregg Ernst         31 yrs, 00 m, & 04 d (1992) CAN
@@ -68,16 +72,15 @@ Joe Zelezniak       30 yrs               (1981) USA
 Jerry Blackwell     30 yrs               (1979) USA
 James Perry         30 yrs, 11 m, & 11 d (1992) USA
 Mike Jenkins        30 yrs, 09 m, & 21 d (2013) USA
+Trey Mitchell       30 yrs, 09 m, & 16 d (2024) USA
 Maxime Boudreault   30 yrs, 08 m, & 03 d (2022) CAN
 Dominic Filiou      30 yrs, 06 m, & 26 d (2007) CAN
-Evan Singleton      30 yrs, 06 m, & 11 d (2023) USA
 Rob Kearney         30 yrs, 06 m, & 08 d (2022) USA
-Bobby Thompson      30 yrs, 03 m, & 22 d (2023) USA
 Austin Andrade      30 yrs, 03 m, & 12 d (2024) MEX
-Brian Siders        30 yrs, 00 m, & 02 d (2008) USA
 Scott Cummine       30 yrs, 01 m, & 25 d (2014) CAN
+Brian Siders        30 yrs, 00 m, & 02 d (2008) USA
+Thomas Evans        29 yrs, 11 m, & 23 d (2024) USA
 Johnny Perry        29 yrs, 10 m, & 29 d (2002) USA
-Trey Mitchell       29 yrs, 09 m, & 04 d (2023) USA
 Paul Lepik          29 yrs, 07 m, & 00 d (1997) CAN
 Geoff Dolan         29 yrs, 05 m, & 11 d (2003) CAN
 Steve Pulcinella    29 yrs, 00 m, & 05 d (1994) USA
@@ -86,7 +89,6 @@ Ernie Hackett       28 yrs               (1982) USA
 Ross Browner        28 yrs               (1982) USA
 John Matuszak       28 yrs               (1978) USA
 Mike Dayton         28 yrs               (1977) USA
-Thomas Evans        28 yrs, 11 m, & 11 d (2023) USA
 Wesley Derwinsky    28 yrs, 08 m, & 16 d (2024) CAN
 Mitchell Hooper     28 yrs, 07 m, & 03 d (2024) CAN
 Brian Schoonveld    28 yrs, 06 m, & 15 d (2002) USA

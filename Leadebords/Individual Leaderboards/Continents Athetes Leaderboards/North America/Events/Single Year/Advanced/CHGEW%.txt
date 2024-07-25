@@ -17,6 +17,7 @@ Travis Ortmayer     50,00 (2008)                            USA
 Nick Best           50,00 (2010)                            USA
 Bryan Benzel        50,00 (2017)                            USA
 Maxime Boudreault   50,00 (2022)                            CAN
+Evan Singleton      50,00 (2024)                            USA
 Josh Thigpen        40,00 (2015)                            USA
 Rob Kearney         40,00 (2019)                            USA
 Tristain Hoath      18,18 (2024)                            CAN
@@ -30,7 +31,6 @@ Tommy Ingalsbe      33,33 (1997)                            USA
 Brian Schoonveld    33,33 (2002)                            USA
 Kevin Nee           33,33 (2008)                            USA
 Robert Oberst       33,33 (2021)                            USA
-Evan Singleton      33,33 (2023)                            USA
 Wesley Derwinsky    33,33 (2024)                            CAN
 Phil  Martin        25,00 (1995)                            USA
 Kevin Faires        25,00 (2020)                            USA
@@ -38,6 +38,7 @@ Bernard Rolle       25,00 (1995)                            BHS
 Thomas Evans        20,00 (2023)                            USA
 Adam Derks          20,00 (2018)                            USA
 Bobby Thompson      20,00 (2020)                            USA
+Spenser Remick      20,00 (2024)                            USA
 Austin Andrade      16,67 (2024)                            MEX
 Karl Gillingham     16,66 (2002)                            USA
 Mike Caruso         16,66 (2014)                            USA

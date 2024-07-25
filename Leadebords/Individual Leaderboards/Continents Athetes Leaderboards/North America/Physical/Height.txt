@@ -7,18 +7,18 @@ Robert Oberst       2,01 m F     10s,20s               USA
 Dave Ostlund        2,01 m F     00s,10s               USA
 O.D. Wilson         1,99 m F     90s            94     USA
 Travis Lyndon       1,99 m       00s                   CAN
-Evan Singleton      1,98 m F     20s                   USA
+Evan Singleton      1,98 m F   G 20s                   USA
 Phil Pfister        1,98 m F W G 90s,00s               USA
 Johnny Perry        1,98 m F   G 00s                   USA
 Josh Thigpen        1,98 m       00s,10s               USA
 Phil Martin         1,98 m F     90s                   USA
 Derek DeVaughan     1,96 m       10s                   USA
-Bishop Dolegiewicz  1,96 m F     80s,           94     CAN
+Bishop Dolegiewicz  1,96 m F     80s            94     CAN
 Dominic Filiou      1,96 m F     00s                   CAN
 Brian Oldfield      1,95 m F     70s            94     USA
 Bryan Neese         1,94 m       90s                   USA
 Curt Marsh          1,94 m F     80s            94     USA
-Tom Magee           1,94 m F     80s,           94     CAN
+Tom Magee           1,94 m F     80s            94     CAN
 Mark Felix          1,93 m F     00s                   GRN
 Jerry Pritchett     1,93 m F   G 10s,20s               USA
 Trey Mitchell       1,93 m F   G 10s,20s               USA
@@ -63,9 +63,10 @@ Louis-Philippe Jean 1,88 m F     00s,10s               CAN
 Jesse Paulin        1,88 m F     00s                   CAN
 Paul Lepik          1,88 m       90s                   CAN
 Ginaud Dupuis       1,88 m       90s                   CAN 
-Dusko Markovic      1,88 m F     80s,           94     CAN
+Dusko Markovic      1,88 m F     80s            94     CAN
 Gabriel Peña        1,88 m       20s                   MEX
 Gabriel Rhéaume     1,88 m F     20s                   CAN
+Nathan Goltry       1,88 m       20s                   USA
 Kevin Faires        1,87 m F   G 10s,20s               USA
 Ken Patera          1,87 m F     70s            94     USA
 Bobby Thompson      1,85 m F   G 20s                   USA
@@ -81,12 +82,13 @@ Bob Young           1,85 m F     70s            94     USA
 Hugo Girard         1,85 m F   G 90s,00s               CAN
 Harold Collins      1,84 m F     90s            94     USA
 Dave Waddington     1,84 m F     80s            94     USA
+Marcus Crowder      1,83 m       20s                   USA
 Adam Derks          1,83 m       10s                   USA
 James Perry         1,83 m F     90s            94     USA
 Terry Brennan       1,83 m       90s                   USA
 Mark Philippi       1,83 m F   G 90s,00s               USA
 Larry Kidney        1,83 m F     80s            94     USA
-Gregg Ernst         1,83 m F     90s,           94     CAN
+Gregg Ernst         1,83 m F     90s            94     CAN
 Scott Cummine       1,83 m       10s                   CAN
 Jimmy Paquet        1,81 m       10s                   CAN
 Jason Bergmann      1,80 m F   G 00s,10s               USA
@@ -103,7 +105,7 @@ Dave Johns          1,75 m F     70s            94     USA
 Jerry Blackwell     1,75 m F     70s            94     USA
 
 Tommy Ingalsbe      ?,?? m       90s                   USA
-Daniel Poulin       ?,?? m F     80s,           94     CAN
+Daniel Poulin       ?,?? m F     80s            94     CAN
 Bill Dunn           ?,?? m F     80s            94     USA
 Durwin Piper        ?,?? m F     80s            94     USA
 Ernie Hackett       ?,?? m F     80s            94     USA

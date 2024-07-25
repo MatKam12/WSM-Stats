@@ -5,6 +5,7 @@ Jack Wright         0,00 (1978)         USA
 Dave Johns          0,20 (1979)         USA
 John Matuszak       0,40 (1978)         USA
 Joe Dube            0,50 (1979)         USA
+Bobby Thompson      1,00 (2024)         USA
 George Frenn        1,00 (1977)         USA
 Steve Pulcinella    1,00 (1994)         USA
 Curtis Leffler      1,00 (1995)         USA
@@ -56,6 +57,7 @@ Maxime Boudreault   2,60 (2020)         CAN
 Evan Singleton      2,60 (2021)         USA
 Gabriel Peña        2,60 (2022)         MEX
 Steve Bourgeois     2,67 (2005)         CAN
+Nathan Goltry       2,75 (2024)         USA
 Christian Savoie    2,75 (2010)         CAN
 Daniel Poulin       2,75 (1985)         CAN
 Lou Ferrigno        2,75 (1977)         USA
@@ -64,8 +66,9 @@ Niko Noga           2,83 (1999)         USA
 Brian Schoonveld    2,83 (2001)         USA
 Josh Thigpen        2,83 (2006)         USA
 Bryan Benzel        2,83 (2018)         USA
-Bobby Thompson      2,90 (2020)         USA
+Thomas Evans        2,83 (2024)         USA
 Tomás Rodríguez     2,92 (2014)         CUB
+Marcus Crowder      2,92 (2024)         USA
 Doyle Kenady        3,00 (1983)         USA
 Mark Philippi       3,00 (2001, 2005)   USA
 Harold Collins      3,06 (1993)         USA
@@ -77,7 +80,6 @@ Ross Browner        3,50 (1982)         USA
 Brian Shaw          3,50 (2008)         USA
 Adam Derks          3,50 (2018)         USA
 Don Pope            3,58 (2007)         USA
-Thomas Evans        3,60 (2023)         USA
 Jim Hough           3,65 (1982)         USA
 Whit Baskin         3,66 (1999)         USA
 Gregg Ernst         3,68 (1991)         CAN

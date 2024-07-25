@@ -23,6 +23,7 @@ Harold Collins      5,97 (1997) USA
 Dave Ostlund        5,96 (2008) USA
 Trey Mitchell       5,95 (2023) USA
 Johnny Perry        5,80 (2002) USA
+Evan Singleton      5,80 (2024) USA
 Craig Wolfley       5,73 (1981) USA
 Jerry Pritchett     5,70 (2020) USA
 Kevin Toth          5,67 (1997) USA
@@ -33,7 +34,6 @@ Jesse Marunde       5,53 (2005) USA
 Jean-François Caron 5,50 (2016) CAN
 Gary Mitchell       5,38 (1997) USA
 Travis Ortmayer     5,34 (2008) USA
-Evan Singleton      5,33 (2023) USA
 Tristain Hoath      5,32 (2024) CAN
 Durwin Piper        5,27 (1981) USA
 James Voronin       5,17 (1997) USA
@@ -75,14 +75,17 @@ Mike Caruso         3,41 (2014) USA
 Ken Patera          3,40 (1977) USA
 Bryan Benzel        3,37 (2017) USA
 Steve Kirit         3,33 (2002) USA
+Spenser Remick      3,30 (2024) USA
 Cleve Dean          3,00 (1980) USA
 Doyle Kenady        3,00 (1983) USA
-Rob Kearney         3,00 (2019) USA
+Rob Kearney         3,00 (2019, 2024) USA
 Gabriel Peña        3,00 (2020) MEX
 Christian Savoie    3,00 (2009) CAN
 Tomás Rodríguez     2,92 (2014) CUB
+Marcus Crowder      2,92 (2024) USA
 Derek DeVaughan     2,91 (2016) USA
 Niko Noga           2,83 (1999) USA
+Nathan Goltry       2,75 (2024) USA
 Lou Ferrigno        2,75 (1977) USA
 Daniel Poulin       2,75 (1985) CAN
 Steve Bourgeois     2,67 (2005) CAN
@@ -94,7 +97,6 @@ Stan Carradine      2,33 (2016) USA
 Jimmy Paquet        2,17 (2017) CAN
 Jon Cole            2,15 (1977) USA
 Bernard Rolle       2,12 (1995) BHS
-Spenser Remick      2,10 (2023) USA
 Marshall White      2,08 (2009) USA
 Ginaud Dupuis       2,00 (1997) CAN
 Mike Dayton         1,93 (1977) USA

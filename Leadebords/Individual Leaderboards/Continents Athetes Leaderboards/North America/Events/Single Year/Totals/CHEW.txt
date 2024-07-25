@@ -25,7 +25,7 @@ Travis Ortmayer     3 (2008) USA
 Nick Best           3 (2010) USA
 Jerry Pritchett     3 (2014, 2020) USA
 Trey Mitchell       3 (2022, 2023) USA
-Evan Singleton      3 (2023) USA
+Evan Singleton      3 (2023, 2024) USA
 Geoff Dolan         2 (2003) CAN
 Wesley Derwinsky    2 (2024) CAN
 Tristain Hoath      2 (2024) CAN
@@ -40,7 +40,8 @@ Bryan Benzel        2 (2017) USA
 Rob Kearney         2 (2019) USA
 Robert Oberst       2 (2021) USA
 Mark Felix          2 (2004, 2006) GRN
-Thomas Evans        1 (2023) USA
+Bobby Thompson      2 (2021) USA
+Thomas Evans        1 (2023, 2024) USA
 Gabriel Rhéaume     1 (2022) CAN
 Austin Andrade      1 (2024) MEX
 Bishop Dolegiewicz  1 (1981) CAN
@@ -71,5 +72,5 @@ Karl Gillingham     1 (2002) USA
 Mike Caruso         1 (2014) USA
 Adam Derks          1 (2018) USA
 Kevin Faires        1 (2020, 2021, 2022) USA
-Bobby Thompson      2 (2021) USA
 Bernard Rolle       1 (1995) BHS
+Spenser Remick      1 (2024) USA

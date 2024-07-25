@@ -14,6 +14,7 @@ Jon Kolb            2 USA
 Dave Waddington     2 USA
 John Gamble         2 USA
 Tom Magee           2 CAN
+Evan Singleton      2 USA
 Mark Felix          1 GRN
 O.D. Wilson         1 USA
 Curtis Leffler      1 USA
@@ -25,7 +26,6 @@ Craig Wolfley       1 USA
 Ken Patera          1 USA
 Gus Rethwisch       1 USA
 Trey Mitchell       1 USA
-Evan Singleton      1 USA
 Jerry Pritchett     1 USA
 Dave Ostlund        1 USA
 Don Pope            1 USA
