@@ -20,6 +20,7 @@ Adam Bishop                 150 kg F     10s,20s
 Graham Hicks                150 kg F     10s,20s
 Chris Gearing               150 kg       10s
 Shane Flowers               145 kg       20s
+Kane Francis                145 kg       20s
 Brian Irwin                 143 kg       00s
 Eddy Ellwood                142 kg       00s
 Jimmy Marku                 141 kg       00s
