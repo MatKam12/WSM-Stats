@@ -85,6 +85,7 @@ Richard Gosling             3,80 (2003)             GBR
 Regin Vágadal               3,76 (2000)             DNK [FRO]
 Richard Skog                3,75 (2008)             NOR
 Eythór Ingólfsson Melsted   3,75 (2023)             ISL
+Ondřej Fojtů                3,75 (2024)             CZE
 Darren Sadler               3,67 (2009)             GBR
 Jarno Hams                  3,67 (2002)             NLD
 Raivis Vidzis               3,65 (2006)             LVA
@@ -97,6 +98,7 @@ Gerard du Prie              3,55 (1980)             NLD
 Bernd Kerschbaumer          3,50 (2002)             AUT
 Kostiantyn Ilin             3,50 (2009)             UKR
 Jack McIntosh               3,50 (2011)             GBR
+Adam Roszkowski             3,50 (2024)             POL
 Bill Pittuck                3,50 (1996)             GBR
 Evgeny Popov                3,50 (1996)             BGR
 Torbjörn Samuelsson         3,50 (2002)             SWE
@@ -112,6 +114,7 @@ Sławomir Toczek             3,35 (2006)             POL
 Johnny Hansson              3,33 (2016)             SWE
 Mikkel Leicht               3,33 (2016)             DNK
 Kelvin de Ruiter            3,30 (2022)             NLD
+Kane Francis                3,30 (2024)             GBR
 Andrew Raynes               3,29 (2001)             GBR
 Vidas Blekaitis             3,25 (2011)             LTU
 Marius Lalas                3,25 (2018)             LTU
@@ -172,6 +175,7 @@ Kim Ujarak Lorentzen        2,20 (2022)             DNK [GRL]
 Paul Smith                  2,20 (2023)             GBR
 Brian Bell                  2,17 (2000)             GBR
 Jörgen Ljungberg            2,13 (2003)             SWE
+Nicolas Cambi               2,10 (2024)             ITA
 Hubert Dörer                2,00 (1999)             AUT
 Rob Frampton                2,00 (2010)             GBR
 Jaromír Němec               2,00 (1998)             CZE
@@ -195,6 +199,7 @@ Brian Irwin                 1,33 (2005)             GBR
 Tobias Ide                  1,33 (2008)             DEU
 Gustavo Pujadas             1,25 (1998)             ESP
 Jimmy Laureys               1,17 (2009)             BEL
+Oskar Ziółkowski            1,10 (2024)             POL
 Zake Muluzi                 1,00 (2019)             GBR
 Jean-Luc Moalli             1,00 (1997)             FRA
 José Hervás                 1,00 (2000)             ESP

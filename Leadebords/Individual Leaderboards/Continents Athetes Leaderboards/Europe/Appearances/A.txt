@@ -6,11 +6,11 @@ Laurence Shahlaei           11 GBR
 Mariusz Pudzianowski        9 POL
 Janne Virtanen              9 FIN
 Hafthór Júlíus Björnsson    9 ISL
+Adam Bishop                 9 GBR
+Luke Stoltman               9 GBR
 Heinz Ollesch               8 DEU
 Jarosław Dymek              8 POL
 Svend Karlsen               8 NOR
-Adam Bishop                 8 GBR
-Luke Stoltman               8 GBR
 Mikhail Shivlyakov          7 RUS
 László Fekete               7 HUN
 Konstantine Janashia        7 GEO
@@ -19,9 +19,9 @@ Jón Páll Sigmarsson         7 ISL
 Magnús Ver Magnússon        7 ISL
 Geoff Capes                 7 GBR
 Graham Hicks                7 GBR
+Tom Stoltman                7 GBR
+Aivars Šmaukstelis          7 LVA
 Eddie Hall                  6 GBR
-Tom Stoltman                6 GBR
-Aivars Šmaukstelis          6 LVA
 Berend Veneberg             6 NLD
 Martin Wildauer             5 AUT
 Mateusz Kieliszkowski       5 POL
@@ -37,8 +37,8 @@ Stefán Sölvi Pétursson      5 ISL
 Johannes Årsjö              5 SWE
 Gary Taylor                 5 GBR
 Glenn Ross                  5 GBR
+Gavin Bilton                5 GBR
 Adrian Rollinson            4 GBR
-Gavin Bilton                4 GBR
 Darren Sadler               4 GBR
 Grzegorz Szymański          4 POL
 Sebastian Wenta             4 POL
@@ -75,13 +75,15 @@ Brian Bell                  3 GBR
 Jimmy Marku                 3 GBR
 Bill Pittuck                3 GBR
 Forbes Cowan                3 GBR
+Rauno Heinla                3 EST
+Pa O'Dwyer                  3 IRL
+Pavlo Kordiyaka             3 UKR
 Stoyan Todorchev            2 BGR
 Rudolf Küster               2 DEU
 Bernd Kerschbaumer          2 AUT
 Rafał Kobylarz              2 POL
 Sławomir Toczek             2 POL
 Ervin Toots                 2 EST
-Rauno Heinla                2 EST
 Andrus Murumets             2 EST
 Agris Kazeļņiks             2 LVA
 Dainis Zageris              2 LVA
@@ -89,7 +91,6 @@ Stasys Mėčius               2 LTU
 Vidas Blekaitis             2 LTU
 Vladimir Turchinsky         2 RUS
 Alexander Klyushev          2 RUS
-Pavlo Kordiyaka             2 UKR
 Vasyl Virastyuk             2 UKR
 Kostiantyn Ilin             2 UKR
 Sergii Romanchuk            2 UKR
@@ -105,7 +106,6 @@ Ole Martin Hansen           2 NOR
 Martin Forsmark             2 SWE
 Israel Garrido              2 ESP
 Jean-Stephen Coraboeuf      2 FRA
-Pa O'Dwyer                  2 IRL
 Wout Zijlstra               2 NLD
 Jarno Hams                  2 NLD
 Peter Baltus                2 NLD
@@ -204,3 +204,8 @@ Fraser Tranter              1 GBR
 Robert Weir                 1 GBR
 Steve Brooks                1 GBR
 Gregor Edmunds              1 GBR
+Adam Roszkowski             1 POL
+Oskar Ziółkowski            1 POL
+Kane Francis                1 GBR
+Nicolas Cambi               1 ITA
+Ondřej Fojtů                1 CZE

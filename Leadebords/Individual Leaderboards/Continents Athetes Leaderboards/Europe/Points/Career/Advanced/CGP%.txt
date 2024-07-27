@@ -10,17 +10,18 @@ Vasyl Virastyuk             80,39 UKR
 Riku Kiri                   80,00 FIN
 Oleksii Novikov             78,80 UKR
 Gregor Edmunds              77,78 GBR
-Pavlo Kordiyaka             77,50 UKR
 Wout Zijlstra               75,96 NLD
 Mateusz Kieliszkowski       75,33 POL
 Tarmo Mitt                  75,00 EST
 Magnús Ver Magnússon        75,00 ISL
+Ondřej Fojtů                75,00 CZE
 Magnus Samuelsson           73,37 SWE
 Eddie Hall                  73,20 GBR
 Rob Dixon                   72,83 GBR
 Gary Taylor                 72,44 GBR
 Jamie Barr                  72,12 GBR
 Raimonds Bergmanis          71,71 LVA
+Pavlo Kordiyaka             71,67 UKR
 Juha-Matti Räsänen          70,83 FIN
 Tomi Lotta                  69,70 FIN
 Ted van der Parre           68,75 NLD
@@ -34,18 +35,18 @@ Peter Baltus                66,97 NLD
 Robert Weir                 66,67 GBR
 Jarosław Dymek              66,67 POL
 Ervin Katona                66,32 SRB
+Luke Stoltman               65,76 GBR
 Russ Bradley                65,00 GBR
 Sławomir Toczek             65,00 POL
 Marius Lalas                65,00 LTU
-Luke Stoltman               64,98 GBR
 Andrus Murumets             64,71 EST
+Tom Stoltman                64,59 GBR
 Ari Gunnarsson              64,58 ISL
 Richard Gosling             62,78 GBR
 Krzysztof Radzikowski       62,78 POL
 Forbes Cowan                62,50 GBR
 Arild Haugen                62,12 NOR
 Johannes Årsjö              62,10 SWE
-Tom Stoltman                61,94 GBR
 Janne Virtanen              61,84 FIN
 Mykhailo Starov             61,67 UKR
 Mikhail Shivlyakov          60,84 RUS
@@ -56,8 +57,8 @@ Torfi Ólafsson              59,38 ISL
 Martin Wildauer             59,17 AUT
 Brian Turner                59,09 GBR
 Boris Haraldsson            58,89 ISL
+Adam Bishop                 58,85 GBR
 Jimmy Marku                 58,82 GBR
-Adam Bishop                 58,79 GBR
 Flemming Rasmussen          58,62 DNK
 Aivars Šmaukstelis          58,39 LVA
 Paul Smith                  58,33 GBR
@@ -65,6 +66,7 @@ Andrew Raynes               58,33 GBR
 Espen Aune                  58,33 NOR
 Regin Vágadal               58,33 DNK [FRO]
 Elbrus Nigmatullin          58,33 RUS
+Adam Roszkowski             58,33 POL
 Laurence Shahlaei           57,63 GBR
 Raivis Vidzis               57,54 LVA
 Rene Minkwitz               57,14 DNK
@@ -73,13 +75,14 @@ Mark Felix                  56,31 GBR
 Evgeny Popov                55,47 BGR
 Kelvin de Ruiter            55,00 NLD
 Andreas Ståhlberg           55,00 SWE
-Rauno Heinla                54,55 EST
+Kane Francis                55,00 GBR
 Martin Forsmark             54,17 SWE
 Oliver Thompson             54,17 GBR
 Rafał Kobylarz              53,85 POL
 Terry Hollands              53,78 GBR
 Richard Skog                53,26 NOR
 Torbjörn Samuelsson         53,24 SWE
+Rauno Heinla                53,13 EST
 Mark Westaby                52,27 GBR
 Vidas Blekaitis             52,08 LTU
 Ralf Ber                    51,96 AUT
@@ -88,7 +91,6 @@ Stoyan Todorchev            51,52 BGR
 James Fennelly              51,39 IRL
 Jorma Paananen              51,39 SWE
 Glenn Ross                  50,63 GBR
-Gavin Bilton                50,45 GBR
 Franz Müllner               50,00 AUT
 Jarno Hams                  50,00 NLD
 Gunnar Thór Gudjónsson      50,00 ISL
@@ -109,8 +111,8 @@ Johnny Hansson              46,91 SWE
 Sergii Romanchuk            46,53 UKR
 Graham Hicks                45,87 GBR
 David Nyström               45,24 SWE
+Gavin Bilton                44,44 GBR
 Jean-Stephen Coraboeuf      44,17 FRA
-Pa O'Dwyer                  44,00 IRL
 Fraser Tranter              43,75 GBR
 Kurt Kvikstad               43,75 NOR
 Mika Törrö                  43,33 FIN
@@ -135,12 +137,14 @@ Bernd Kerschbaumer          39,00 AUT
 Lloyd Renals                38,89 GBR
 Paul Pîrjol                 38,89 ROU
 Agris Kazeļņiks             38,19 LVA
+Pa O'Dwyer                  38,13 IRL
 Mateusz Baron               37,72 POL
 Lee Bowers                  37,50 GBR
 Kim Ujarak Lorentzen        36,67 DNK [GRL]
 Stasys Mėčius               36,25 LTU
 Eddy Ellwood                36,11 GBR
 Luke Richardson             35,56 GBR
+Nicolas Cambi               35,00 ITA
 Vladimir Turchinsky         35,00 RUS
 Ole Martin Kristiansen      35,00 NOR
 Ole Martin Hansen           33,33 NOR
@@ -168,6 +172,7 @@ Zake Muluzi                 20,00 GBR
 Shane Flowers               20,00 GBR
 Benedikt Magnússon          19,04 ISL
 Henrik Ravn                 18,75 DNK
+Oskar Ziółkowski            18,33 POL
 Ervin Toots                 17,79 EST
 Jean-Luc Moalli             16,67 FRA
 Andreas Hoffmann            15,00 DEU

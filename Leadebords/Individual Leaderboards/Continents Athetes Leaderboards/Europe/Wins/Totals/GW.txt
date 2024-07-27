@@ -18,8 +18,8 @@ Jouko Ahola                 2 FIN
 Flemming Rasmussen          2 DNK
 Mateusz Kieliszkowski       2 POL
 Mark Felix                  2 GBR
+Tom Stoltman                2 GBR
 Forbes Cowan                1 GBR
-Tom Stoltman                1 GBR
 Luke Stoltman               1 GBR
 Gary Taylor                 1 GBR
 Sebastian Wenta             1 POL

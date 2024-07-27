@@ -10,18 +10,18 @@ Laurence Shahlaei           14 GBR
 Svend Karlsen               13 NOR
 Raimonds Bergmanis          13 LVA
 Jarosław Dymek              13 POL
-Tom Stoltman                11 GBR
+Tom Stoltman                13 GBR
 Oleksii Novikov             11 UKR
 Mateusz Kieliszkowski       11 POL
+Adam Bishop                 11 GBR
 Vytautas Lalas              10 LTU
 Vasyl Virastyuk             9 UKR
-Adam Bishop                 9 GBR
 Riku Kiri                   8 FIN
 Sebastian Wenta             8 POL
+Luke Stoltman               8 GBR
 Konstantine Janashia        7 GEO
 Jouko Ahola                 7 FIN
 Johannes Årsjö              7 SWE
-Luke Stoltman               7 GBR
 Ervin Katona                7 SRB
 Tarmo Mitt                  7 EST
 Martin Muhr                 7 DEU
@@ -29,6 +29,7 @@ Magnús Ver Magnússon        6 ISL
 Berend Veneberg             6 NLD
 Flemming Rasmussen          6 DNK
 Krzysztof Radzikowski       6 POL
+Pavlo Kordiyaka             6 UKR
 Martin Wildauer             5 AUT
 Heinz Ollesch               5 DEU
 Mikhail Shivlyakov          5 RUS
@@ -36,14 +37,13 @@ Rene Minkwitz               5 DNK
 Glenn Ross                  5 GBR
 Rob Dixon                   5 GBR
 Forbes Cowan                5 GBR
+Aivars Šmaukstelis          5 LVA
 Sławomir Toczek             4 POL
-Pavlo Kordiyaka             4 UKR
 Jimmy Marku                 4 GBR
 Graham Hicks                4 GBR
 Eythór Ingólfsson Melsted   4 ISL
 Stefán Sölvi Pétursson      4 ISL
 Torfi Ólafsson              4 ISL
-Aivars Šmaukstelis          4 LVA
 Matjaž Belšak               4 SVN
 Ralf Ber                    4 AUT
 Manfred Höberl              3 AUT
@@ -70,11 +70,13 @@ Marko Varalahti             2 FIN
 Juha-Matti Räsänen          2 FIN
 Tomi Lotta                  2 FIN
 Mikkel Leicht               2 DNK
+Ondřej Fojtů                2 POL
+Rauno Heinla                2 EST
+Adam Roszkowski             2 POL
 Regin Vágadal               2 DNK [FRO]
 Andrus Murumets             2 EST
 Bernd Kerschbaumer          1 AUT
 Lauri Nämi                  1 EST
-Rauno Heinla                1 EST
 Stasys Mėčius               1 LTU
 Mykhailo Starov             1 UKR
 Torben Sørensen             1 DNK

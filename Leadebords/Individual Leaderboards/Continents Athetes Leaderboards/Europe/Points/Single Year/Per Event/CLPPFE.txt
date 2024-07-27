@@ -8,6 +8,7 @@ Svend Karlsen               1,80 (2004)         NOR
 Ervin Katona                1,88 (2011)         SRB
 Jean-Pierre Brulois         1,94 (1988)         FRA
 Mikhail Koklyaev            2,00 (2013)         RUS
+Aivars Šmaukstelis          2,08 (2024)         LVA
 Eythór Ingólfsson Melsted   2,16 (2022)         ISL
 Mikhail Shivlyakov          2,17 (2015)         RUS
 Raimonds Bergmanis          2,37 (2004)         LVA
@@ -33,6 +34,7 @@ Andrew Raynes               3,08 (2001)         GBR
 Aap Uspenski                3,19 (1990)         EST
 Markku Suonenvirta          3,19 (1991)         FIN
 Jamie Barr                  3,21 (1999)         GBR
+Luke Stoltman               3,25 (2024)         GBR
 Riku Kiri                   3,25 (1998)         FIN
 Laurence Shahlaei           3,35 (2009)         GBR
 Jarosław Dymek              3,50 (2002)         POL
@@ -42,7 +44,6 @@ Matjaž Belšak               3,50 (2017)         SVN
 Gerard du Prie              3,55 (1980)         NLD
 Roger Ekström               3,56 (1985)         FIN
 Tjalling van den Bosch      3,56 (1990)         NLD
-Luke Stoltman               3,58 (2023)         GBR
 Martin Wildauer             3,66 (2014)         AUT
 Dimitar Savatinov           3,67 (2015)         BGR
 Arild Haugen                3,71 (2008)         NOR
@@ -61,16 +62,15 @@ Henning Thorsen             4,25 (1990)         DNK
 Elbrus Nigmatullin          4,29 (2005)         RUS
 Mariusz Pudzianowski        4,37 (2004)         POL
 Flemming Rasmussen          4,43 (1996)         DNK
+Pavlo Kordiyaka             4,50 (2024)         UKR
 Mateusz Kieliszkowski       4,58 (2016)         POL
 Vasyl Virastyuk             4,63 (2004)         UKR
 Ab Wolders                  4,68 (1986)         NLD
-Aivars Šmaukstelis          4,75 (2020)         LVA
 Ralf Ber                    4,79 (2005)         AUT
 Gary Taylor                 4,87 (1991)         GBR
 Vytautas Lalas              4,91 (2011)         LTU
 Hafthór Júlíus Björnsson    4,91 (2011)         ISL
 Sebastian Wenta             5,21 (2006)         POL
-Pavlo Kordiyaka             5,25 (2023)         UKR
 Janne Virtanen              5,28 (2005)         FIN
 Eddie Hall                  5,33 (2014)         GBR
 Stago Piczko                5,36 (1981)         NLD

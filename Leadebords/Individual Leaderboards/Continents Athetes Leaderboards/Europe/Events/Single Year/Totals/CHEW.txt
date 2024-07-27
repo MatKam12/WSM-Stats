@@ -10,7 +10,7 @@ Eddie Hall                  6 (2016, 2017)                      GBR
 Svend Karlsen               6 (2000)                            NOR
 Mateusz Kieliszkowski       5 (2018)                            POL
 Sebastian Wenta             5 (2007)                            POL
-Tom Stoltman                5 (2020, 2021, 2022)                GBR
+Tom Stoltman                5 (2020, 2021, 2022, 2024)          GBR
 Raimonds Bergmanis          5 (2002)                            LVA
 Riku Kiri                   5 (1994)                            FIN
 Vytautas Lalas              4 (2011)                            LTU
@@ -35,7 +35,7 @@ Brian Turner                3 (2004)                            GBR
 Ervin Katona                3 (2011)                            SRB
 Arild Haugen                3 (2008)                            NOR
 Henning Thorsen             3 (1991)                            DNK
-Pavlo Kordiyaka             3 (2022)                            UKR
+Pavlo Kordiyaka             3 (2022, 2024)                      UKR
 Konstantine Janashia        3 (2017)                            GEO
 Tarmo Mitt                  3 (2007)                            EST
 Martin Muhr                 3 (2000)                            DEU
@@ -73,9 +73,11 @@ Elbrus Nigmatullin          2 (2005)                            RUS
 László Fekete               2 (1999)                            HUN
 Martin Wildauer             2 (2012, 2014)                      AUT
 Ralf Ber                    2 (2005)                            AUT
+Adam Roszkowski             2 (2024)                            POL
+Ondřej Fojtů                2 (2024)                            CZE
 Bernd Kerschbaumer          1 (2002)                            AUT
 Andrus Murumets             1 (2004, 2009)                      EST
-Rauno Heinla                1 (2023)                            EST
+Rauno Heinla                1 (2023, 2024)                      EST
 Lauri Nämi                  1 (2013)                            EST
 Stasys Mėčius               1 (1995)                            LTU
 Mikhail Koklyaev            1 (2010, 2012, 2013)                RUS

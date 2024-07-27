@@ -7,18 +7,18 @@ Jón Páll Sigmarsson         6 ISL
 Žydrūnas Savickas           6 LTU
 Magnús Ver Magnússon        5 ISL
 Svend Karlsen               5 NOR
-Tom Stoltman                4 GBR
+Tom Stoltman                5 GBR
 Eddie Hall                  3 GBR
 Ilkka Nummisto              3 FIN
 Konstantine Janashia        3 GEO
 Tarmo Mitt                  3 EST
 Mateusz Kieliszkowski       3 POL
+Luke Stoltman               3 GBR
 Jarosław Dymek              2 POL
 Sebastian Wenta             2 POL
 Raimonds Bergmanis          2 LVA
 Vytautas Lalas              2 LTU
 Gary Taylor                 2 GBR
-Luke Stoltman               2 GBR
 Adam Bishop                 2 GBR
 Flemming Rasmussen          2 DNK
 Henning Thorsen             2 DNK
@@ -43,3 +43,4 @@ Jamie Reeves                1 GBR
 Laurence Shahlaei           1 GBR
 László Fekete               1 HUN
 Martin Muhr                 1 DEU
+Pavlo Kordiyaka             1 UKR

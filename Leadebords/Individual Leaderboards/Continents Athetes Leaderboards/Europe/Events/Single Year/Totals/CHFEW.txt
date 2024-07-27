@@ -8,7 +8,7 @@ Jón Páll Sigmarsson         4 (1986, 1988)                  ISL
 Hafthór Júlíus Björnsson    3 (2014, 2016, 2018)            ISL
 Magnús Ver Magnússon        3 (1991, 1992)                  ISL
 Eddie Hall                  3 (2017)                        GBR
-Tom Stoltman                3 (2020, 2021)                  GBR
+Tom Stoltman                3 (2020, 2021, 2024)            GBR
 Ab Wolders                  3 (1989)                        NLD
 Ted van der Parre           3 (1992)                        NLD
 Svend Karlsen               3 (2000)                        NOR
@@ -42,3 +42,4 @@ Adrian Smith                1 (1990)                        GBR
 Tarmo Mitt                  1 (2005)                        EST
 Heinz Ollesch               1 (1995)                        DEU
 Martin Muhr                 1 (2000)                        DEU
+Pavlo Kordiyaka             1 (2024)                        UKR

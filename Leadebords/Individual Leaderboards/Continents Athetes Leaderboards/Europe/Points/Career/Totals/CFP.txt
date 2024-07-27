@@ -6,8 +6,8 @@ Hafthór Júlíus Björnsson    416,00 ISL
 Terry Hollands              383,00 GBR
 Jón Páll Sigmarsson         365,00 ISL
 Magnús Ver Magnússon        340,50 ISL
+Tom Stoltman                274,50 GBR
 Svend Karlsen               269,00 NOR
-Tom Stoltman                221,50 GBR
 Janne Virtanen              199,00 FIN
 Jouko Ahola                 188,00 FIN
 Ab Wolders                  180,00 NLD
@@ -23,13 +23,13 @@ Mateusz Kieliszkowski       139,50 POL
 Flemming Rasmussen          135,00 DNK
 Oleksii Novikov             131,00 UKR
 Sebastian Wenta             128,50 POL
+Luke Stoltman               125,50 GBR
 Henning Thorsen             123,50 DNK
 Konstantine Janashia        123,50 GEO
 Laurence Shahlaei           115,00 GBR
 Manfred Höberl              113,50 AUT
 Vytautas Lalas              108,00 LTU
 Ted van der Parre           105,50 NLD
-Luke Stoltman               104,00 GBR
 Tarmo Mitt                  102,50 EST
 László Fekete               97,00 HUN
 Torfi Ólafsson              94,00 ISL
@@ -43,6 +43,7 @@ Forbes Cowan                70,50 GBR
 Jean-Pierre Brulois         66,50 FRA
 Juha-Matti Räsänen          64,00 FIN
 Stago Piczko                59,00 NLD
+Pavlo Kordiyaka             58,50 UKR
 Stefán Sölvi Pétursson      55,50 ISL
 Rudolf Küster               54,00 DEU
 Mark Felix                  51,00 GBR
@@ -60,7 +61,6 @@ Ralf Ber                    33,50 AUT
 Adrian Smith                33,50 GBR
 Jorma Ojanaho               32,50 FIN
 Krzysztof Radzikowski       32,50 POL
-Pavlo Kordiyaka             31,50 UKR
 Elbrus Nigmatullin          30,00 RUS
 Aivars Šmaukstelis          28,50 LVA
 Tjalling van den Bosch      28,50 NLD

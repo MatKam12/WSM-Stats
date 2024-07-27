@@ -2,8 +2,8 @@ Mariusz Pudzianowski        5 POL
 Žydrūnas Savickas           4 LTU
 Jón Páll Sigmarsson         4 ISL
 Magnús Ver Magnússon        4 ISL
+Tom Stoltman                3 GBR
 Geoff Capes                 2 GBR
-Tom Stoltman                2 GBR
 Jouko Ahola                 2 FIN
 Oleksii Novikov             1 UKR
 Vasyl Virastyuk             1 UKR

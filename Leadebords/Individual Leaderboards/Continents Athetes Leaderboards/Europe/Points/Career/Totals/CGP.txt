@@ -9,12 +9,13 @@ Laurence Shahlaei           219,00 GBR
 Janne Virtanen              188,00 FIN
 Raimonds Bergmanis          185,00 LVA
 Jarosław Dymek              180,00 POL
+Luke Stoltman               169,00 GBR
 Eddie Hall                  162,50 GBR
-Luke Stoltman               147,50 GBR
+Adam Bishop                 161,00 GBR
 Konstantine Janashia        141,50 GEO
-Adam Bishop                 140,50 GBR
 Mikhail Shivlyakov          123,50 RUS
 Rene Minkwitz               120,00 DNK
+Tom Stoltman                119,50 GBR
 Vytautas Lalas              119,50 LTU
 Johannes Årsjö              115,50 SWE
 Mateusz Kieliszkowski       114,50 POL
@@ -25,7 +26,6 @@ Graham Hicks                105,50 GBR
 Stefán Sölvi Pétursson      104,00 ISL
 Oleksii Novikov             98,50 UKR
 Matjaž Belšak               97,50 SVN
-Tom Stoltman                96,00 GBR
 Ervin Katona                95,50 SRB
 Tarmo Mitt                  94,50 EST 
 Regin Vágadal               91,00 DNK [FRO]
@@ -47,19 +47,20 @@ Lauri Nämi                  67,50 EST
 Andrus Murumets             66,00 EST
 Martin Muhr                 66,00 DEU
 Jouko Ahola                 65,00 FIN
+Pavlo Kordiyaka             64,50 UKR
 Riku Kiri                   64,00 FIN
 Jimmy Marku                 60,00 GBR
 Magnús Ver Magnússon        60,00 ISL
+Gavin Bilton                60,00 GBR
 Torbjörn Samuelsson         57,50 SWE
 Dimitar Savatinov           53,50 BGR
 Ralf Ber                    53,00 AUT
-Gavin Bilton                53,00 GBR
 Boris Haraldsson            53,00 ISL
 Darren Sadler               52,50 GBR
 Rob Dixon                   51,00 GBR
+Rauno Heinla                51,00 EST
 Juha-Matti Räsänen          51,00 FIN
 Peter Baltus                47,50 NLD
-Pavlo Kordiyaka             46,50 UKR
 Tomi Lotta                  46,00 FIN
 Ari Gunnarsson              46,00 ISL
 Johnny Hansson              45,50 SWE
@@ -86,12 +87,12 @@ Mark Westaby                34,50 GBR
 Jón Valgeir Williams        34,50 ISL
 Stoyan Todorchev            34,00 BGR
 Jack McIntosh               34,00 GBR
-Mikkel Leicht               33,50 DNKDF 
+Mikkel Leicht               33,50 DNK 
 Sergii Romanchuk            33,50 UKR
 Bill Pittuck                32,00 GBR
 Bjørn Andre Solvang         30,50 NOR
+Pa O'Dwyer                  30,50 IRL
 Alexander Klyushev          30,50 RUS
-Rauno Heinla                30,00 EST
 Alex Moonen                 29,50 NLD
 Gregor Edmunds              28,00 GBR
 Agris Kazeļņiks             27,50 LVA
@@ -101,7 +102,7 @@ Jean-Stephen Coraboeuf      26,50 FRA
 Russ Bradley                26,00 GBR
 Ole Martin Hansen           26,00 NOR
 Gary Taylor                 23,50 GBR
-Pa O'Dwyer                  22,00 IRL
+Ondřej Fojtů                22,50 CZE
 Andrew Raynes               21,00 GBR
 Espen Aune                  21,00 NOR
 Juha-Matti Järvi            21,00 FIN
@@ -122,9 +123,11 @@ Franz Müllner               18,00 AUT
 Marc Iliffe                 17,50 GBR
 Paul Smith                  17,50 GBR
 Carl Broomfield             17,50 GBR
+Adam Roszkowski             17,50 POL
 Igor Pedan                  17,00 RUS
 Alex Curletto               17,00 ITA
 Kelvin de Ruiter            16,50 NLD
+Kane Francis                16,50 GBR
 Andreas Hoffmann            16,00 DEU
 Robert Weir                 16,00 GBR
 Luke Richardson             16,00 GBR
@@ -154,8 +157,9 @@ Ted van der Parre           11,00 NLD
 Øyvind Rein                 11,00 NOR
 Torben Sørensen             11,00 DNK
 Kim Ujarak Lorentzen        11,00 DNK [GRL]
+Nicolas Cambi               10,50 ITA
 Chris Gearing               10,00 GBR
-Robert Szczepański          10,00 POL 
+Robert Szczepański          10,00 POL
 Benedikt Magnússon          9,00 ISL
 Nedžmin Ambešković          9,00 BIH
 Jörgen Ljungberg            8,50 SWE
@@ -170,6 +174,7 @@ Jimmy Laureys               7,00 BEL
 Igor Werner                 6,00 DEU
 Gunnar Thór Gudjónsson      6,00 ISL
 Shane Flowers               6,00 GBR
+Oskar Ziółkowski            5,50 POL
 Gustavo Pujadas             5,00 ESP
 Dennis Kohlruss             5,00 DEU
 Raffael Gordzielik          4,00 DEU

@@ -2,9 +2,9 @@
 Hafthór Júlíus Björnsson    45 ISL
 Mariusz Pudzianowski        45 POL
 Magnus Samuelsson           43 SWE
+Tom Stoltman                26 GBR
 Terry Hollands              27 GBR
 Eddie Hall                  21 GBR
-Tom Stoltman                21 GBR
 Janne Virtanen              21 FIN
 Svend Karlsen               20 NOR
 Mark Felix                  18 GBR
@@ -18,18 +18,19 @@ Laurence Shahlaei           14 GBR
 Riku Kiri                   14 FIN
 Jarosław Dymek              13 POL
 Vasyl Virastyuk             12 UKR
+Adam Bishop                 12 GBR
 Jouko Ahola                 12 FIN
 Sebastian Wenta             11 POL
-Adam Bishop                 10 GBR
 Vytautas Lalas              10 LTU
+Luke Stoltman               9 GBR
 Gary Taylor                 8 GBR
-Luke Stoltman               8 GBR
 Flemming Rasmussen          8 DNK
 Tarmo Mitt                  8 EST
 Martin Muhr                 8 DEU
 Konstantine Janashia        7 GEO
 Johannes Årsjö              7 SWE
 Ervin Katona                7 SRB
+Pavlo Kordiyaka             7 UKR
 Manfred Höberl              6 AUT
 Krzysztof Radzikowski       6 POL
 Berend Veneberg             6 NLD
@@ -45,15 +46,14 @@ Stefán Sölvi Pétursson      5 ISL
 Torfi Ólafsson              5 ISL
 Rene Minkwitz               5 DNK
 Martin Wildauer             5 AUT
+Aivars Šmaukstelis          5 LVA
 Ralf Ber                    4 AUT
 László Fekete               4 HUN
-Pavlo Kordiyaka             4 UKR
 Marko Varalahti             4 FIN
 Eythór Ingólfsson Melsted   4 ISL
 Ted van der Parre           4 NLD
 Graham Hicks                4 GBR
 Jimmy Marku                 4 GBR
-Aivars Šmaukstelis          4 LVA
 Matjaž Belšak               4 SVN
 Sławomir Toczek             4 POL
 Grzegorz Szymański          3 POL
@@ -78,11 +78,13 @@ Tomi Lotta                  2 FIN
 Jorma Ojanaho               2 FIN
 Juha-Matti Räsänen          2 FIN
 Mikkel Leicht               2 DNK
+Ondřej Fojtů                2 POL
+Rauno Heinla                2 EST
+Adam Roszkowski             2 POL
 Regin Vágadal               2 DNK [FRO]
 Andrus Murumets             2 EST
 Bernd Kerschbaumer          1 AUT
 Lauri Nämi                  1 EST
-Rauno Heinla                1 EST
 Mykhailo Starov             1 UKR
 Torben Sørensen             1 DNK
 Ilkka Nummisto              1 FIN

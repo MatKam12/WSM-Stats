@@ -5,13 +5,13 @@ Mariusz Pudzianowski        6 (3xF, 3xG)    POL
 Jón Páll Sigmarsson         5 (5xF)         ISL
 Eddie Hall                  5 (2xF, 3xG)    GBR
 Magnús Ver Magnússon        4 (3xF, 1xG)    ISL
+Tom Stoltman                4 (3xF, 1xG)    GBR
 Svend Karlsen               4 (1xF, 3xG)    NOR
 Riku Kiri                   4 (1xF, 3xG)    FIN
 Terry Hollands              4 (4xG)         GBR
 Raimonds Bergmanis          3 (1xF, 2xG)    LVA
 Sebastian Wenta             3 (1xF, 2xG)    POL
 Oleksii Novikov             3 (3xG)         UKR
-Tom Stoltman                2 (2xF)         GBR
 Geoff Capes                 2 (2xF)         GBR
 Jouko Ahola                 2 (1xF, 1xG)    FIN
 Ervin Katona                2 (2xG)         SRB
@@ -36,3 +36,5 @@ Mikhail Shivlyakov          1 (1xG)         RUS
 Elbrus Nigmatullin          1 (1xG)         RUS
 Tarmo Mitt                  1 (1xG)         EST
 Jarosław Dymek              1 (1xG)         POL
+Adam Roszkowski             1 (1xG)         POL
+Pavlo Kordiyaka             1 (1xG)         UKR

@@ -3,17 +3,17 @@ Terry Hollands              9 GBR
 Magnus Samuelsson           9 SWE
 Mariusz Pudzianowski        8 POL
 Hafthór Júlíus Björnsson    8 ISL
-Luke Stoltman               7 GBR
+Luke Stoltman               8 GBR
 Laurence Shahlaei           6 GBR
 Geoff Capes                 6 GBR
 Jón Páll Sigmarsson         6 ISL
 Magnús Ver Magnússon        6 ISL
 Žydrūnas Savickas           6 LTU
-Aivars Šmaukstelis          5 LVA
+Adam Bishop                 6 GBR
+Aivars Šmaukstelis          6 LVA
 Svend Karlsen               5 NOR
-Adam Bishop                 5 GBR
 Eddie Hall                  5 GBR
-Tom Stoltman                4 GBR
+Tom Stoltman                5 GBR
 Gary Taylor                 4 GBR
 Berend Veneberg             4 NLD
 Jarosław Dymek              4 POL
@@ -22,6 +22,7 @@ Heinz Ollesch               4 DEU
 Mikhail Shivlyakov          4 RUS
 Janne Virtanen              4 FIN
 Stefán Sölvi Pétursson      4 ISL
+Gavin Bilton                4 GBR
 Ervin Katona                3 SRB
 Richard Skog                3 NOR
 Torfi Ólafsson              3 ISL
@@ -39,7 +40,6 @@ Vytautas Lalas              3 LTU
 Elbrus Nigmatullin          3 RUS
 Flemming Rasmussen          3 DNK
 Glenn Ross                  3 GBR
-Gavin Bilton                3 GBR
 Jimmy Marku                 2 GBR
 Forbes Cowan                2 GBR
 Graham Hicks                2 GBR
@@ -61,6 +61,9 @@ Torbjörn Samuelsson         2 SWE
 Evgeny Popov                2 BGR
 Jean-Pierre Brulois         2 FRA
 Ab Wolders                  2 NLD
+Pavlo Kordiyaka             2 UKR
+Pa O'Dwyer                  1 IRL     
+Rauno Heinla                1 EST
 Ted van der Parre           1 NLD
 Jarno Hams                  1 NLD
 Alex Moonen                 1 NLD
@@ -80,7 +83,6 @@ Ervin Toots                 1 EST
 Agris Kazeļņiks             1 LVA
 Stasys Mėčius               1 LTU
 Vasyl Virastyuk             1 UKR
-Pavlo Kordiyaka             1 UKR
 Kostiantyn Ilin             1 UKR
 Sergii Romanchuk            1 UKR
 Odd Haugen                  1 NOR

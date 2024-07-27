@@ -1,7 +1,7 @@
 Mariusz Pudzianowski        71,42 (2005)                POL
 Magnús Ver Magnússon        50,00 (2014, 2016, 2018)    ISL
 Jón Páll Sigmarsson         50,00 (1986, 1988)          ISL
-Tom Stoltman                50,00 (2020, 2021)          GBR
+Tom Stoltman                50,00 (2020, 2021, 2024)    GBR
 Geoff Capes                 50,00 (1985)                GBR
 Jamie Reeves                50,00 (1989)                GBR
 Eddie Hall                  50,00 (2017)                GBR
@@ -27,6 +27,7 @@ Marko Varalahti             25,00 (1995)                FIN
 Vasyl Virastyuk             25,00 (2004)                UKR
 Lars Hedlund                20,00 (1978, 1979)          SWE
 Terry Hollands              20,00 (2012)                GBR
+Pavlo Kordiyaka             16,67 (2024)                UKR      
 Adam Bishop                 16,67 (2020)                GBR
 Luke Stoltman               16,67 (2021)                GBR
 Adrian Smith                16,67 (1990)                GBR

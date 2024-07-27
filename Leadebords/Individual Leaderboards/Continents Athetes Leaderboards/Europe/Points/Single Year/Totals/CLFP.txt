@@ -11,6 +11,7 @@ Ervin Katona                7,50 (2011)         SRB
 Berend Veneberg             9,00 (1998)         NLD
 Svend Karlsen               9,00 (2004)         NOR
 László Fekete               11,00 (1988)        HUN
+Aivars Šmaukstelis          12,50 (2025)        LVA
 Magnus Samuelsson           12,50 (2002)        SWE
 Eythór Ingólfsson Melsted   13,00 (2022)        ISL
 Mikhail Shivlyakov          13,00 (2015)        RUS
@@ -24,7 +25,7 @@ Terry Hollands              19,00 (2008)        GBR
 Torfi Ólafsson              19,00 (1998)        ISL
 Ilkka Nummisto              19,00 (1986)        FIN
 Ilkka Kinnunen              19,00 (1992)        FIN
-Luke Stoltman               20,00 (2019)        GBR
+Luke Stoltman               19,50 (2024)        GBR
 Rudolf Küster               20,00 (1989)        DEU
 Sławomir Toczek             20,50 (2006)        POL
 Matjaž Belšak               21,00 (2016)        SVN
@@ -48,9 +49,9 @@ Aap Uspenski                25,50 (1990)        EST
 Arild Haugen                26,00 (2008)        NOR
 Raivis Vidzis               26,00 (2006)        LVA
 Riku Kiri                   26,00 (1998)        FIN
+Pavlo Kordiyaka             27,00 (2024)        UKR
 Gregor Edmunds              27,50 (2002)        GBR
 Mateusz Kieliszkowski       27,50 (2016)        POL
-Aivars Šmaukstelis          28,50 (2020)        LVA
 Roger Ekström               28,50 (1985)        FIN
 Wout Zijlstra               28,50 (2001)        NLD
 Tjalling van den Bosch      28,50 (1990)        NLD
@@ -59,7 +60,6 @@ Hafthór Júlíus Björnsson    29,50 (2011)        ISL
 Tom Stoltman                30,00 (2019)        GBR
 Elbrus Nigmatullin          30,00 (2005)        RUS
 Tarmo Mitt                  30,50 (2008)        EST
-Pavlo Kordiyaka             31,50 (2023)        UKR
 Eddie Hall                  32,00 (2014)        GBR
 Jorma Ojanaho               32,50 (1996)        FIN
 Krzysztof Radzikowski       32,50 (2012)        POL

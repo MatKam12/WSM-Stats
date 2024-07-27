@@ -1,11 +1,13 @@
 Hafthór Júlíus Björnsson    43,69 ISL
+Adam Roszkowski             40,00 POL
 Vasyl Virastyuk             37,50 UKR
+Tom Stoltman                37,14 GBR
 Mariusz Pudzianowski        36,59 POL
 Oleksii Novikov             35,71 UKR
 Rob Dixon                   35,71 GBR
-Tom Stoltman                35,59 GBR
 Eddie Hall                  35,59 GBR
 Žydrūnas Savickas           34,38 LTU
+Ondřej Fojtů                33,33 POL
 Marko Varalahti             33,33 FIN
 Mateusz Kieliszkowski       32,65 POL
 Jouko Ahola                 32,43 FIN
@@ -17,9 +19,9 @@ Brian Turner                27,27 GBR
 Janne Virtanen              27,27 FIN
 Sebastian Wenta             26,83 POL
 Torben Sørensen             25,00 DNK
+Pavlo Kordiyaka             24,14 UKR
 Geoff Capes                 23,81 GBR
 Vytautas Lalas              23,81 LTU
-Pavlo Kordiyaka             23,53 UKR
 Jimmy Marku                 22,22 GBR
 Manfred Höberl              21,43 AUT
 Sławomir Toczek             21,05 POL
@@ -37,6 +39,7 @@ Mikkel Leicht               18,18 DNK
 Ted van der Parre           18,18 NLD
 Tomi Lotta                  18,18 FIN
 Mark Felix                  18,00 GBR
+Adam Bishop                 17,91 GBR
 Forbes Cowan                17,89 GBR
 Glenn Ross                  17,86 GBR
 Boris Haraldsson            17,65 ISL
@@ -58,7 +61,6 @@ Espen Aune                  16,67 NOR
 Jorma Ojanaho               16,67 FIN
 Mykhailo Starov             16,67 UKR
 Laurence Shahlaei           16,28 GBR
-Adam Bishop                 16,13 GBR
 Lars Hedlund                16,13 SWE
 Arild Haugen                15,79 NOR
 Jarosław Dymek              15,66 POL
@@ -77,10 +79,11 @@ Stasys Mėčius               12,50 LTU
 Eythór Ingólfsson Melsted   12,12 ISL
 Wout Zijlstra               12,00 NLD
 Mikhail Koklyaev            12,00 RUS
-Luke Stoltman               11,94 GBR
 Stefán Sölvi Pétursson      11,90 ISL
 Jamie Barr                  11,76 GBR
 Andrus Murumets             11,76 EST
+Rauno Heinla                11,76 EST
+Luke Stoltman               11,39 GBR
 Mikhail Shivlyakov          11,36 RUS
 Konstantine Janashia        11,11 GEO
 Matjaž Belšak               11,11 SVN
@@ -99,7 +102,6 @@ Richard Skog                8,33 NOR
 Bjørn Andre Solvang         8,33 NOR
 Jack McIntosh               8,33 GBR
 Jarno Hams                  8,33 NLD
-Rauno Heinla                8,33 EST
 Juha-Matti Räsänen          8,00 FIN
 Gregor Edmunds              7,69 GBR
 Bill Pittuck                7,14 GBR
@@ -107,8 +109,8 @@ Adrian Rollinson            6,90 GBR
 Elbrus Nigmatullin          6,45 RUS
 Torbjörn Samuelsson         5,56 SWE
 Darren Sadler               5,26 GBR
-Gavin Bilton                5,00 GBR
 Regin Vágadal               4,88 DNK [FRO]
 Dimitar Savatinov           4,55 BGR
+Gavin Bilton                4,35 GBR
 Lauri Nämi                  4,17 EST
 Ilkka Nummisto              2,50 FIN

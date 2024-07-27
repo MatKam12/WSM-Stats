@@ -38,7 +38,7 @@ Klaus Wallas                100,00 AUT
 Svend Karlsen               87.50 NOR
 Magnús Ver Magnússon        85,71 ISL
 Žydrūnas Savickas           85,71 LTU
-Tom Stoltman                83,33 GBR
+Tom Stoltman                85,71 GBR
 Gary Taylor                 80,00 GBR
 Riku Kiri                   80,00 FIN
 Mateusz Kieliszkowski       80,00 POL
@@ -48,6 +48,7 @@ Vytautas Lalas              75,00 LTU
 Ervin Katona                75,00 SRB
 Raimonds Bergmanis          71,43 LVA
 Konstantine Janashia        71,43 GEO
+Pavlo Kordiyaka             66,67 UKR
 Eddie Hall                  66,67 GBR
 Forbes Cowan                66,67 GBR
 Mikhail Koklyaev            66,67 RUS
@@ -58,12 +59,11 @@ Torfi Ólafsson              60,00 ISL
 Flemming Rasmussen          60,00 DNK
 Oleksii Novikov             60,00 UKR
 László Fekete               57,14 HUN
+Luke Stoltman               55,55 GBR
 Sławomir Toczek             50,00 POL
-Pavlo Kordiyaka             50,00 UKR
 Henrik Ravn                 50,00 DNK
 Eythór Ingólfsson Melsted   50,00 ISL
 Arild Haugen                50.00 NOR
-Luke Stoltman               50,00 GBR
 Rob Dixon                   50,00 GBR
 Luke Richardson             50,00 GBR
 Jamie Barr                  50,00 GBR
@@ -77,6 +77,7 @@ Regin Vágadal               40,00 DNK [FRO]
 Adam Bishop                 34,50 GBR
 Ralf Ber                    33,33 AUT
 Dimitar Savatinov           33,33 BGR
+Aivars Šmaukstelis          28,57 LVA
 Heinz Ollesch               25,00 DEU
 Elbrus Nigmatullin          25,00 RUS
 Raivis Vidzis               25,00 LVA
@@ -84,7 +85,6 @@ Grzegorz Szymański          25,00 POL
 Martin Wildauer             20,00 AUT
 Krzysztof Radzikowski       20,00 POL
 Rene Minkwitz               20,00 DNK
-Aivars Šmaukstelis          16,67 LVA
 Mikhail Shivlyakov          14,29 RUS
 Graham Hicks                14,29 GBR
 Mark Felix                  12,50 GBR

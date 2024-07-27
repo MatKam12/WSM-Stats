@@ -92,6 +92,7 @@ Rafał Kobylarz              25,49 (2015) POL
 Lauri Nämi                  25,00 (2013) EST
 Dainis Zageris              25,00 (2015) LVA
 Ari Gunnarsson              25,00 (2017) ISL
+Ondřej Fojtů                25,00 (2024) CZE
 Ilkka Kinnunen              23,75 (1992) FIN
 Peter Baltus                23,58 (2003) NLD
 Jimmy Marku                 23,50 (2008) GBR
@@ -118,12 +119,14 @@ Bernd Kerschbaumer          19,81 (2002) AUT
 Alex Moonen                 19,79 (2012) NLD
 Johnny Hansson              19,61 (2016) SWE
 Mikkel Leicht               19,60 (2017) DNK
+Adam Roszkowski             19,44 (2024) POL
 Mark Westaby                19,27 (2010) GBR
 James Fennelly              19,27 (2012) IRL
 David Nyström               18,63 (2015) SWE
 Mykhailo Starov             18,50 (2005) UKR
 Oliver Thompson             18,40 (2008) GBR
 Kelvin de Ruiter            18,33 (2022) NLD
+Kane Francis                18,33 (2024) GBR
 Mateusz Baron               18,23 (2011) POL
 Richard Gosling             17,92 (2003) GBR
 Mick Gosling                17,92 (2002) GBR
@@ -171,6 +174,7 @@ Torben Sørensen             11,46 (1998) DNK
 Juha-Matti Järvi            11,45 (2013) FIN
 Vladimir Turchinsky         11,36 (1996) RUS
 Franz Müllner               11,32 (2003) AUT
+Nicolas Cambi               11,67 (2024) ITA
 Tibor Mészáros              10,85 (2002) HUN 
 Chris Gearing               10,42 (2012) GBR
 Robert Szczepański          10,42 (2010) POL
@@ -192,6 +196,7 @@ Fraser Tranter              7,29 (1998) GBR
 Kurt Kvikstad               7,29 (1998) NOR
 Jimmy Laureys               7,00 (2009) BEL
 Shane Flowers               6,67 (2022) GBR
+Oskar Ziółkowski            6,11 (2024) POL
 Ervin Toots                 5,88 (2021) EST
 Zake Muluzi                 5,71 (2019) GBR
 Raffael Gordzielik          5,71 (2019) DEU

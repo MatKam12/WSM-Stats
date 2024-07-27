@@ -41,6 +41,7 @@ Gregor Edmunds              77,78 (2002)        GBR
 Luke Stoltman               76,67 (2022)        GBR
 Sławomir Toczek             76,67 (2006)        POL
 Krzysztof Radzikowski       76,39 (2012)        POL
+Ondřej Fojtů                75,00 (2024)        CZE
 Grzegorz Szymański          75,00 (2016)        POL
 Rene Minkwitz               75,00 (1999)        DNK
 Ralf Ber                    75,00 (2005)        AUT
@@ -87,6 +88,7 @@ Dainis Zageris              60,71 (2015)        LVA
 Jean-Stephen Coraboeuf      60,00 (2022)        FRA
 Brian Turner                59,09 (2004)        GBR
 Berend Veneberg             58,57 (1999)        NLD
+Adam Roszkowski             58,33 (2024) POL
 Bernd Kerschbaumer          58,33 (2000)        AUT
 Andrew Raynes               58,33 (2001)        GBR
 Bill Pittuck                58,33 (1996)        GBR
@@ -98,6 +100,7 @@ Kostiantyn Ilin             58,33 (2009)        UKR
 Stoyan Todorchev            56,66 (2007)        BGR
 Kelvin de Ruiter            55,00 (2022)        NLD
 Andreas Ståhlberg           55,00 (2019)        SWE
+Kane Francis                55,00 (2024)        GBR
 Florian Trimpl              55,00 (2007)        DEU
 Oliver Thompson             54,17 (2008)        GBR
 Vidas Blekaitis             54,16 (2011)        LTU
@@ -150,6 +153,7 @@ Kim Ujarak Lorentzen        36,67 (2022)        DNK [GRL]
 Eddy Ellwood                36,11 (2003)        GBR
 Brian Bell                  36,11 (2000)        GBR
 Ole Martin Kristiansen      35,00 (2019)        NOR
+Nicolas Cambi               35,00 (2024)        ITA
 Rob Frampton                33,33 (2010)        GBR
 Hubert Dörer                33,33 (1999)        AUT
 Jon Olav Granli             32,14 (2016)        NOR
@@ -173,6 +177,7 @@ Shane Flowers               20,00 (2022)        GBR
 Ervin Toots                 20,00 (2021)        EST
 Benedikt Magnússon          19,04 (2015)        ISL
 Henrik Ravn                 18,75 (1994)        DNK
+Oskar Ziółkowski            18,33 (2024)        POL
 Jean-Luc Moalli             16,67 (1997)        FRA
 Igor Werner                 16,67 (2008)        DEU
 Tibor Mészáros              10,85 (2002)        HUN

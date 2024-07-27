@@ -100,6 +100,7 @@ Torben Sørensen             2nd in Heats DNK
 Evgeny Popov                2nd in Heats BGR
 Lee Bowers                  2nd in Heats GBR
 Russ Bradley                2nd in Heats GBR
+Ondřej Fojtů                3rd in Heats CZE
 Jean-Stephen Coraboeuf      3rd in Heats FRA
 Stoyan Todorchev            3rd in Heats BGR
 Jaromír Němec               3rd in Heats CZE
@@ -129,6 +130,8 @@ Bill Pittuck                3rd in Heats GBR
 Jack McIntosh               3rd in Heats GBR
 Stuart Murray               3rd in Heats GBR
 Robert Weir                 3rd in HeatS GBR
+Adam Roszkowski             4th in Heats POL
+Kane Francis                4th in Heats GBR
 Carl Broomfield             4th in Heats GBR
 David Warner                4th in Heats GBR
 Richard Gosling             4th in Heats GBR
@@ -157,6 +160,7 @@ Vladimir Turchinsky         4th in Heats RUS
 Igor Pedan                  4th in Heats RUS
 Alexander Matveev           4th in Heats RUS
 Gustavo Pujadas             4th in Heats ESP
+Pa O'Dwyer                  4th in Heats IRL
 Nedžmin Ambešković          5th in Heats BIH
 Paul Pîrjol                 5th in Heats ROU
 Alexander Lysenko           5th in Heats RUS
@@ -177,7 +181,6 @@ Hjalti Árnason              5th in Heats ISL
 Bjørn Andre Solvang         5th in Heats NOR
 Jon Olav Granli             5th in Heats NOR
 Øyvind Rein                 5th in Heats NOR
-Pa O'Dwyer                  5th in Heats IRL
 James Fennelly              5th in Heats IRL
 Eddy Ellwood                5th in Heats GBR
 Oliver Thompson             5th in Heats GBR
@@ -190,6 +193,8 @@ Ben Kelsey                  5th in Heats GBR
 Steve Brooks                5th in Heats GBR
 Marc Iliffe                 5th in Heats GBR
 Paul Smith                  5th in Heats GBR
+Nicolas Cambi               5th in Heats ITA
+Oskar Ziółkowski            6th in Heats POL
 Jean-Luc Moalli             6th in Heats FRA
 Jean-Marc Tocaven           6th in Heats FRA
 Ole Martin Hansen           6th in Heats NOR

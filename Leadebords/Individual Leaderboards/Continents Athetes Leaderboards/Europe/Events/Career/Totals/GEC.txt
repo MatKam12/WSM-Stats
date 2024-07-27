@@ -5,20 +5,20 @@ Magnus Samuelsson           73 SWE
 Laurence Shahlaei           60 GBR
 Mariusz Pudzianowski        59 POL
 Hafthór Júlíus Björnsson    50 ISL
+Adam Bishop                 50 GBR
+Luke Stoltman               50 GBR
 Janne Virtanen              49 FIN
 Svend Karlsen               49 NOR
 Jarosław Dymek              48 POL
-Adam Bishop                 45 GBR
-Luke Stoltman               44 GBR
 Raimonds Bergmanis          43 LVA
 Mikhail Shivlyakov          38 RUS
+Aivars Šmaukstelis          38 LVA
 Konstantine Janashia        37 GEO
 Graham Hicks                36 GBR
 Rene Minkwitz               35 DNK
 Eddie Hall                  35 GBR
-Aivars Šmaukstelis          32 LVA
+Tom Stoltman                35 GBR
 Stefán Sölvi Pétursson      30 ISL
-Tom Stoltman                30 GBR
 Heinz Ollesch               30 DEU
 Martin Wildauer             30 AUT
 Krzysztof Radzikowski       29 POL
@@ -37,12 +37,12 @@ Oleksii Novikov             24 UKR
 Tarmo Mitt                  24 EST
 Lauri Nämi                  24 EST
 Matjaž Belšak               24 SVN
+Gavin Bilton                23 GBR
 Grzegorz Szymański          23 POL
 Torfi Ólafsson              21 ISL
 Eythór Ingólfsson Melsted   21 ISL
 Berend Veneberg             21 NLD
 Sebastian Wenta             20 POL
-Gavin Bilton                20 GBR
 Darren Sadler               19 GBR
 Jimmy Marku                 18 GBR
 Torbjörn Samuelsson         18 SWE
@@ -52,6 +52,8 @@ Florian Trimpl              18 DEU
 Andrus Murumets             17 EST
 Vasyl Virastyuk             17 UKR
 Boris Haraldsson            17 ISL
+Rauno Heinla                17 EST
+Pavlo Kordiyaka             17 UKR
 Ralf Ber                    16 AUT
 Martin Muhr                 16 DEU
 Magnús Ver Magnússon        16 ISL
@@ -63,9 +65,9 @@ László Fekete               15 HUN
 Mateusz Baron               15 POL
 Jouko Ahola                 14 FIN
 Brian Bell                  14 GBR
+Pa O'Dwyer                  14 IRL
 Bill Pittuck                14 GBR
 Bernd Kerschbaumer          12 AUT
-Rauno Heinla                12 EST
 Agris Kazeļņiks             12 LVA
 Dainis Zageris              12 LVA
 Vidas Blekaitis             12 LTU
@@ -92,7 +94,6 @@ Sergii Romanchuk            12 UKR
 Alexander Klyushev          12 RUS
 Sławomir Toczek             12 POL
 Rafał Kobylarz              12 POL
-Pavlo Kordiyaka             11 UKR
 Tomi Lotta                  11 FIN
 Brian Turner                11 GBR
 Mikkel Leicht               11 DNK
@@ -103,7 +104,6 @@ Mick Gosling                10 GBR
 Lee Bowers                  10 GBR
 Jamie Barr                  10 GBR
 Jean-Stephen Coraboeuf      10 FRA
-Pa O'Dwyer                  9 IRL
 Stasys Mėčius               8 LTU
 Russ Bradley                8 GBR
 Gary Taylor                 8 GBR
@@ -143,6 +143,7 @@ Tobias Ide                  6 DEU
 Andreas Hoffmann            6 DEU
 Janusz Kułaga               6 POL
 Sebastian Kurek             6 POL
+Ondřej Fojtů                6 CZE
 Nedžmin Ambešković          5 BIH
 Andy Black                  5 GBR
 Richard Gosling             5 GBR
@@ -152,6 +153,10 @@ Kristján Jón Haraldsson     5 ISL
 Mika Törrö                  5 FIN
 Kim Ujarak Lorentzen        5 DNK [GRL]
 Dennis Kohlruss             5 DEU
+Kane Francis                5 GBR
+Nicolas Cambi               5 ITA
+Oskar Ziółkowski            5 POL
+Adam Roszkowkski            5 POL
 Manfred Höberl              4 AUT
 Raffael Gordzielik          4 DEU
 Jorma Ojanaho               4 FIN

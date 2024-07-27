@@ -10,10 +10,11 @@ Svend Karlsen               47 NOR
 Ilkka Nummisto              40 FIN
 Raimonds Bergmanis          38 LVA
 Jarosław Dymek              36 POL
+Tom Stoltman                35 GBR
 Gary Taylor                 32 GBR
 László Fekete               31 HUN
 Lars Hedlund                31 SWE
-Tom Stoltman                29 GBR
+Luke Stoltman               29 GBR
 Janne Virtanen              28 FIN
 Riku Kiri                   28 FIN
 Konstantine Janashia        26 GEO
@@ -24,7 +25,6 @@ Ab Wolders                  24 NLD
 Henning Thorsen             24 DNK
 Manfred Höberl              24 AUT
 Jouko Ahola                 23 FIN
-Luke Stoltman               23 GBR
 Mateusz Kieliszkowski       23 POL
 Tarmo Mitt                  22 EST
 Sebastian Wenta             21 POL
@@ -48,6 +48,8 @@ Johannes Årsjö              12 SWE
 Stefán Sölvi Pétursson      12 ISL
 Eythór Ingólfsson Melsted   12 ISL
 Matjaž Belšak               12 SVN
+Pavlo Kordiyaka             12 UKR
+Aivars Šmaukstelis          12 LVA
 Stago Piczko                11 NLD
 Gerard du Prie              10 NLD
 Bill Anderson               10 GBR
@@ -76,13 +78,11 @@ Ralf Ber                    7 AUT
 Martin Wildauer             6 AUT
 Krzysztof Radzikowski       6 POL
 Grzegorz Szymański          6 POL
-Aivars Šmaukstelis          6 LVA
 Mikhail Shivlyakov          6 RUS
 Dimitar Savatinov           6 BGR
 Luke Richardson             6 GBR
 Andrew Raynes               6 GBR
 Adrian Smith                6 GBR
-Pavlo Kordiyaka             6 UKR
 Laurence Shahlaei           5 GBR
 Rob Dixon                   2 GBR
 Graham Hicks                1 GBR

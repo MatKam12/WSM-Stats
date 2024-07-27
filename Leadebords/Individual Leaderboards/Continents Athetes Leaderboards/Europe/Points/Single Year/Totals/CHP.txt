@@ -96,6 +96,7 @@ Henrik Ravn                 23,00 (1993)        DNK
 Graham Hicks                23,00 (2014)        GBR
 Glenn Ross                  23,00 (2000)        GBR
 Richard Skog                22,50 (2008)        NOR
+Ondřej Fojtů                22,50 (2024)        CZE
 Jarno Hams                  22,00 (2002)        NLD
 Darren Sadler               22,00 (2009)        GBR
 Klaus Wallas                22,00 (1986)        AUT
@@ -131,6 +132,7 @@ Carl Broomfield             17,50 (2003)        GBR
 Jón Valgeir Williams        17,50 (2002)        ISL
 Alexander Klyushev          17,50 (2009)        RUS
 Mateusz Baron               17,50 (2011)        POL
+Adam Roszkowski             17,50 (2024)        POL
 Ákos Nagy                   17,00 (2015)        HUN
 Igor Pedan                  17,00 (2003)        RUS
 Sergii Romanchuk            17,00 (2010)        UKR
@@ -140,6 +142,7 @@ Ole Martin Hansen           17,00 (2012)        NOR
 Kelvin de Ruiter            16,50 (2022)        NLD
 Bjørn Andre Solvang         16,50 (2014)        NOR
 Florian Trimpl              16,50 (2007)        DEU
+Kane Francis                16,50 (2024)        GBR
 Andreas Hoffmann            16,00 (1999)        DEU
 Russ Bradley                16,00 (1997)        GBR
 Robert Weir                 16,00 (1997)        GBR
@@ -173,6 +176,7 @@ Juha-Matti Järvi            11,00 (2013)        FIN
 Torben Sørensen             11,00 (1998)        DNK
 Kim Ujarak Lorentzen        11,00 (2022)        DNK [GRL]
 Lee Bowers                  10,50 (1998)        GBR
+Nicolas Cambi               10,50 (2024)        ITA
 Robert Szczepański          10,00 (2010)        POL
 Vladimir Turchinsky         10,00 (1996)        RUS
 Chris Gearing               10,00 (2012)        GBR
@@ -192,6 +196,7 @@ Ole Martin Kristiansen      7,00 (2019)         NOR
 Gunnar Thór Gudjónsson      6,00 (1998)         ISL
 Shane Flowers               6,00 (2022)         GBR
 Igor Werner                 6,00 (2008)         DEU
+Oskar Ziółkowski            5,50 (2024)         POL
 Ivan Putski                 5,40 (1978)         POL
 Gustavo Pujadas             5,00 (1998)         ESP
 Zake Muluzi                 5,00 (2019)         GBR

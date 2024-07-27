@@ -16,11 +16,12 @@ Jamie Reeves                50,00 (1989)                            GBR
 Vasyl Virastyuk             47,36 (2004)                            UKR
 Svend Karlsen               46,15 (2000)                            NOR
 Mateusz Kieliszkowski       45,45 (2018)                            POL
-Tom Stoltman                45,45 (2020, 2022)                      GBR
+Tom Stoltman                45,45 (2020, 2022, 2024)                GBR
 Laurence Shahlaei           42,85 (2016)                            GBR
 Tarmo Mitt                  42,85 (2007)                            EST
 Riku Kiri                   41,66 (1994)                            FIN
 Terry Hollands              40,00 (2020)                            GBR
+Adam Roszkowski             40,00 (2024)                            POL
 Raimonds Bergmanis          38,46 (2002)                            LVA
 Sebastian Wenta             38,46 (2007)                            POL
 Ab Wolders                  37,50 (1989)                            NLD
@@ -45,12 +46,13 @@ Marko Varalahti             33,33 (1995)                            FIN
 Mikhail Shivlyakov          33,33 (2018)                            RUS
 Vytautas Lalas              33,33 (2011)                            LTU
 Heinz Ollesch               33,33 (2001)                            DEU
+Ondřej Fojtů                33,33 (2024)                            CZE
 Adam Bishop                 30,00 (2019)                            GBR
 Berend Veneberg             28,57 (1998)                            NLD
 Konstantine Janashia        27,27 (2017)                            GEO
 Brian Turner                27,27 (2004)                            GBR
 Luke Stoltman               27,27 (2022)                            GBR
-Pavlo Kordiyaka             27,27 (2023)                            UKR
+Pavlo Kordiyaka             27,27 (2023, 2024)                      UKR
 László Fekete               25,00 (1998)                            HUN
 Ervin Katona                25,00 (2011)                            SRB
 Forbes Cowan                25,00 (1995)                            GBR
@@ -69,13 +71,13 @@ Kelvin de Ruiter            20,00 (2022)                            NLD
 Richard Gosling             20,00 (2003)                            GBR
 Lars Hedlund                20,00 (2018, 2021)                      SWE
 Johnny Hansson              20,00 (1978, 1979)                      SWE
+Rauno Heinla                20,00 (2024)                            EST
 Adrian Rollinson            18,18 (2004)                            GBR
 Luke Richardson             18,18 (2020)                            GBR
 Tomi Lotta                  18,18 (2004)                            FIN
 Bernd Kerschbaumer          16,67 (2002)                            AUT
 Matjaž Belšak               16,67 (2018)                            SVN
 Andrus Murumets             16,67 (2009)                            EST
-Rauno Heinla                16,67 (2023)                            EST
 Lauri Nämi                  16,67 (2013)                            EST
 Raivis Vidzis               16,67 (2005)                            LVA
 Mykhailo Starov             16,67 (2005)                            UKR

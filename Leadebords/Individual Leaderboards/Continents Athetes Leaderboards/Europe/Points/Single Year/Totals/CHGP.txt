@@ -61,6 +61,7 @@ Peter Baltus                22,50 (2000)        NLD
 Richard Skog                22,50 (2008)        NOR
 Eythór Ingólfsson Melsted   22,50 (2023)        ISL
 Ralf Ber                    22,50 (2005)        AUT
+Ondřej Fojtů                22,50 (2024)        CZE
 Jarno Hams                  22,00 (2002)        NLD
 Darren Sadler               22,00 (2009)        GBR
 Elbrus Nigmatullin          22,00 (2005)        RUS
@@ -82,6 +83,7 @@ Magnús Ver Magnússon        20,00 (1996)        ISL
 Jorma Ojanaho               20,00 (1996)        FIN
 Flemming Rasmussen          20,00 (1997)        DNK
 Mikkel Leicht               20,00 (2016)        DNK
+Aivars Šmaukstelis          20,00 (2024)        LVA
 Oliver Thompson             19,50 (2008)        GBR
 Vidas Blekaitis             19,50 (2011)        LTU
 Marius Lalas                19,50 (2018)        LTU
@@ -100,9 +102,9 @@ Riku Kiri                   18,00 (1996)        FIN
 Franz Müllner               18,00 (2003)        AUT
 Carl Broomfield             17,50 (2003)        GBR
 Jón Valgeir Williams        17,50 (2002)        ISL
-Aivars Šmaukstelis          17,50 (2023)        LVA
 Alexander Klyushev          17,50 (2009)        RUS
 Mateusz Baron               17,50 (2011)        POL
+Adam Roszkowski             17,50 (2024)        POL
 Igor Pedan                  17,00 (2003)        RUS
 Sergii Romanchuk            17,00 (2010)        UKR
 Alex Curletto               17,00 (2010)        ITA
@@ -112,6 +114,7 @@ Ole Martin Hansen           17,00 (2012)        NOR
 Bjørn Andre Solvang         16,50 (2014)        NOR
 Kelvin de Ruiter            16,50 (2022)        NLD
 Florian Trimpl              16,50 (2007)        DEU
+Kane Francis                16,50 (2024)        GBR
 Andreas Hoffmann            16,00 (1999)        DEU
 Robert Weir                 16,00 (1997)        GBR
 Russ Bradley                16,00 (1997)        GBR
@@ -150,6 +153,7 @@ Juha-Matti Järvi            11,00 (2013)        FIN
 Torben Sørensen             11,00 (1998)        DNK
 Kim Ujarak Lorentzen        11,00 (2022)        DNK [GRL]
 Lee Bowers                  10,50 (1998)        GBR
+Nicolas Cambi               10,50 (2024)        ITA
 Robert Szczepański          10,00 (2010)        POL
 Chris Gearing               10,00 (2012)        GBR
 Vladimir Turchinsky         10,00 (1996)        RUS
@@ -169,6 +173,7 @@ Kurt Kvikstad               7,00 (1998)         NOR
 Gunnar Thór Gudjónsson      6,00 (1998)         ISL
 Shane Flowers               6,00 (2022)         GBR
 Igor Werner                 6,00 (2008)         DEU
+Oskar Ziółkowski            5,50 (2024)         POL
 Dennis Kohlruss             5,00 (2018)         DEU
 Gustavo Pujadas             5,00 (1998)         ESP
 Zake Muluzi                 5,00 (2019)         GBR

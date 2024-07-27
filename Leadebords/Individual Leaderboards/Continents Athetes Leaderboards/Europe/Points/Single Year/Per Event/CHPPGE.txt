@@ -68,6 +68,7 @@ Wout Zijlstra               3,75 (2001)         NLD
 Richard Skog                3,75 (2008)         NOR
 Eythór Ingólfsson Melsted   3,75 (2023)         ISL
 Ralf Ber                    3,75 (2005)         AUT
+Ondřej Fojtů                3,75 (2024)         CZE
 Elbrus Nigmatullin          3,67 (2005)         RUS
 Darren Sadler               3,67 (2009)         GBR
 Jarno Hams                  3,67 (2002)         NLD
@@ -88,10 +89,13 @@ Espen Aune                  3,50 (2011)         NOR
 Odd Haugen                  3,50 (2001)         NOR
 Manfred Höberl              3,50 (1994)         AUT
 Bernd Kerschbaumer          3,50 (2002)         AUT
+Adam Roszkowski             3,50 (2024)         POL
 Rauno Heinla                3,41 (2023)         EST
 Gavin Bilton                3,40 (2023)         GBR
 Johnny Hansson              3,33 (2016)         SWE
 Mikkel Leicht               3,33 (2016)         DNK
+Aivars Šmaukstelis          3,33 (2024)         LVA
+Kane Francis                3,30 (2024)         GBR
 Kelvin de Ruiter            3,30 (2022)         NLD
 Vidas Blekaitis             3,25 (2011)         LTU
 Marius Lalas                3,25 (2018)         LTU
@@ -113,7 +117,6 @@ Shane Flowers               3,00 (2022)         GBR
 Charlie Gough               3,00 (2016)         GBR
 Benedikt Magnússon          3,00 (2015)         ISL
 Hjalti Árnason              3,00 (1996)         ISL
-Aivars Šmaukstelis          3,00 (2020)         LVA
 Carl Broomfield             2,92 (2003)         GBR
 Alexander Klyushev          2,92 (2009)         RUS
 Jón Valgeir Williams        2,91 (2002)         ISL
@@ -149,6 +152,7 @@ Paul Smith                  2,20 (2023)         GBR
 Kim Ujarak Lorentzen        2,20 (2022)         DNK [GRL]
 Brian Bell                  2,17 (2000)         GBR
 Jörgen Ljungberg            2,13 (2003)         SWE
+Nicolas Cambi               2,10 (2024)         ITA
 Hubert Dörer                2,00 (1999)         AUT
 Rob Frampton                2,00 (2010)         GBR
 Jaromír Němec               2,00 (1998)         CZE
@@ -173,6 +177,7 @@ Tobias Ide                  1,33 (2008)         DEU
 Brian Irwin                 1,33 (2005)         GBR
 Gustavo Pujadas             1,25 (1998)         ESP
 Jimmy Laureys               1,17 (2009)         BEL
+Oskar Ziółkowski            1,10 (2024)         POL
 Igor Werner                 1,00 (2008)         DEU
 Raffael Gordzielik          1,00 (2019)         DEU
 José Hervás                 1,00 (2000)         ESP

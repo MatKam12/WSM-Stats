@@ -5,7 +5,7 @@ Mariusz Pudzianowski        8 POL
 Geoff Capes                 7 GBR
 Jón Páll Sigmarsson         7 ISL
 Magnús Ver Magnússon        6 ISL
-Tom Stoltman                5 GBR
+Tom Stoltman                6 GBR
 Svend Karlsen               5 NOR
 Raimonds Bergmanis          5 LVA
 Ab Wolders                  4 NLD

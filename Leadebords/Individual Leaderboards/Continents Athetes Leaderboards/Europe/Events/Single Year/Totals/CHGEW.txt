@@ -58,6 +58,8 @@ Marko Varalahti             2 (1995)                            FIN
 Juha-Matti Räsänen          2 (2001)                            FIN
 Tomi Lotta                  2 (2004)                            FIN
 Rene Minkwitz               2 (1999, 2002)                      DNK
+Adam Roszkowski             2 (2024)                            POL
+Ondřej Fojtů                2 (2024)                            CZE
 Mikhail Shivlyakov          2 (2018)                            RUS
 Elbrus Nigmatullin          2 (2005)                            RUS
 Martin Wildauer             2 (2012, 2014)                      AUT
@@ -65,7 +67,7 @@ Ralf Ber                    2 (2005)                            AUT
 Bernd Kerschbaumer          1 (2002)                            AUT
 László Fekete               1 (1998, 1999)                      HUN
 Andrus Murumets             1 (2004, 2009)                      EST
-Rauno Heinla                1 (2023)                            EST
+Rauno Heinla                1 (2023, 2024)                      EST
 Lauri Nämi                  1 (2013)                            EST
 Stasys Mėčius               1 (1995)                            LTU
 Mikhail Koklyaev            1 (2010, 2012, 2013)                RUS

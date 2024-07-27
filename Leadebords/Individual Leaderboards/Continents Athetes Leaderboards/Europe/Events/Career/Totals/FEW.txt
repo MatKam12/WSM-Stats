@@ -4,8 +4,8 @@ Jón Páll Sigmarsson         18 ISL
 Hafthór Júlíus Björnsson    17 ISL
 Geoff Capes                 15 GBR
 Magnus Samuelsson           13 SWE
+Tom Stoltman                13 GBR
 Magnús Ver Magnússon        12 ISL
-Tom Stoltman                10 GBR
 Svend Karlsen               7 NOR
 Riku Kiri                   6 FIN
 Lars Hedlund                5 SWE
@@ -42,3 +42,4 @@ Stefán Sölvi Pétursson      1 ISL
 Torfi Ólafsson              1 ISL
 Heinz Ollesch               1 DEU
 Martin Muhr                 1 DEU
+Pavlo Kordiyaka             1 UKR

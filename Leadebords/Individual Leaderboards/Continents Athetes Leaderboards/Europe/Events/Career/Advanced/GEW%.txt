@@ -12,13 +12,15 @@ Vytautas Lalas              41,67 LTU
 Rob Dixon                   41,67 GBR
 Forbes Cowan                41,67 GBR
 Magnus Samuelsson           41,10 SWE
+Adam Roszkowski             40,00 POL
 Magnús Ver Magnússon        37,50 ISL
 Mariusz Pudzianowski        37,29 POL
-Tom Stoltman                36,67 GBR
-Pavlo Kordiyaka             36,36 UKR
+Tom Stoltman                37,14 GBR
+Pavlo Kordiyaka             35,29 UKR
 Janne Virtanen              34,69 FIN
 Andrew Raynes               33,33 GBR
 Luke Richardson             33,33 GBR
+Ondřej Fojtů                33,33 POL
 Sławomir Toczek             33,33 POL
 Martin Muhr                 31,25 DEU
 Raimonds Bergmanis          30,23 LVA
@@ -39,8 +41,8 @@ Flemming Rasmussen          25,00 DNK
 Torben Sørensen             25,00 DNK
 Laurence Shahlaei           23,33 GBR
 Jimmy Marku                 22,22 GBR
+Adam Bishop                 22,00 GBR
 Krzysztof Radzikowski       20,69 POL
-Adam Bishop                 20,00 GBR
 Richard Gosling             20,00 GBR
 Jamie Barr                  20,00 GBR
 Kelvin de Ruiter            20,00 NLD
@@ -67,7 +69,7 @@ Mikhail Koklyaev            16,67 RUS
 Dainis Zageris              16,67 LVA
 Matjaž Belšak               16,67 SVN
 Heinz Ollesch               16,67 DEU
-Luke Stoltman               15,91 GBR
+Luke Stoltman               16,00 GBR
 Rene Minkwitz               14,29 DNK
 Stefán Sölvi Pétursson      13,33 ISL
 László Fekete               13,33 HUN
@@ -79,6 +81,7 @@ Stasys Mėčius               12,50 LTU
 Aivars Šmaukstelis          12,50 LVA
 Raivis Vidzis               12,50 LVA
 Andrus Murumets             11,76 EST
+Rauno Heinla                11,76 EST
 Graham Hicks                11,11 GBR
 Marc Iliffe                 10,00 GBR
 Mick Gosling                10,00 GBR
@@ -92,12 +95,11 @@ Richard Skog                8,33 NOR
 Bjørn Andre Solvang         8,33 NOR
 Jack McIntosh               8,33 GBR
 Jarno Hams                  8,33 NLD
-Rauno Heinla                8,33 EST
 Regin Vágadal               7,69 DNK [FRO]
 Bill Pittuck                7,14 GBR
 Adrian Rollinson            6,90 GBR
 Dimitar Savatinov           6,25 BGR
 Torbjörn Samuelsson         5,56 SWE
 Darren Sadler               5,26 GBR
-Gavin Bilton                5,00 GBR
+Gavin Bilton                4,35 GBR
 Lauri Nämi                  4,17 EST

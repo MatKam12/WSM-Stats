@@ -6,6 +6,7 @@ Terry Hollands              646,00 GBR
 Svend Karlsen               498,00 NOR
 Geoff Capes                 425,50 GBR
 Magnús Ver Magnússon        400,50 ISL
+Tom Stoltman                394,00 GBR
 Janne Virtanen              387,00 FIN
 Jón Páll Sigmarsson         365,00 ISL
 Raimonds Bergmanis          361,00 LVA
@@ -13,14 +14,13 @@ Mark Felix                  341,00 GBR
 Jarosław Dymek              339,00 POL
 Laurence Shahlaei           334,00 GBR
 Eddie Hall                  334,00 GBR
-Tom Stoltman                317,50 GBR
+Luke Stoltman               294,50 GBR
 Mateusz Kieliszkowski       254,00 POL
 Jouko Ahola                 253,00 FIN
-Luke Stoltman               251,50 GBR
+Adam Bishop                 237,00 GBR
 Riku Kiri                   229,50 FIN
 Oleksii Novikov             229,50 UKR
 Vytautas Lalas              227,50 LTU
-Adam Bishop                 216,50 GBR
 Sebastian Wenta             207,00 POL
 Flemming Rasmussen          203,00 DNK
 Gary Taylor                 202,00 GBR
@@ -47,6 +47,7 @@ Wout Zijlstra               130,00 NLD
 Martin Wildauer             128,50 AUT
 Manfred Höberl              127,50 AUT
 Henning Thorsen             123,50 DNK
+Pavlo Kordiyaka             123,00 UKR
 Rene Minkwitz               121,00 DNK
 Mikhail Koklyaev            120,50 RUS
 Aivars Šmaukstelis          119,00 LVA
@@ -61,7 +62,6 @@ Raivis Vidzis               98,50 LVA
 Ralf Ber                    86,50 AUT
 Adrian Rollinson            82,00 GBR
 Glenn Ross                  81,00 GBR
-Pavlo Kordiyaka             78,00 UKR
 Dimitar Savatinov           75,50 BGR
 Richard Skog                73,50 NOR
 Lauri Nämi                  67,50 EST
@@ -71,16 +71,17 @@ Andrus Murumets             66,00 EST
 Marko Varalahti             62,50 FIN
 Jamie Barr                  60,00 GBR
 Jimmy Marku                 60,00 GBR
+Gavin Bilton                60,00 GBR
 Sławomir Toczek             59,50 POL
 Stago Piczko                59,00 NLD
 Torbjörn Samuelsson         57,50 SWE
 Rob Dixon                   56,00 GBR
 Gregor Edmunds              55,50 GBR
 Rudolf Küster               54,00 DEU
-Gavin Bilton                53,00 GBR
 Boris Haraldsson            53,00 ISL
 Jorma Ojanaho               52,50 FIN
 Darren Sadler               52,50 GBR
+Rauno Heinla                51,00 EST
 Peter Baltus                47,50 NLD
 Siem Wulfse                 47,00 NLD
 Tomi Lotta                  46,00 FIN
@@ -113,7 +114,7 @@ Sergii Romanchuk            33,50 UKR
 Bill Pittuck                32,00 GBR
 Bjørn Andre Solvang         30,50 NOR
 Alexander Klyushev          30,50 RUS
-Rauno Heinla                30,00 EST
+Pa O'Dwyer                  30,50 IRL
 Alex Moonen                 29,50 NLD
 Tjalling van den Bosch      28,50 NLD
 Roger Ekström               28,50 FIN
@@ -127,8 +128,8 @@ Russ Bradley                26,00 GBR
 Markku Suonenvirta          25,50 FIN
 Aap Uspenski                25,50 EST
 Franco Columbu              23,25 ITA
+Ondřej Fojtů                22,50 CZE
 Klaus Wallas                22,00 AUT
-Pa O'Dwyer                  22,00 IRL
 Yngve Gustavsson            21,50 SWE
 Espen Aune                  21,00 NOR
 Alexander Lysenko           21,00 RUS
@@ -149,9 +150,11 @@ Charlie Gough               18,00 GBR
 Marc Iliffe                 17,50 GBR
 Paul Smith                  17,50 GBR
 Carl Broomfield             17,50 GBR
+Adam Roszkowski             17,50 POL
 Alex Curletto               17,00 ITA
 Igor Pedan                  17,00 RUS
 Kelvin de Ruiter            16,50 NLD
+Kane Francis                16,50 GBR
 Andreas Hoffmann            16,00 DEU
 Robert Weir                 16,00 GBR
 Kristján Jón Haraldsson     15,50 ISL
@@ -177,6 +180,7 @@ Ben Kelsey                  11,00 GBR
 Øyvind Rein                 11,00 NOR
 Torben Sørensen             11,00 DNK
 Kim Ujarak Lorentzen        11,00 DNK [GRL]
+Nicolas Cambi               10,50 ITA
 Chris Gearing               10,00 GBR
 Robert Szczepański          10,00 POL
 Nedžmin Ambešković          9,00 BIH
@@ -193,6 +197,7 @@ Ole Martin Kristiansen      7,00 NOR
 Shane Flowers               6,00 GBR
 Gunnar Thór Gudjónsson      6,00 ISL
 Igor Werner                 6,00 DEU
+Oskar Ziółkowski            5,50 POL
 Ivan Putski                 5,40 POL
 Gustavo Pujadas             5,00 ESP
 Dennis Kohlruss             5,00 DEU

@@ -13,6 +13,7 @@ Ervin Toots                 1,00 (2021)         EST
 László Fekete               1,00 (2000)         HUN
 Raffael Gordzielik          1,00 (2019)         DEU
 Igor Werner                 1,00 (2008)         DEU
+Oskar Ziółkowski            1,10 (2024)         POL
 Jimmy Laureys               1,17 (2009)         BEL
 Magnus Samuelsson           1,25 (2006)         SWE
 Gustavo Pujadas             1,25 (1998)         ESP
@@ -37,6 +38,7 @@ Ole Martin Hansen           1,50 (2015)         NOR
 Juha-Matti Järvi            1,66 (2011)         FIN
 Chris Gearing               1,67 (2012)         GBR
 Jean-Stephen Coraboeuf      1,70 (2023)         FRA
+Pa O'Dwyer                  1,70 (2024)         IRL
 Flemming Rasmussen          1,75 (2001)         DNK
 Lauri Nämi                  1,75 (2017)         EST
 Odd Haugen                  1,75 (2006)         NOR
@@ -59,6 +61,7 @@ Jaromír Němec               2,00 (1998)         CZE
 Torfi Ólafsson              2,00 (1995)         ISL
 Agris Kazeļņiks             2,00 (2010)         LVA
 Adrian Rollinson            2,08 (2000)         GBR
+Nicolas Cambi               2,10 (2024)         ITA
 Jörgen Ljungberg            2,13 (2003)         SWE
 Jack McIntosh               2,17 (2012)         GBR
 Glenn Ross                  2,17 (2001)         GBR
@@ -72,7 +75,6 @@ Regin Vágadal               2,25 (2001) [FRO]   DNK
 Žydrūnas Savickas           2,25 (1998)         LTU
 Jon Olav Granli             2,25 (2016)         NOR
 Berend Veneberg             2,25 (1995)         NLD
-Pa O'Dwyer                  2,25 (2020)         IRL
 Martin Wildauer             2,25 (2009)         AUT
 Graham Hicks                2,30 (2023)         GBR
 Rene Minkwitz               2,33 (2000)         DNK
@@ -138,6 +140,7 @@ Magnús Ver Magnússon        3,00 (1995)         ISL
 Vidas Blekaitis             3,00 (2003)         LTU
 Bernd Kerschbaumer          3,00 (2000)         AUT
 Franz Müllner               3,00 (2003)         AUT
+Pavlo Kordiyaka             3,00 (2024)         UKR
 Jorma Paananen              3,08 (1999)         SWE
 James Fennelly              3,08 (2012)         IRL
 Mykhailo Starov             3,08 (2005)         UKR
@@ -149,6 +152,7 @@ Eddie Hall                  3,17 (2012)         GBR
 Eddy Ellwood                3,25 (2003)         GBR
 Oliver Thompson             3,25 (2008)         GBR
 Marius Lalas                3,25 (2018)         LTU
+Kane Francis                3,30 (2024)         GBR
 Kelvin de Ruiter            3,30 (2022)         NLD
 Oleksii Novikov             3,40 (2021)         UKR
 Ervin Katona                3,42 (2009)         SRB
@@ -160,13 +164,14 @@ Andrew Raynes               3,50 (2001)         GBR
 Espen Aune                  3,50 (2011)         NOR
 Riku Kiri                   3,50 (1994)         FIN
 Marko Varalahti             3,50 (1995)         FIN
+Adam Roszkowski             3,50 (2024)         POL
 Tarmo Mitt                  3,50 (2005, 2006)   EST
 Brian Turner                3,55 (2004)         GBR
-Pavlo Kordiyaka             3,58 (2022)         UKR
 Andrus Murumets             3,63 (2004)         EST
 Johannes Årsjö              3,67 (2009)         SWE
 Peter Baltus                3,75 (2000)         NLD
 Svend Karlsen               3,75 (1996)         NOR
+Ondřej Fojtů                3,75 (2024)         CZE
 Ari Gunnarsson              3,75 (2017)         ISL
 Jouko Ahola                 3,75 (1998)         FIN
 Richard Gosling             3,80 (2003)         GBR

@@ -92,6 +92,7 @@ Pieter de Bruyn             5th in Finals ZAF
 Ernie Hackett               5th in Finals USA
 Craig Wolfley               5th in Finals USA
 Travis Ortmayer             5th in Finals USA
+Tristan Hoath               5th in Finals CAN
 Pavlo Kordiyaka             6th in Finals UKR
 Klaus Wallas                6th in Finals AUT
 Krzysztof Radzikowski       6th in Finals POL
@@ -113,6 +114,8 @@ Gregg Ernst                 6th in Finals CAN
 Johan Els                   6th in Finals ZAF
 Chris Okonkwo               6th in Finals NGA
 Anton Boucher               6th in Finals NAM
+Wesley Derwinsky            6th in Finals CAN
+Austin Andrade              7th in Finals MEX
 Luke Stoltman               7th in Finals GBR
 Ralf Ber                    7th in Finals AUT
 Matjaž Belšak               7th in Finals SVN
@@ -232,6 +235,10 @@ Mike Caruso                 3rd in Heats USA
 Josh Gillingham             3rd in Heats USA
 Terry Ingalsbe              3rd in Heats USA
 Bernard Rolle               3rd in Heats BHS
+Marcus Crowder              3rd in Heats USA
+Ondřej Fojtů                3rd in Heats CZE
+Adam Roszkowski             4th in Heats POL
+Kane Francis                4th in Heats GBR
 Reza Gharaei                4th in Heats IRN
 Michael Abdullah            4th in Heats JPN
 Carl Broomfield             4th in Heats GBR
@@ -325,6 +332,10 @@ Hennie Jordaan              5th in Heats ZAF
 Johan van Heerden           5th in Heats ZAF
 Chris van der Linde         5th in heats ZAF
 Eddie Williams              5th in Heats AUS
+Nathan Goltry               5th in Heats USA
+Nicolas Cambi               5th in Heats ITA
+Evans Nana Aryee            5th in Heats GHA
+Oskar Ziółkowski            6th in Heats POL
 Grant Edwards               6th in Heats AUS
 Rongo Keene                 6th in Heats AUS
 Eben le Roux                6th in Heats AUS

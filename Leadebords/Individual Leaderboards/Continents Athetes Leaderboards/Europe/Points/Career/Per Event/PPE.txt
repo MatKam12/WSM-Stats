@@ -3,13 +3,13 @@ Jamie Reeves                6,83 GBR
 Geoff Capes                 6,75 GBR
 Hafthór Júlíus Björnsson    6,59 ISL
 Jón Páll Sigmarsson         6,52 ISL
-Tom Stoltman                6,38 GBR
 Mariusz Pudzianowski        6,27 POL
 Magnús Ver Magnússon        6,26 ISL
 Žydrūnas Savickas           5,93 LTU
 Siem Wulfse                 5,88 NLD
 Cees de Vreugd              5,69 NLD
 Eddie Hall                  5,66 GBR
+Tom Stoltman                5,63 GBR
 Ab Wolders                  5,63 NLD
 Adrian Smith                5,58 GBR
 Oleksii Novikov             5,46 UKR
@@ -32,7 +32,6 @@ Martin Muhr                 4,87 DEU
 Mikhail Koklyaev            4,82 RUS
 Flemming Rasmussen          4,61 DNK
 Juha-Matti Räsänen          4,60 FIN
-Pavlo Kordiyaka             4,59 UKR
 Terry Hollands              4,58 GBR
 Manfred Höberl              4,55 AUT
 Raimonds Bergmanis          4,46 LVA
@@ -41,6 +40,7 @@ Heinz Ollesch               4,33 DEU
 Tarmo Mitt                  4,28 EST
 Gregor Edmunds              4,27 GBR
 Torfi Ólafsson              4,25 ISL
+Pavlo Kordiyaka             4,24 UKR
 Konstantine Janashia        4,21 GEO
 Tomi Lotta                  4,18 FIN
 Krzysztof Radzikowski       4,16 POL
@@ -63,19 +63,21 @@ Stefán Sölvi Pétursson      3,80 ISL
 Dainis Zageris              3,79 LVA
 Johannes Årsjö              3,78 SWE
 Ralf Ber                    3,76 AUT
-Luke Stoltman               3,75 GBR
+Ondřej Fojtů                3,75 CZE
+Luke Stoltman               3,73 GBR
 Martin Wildauer             3,57 AUT
 Tjalling van den Bosch      3,56 NLD
 Roger Ekström               3,56 FIN
 Gerard du Prie              3,55 NLD
 Brian Turner                3,55 GBR
 Martin Forsmark             3,55 SWE
+Adam Bishop                 3,54 GBR
 Jamie Barr                  3,53 GBR
 Arild Haugen                3,53 NOR
 Rafał Kobylarz              3,50 POL
+Adam Roszkowski             3,50 POL
 Alexander Lysenko           3,50 RUS
 Espen Aune                  3,50 NOR
-Adam Bishop                 3,49 GBR
 Regin Vágadal               3,44 DNK [FRO]
 Dimitar Savatinov           3,43 BGR
 Mark Felix                  3,41 GBR
@@ -84,6 +86,7 @@ Rene Minkwitz               3,36 DNK
 Elbrus Nigmatullin          3,34 RUS
 Jimmy Marku                 3,33 GBR
 Kelvin de Ruiter            3,30 NLD
+Kane Francis                3,30 GBR
 Andrew Raynes               3,29 GBR
 Bernd Kerschbaumer          3,25 AUT
 Eddy Ellwood                3,25 GBR
@@ -98,7 +101,6 @@ Torbjörn Samuelsson         3,19 SWE
 Raivis Vidzis               3,18 LVA
 David Nyström               3,17 SWE
 Eythór Ingólfsson Melsted   3,15 ISL
-Aivars Šmaukstelis          3,13 LVA
 Sławomir Toczek             3,13 POL
 Vidas Blekaitis             3,13 LTU
 Boris Haraldsson            3,12 ISL
@@ -111,6 +113,7 @@ Jorma Paananen              3,08 SWE
 Richard Skog                3,06 NOR
 Mikkel Leicht               3,05 DNK
 Odd Haugen                  3,04 NOR
+Aivars Šmaukstelis          3,03 LVA
 Benedikt Magnússon          3,00 ISL
 Hjalti Árnason              3,00 ISL
 Jarno Hams                  3,00 NLD
@@ -141,8 +144,8 @@ Torben Sørensen             2,75 DNK
 Mick Gosling                2,70 GBR
 Yngve Gustavsson            2,69 SWE
 Andreas Hoffmann            2,67 DEU
-Gavin Bilton                2,65 GBR
 Jean-Stephen Coraboeuf      2,65 FRA
+Gavin Bilton                2,61 GBR
 Henrik Ravn                 2,60 DNK
 Mika Törrö                  2,60 FIN
 Janusz Kułaga               2,58 POL
@@ -156,7 +159,6 @@ Steve Brooks                2,50 GBR
 David Warner                2,50 GBR
 Graham Mullins              2,50 GBR
 Alex Moonen                 2,46 NLD
-Pa O'Dwyer                  2,44 IRL
 Andy Black                  2,40 GBR
 Ilkka Kinnunen              2,38 FIN
 Lloyd Renals                2,33 GBR
@@ -165,7 +167,9 @@ Agris Kazeļņiks             2,29 LVA
 Jon Olav Granli             2,25 NOR
 Kim Ujarak Lorentzen        2,20 DNK [GRL]
 Ole Martin Hansen           2,17 NOR
+Pa O'Dwyer                  2,16 IRL
 Jörgen Ljungberg            2,13 SWE
+Nicolas Cambi               2,10 ITA
 Florian Trimpl              2,08 DEU
 Hubert Dörer                2,00 AUT
 Jaromír Němec               2,00 CZE
@@ -194,6 +198,7 @@ Tobias Ide                  1,33 DEU
 Gustavo Pujadas             1,25 ESP
 Jimmy Laureys               1,17 BEL
 Ervin Toots                 1,14 EST
+Oskar Ziółkowski            1,10 POL
 Igor Werner                 1,00 DEU
 Raffael Gordzielik          1,00 DEU
 Sigfús Fossdal              1,00 ISL

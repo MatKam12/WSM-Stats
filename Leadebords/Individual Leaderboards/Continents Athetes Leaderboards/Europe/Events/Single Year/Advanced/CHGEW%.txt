@@ -31,8 +31,10 @@ Torfi Ólafsson              50,00 (1998)                            ISL
 Marko Varalahti             50,00 (1995)                            FIN
 Tarmo Mitt                  50,00 (2007)                            EST
 Mariusz Pudzianowski        50,00 (2000, 2006, 2007)                POL
+Adam Roszkowski             40,00 (2024)                            POL
 Graham Hicks                40,00 (2020)                            GBR
 Luke Richardson             40,00 (2020)                            GBR
+Ondřej Fojtů                33,33 (2024)                            CZE
 Jarosław Dymek              33,33 (2001, 2002, 2003, 2005, 2006)    POL
 Martin Wildauer             33,33 (2012, 2014)                      AUT
 Ralf Ber                    33,33 (2005)                            AUT
@@ -76,11 +78,11 @@ Mikkel Leicht               20,00 (2017)                            DNK
 Kelvin de Ruiter            20,00 (2022)                            NLD
 Richard Gosling             20,00 (2003)                            GBR
 Johnny Hansson              20,00 (2018, 2021)                      SWE
+Rauno Heinla                20,00 (2024)                            EST
 Adrian Rollinson            18,18 (2004)                            GBR
 Tomi Lotta                  18,18 (2004)                            FIN
 Bernd Kerschbaumer          16,67 (2002)                            AUT
 Andrus Murumets             16,67 (2009)                            EST
-Rauno Heinla                16,67 (2023)                            EST
 Lauri Nämi                  16,67 (2013)                            EST
 Mikhail Koklyaev            16,67 (2010, 2012, 2013)                RUS
 Mykhailo Starov             16,67 (2005)                            UKR
