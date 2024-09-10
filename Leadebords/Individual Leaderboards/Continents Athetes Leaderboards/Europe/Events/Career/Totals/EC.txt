@@ -9,8 +9,8 @@ Laurence Shahlaei           86 GBR
 Jarosław Dymek              83 POL
 Raimonds Bergmanis          81 LVA
 Luke Stoltman               79 GBR
-Tom Stoltman                70 GBR
 Janne Virtanen              77 FIN
+Tom Stoltman                70 GBR
 Adam Bishop                 67 GBR
 Magnús Ver Magnússon        64 ISL
 Geoff Capes                 63 GBR
@@ -31,7 +31,7 @@ Oleksii Novikov             42 UKR
 Regin Vágadal               41 DNK [FRO]
 Sebastian Wenta             41 POL
 Ilkka Nummisto              40 FIN
-Torfi Ólafsson              40 ISL 
+Torfi Ólafsson              40 ISL
 Gary Taylor                 40 GBR
 Johannes Årsjö              40 SWE
 Berend Veneberg             39 NLD

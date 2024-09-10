@@ -1,16 +1,371 @@
-Gerrit Badenhorst       79
-Gerhard van Staden      31
-Pieter de Bruyn         24
-Johan Els               24
-Wayne Price             20
-Frankie Scheun          18
-Anton Boucher           16
-Ettiene Smit            12
-Pius Ochieng            8
-Chris Okonkwo           8
-Johan van Heerden       6
-Nigel Moss              6
-Hennie Jordaan          6
-Oluwatofunmi Fadesire   6
-Chris van der Linde     2
-Malone Horn             1
+Brian Shaw                  177 USA
+Žydrūnas Savickas           160 LTU
+Magnus Samuelsson           143 SWE
+Terry Hollands              141 GBR
+Mark Felix                  124 [GBR/GRN]
+Mariusz Pudzianowski        123 POL
+Jean-François Caron         115 CAN
+Hafthór Júlíus Björnsson    103 ISL
+Svend Karlsen               96 NOR
+Phil Pfister                95 USA
+Laurence Shahlaei           86 GBR
+Jarosław Dymek              83 POL
+Raimonds Bergmanis          81 LVA
+Luke Stoltman               79 GBR
+Gerrit Badenhorst           79 ZAF
+Janne Virtanen              77 FIN
+Hugo Girard                 77 CAN
+Dave Ostlund                76 USA
+Tom Stoltman                70 GBR
+Nick Best                   68 USA
+Adam Bishop                 67 GBR
+Magnús Ver Magnússon        64 ISL
+Geoff Capes                 63 GBR
+Konstantine Janashia        63 GEO
+Eddie Hall                  59 GBR
+Bill Kazmaier               57 USA
+Jón Páll Sigmarsson         56 ISL
+Mark Philippi               56 USA
+Derek Poundstone            56 USA
+Martin Licis                55 USA
+Trey Mitchell               53 USA
+Jerry Pritchett             52 USA
+Robert Oberst               52 USA
+Aivars Šmaukstelis          50 LVA
+Mateusz Kieliszkowski       49 POL
+Derek Boyer                 48 [AUS/FJI]
+László Fekete               46 HUN
+Tarmo Mitt                  46 EST
+Travis Ortmayer             46 USA
+Heinz Ollesch               46 DEU
+Riku Kiri                   44 FIN
+Flemming Rasmussen          44 DNK
+Don Pope                    44 USA
+Mikhail Shivlyakov          44 RUS
+Vytautas Lalas              42 LTU
+Stefán Sölvi Pétursson      42 ISl
+Oleksii Novikov             42 UKR
+Mike Burke                  42 USA
+Regin Vágadal               41 DNK [FRO]
+Sebastian Wenta             41 POL
+Ilkka Nummisto              40 FIN
+Torfi Ólafsson              40 ISL
+Gary Taylor                 40 GBR
+Johannes Årsjö              40 SWE
+Berend Veneberg             39 NLD
+Graham Hicks                37 GBR
+Jouko Ahola                 37 FIN
+Jason Bergmann              37 USA
+Louis-Philippe Jean         37 CAN
+Kevin Faires                37 USA
+Kevin Nee                   36 USA
+Martin Wildauer             36 AUT
+Matjaž Belšak               36 SVN
+Rene Minkwitz               36 DNK
+Ervin Katona                36 SRB
+Krzysztof Radzikowski       35 POL
+Evan Singleton              35 USA
+Mike Jenkins                34 USA
+Eythór Ingólfsson Melsted   33 ISL
+Mitchell Hooper             33 CAN
+Vasyl Virastyuk             32 UKR
+Joe Onosai                  32 WSM
+Lars Hedlund                31 SWE
+Elbrus Nigmatullin          31 RUS
+Raivis Vidzis               31 LVA
+Gerhard van Staden          31 ZAF
+Jessen Paul                 31 USA
+Martin Muhr                 30 DEU
+Don Reinhoudt               30 USA
+Dave Waddington             29 USA
+Maxime Boudreault           29 CAN
+Grzegorz Szymański          29 POL
+Pavlo Kordiyaka             29 UKR
+Adrian Rollinson            29 GBR
+Glenn Ross                  28 GBR
+Forbes Cowan                28 GBR
+Manfred Höberl              28 AUT
+Phil Martin                 28 USA
+Bobby Thompson              28 USA
+Jesse Marunde               27 USA
+Tom Magee                   26 CAN
+Rob Kearney                 26 USA
+Dominic Filiou              25 CAN
+Johnny Perry                25 USA
+Mikhail Koklyaev            25 RUS
+Juha-Matti Räsänen          25 FIN
+Wout Zijlstra               25 NLD
+Henning Thorsen             24 DNK
+Richard Skog                24 NOR
+Jamie Reeves                24 GBR
+Pieter de Bruyn             24 ZAF
+Johan Els                   24 ZAF
+Ab Wolders                  24 NLD
+Jean-Pierre Brulois         24 FRA
+Lauri Nämi                  24 EST
+Warrick Brant               24 AUS
+Steve Kirit                 23 USA
+Josh Thigpen                23 USA
+Mathew Ragg                 23 NZL
+Ralf Ber                    23 AUT
+Gavin Bilton                23 GBR
+Ted van der Parre           22 NLD
+Dimitar Savatinov           22 BGR
+Ken Brown                   22 USA
+Jerry Hannan                21 USA
+Cleve Dean                  21 USA
+Bishop Dolegiewicz          21 CAN
+Wayne Price                 20 ZAF
+Jon Kolb                    20 USA
+Bruce Wilhelm               20 USA
+Bob Young                   20 USA
+Harold Collins              19 USA
+Darren Sadler               19 GBR
+Arild Haugen                19 NOR
+Sławomir Toczek             19 POL
+Levi Vaoga                  18 NZL
+Florian Trimpl              18 DEU
+Jimmy Marku                 18 GBR
+Ákos Nagy                   18 HUN
+Torbjörn Samuelsson         18 SWE
+Frankie Scheun              18 ZAF
+John Gamble                 18 USA
+Brian Schoonveld            18 USA
+Karl Gillingham             17 USA
+Gabriel Rhéaume             17 CAN
+Andrus Murumets             17 EST
+Jamie Barr                  17 GBR
+Boris Haraldsson            17 ISL
+Rauno Heinla                17 EST
+Rudolf Küster               16 DEU
+Odd Haugen                  16 NOR
+Johnny Hansson              16 SWE
+Anton Boucher               16 NAM
+Bill Lyndon                 16 AUS
+Dusko Markovic              16 CAN
+Gregg Ernst                 16 CAN
+Rick Brown                  16 USA
+O.D. Wilson                 15 USA
+Bryan Benzel                15 USA
+Eben le Roux                15 AUS
+Eddie Williams              15 AUS
+Jaco Schoonwinkel           15 ZAF
+Mateusz Baron               15 POL
+Bill Pittuck                14 GBR
+Brian Bell                  14 GBR
+Rob Dixon                   14 GBR
+Pa O'Dwyer                  14 IRL
+Gregor Edmunds              13 GBR
+Geoff Dolan                 13 CAN
+Christian Savoie            12 CAN
+Scott Cummine               12 CAN
+Derek DeVaughan             12 USA
+Derek Poundstone            12 USA
+Mike Caruso                 12 USA
+Gary Mitchell               12 USA
+Kevin Toth                  12 USA
+Tommy Ingalsbe              12 USA
+Whit Baskin                 12 USA
+Austin Andrade              12 MEX
+Wesley Derwinsky            12 CAN
+Bernd Kerschbaumer          12 AUT
+Agris Kazeļņiks             12 LVA
+Dainis Zageris              12 LVA
+Vidas Blekaitis             12 LTU
+Kostiantyn Ilin             12 UKR
+Sergii Romanchuk            12 UKR
+Bjørn Andre Solvang         12 NOR
+Ole Martin Hansen           12 NOR
+Rob Frampton                12 GBR
+Andrew Raynes               12 GBR
+Luke Richardson             12 GBR
+Mark Westaby                12 GBR
+Jack McIntosh               12 GBR
+Jarno Hams                  12 NLD
+Peter Baltus                12 NLD
+Alex Moonen                 12 NLD
+Israel Garrido              12 ESP
+Evgeny Popov                12 BGR
+Stoyan Todorchev            12 BGR
+Jón Valgeir Williams        12 ISL
+Ari Gunnarsson              12 ISL
+Juha-Matti Järvi            12 FIN
+Jorma Ojanaho               12 FIN
+Marko Varalahti             12 FIN
+Alexander Klyushev          12 RUS
+Rafał Kobylarz              12 POL
+Ettiene Smit                12 ZAF
+Gu Yanli                    12 CHN
+Collin Woulfe               12 NZL
+Tomi Lotta                  11 FIN
+Brian Turner                11 GBR
+Stago Piczko                11 NLD
+Mikkel Leicht               11 DNK
+Peiman Maheripourehir       11 IRN
+Tristain Hoath              11 CAN
+Keith Bishop                11 USA
+Joe Zelezniak               11 USA
+Durwin Piper                11 USA
+Craig Wolfley               11 USA
+Thomas Evans                11 USA
+Brian Oldfield              10 USA
+Dave Johns                  10 USA
+George Frenn                10 USA
+Gus Rethwisch               10 USA
+Jack Wright                 10 USA
+Jerry Blackwell             10 USA
+John Matuszak               10 USA
+Joe Dube                    10 USA
+Jon Cole                    10 USA
+Ken Patera                  10 USA
+Lou Ferrigno                10 USA
+Mike Dayton                 10 USA
+Bill Dunn                   10 USA
+Billy Graham                10 USA
+Jim Hough                   10 USA
+James Perry                 10 USA
+Ross Browner                10 USA
+Larry Kidney                10 USA
+Ernie Hackett               10 USA
+Curt Marsh                  10 USA
+Spenser Remick              10 USA
+Boris Djerassi              10 ISR
+Ivan Putski                 10 POL
+Henrik Ravn                 10 DNK
+Gerard du Prie              10 NLD
+Marc Iliffe                 10 GBR
+Paul Smith                  10 GBR
+Mick Gosling                10 GBR
+Lee Bowers                  10 GBR
+Bill Anderson               10 GBR
+Jean-Stephen Coraboeuf      10 FRA
+Franco Columbu              9 ITA
+James Voronin               9 USA
+Russ Bradley                8 GBR
+Siem Wulfse                 8 NLD
+Cees de Vreugd              8 NLD
+Tjalling van den Bosch      8 NLD
+Michael Abdullah            8 JPN
+Yngve Gustavsson            8 SWE
+Ilkka Kinnunen              8 FIN
+Markku Suonenvirta          8 FIN
+Roger Ekström               8 FIN
+Vladimir Turchinsky         8 RUS
+Stasys Mėčius               8 LTU
+Aap Uspenski                8 EST
+Klaus Wallas                8 AUT
+Pius Ochieng                8 KEN
+Chris Okonkwo               8 NGA
+Allan Hallberg              8 NZL
+Collin Cox                  8 NZL
+Joe Quigley                 8 AUS
+Doyle Kenady                8 USA
+George Hechter              8 USA
+Daniel Poulin               8 CAN
+Ginaud Dupuis               8 CAN
+Paul Lepik                  8 CAN
+Bernard Rolle               8 BHS
+Gabriel Peña                7 MEX
+Ervin Toots                 7 EST
+Franz Müllner               6 AUT
+Hubert Dörer                6 AUT
+Tibor Mészáros              6 HUN
+Janusz Kułaga               6 POL
+Sebastian Kurek             6 POL
+Alex Curletto               6 ITA
+James Fennelly              6 IRL
+Charlie Gough               6 GBR
+Graham Mullins              6 GBR
+Adrian Smith                6 GBR
+Brian Irwin                 6 GBR
+Carl Broomfield             6 GBR
+David Warner                6 GBR
+Oliver Thompson             6 GBR
+Ben Kelsey                  6 GBR
+Chris Gearing               6 GBR
+Lloyd Renals                6 GBR
+Steve Brooks                6 GBR
+Mykhailo Starov             6 UKR
+Jimmy Laureys               6 BEL
+Paul Pîrjol                 6 ROU
+David Nyström               6 SWE
+Jorma Paananen              6 SWE
+Espen Aune                  6 NOR
+Jon Olav Granli             6 NOR
+Øyvind Rein                 6 NOR
+Igor Pedan                  6 RUS
+Alexander Lysenko           6 RUS
+Marius Lalas                6 LTU
+Igor Werner                 6 DEU
+Tobias Ide                  6 DEU
+Andreas Hoffmann            6 DEU
+Ondřej Fojtů                6 CZE
+Reza Gharaei                6 IRN
+Sol Bathaiee                6 IRN
+Long Wu                     6 CHN
+Johan van Heerden           6 ZAF
+Nigel Moss                  6 ZAF
+Hennie Jordaan              6 ZAF
+Oluwatofunmi Fadesire       6 NGA
+Carl Waitoa                 6 NZL
+Grant Edwards               6 AUS
+Nathan Jones                6 AUS
+Stan Carradine              6 USA
+Marshall White              6 USA
+Brian Siders                6 USA
+Niko Noga                   6 USA
+Jon Lane                    6 USA
+Steve Bourgeois             6 CAN
+Travis Lyndon               6 CAN
+Jimmy Paquet                6 CAN
+Tomás Rodríguez             6 CUB
+Marcus Crowder              6 USA
+Manuel Angulo               5 CHL
+Rongo Keene                 5 AUS
+Evans Nana Aryee            5 GHA
+Fadi El Masri               5 LBN
+Mika Törrö                  5 FIN
+Nedžmin Ambešković          5 BIH
+Andy Black                  5 GBR
+Richard Gosling             5 GBR
+Kelvin de Ruiter            5 NLD
+Ole Martin Kristiansen      5 NOR
+Kristján Jón Haraldsson     5 ISL
+Kim Ujarak Lorentzen        5 DNK [GRL]
+Dennis Kohlruss             5 DEU
+Nicolas Cambi               5 ITA
+Kane Francis                5 GBR
+Oskar Ziółkowski            5 POL
+Adam Roszkowkski            5 POL
+Nathan Goltry               5 USA
+Adam Derks                  5 USA
+Steve Pulcinella            4 USA
+Ralph Williams              4 USA
+Bryan Neese                 4 USA
+Curtis Leffler              4 USA
+Ron Trottier                4 CAN
+Raffael Gordzielik          4 DEU
+Robert Szczepański          4 POL
+Torben Sørensen             4 DNK
+Gunnar Thór Gudjónsson      4 ISL
+Hjalti Árnason              4 ISL
+Kurt Kvikstad               4 NOR
+Martin Forsmark             4 SWE
+Andreas Ståhlberg           4 SWE
+Jörgen Ljungberg            4 SWE
+Zake Muluzi                 4 GBR
+Eddy Ellwood                4 GBR
+Fraser Tranter              4 GBR
+Robert Weir                 4 GBR
+Jean-Luc Moalli             4 FRA
+Gustavo Pujadas             4 ESP
+Jaromír Němec               4 CZE
+Benedikt Magnússon          3 ISL
+José Hervás                 2 ESP
+Jean-Marc Tocaven           2 FRA
+Stuart Murray               2 GBR
+Shane Flowers               2 GBR
+Chris van der Linde         2 ZAF
+Malone Horn                 1 ZAF
+Sigfús Fossdal              1 ISL
+Alexander Matveev           1 RUS
