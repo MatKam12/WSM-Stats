@@ -1,0 +1,126 @@
+Event Normalization (Skill System)
+
+1. Event Domains:
+
+    Maximal Strength (MS)
+
+        "How much force can the athlete produce in a single effort?"
+
+        Failure occurs when required force exceeds the athlete’s maximum voluntary force output in a single effort.
+
+        Any event which primarly focuses on maximal force output (primarly 1RM events).
+
+    Strength Endurance (SE)
+
+        "How long can the athlete produce submaximal force under fatigue?"
+
+        Failure occurs when accumulated fatigue prevents continued force production at required submaximal intensity.
+
+        Rep based events, medleys and events witha time cap.
+
+    Athletic Power & Skill (APS)
+
+        "How well can the athlete convert strength into speed, coordination, or 
+        trajectory"
+
+        Failure occurs when force cannot be applied quickly, accurately, or efficiently enough to meet the event’s movement demands.
+
+        Events based around explosivity. Throws, dragging, and so on.
+
+    Structural & Grip Resilience (SGR)
+
+        "How well can the athlete tolerate sustained tension, awkward leverage, and pain?"
+
+        Failure occurs when connective tissue, grip, or postural integrity can no longer tolerate sustained load.
+
+        Events based arround "suffering". Grip holds, long/heavy carries long/heavy yoke walks.
+
+
+
+2. Point Awarding Rules
+
+    A. One Event one Domain
+
+        A single event can only award points towards a single domain
+
+    B. Event Disqualification / No Result
+
+        Assign 0 pts
+
+        Do NOT exclude from field size
+
+    C. Event with ties
+
+        Use shared placing
+
+        Both athletes receive same percentile
+
+    D. Skill Point bands and their Cases (8 athletes)
+
+        Finals events use full percentile-based scoring (0–10).
+
+        Group-stage events use compressed placement-based scoring (0–6).
+
+
+    E. Percentile Calculation (formal definition)
+
+        Percentile = 1 − ((Placing − 1) / (Field Size − 1))
+
+
+    F. Finals events Skill Point Bands (0-10 pts)
+
+        ≥ 95%	10 pts
+        90–94%	9 pts
+        80–89%	8 pts
+        70–79%	7 pts
+        60–69%	6 pts
+        50–59%	5 pts
+        40–49%	4 pts
+        30–39%	3 pts
+        20–29%	2 pts
+        10–19%	1 pt
+        < 10%	0 pts
+
+    G. Group Stage Skill Point Bands (0–6 pts)
+
+        ≥ 90%	6 pts
+        80–89%	5 pts
+        65–79%	4 pts
+        50–64%	3 pts
+        35–49%	2 pts
+        20–34%	1 pt
+        < 20%	0 pts
+
+
+5. Domain Titles Awarding System
+
+    A. Skill Points award one of 4 Titles.
+
+        - Maximal Strength (MS) -> Static Monster 
+        - Strength Endurance (SE) -> Hybrid Athlete 
+        - Athletic Power & Skill (APS) -> Athletic Freak 
+        - Structural & Grip Resilience (SGR) -> Technician
+    
+    B. A domain title gets awarded only after a givens domain skill points total is > 50
+
+    C. Each athlete has four independent running totals:
+
+        - MS_total
+        - SE_total
+        - APS_total
+        - SGR_total
+
+        After every event:
+            Domain(new)​ = Domain(old) ​+ Event Skill Points
+    
+
+
+5. Lock-in Summary (rulebook)
+
+One event → one domain
+
+Percentile determines points
+
+Fixed point bands
+
+No split points

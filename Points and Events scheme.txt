@@ -187,6 +187,9 @@ U.S group
 2024
 6 60 6 30           5 groups
 
+2025
+5 60 5 25           5 groups
+
 
 Pure Strength 1987
 10 30

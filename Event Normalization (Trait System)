@@ -1,0 +1,169 @@
+Event Normalization (Trait System)
+
+1. Event Families
+
+    A. Circuss (Showman)
+
+        Novelty or heritage-based events derived from traditional strongman roots, circus performance, or other strength sports.
+
+        Failure occurs when unfamiliar mechanics or inefficient leverage prevent effective force application.
+
+        Examples: Bar Bend, Tug of War, Wrestling, Armwrestling
+
+    B. Pressing (Iron Shoulders)
+
+        All events requiring vertical, inclined or horizonal upper-body pressing against external load.
+
+        Failure occurs when the athlete cannot complete an upper body pressing motion in any of the axis
+
+        Examples: Log Press, Axle Press, Viking Press, Chest Press
+
+    C. Deadlifs (Steel Back)
+
+        All events centered on lifting a load from the ground using posterior chain dominance.
+
+        Failure occurs when hip and back erectors cannot overcome the initial or mid-range load.
+
+        Examples: Deadlift for reps and max, Tire deadlift, Car Deadlft
+
+    D. Squats (Knee Breaker)
+    
+        All events involving knee-dominant lower-body extension under load.
+
+        Failure occurs when quadriceps and supporting musculature cannot complete the ascent.
+
+        Examples: Both Squat for reps and max, Barrel Squat
+
+    E. Pulling (Chain Snapper)
+
+        Events where the athlete pulls an external object toward themselves, via rope or through other means. (The pulling motion needs to be horizonal but the movement of the object does not need to reflect the direction of the pulling motion)
+
+        Failure occurs when force transmission through the ground or rope becomes insufficient.
+
+        Examples: Boat Pull, Truck Pull
+
+    F. Pushing (Bulldozer)
+
+        Events requiring horizontal pushing of an external object using the lower body and torso.
+
+        Failure occurs when leg drive or body position collapses under load.
+
+        Examples: Sled Push, Car Push, Wheel of Pain
+
+    G. Stones (King of Stones)
+
+        All events involving lifting, carrying, loading, or pressing stones or stone-like implements.
+
+        Failure occurs when the athlete cannot rapidly adapt their technique to the stone’s shape, surface, and center of mass in order to execute the required movement sequence.
+
+        Examples: Atlas stone lift, Stone to Shoulder, Block Press
+
+    H. Pain Tolerance (Suffering Specialist)
+
+        Static or quasi-static events where discomfort and sustained tension dominate performance. 
+
+        Failure occurs when discomfort or grip degradation forces the athlete to release the load.
+        
+        Examples: Car hold, wrecking ball hold, Hammer hold
+
+    I. Endurance (Relentless)
+
+        Events emphasizing sustained effort, speed, or work capacity under time constraints.
+
+        Failure occurs when accumulated fatigue prevents continued movement or speed maintenance.
+
+        Examples: Medleys, AMRAP Events, Yoke Carry, Farmers Walk, Power Stairs, Tire Flip, Drag Events
+
+    J. Throwing (Moon Shot)
+
+        Events where success depends on projecting an implement vertically or horizontally for height or distance
+
+        Failure occurs when force cannot be transferred efficiently into the implement’s trajectory to meet the requirements for event/rep completion
+
+        Examples: Keg Toss, Bag Over Bar
+
+
+2. Trait point awarding rules
+
+    A. Each event get's assigned exactly TWO families.
+
+    B. Every event gets two event families. Primary and Secondaty
+
+        Example: Truck Pull -> Primary: Pulling / Secondary: Endurance
+
+    C. Exeption to the rule. 1RM events. Purely powerlifting style 1RM events do not get assigned a seconadary family.
+
+        Positive Examples: 
+            - Barbell (any) Deadlift for Max -> Primary: Deadlifts / Seconadry: None
+            - Barbell (any) Squat for Max -> Primary: Squats / Secondary: None
+            - Barbell (any) Press for Max -> Primary: Pressing / Secondary: None
+
+        Negative Examples:
+            - Flinstone Press for Max -> Primary: Pressing / Secondary: Circuss
+            - Barrel Squat for Max -> Primary: Squats / Secondary: Circuss
+            - Silver Dollar Deadlift for Max -> Primary: Deadlift / Secondary: Circuss
+    
+    D. If the secondary family is "NONE" no trait points are awarded towards secondary family
+
+    E. A 1RM event can never award trait points towards the Endurance family.
+
+    F. Normalized Performance Score (NPS)
+
+        NPS = (N-P)/(N-1)
+
+        Where:
+            N = number of athletes in the event
+            P = athlete’s placement (1 = best)
+
+    G. Family Weighting (Primary vs Secondary)
+
+        - Primary Family Weight: 1.0
+        - Secondary Family Weight: 0.5
+
+    H. Trait Points Formula (Per Event)
+
+        - Primary Family Trait Points
+            TP (Primary) = NPS X W (Primary)
+
+        - Secondary Family Trait Points
+            TP (Secondary) = NPS X W (Secondary)
+
+        Where:
+            W (Primary) = 1.0
+            W (Secondary) = 0.5
+    
+    I. Diminish Return Formula for trait points awarding
+
+        Where:
+            T = Rolling trait point total
+            TP = Trait points earned from event
+            T (new) = updated trai point total
+
+            Scaling factor:
+                Effective Gain = TP / (1 + T/K)
+
+                Where K = soft threshold constant equal to 10
+
+            Than: T (new) = T + Effective Gain
+
+
+3. Trait "Nickname" awarding
+
+    A. Visual representation 
+    
+        Trait Score >= 12 < 18 -> Trait Name Appears on an Athletes Profile with "Emering" next to it
+        Trait Score >= 18 -> "Proven" get's Displayed next to the Trait Name
+
+    C. An athlete may display a maximum of 5 traits at any time.
+
+    D. Trait becomes eligible once: The athlete’s trait score in that family crosses the minimum threshold. Before that: The trait exists internally, It is not shown
+
+    E. Display Selection
+
+        If the athlete has:
+            ≤ 5 eligible traits → show all
+            > 5 eligible traits → show only the top 5 by current T
+        
+        Sorted descending by:
+            Trait score (T)
+            Most recently improved (tie-breaker)
